@@ -11,9 +11,13 @@ AddDefaultCharset UTF-8
 # ---- Block internal files ------------------------------------------------
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  RewriteRule ^(includes|tools)/ - [F,L]
+  RewriteRule ^includes/ - [F,L]
+  # the rebuild tool only from this computer; everything else in tools/ never
+  RewriteCond %{REMOTE_ADDR} !^(127\.0\.0\.1|::1)$
+  RewriteRule ^tools/rebuild-index\.php$ - [F,L]
+  RewriteRule ^tools/(?!rebuild-index\.php$) - [F,L]
   RewriteRule ^data/.*\.php$ - [F,L]
-  RewriteRule ^(router\.php|README\.md|DREAMWEAVER-GUIDE\.md)$ - [F,L]
+  RewriteRule ^(router\.php|.*\.md)$ - [F,L]
   RewriteRule (^|/)\. - [F,L]
 
   # ---- Old addresses (.html / .htm) go to the new pages (via 404.php) -----

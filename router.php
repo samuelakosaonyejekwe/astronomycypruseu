@@ -9,7 +9,7 @@ $uri  = isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : '/';
 $path = rawurldecode(parse_url($uri, PHP_URL_PATH));
 
 /* Never serve internal files */
-if (preg_match('#^/(includes|data/[^/]+\.php|tools/(?!rebuild-index\.php)|\.ht|README|DREAMWEAVER|router\.php)#i', $path)
+if (preg_match('#^/(includes|data/[^/]+\.php|tools/(?!rebuild-index\.php)|\.ht|README|DREAMWEAVER|HANDOVER|[^/]+\.md$|router\.php)#i', $path)
     || preg_match('#/\.#', $path)) {
     http_response_code(403);
     exit('Forbidden');

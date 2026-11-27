@@ -5,6 +5,7 @@ PHP that can be edited in Dreamweaver.
 
 * **Preview:** `PHP_CLI_SERVER_WORKERS=8 php -S localhost:8000 router.php`, then open http://localhost:8000
 * **Editing guide:** see [DREAMWEAVER-GUIDE.md](DREAMWEAVER-GUIDE.md)
+* **Handing the site to someone else (Windows + XAMPP + Dreamweaver setup):** see [HANDOVER.md](HANDOVER.md)
 * **Static copy on GitHub Pages:** https://samuelakosaonyejekwe.github.io/astronomycypruseu/ (branch `gh-pages`).
   To refresh it after editing: start the preview server, check out `gh-pages` in another folder
   (`git worktree add ../site-pages gh-pages`), run
