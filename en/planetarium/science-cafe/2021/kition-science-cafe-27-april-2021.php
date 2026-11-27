@@ -1,0 +1,65 @@
+<?php
+/* =====================================================================
+   PAGE SETTINGS – change the title or description here.
+   Edit the page text in Dreamweaver between CONTENT START and CONTENT END.
+   ===================================================================== */
+$page = [
+    'lang'        => 'en',
+    'path'        => 'planetarium/science-cafe/2021/kition-science-cafe-27-april-2021',
+    'title'       => 'Kition Science Cafe 27 April 2021',
+    'description' => '19:00 "NEW COINS EXHIBITS AT THE KITION PLANETARIUM & OBSERVATORY" ONLINE SCIENCE CAFÉ by Astrophysicist Alexandr Prokofyev (KITION PLANETARIUM & OBSERVATORY)',
+    'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
+    'translated'  => true,
+];
+require __DIR__ . '/../../../../includes/bootstrap.php';
+require SITE_ROOT . '/includes/header.php';
+?>
+<!-- ======================= CONTENT START ======================= -->
+<article class="content">
+<p><a href="https://astronomycyprus.eu/gift-shop/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p>
+<div class="blocks">
+<div class="row">
+<div class="block"><div class="blocks"><div class="row split"><div class="block media"><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-27-april-2021.jpg" width="550"/></div><div class="block"><p class="short">27 APRIL 2021</p><p>KITION PLANETARIUM &amp; OBSERVATORY</p><p>19:00 "NEW COINS EXHIBITS AT THE KITION PLANETARIUM &amp; OBSERVATORY" ONLINE SCIENCE CAFÉ by Astrophysicist Alexandr Prokofyev (KITION PLANETARIUM &amp; OBSERVATORY)</p><p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p></div></div></div>
+
+
+
+
+
+
+
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="300" decoding="async" height="100" loading="lazy" src="/images/global-astronomy-month/awb_blk_300x100.jpg" width="300"/></p></div><div class="block"><p>Since 2008 KITION PLANETARIUM &amp; OBSERVATORY has offered Science Café sessions for all visitors to share their passion for science and astronomy.</p><p>From the year 2021 we are holding Science Café meetings online, as well.</p><p>Since January, visitors from different parts of the world participated in our online sessions, discussing observations, latest news in astronomy and sharing their achievements.</p><p>The KITION PLANETARIUM &amp; OBSERVATORY has added new exhibits to its space exhibition.</p><p>Commemorative and collectible coins were issued to remind us of the milestones in human history.</p><p>Our Astrophysicist Alexandr Prokofyev will present and describe to the public the coins in our exhibition. .</p><p>Free entrance.</p><p class="short">Join Our Spacewalk!</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p></div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="896" decoding="async" height="309" loading="lazy" src="/images/global-astronomy-month/GAM_896.png" width="550"/></p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p></div></div></div>
+
+
+
+
+
+
+<div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-27-april-2021.jpg" width="550"/></p><p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p><p>LINKS:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p></div></div></div>
+
+
+
+
+
+<h3>VISIT OUR FB PAGE...</h3>
+<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+</div>
+</div>
+<p class="short">The KITION PLANETARIUM &amp; OBSERVATORY invites you to...<br/>
+Join our spacewalk</p>
+</article>
+<!-- ======================== CONTENT END ======================== -->
+<?php require SITE_ROOT . '/includes/footer.php'; ?>

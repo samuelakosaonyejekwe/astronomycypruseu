@@ -1,0 +1,107 @@
+<?php
+/* =====================================================================
+   PAGE SETTINGS – change the title or description here.
+   Edit the page text in Dreamweaver between CONTENT START and CONTENT END.
+   ===================================================================== */
+$page = [
+    'lang'        => 'en',
+    'path'        => 'charity/kition-2014',
+    'title'       => '"Kition 2014"',
+    'description' => 'This Festival was organized by the KITION PLANETARIUM & OBSERVATORY in cooperation with Kindergarten “HELIOSTALAGMATIES Doukanari and Pavlou” , the dancing school \'Mambo\' and \'Cyprus Opera…',
+    'image'       => '/images/kition2014/KITION%202014_300.jpg',
+    'translated'  => true,
+];
+require __DIR__ . '/../../includes/bootstrap.php';
+require SITE_ROOT . '/includes/header.php';
+?>
+<!-- ======================= CONTENT START ======================= -->
+<article class="content">
+<div class="blocks">
+<div class="row">
+<div class="block">
+<p><a href="/images/kition2014/KITION%202014_300.jpg"><img alt="" data-nw="3449" decoding="async" height="320" loading="lazy" src="/images/kition2014/KITION%202014_300.jpg" width="800"/></a></p>
+<h2><strong> CHARITY ASTRONOMY FESTIVAL “KITION 2014” </strong></h2>
+<p>This Festival was organized by the KITION PLANETARIUM &amp; OBSERVATORY in cooperation with <a href="/en/partners/heliostalagmaties-kindergarden.php">Kindergarten “HELIOSTALAGMATIES Doukanari and Pavlou”</a>,  the dancing school 'Mambo' and 'Cyprus Opera Organization' in the premise of Kiti community council. </p>
+
+<p>The festival presented very interesting connections of music and astronomy, of education and science. </p>
+<p>There was food collection for the charity to help local families in needs which was distributaed by church. </p>
+<h2><strong>PHOTOS</strong></h2>
+<div class="blocks">
+<div class="row">
+<div class="block">
+<p><a href="/images/kition2014/Kition2014_03.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th03.jpg" width="283"/></a>OPENING OF THE FESTIVAL</p>
+</div>
+<div class="block"><p><a href="/images/kition2014/Kition2014_02.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th02.jpg" width="283"/></a>GUESTS</p></div>
+</div>
+<div class="row">
+<div class="block">
+<p><a href="/images/kition2014/Kition2014_01.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th01.jpg" width="283"/></a>CLOSE ENCOUNTERS WITH ALIENS</p>
+</div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_06.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th06.jpg" width="283"/></a>WELCOMING FROM THE PRESIDENT OF KITI COMMUNITY COUNCIL MR. SAVVAS TTANTIS</p></div>
+</div>
+<div class="row">
+<div class="block">
+<p><a href="/images/kition2014/Kition2014_07.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th07.jpg" width="283"/></a>WELCOMING FROM THE PRESIDENT OF KITI CHARITY ORGANIZATION FATHER SOTERIS GEROLEMOU</p>
+</div>
+<div class="block"><p><a href="/images/kition2014/Kition2014_05.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th05.jpg" width="125"/></a></p>
+<p class="short">FOOD COLLECTION FOR THE CHARITY</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_08.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th08.jpg" width="283"/></a><p class="short">CHRISTMAS CAROLS</p><br/><p class="short">“HELIOSTALAGMATIES KINDERGARDEN – DOUKANARI &amp; PAVLOU”</p></div>
+<div class="block"><p><a href="/images/kition2014/Kition2014_09.jpg"><img alt="" data-nw="3008" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_09.jpg" width="283"/></a></p>
+<p class="short">SUN – OUR STAR</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_10.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th10.jpg" width="283"/></a><p class="short">ASTRONOMY WISHES WITH SANTA</p></div>
+<div class="block"><p><a href="/images/kition2014/Kition2014_11.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th11.jpg" width="283"/></a>SUNSET AT WINTER SOLSTICE</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_12.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th12.jpg" width="283"/></a><p class="short">CHILDREN WORKSHOPS</p></div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_13.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th13.jpg" width="283"/></a>SPACE: GUIDING YOUR WAY</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_04.jpg"><img alt="" data-nw="3008" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_04.jpg" width="283"/></a><p class="short">PLANETARIUM PROGRAMS</p></div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_14.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th14.jpg" width="283"/></a>MAMBO DANCING SCHOOL</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_15.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th15.jpg" width="283"/></a><p class="short">TANGO</p></div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_16.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th16.jpg" width="283"/></a>LATIN DANCE 1</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_28.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th28.jpg" width="283"/></a><p class="short">ASTRONOMICAL SWEETS</p></div>
+<div class="block"><a href="/images/kition2014/Kition2014_29.jpg"><img alt="" data-nw="4160" decoding="async" height="212" loading="lazy" src="/images/kition2014/Kition2014_29.jpg" width="283"/></a><p class="short">GUESTS AND PARTICIPANTS</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_18.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th18.jpg" width="283"/></a><p class="short">CYPRUS OPERA ORGANIZATION</p></div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_17.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th17.jpg" width="283"/></a>LATIN DANCE 2</p></div>
+</div>
+<div class="row">
+<div class="block">
+<p><a href="/images/kition2014/Kition2014_19.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th19.jpg" width="283"/></a>CYPRUS OPERA ORGANIZATION AND MAMBO DANCING SCHOOL</p>
+</div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_20.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th20.jpg" width="125"/></a><br/>
+LATIN DANCE 3</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_22.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th22.jpg" width="283"/></a><p class="short">WONDERS OF THE MOON</p></div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_21.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th21.jpg" width="283"/></a>IMPROVIZATION</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_23.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th23.jpg" width="283"/></a><p class="short">MAMBO DANCING SCHOOL</p></div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_24.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th24.jpg" width="283"/></a>ORION THE HUNTER</p></div>
+</div>
+<div class="row">
+<div class="block"><a href="/images/kition2014/Kition2014_25.jpg"><img alt="" data-nw="280" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th25.jpg" width="280"/></a><p class="short">ORION TELESCOPE OBSERVATIONS</p></div>
+<div class="block"><p> <a href="/images/kition2014/Kition2014_26.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/kition2014/Kition2014_th26.jpg" width="125"/></a><br/>
+OBSERVING PLEIADES</p></div>
+</div>
+</div>
+<div class="blocks"><div class="row stack"><div class="block"><p><a href="/images/kition2014/Kition2014_27.jpg"><img alt="" data-nw="500" decoding="async" height="332" loading="lazy" src="/images/kition2014/Kition2014_th27.jpg" width="500"/></a></p><h2>DOWNLOAD THE PROGRAM FOR KITION 2014<br/>
+<a class="doc-link" href="/docs/KITION%202014%20PROGRAM.pdf" rel="noopener" target="_blank">OFFICIAL PROGRAM (PDF FILE)</a> </h2></div></div></div>
+
+</div>
+</div>
+</div>
+</article>
+<!-- ======================== CONTENT END ======================== -->
+<?php require SITE_ROOT . '/includes/footer.php'; ?>

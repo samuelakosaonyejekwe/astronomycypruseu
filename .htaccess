@@ -1,0 +1,59 @@
+# ==========================================================================
+#  Apache settings for the Kition Planetarium & Observatory website
+# ==========================================================================
+
+Options -Indexes
+DirectoryIndex index.php
+ErrorDocument 404 /404.php
+ErrorDocument 403 /404.php
+AddDefaultCharset UTF-8
+
+# ---- Block internal files ------------------------------------------------
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^(includes|tools)/ - [F,L]
+  RewriteRule ^data/.*\.php$ - [F,L]
+  RewriteRule ^(router\.php|README\.md|DREAMWEAVER-GUIDE\.md)$ - [F,L]
+  RewriteRule (^|/)\. - [F,L]
+
+  # ---- Old addresses (.html / .htm) go to the new pages (via 404.php) -----
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule \.html?$ /404.php [L]
+
+  # ---- Force HTTPS on the live server (uncomment when SSL is active) ------
+  # RewriteCond %{HTTPS} off
+  # RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+# ---- Security headers ------------------------------------------------------
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "geolocation=(), camera=(), microphone=(), payment=()"
+  # Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+</IfModule>
+
+# ---- Caching of images, styles and scripts --------------------------------
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/gif "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType text/css "access plus 1 week"
+  ExpiresByType application/javascript "access plus 1 week"
+  ExpiresByType application/pdf "access plus 1 month"
+  ExpiresByType video/mp4 "access plus 1 month"
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml
+</IfModule>
+
+# ---- PHP: hide version, no errors on screen in production -----------------
+<IfModule mod_php.c>
+  php_flag display_errors Off
+  php_flag expose_php Off
+</IfModule>

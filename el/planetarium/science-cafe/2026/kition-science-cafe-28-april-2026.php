@@ -1,0 +1,51 @@
+<?php
+/* =====================================================================
+   PAGE SETTINGS – change the title or description here.
+   Edit the page text in Dreamweaver between CONTENT START and CONTENT END.
+   ===================================================================== */
+$page = [
+    'lang'        => 'el',
+    'path'        => 'planetarium/science-cafe/2026/kition-science-cafe-28-april-2026',
+    'title'       => 'KITION Science Café – 28 Απριλίου 2026',
+    'description' => 'Ελάτε μαζί μας να εξερευνήσουμε ένα από τα μεγαλύτερα ερωτήματα της επιστήμης!',
+    'image'       => '/images/science-cafe/kition-science-cafe-images-2026/science-cafe-28-april-2026.jpg',
+    'translated'  => true,
+];
+require __DIR__ . '/../../../../includes/bootstrap.php';
+require SITE_ROOT . '/includes/header.php';
+?>
+<!-- ======================= CONTENT START ======================= -->
+<article class="content">
+<div class="blocks">
+<div class="row">
+<div class="block">
+<h2><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2026/science-cafe-28-april-2026.jpg" width="960"/></h2>
+<h2><strong><strong>ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</strong></strong></h2>
+<h2><strong>ΤΡΙ 28 ΑΠΡΙΛΙΟΥ 2026 ΩΡΑ: 20:00 (UTC+3)</strong></h2>
+<p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p>
+<p class="short"><strong>Αναγνωριστικό συνάντησης: 831 2336 2644</strong></p>
+<p class="short"><strong>Κωδικός πρόσβασης: kition</strong></p>
+<p class="short"><strong>20:00 ΚΑΛΩΣΟΡΙΣΜΑ ΑΠΟ ΤΟΝ ΔΙΕΥΘΥΝΤΗ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ)</strong></p>
+<p class="short"><strong>20:05 SETI - </strong><strong> ΑΝΑΖΗΤΗΣΗ ΕΞΩΓΗΙΝΗΣ ΖΩΗΣ»</strong> (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ)</p>
+<p class="short">Ελάτε μαζί μας να εξερευνήσουμε ένα από τα μεγαλύτερα ερωτήματα της επιστήμης!</p>
+<p class="short">Είμαστε μόνοι στο σύμπαν;</p>
+<p class="short">Είναι ένα ερώτημα που οι άνθρωποι θέτουν εδώ και χιλιάδες χρόνια…</p>
+<p class="short">Τώρα, επιτέλους, έχουμε την τεχνολογία για να αρχίσουμε να το απαντάμε!</p>
+<p class="short">Ελάτε μαζί μας για να μάθετε περισσότερα...</p>
+<p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p>
+<p class="short"><strong>Αναγνωριστικό συνάντησης: 831 2336 2644</strong></p>
+<p class="short"><strong>Κωδικός πρόσβασης: kition</strong></p>
+<p class="short"><strong>Όλες οι συναντήσεις του Science Café είναι <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">δωρεάν</a> και μπορεί να συμμετάσχει οποιοσδήποτε. </strong></p>
+<p><strong>Οι κωδικοί και οι πληροφορίες για τη συνάντηση δημοσιεύονται <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">εδώ</a>.</strong></p>
+<p><strong><br/> Οι καταγραφές των προηγούμενων Διαδικτυακών Science Café είναι διαθέσιμες στο <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">κανάλι μας στο YouTube</a>.</strong></p>
+<p>ΣΗΜΕΙΩΣΗ: ΑΠΟ ΤΟΝ ΕΠΟΜΕΝΟ ΜΗΝΑ ΤΟ SCIENCE CAFÉ ΘΑ ΞΕΚΙΝΑ ΣΤΙΣ 19:00 (UTC+3) ΑΝΤΙ ΓΙΑ 20:00 (UTC+3)</p>
+<p>Εάν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
+<p><strong>ΣΥΝΔΕΣΜΟΙ</strong>:</p>
+<p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
+<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
+<p class="short">Κωδικός πρόσβασης: kition</p></div>
+</div>
+</div>
+</article>
+<!-- ======================== CONTENT END ======================== -->
+<?php require SITE_ROOT . '/includes/footer.php'; ?>

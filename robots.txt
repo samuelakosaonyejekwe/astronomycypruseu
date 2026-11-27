@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /tools/
+Disallow: /data/
+Disallow: /*/search.php
+
+Sitemap: https://astronomycyprus.eu/sitemap.xml

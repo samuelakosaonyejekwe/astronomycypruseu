@@ -1,0 +1,31 @@
+<?php
+/* =====================================================================
+   PAGE SETTINGS – change the title or description here.
+   Edit the page text in Dreamweaver between CONTENT START and CONTENT END.
+   ===================================================================== */
+$page = [
+    'lang'        => 'en',
+    'path'        => 'projects/international-projects/archive/space-generation-advisory-council',
+    'title'       => 'Space Generation Advisory Council in Cyprus',
+    'description' => 'The Space Generation Advisory Council is a global non-governmental, non-profit organisation and network which aims to represent university students and young space professionals to the United…',
+    'image'       => '/images/index-page/earthrise.jpg',
+    'translated'  => true,
+];
+require __DIR__ . '/../../../../includes/bootstrap.php';
+require SITE_ROOT . '/includes/header.php';
+?>
+<!-- ======================= CONTENT START ======================= -->
+<article class="content">
+<p class="short">SPACE GENERATION ADVISORY COUNCIL IN CYPRUS</p><div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="146" decoding="async" height="146" loading="lazy" src="/images/logo_sgac.png" width="146"/><p class="short">SPACE GENERATION ADVISORY COUNCIL <br/>IN CYPRUS</p>
+</div></div>
+</div>
+<p>The <strong>Space Generation Advisory Council</strong> is a global non-governmental, non-profit organisation and network which aims to represent university students and young space professionals to the United Nations, space agencies, industry, and academia.</p>
+<p>Visit the official site of the <a href="http://www.spacegeneration.org/" rel="noopener noreferrer" target="_blank"><em>Space Generation</em> Advisory <em>Council</em></a> for more details.</p>
+<div class="blocks">
+<div class="row stack"><div class="block"><img alt="" decoding="async" height="201" loading="lazy" src="https://astronomycyprus.eu/images/nicolina.jpg" width="150"/><p class="short"><a href="mailto:nicolina.chrysaphi@spacegeneration.org">Nicolina Chrysaphi</a> </p>
+</div></div>
+</div> <p>Nicolina Chrysaphi being a volonteer in the KITION PLANETARIUM &amp; OBSERVATORY starting from 2008 (?), she has chosen her carrier as astronomer and now successfully helps students by coordinating them with the astronomy activity in Cyprus.</p>
+</article>
+<!-- ======================== CONTENT END ======================== -->
+<?php require SITE_ROOT . '/includes/footer.php'; ?>

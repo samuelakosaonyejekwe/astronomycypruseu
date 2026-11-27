@@ -1,0 +1,131 @@
+<?php
+/* =====================================================================
+   PAGE SETTINGS – change the title or description here.
+   Edit the page text in Dreamweaver between CONTENT START and CONTENT END.
+   ===================================================================== */
+$page = [
+    'lang'        => 'en',
+    'path'        => 'newsletter',
+    'title'       => 'Newsletter',
+    'description' => 'If you wish to contribute to our Newsletter or to translate it in other languages, feel free to Contact us .',
+    'image'       => '/images/spacewalker-newsletter.jpg',
+    'translated'  => true,
+];
+require __DIR__ . '/../includes/bootstrap.php';
+require SITE_ROOT . '/includes/header.php';
+?>
+<!-- ======================= CONTENT START ======================= -->
+<article class="content">
+<div class="blocks">
+<div class="row">
+<div class="block"><p>If you wish to contribute to our Newsletter or to translate it in other languages, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
+<p><img alt="" data-nw="3150" decoding="async" height="400" loading="lazy" src="/images/spacewalker-newsletter.jpg" width="800"/></p>
+<h2>2026</h2>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue10.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue10</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue09.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue09</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue08.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue08</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue07.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue07</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue06.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue06</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue05.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue05</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue04.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue04</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue03.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue03</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue02.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue02</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2026/spacewalker-volume19-issue01.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume19-Issue01</a></strong></p>
+<h2>2025</h2>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue12.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume18-Issue12</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue11.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume18-Issue11</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue10.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume18-Issue10</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue09.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume18-Issue9</a></strong></p>
+<h2><strong><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue08.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume18-Issue8</a></strong></h2>
+<h2><strong><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue07.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue07">SPACEWALKER-Volume18-Issue7</a></strong></h2>
+<h2><strong><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue06.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue06">SPACEWALKER-Volume18-Issue6</a></strong></h2>
+<h2><strong><a class="doc-link" href="/docs/press-release/press-release-2025-06-07-ola-ta-paidia-me-sxolika-vulnerable-children.pdf" rel="noopener" target="_blank">Pre</a></strong><a class="doc-link" href="/docs/press-release/press-release-2025-06-07-ola-ta-paidia-me-sxolika-vulnerable-children.pdf" rel="noopener" target="_blank">ss Release 7 June 2025: "School Supplies for all Children"</a></h2>
+<h2><strong><a class="doc-link" href="/docs/press-release/in-memory-of-fred-espenak.pdf" rel="noopener" target="_blank">Press Release 3 June 2025: In memory of Fred Espenak</a></strong></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue05.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue11">SPACEWALKER-Volume18-Issue5</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue04.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue11">SPACEWALKER-Volume18-Issue4</a> </h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue02.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue11">SPACEWALKER-Volume18-Issue3</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue02.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue11">SPACEWALKER-Volume18-Issue2</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2025/spacewalker-volume18-issue01.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue11">SPACEWALKER-Volume18-Issue1</a></h2>
+<h2>2024</h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue12.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue11">SPACEWALKER-Volume17-Issue12</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue11.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue11">SPACEWALKER-Volume17-Issue11</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue10.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue10">SPACEWALKER-Volume17-Issue10</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue9.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue9">SPACEWALKER-Volume17-Issue9</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue8.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue8">SPACEWALKER-Volume17-Issue8</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue7.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue7">SPACEWALKER-Volume17-Issue7</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue6.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue6">SPACEWALKER-Volume17-Issue6</a></h2>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue5.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue5">SPACEWALKER-Volume17-Issue5</a></strong></p>
+<p class="short"><strong><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue4.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue4">SPACEWALKER-Volume17-Issue4</a></strong></p>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue3.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue3">SPACEWALKER-Volume17-Issue3</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue2.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue2">SPACEWALKER-Volume17-Issue2</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2024/spacewalker-volume17-issue1.pdf" rel="noopener" target="_blank" title="SPACEWALKER-Volume17-Issue1">SPACEWALKER-Volume17-Issue1</a></h2>
+<h2>2023</h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue12.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue12">SPACEWALKER-Volume16-Issue12</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue11.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue11">SPACEWALKER-Volume16-Issue11</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue10.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue10">SPACEWALKER-Volume16-Issue10</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue9.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue9">SPACEWALKER-Volume16-Issue9</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue8.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue8">SPACEWALKER-Volume16-Issue8</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue7.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue7">SPACEWALKER-Volume16-Issue7</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue6.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue6">SPACEWALKER-Volume16-Issue6</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue5.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue5">SPACEWALKER-Volume16-Issue5</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue4.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue4">SPACEWALKER-Volume16-Issue4</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue3.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue3">SPACEWALKER-Volume16-Issue3</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue2.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue2">SPACEWALKER-Volume16-Issue2</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2023/spacewalker-volume16-issue1.pdf" rel="noopener" target="_blank" title="spacewalker-volume16-issue1">SPACEWALKER-Volume16-Issue1</a></h2>
+<h2>2022</h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue12.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue12">SPACEWALKER-Volume15-Issue12</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue11.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue11">SPACEWALKER-Volume15-Issue11</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue10.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue10">SPACEWALKER-Volume15-Issue10</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue9.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue9">SPACEWALKER-Volume15-Issue9</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue8.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue8">SPACEWALKER-Volume15-Issue8</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue7.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue7">SPACEWALKER-Volume15-Issue7</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue6.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue6">SPACEWALKER-Volume15-Issue6</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue5.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue5">SPACEWALKER-Volume15-Issue5</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue4.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue4">SPACEWALKER-Volume15-Issue4</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2022/spacewalker-volume15-issue1.pdf" rel="noopener" target="_blank" title="spacewalker-volume15-issue1">SPACEWALKER-Volume15-Issue1</a></h2>
+<h2>2021</h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2021/spacewalker-volume14-issue10.pdf" rel="noopener" target="_blank" title="spacewalker-volume14-issue10">SPACEWALKER-Volume14-Issue10</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2021/spacewalker-volume14-issue9.pdf" rel="noopener" target="_blank" title="spacewalker-volume14-issue9">SPACEWALKER-Volume14-Issue9</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2021/spacewalker-volume14-issue7.pdf" rel="noopener" target="_blank" title="spacewalker-volume14-issue7">SPACEWALKER-Volume14-Issue7</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2021/spacewalker-volume14-Issue6.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume14-Issue6</a> </h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2021/spacewalker-volume14-issue1.pdf" rel="noopener" target="_blank" title="spacewalker-volume14-issue1">SPACEWALKER-Volume14-Issue1</a></h2>
+<h2>2020 </h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2020/spacewalker-volume13-issue6.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume13-Issue6</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2020/spacewalker-volume13-Issue3.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume13-Issue3</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2020/press-release-volume13-Issue1.pdf" rel="noopener" target="_blank">Press-Release-Volume13-Issue1</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2020/spacewalker-volume13-Issue1.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume13-Issue1</a></h2>
+<h2>2019 </h2>
+<h2>SPACEWALKER-Volume12-Issue1</h2>
+<h2>2018 </h2>
+<h2>SPACEWALKER-Volume11-Issue1</h2>
+<h2>2017 </h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2017/spacewalker-volume10-issue11.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume10-Issue11</a> </h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2017/spacewalker-volume10-issue9.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume10-Issue9</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2017/spacewalker-volume10-issue7.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume10-Issue7</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2017/spacewalker-volume10-issue6.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume10-Issue6</a></h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2017/spacewalker-volume10-issue5.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume10-Issue5</a> </h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2017/spacewalker-volume10-Issue4.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume10-Issue4</a> </h2>
+<h2><a class="doc-link" href="/docs/spacewalker-archive/2017/spacewalker-volume10-Issue3.pdf" rel="noopener" target="_blank">SPACEWALKER-Volume10-Issue3</a> </h2>
+<h2>2016 </h2>
+<h2>SPACEWALKER-Volume9-Issue1</h2>
+<h2>2015 </h2>
+<h2>SPACEWALKER-Volume8-Issue1</h2>
+<h2>2014</h2>
+<h2>SPACEWALKER-Volume7-Issue1</h2>
+<h2>2013</h2>
+<h2>SPACEWALKER-Volume6-Issue1</h2>
+<h2>2012 </h2>
+<h2>SPACEWALKER-Volume5-Issue1</h2>
+<h2>2011 </h2>
+<h2>SPACEWALKER-Volume4-Issue1</h2>
+<h2>2010 </h2>
+<h2>SPACEWALKER-Volume3-Issue1</h2>
+<h2>2009 </h2>
+<h2>SPACEWALKER-Volume2-Issue1</h2>
+<h2>2008 </h2>
+<h2>SPACEWALKER-Volume1-Issue1</h2></div>
+</div>
+</div>
+</article>
+<!-- ======================== CONTENT END ======================== -->
+<?php require SITE_ROOT . '/includes/footer.php'; ?>

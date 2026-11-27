@@ -1,0 +1,48 @@
+<?php
+/* =====================================================================
+   PAGE SETTINGS – change the title or description here.
+   Edit the page text in Dreamweaver between CONTENT START and CONTENT END.
+   ===================================================================== */
+$page = [
+    'lang'        => 'el',
+    'path'        => 'program-events/astronomical-phenomena/conjunction-supermoon-saturn-17-september-2024',
+    'title'       => 'Σύνοδος, Υπερπανσέληνος και Κρόνος – 17 Σεπτεμβρίου 2024',
+    'description' => '#kpocyprus #cyprus #supermoon #saturn #conjunction #astronomerswithoutborders',
+    'image'       => '/images/public-events/september-2024/conjunction-supermoon-saturn-17-september-2024-poster.jpg',
+    'translated'  => true,
+];
+require __DIR__ . '/../../../includes/bootstrap.php';
+require SITE_ROOT . '/includes/header.php';
+?>
+<!-- ======================= CONTENT START ======================= -->
+<article class="content">
+<p><img alt="" data-nw="985" decoding="async" height="414" loading="lazy" src="/images/public-events/september-2024/conjunction-supermoon-saturn-17-september-2024-poster.jpg" width="800"/></p>
+<p class="short"><strong>ΣΥΖΕΥΞΗ ΥΠΕΡΠΑΝΣΕΛΗΝΟΥ ΚΑΙ ΚΡΟΝΟΥ </strong></p>
+<p class="short"><strong>17 ΣΕΠΤΕΜΒΡΙΟΥ 2024 ΩΡΑ: 19:30</strong></p>
+<p class="short"><strong>ΑΓΟΡΑΣΤΕ ΕΙΣΗΤΗΡΙΑ ΕΔΩ</strong></p>
+<p class="short"><strong>#kpocyprus #cyprus #supermoon #saturn #conjunction #astronomerswithoutborders</strong></p>
+<p class="short">Στις 17 Σεπτεμβρίου, η Πανσέληνος θα βρίσκεται πολύ κοντά στη Γη.</p>
+<p>Θα είναι άλλη μία Υπερπανσέληνος!</p>
+<p>Ο δακτυλιοφόρος πλανήτης Κρόνος θα φαίνεται επίσης μεγαλύτερος από το συνηθισμένο, λόγω της πρόσφατης αντίθεσής του.</p>
+<p>Θα φιλοξενήσουμε μια δημόσια εκδήλωση, η οποία θα περιλαμβάνει παρουσίαση στην αγγλική γλώσσα και παρατηρήσεις της εντυπωσιακής Υπερπανσελήνου δίπλα στον όμορφο Κρόνο.</p>
+
+<p>Η Σελήνη και ο Κρόνος θα βρεθούν πολύ κοντά ο ένας στον άλλον. Η Σελήνη θα είναι 14 ημερών.</p>
+<p>Από τη Λάρνακα, το ζεύγος θα είναι ορατό μεταξύ 19:27 και 04:49.</p>
+<p>Η Σελήνη θα έχει μέγεθος -12,8 και ο Κρόνος 0,6, και οι δύο στον αστερισμό του Υδροχόου.</p>
+<p>Το ζεύγος θα είναι αρκετά κοντά ώστε να χωράει στο οπτικό πεδίο ενός τηλεσκοπίου, αλλά θα είναι ορατό και με γυμνό μάτι ή μέσω ενός ζεύγους κιάλια.</p>
+
+<p><strong>Ελάτε στις εγκαταστάσεις του ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ ΚΙΤΙΟΝ στην Κίτι για να απολαύσετε αυτή τη μοναδική θέα από τα μεγάλα τηλεσκόπιά μας.</strong></p>
+<p><strong>ΜΟΝΟ ΜΕ ΚΡΑΤΗΣΗ</strong></p>
+<p>Το εισιτήριο κοστίζει 10 ευρώ. Οι θέσεις είναι περιορισμένες και τα εισιτήρια διατίθενται μόνο διαδικτυακά.</p>
+<h3>Τρίτη 17 Σεπτεμβρίου 2024, ΩΡΑ: 19:30 (UT+3)</h3>
+<h3>ΤΟΠΟΣ: ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ (ΚΙΤΙ, ΚΥΠΡΟΣ)</h3>
+<h3>Εισιτήριο: €10</h3>
+<h4>ΠΡΟΓΡΑΜΜΑ ΤΗΣ ΕΚΔΗΛΩΣΗΣ</h4>
+<p>19:30 ΚΑΛΩΣΟΡΙΣΜΑ ΑΠΟ ΤΟΝ ΔΙΕΥΘΥΝΤΗ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ)</p>
+<p>19:35 ΤΟ ΦΑΙΝΟΜΕΝΟ ΤΗΣ ΥΠΕΡΠΑΝΣΕΛΗΝΟΥ, ΑΝΤΙΘΕΣΗ ΤΟΥ ΚΡΟΝΟΥ – ΠΑΡΟΥΣΙΑΣΗ ΣΤΗΝ ΑΓΓΛΙΚΗ ΓΛΩΣΣΑ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ)</p>
+<p>20:00 ΤΗΛΕΣΚΟΠΙΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΗΣ ΥΠΕΡΠΑΝΣΕΛΗΝΟΥ ΚΑΙ ΤΟΥ ΚΡΟΝΟΥ</p>
+<p class="short"><strong>ΕΛΑΤΕ ΜΑΖΙ ΜΑΣ ΣΕ ΑΥΤΗ ΤΗ ΣΥΖΕΥΞΗ…</strong></p>
+<p class="short"><strong>ΑΓΟΡΑΣΤΕ ΕΙΣΗΤΗΡΙΑ ΕΔΩ</strong></p>
+</article>
+<!-- ======================== CONTENT END ======================== -->
+<?php require SITE_ROOT . '/includes/footer.php'; ?>

@@ -1,0 +1,58 @@
+<?php
+/* =====================================================================
+   PAGE SETTINGS – change the title or description here.
+   Edit the page text in Dreamweaver between CONTENT START and CONTENT END.
+   ===================================================================== */
+$page = [
+    'lang'        => 'ru',
+    'path'        => 'program-events/educational-courses/programming-in-astronomy',
+    'title'       => 'Программирование в астрономии',
+    'description' => 'Мы хотим сообщить Вам о наших онлайн-занятиях этим летом «ПРОГРАММИРОВАНИЕ В АСТРОНОМИИ», специально подготовленных для лицеистов.',
+    'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
+    'translated'  => true,
+];
+require __DIR__ . '/../../../includes/bootstrap.php';
+require SITE_ROOT . '/includes/header.php';
+?>
+<!-- ======================= CONTENT START ======================= -->
+<article class="content">
+<div class="blocks"><div class="row gallery captioned promo"><div class="block"><p><a href="https://astronomycyprus.eu/gift-shop/index.php/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="223" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="1000"/></a></p><h2>ОНЛАЙН ОБРАЗОВАТЕЛЬНЫЕ ПРОГРАММЫ</h2></div><div class="block media"><p><img alt="" data-nw="1920" decoding="async" height="506" loading="lazy" src="/images/educational-courses/programming-in-astronomy/programming-in-astronomy-poster.jpg" width="900"/>
+</p></div></div></div>
+
+
+<div class="blocks">
+<div class="row">
+<div class="block"><p>Уважаемые члены и друзья ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»,</p>
+<p>Мы хотим сообщить Вам о наших онлайн-занятиях этим летом «ПРОГРАММИРОВАНИЕ В АСТРОНОМИИ», специально подготовленных для лицеистов.</p>
+<p>Эти четыре занятия призваны развить навыки использования языков программирования.</p>
+<p>Учебные задачи подобраны так, чтобы от занятия к занятию они помогали воплощать идеи, возникающие в голове, в код и визуализацию моделей.</p>
+<p>В ходе занятий постоянно рассматриваются различные приёмы и культура программирования.</p>
+<p>Этот курс — возможность узнать этим летом что-то интересное и новое.</p>
+<p>Необходимы базовые знания программирования, требуемые для решения вступительного задания. Оно опубликовано в приглашении на английском и русском языках.</p>
+<p>Курс проведёт астрофизик Александр Прокофьев.</p>
+<p>Александр Прокофьев с отличием окончил физический факультет Московского государственного университета (университет имени Ломоносова). Его научная работа связана с темой «Космические струны в расширенных теориях гравитации». В настоящее время он ведёт исследования в области археоастрономии, организует наблюдения полных солнечных затмений, метеорных потоков и покрытий звёзд астероидами и участвует в них. У него есть публикации в научных и научно-популярных изданиях, он выступает с докладами на национальных и международных конференциях — от Кипра до США. Он известен своим педагогическим мастерством. Например, ученики, которых он подготовил к соревнованиям Международной олимпиады по астрономии и астрофизике, достигли уровня «похвальный отзыв», войдя в верхнюю половину талантливых школьников планеты. Это высшая награда, которой когда-либо добивались кипрские участники.</p>
+<p>По окончании курса выдаётся сертификат об участии. Предварительная запись обязательна.</p>
+<h3>Регистрация уже началась.</h3>
+<h3>Зарегистрируйтесь сейчас!</h3>
+<h3>Стоимость: €80 / месяц <em><a href="https://astronomycyprus.eu/gift-shop/index.php/product/programming-in-astronomy" rel="noopener noreferrer" target="_blank" title="programming in astronomy">КУПИТЬ СЕЙЧАС</a></em></h3>
+<p>Наша команда желает Вам ясного неба и с нетерпением ждёт встречи с Вами. Нам будет очень приятно, если Вы посетите наши мероприятия.</p>
+<p>Присоединяйтесь к нашей космической прогулке…</p>
+<p class="short">С наилучшими пожеланиями,</p>
+<h3><em>Георгиос Труллиас </em></h3>
+<p class="short">Директор ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p></div>
+</div>
+</div>
+<p class="short"><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy.pdf" rel="noopener" target="_blank" title="programming in astronomy">Скачайте предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></p>
+<p class="short"><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy-ru.pdf" rel="noopener" target="_blank" title="programming in astronomy">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></p>
+<div class="blocks">
+<div class="row">
+<div class="block"><p class="short">ВАЖНОЕ ЗАМЕЧАНИЕ:</p>
+<p>Действует «политика приёма только по предварительной записи».</p>
+<p>Необходима предварительная запись по телефону (+357) 99991111 (для англоговорящих) или (+357) 99037440 (для русскоговорящих).</p>
+<p>Если Вы ищете особые или индивидуальные программы либо услуги для себя, своих друзей или своей группы, свяжитесь с нами: <a href="/ru/contact-us.php">Связаться с нами</a>.</p>
+<p>Нажмите здесь, чтобы <a href="/ru/contact-us.php"> найти нас</a>.</p></div>
+</div>
+</div>
+</article>
+<!-- ======================== CONTENT END ======================== -->
+<?php require SITE_ROOT . '/includes/footer.php'; ?>
