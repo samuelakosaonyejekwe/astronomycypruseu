@@ -5,6 +5,10 @@ PHP that can be edited in Dreamweaver.
 
 * **Preview:** `PHP_CLI_SERVER_WORKERS=8 php -S localhost:8000 router.php`, then open http://localhost:8000
 * **Editing guide:** see [DREAMWEAVER-GUIDE.md](DREAMWEAVER-GUIDE.md)
+* **Static copy on GitHub Pages:** https://samuelakosaonyejekwe.github.io/astronomycypruseu/ (branch ).
+  To refresh it after edits: start the preview server, check out  in another folder
+  (), run ,
+  then commit and push that folder.
 * **After editing pages:** `php tools/rebuild-index.php` (refreshes the search, the page list, `sitemap.xml` and `robots.txt`)
 
 What it contains:
