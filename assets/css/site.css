@@ -503,3 +503,19 @@ dialog::backdrop { background: rgba(2, 4, 14, .7); backdrop-filter: blur(3px); }
 /* postal address: one compact block */
 .content address { font-style: normal; display: block; width: fit-content; max-width: 100%; margin: 1rem auto 1.4rem; padding: .9rem 1.3rem; line-height: 1.55; text-align: center; border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 12px; background: color-mix(in srgb, var(--surface-2) 65%, transparent); }
 .content address strong { font-weight: 700; }
+/* numbered list in columns (e.g. discoveries) */
+.content ol.cols { columns: 2 16rem; column-gap: 2.5rem; max-width: 52rem; margin: 1rem auto; padding-left: 2rem; }
+.content ol.cols > li { break-inside: avoid; margin: .25rem 0; max-width: none; }
+.content ol.cols > li::marker { color: var(--accent); font-weight: 700; }
+/* multiple-choice options */
+.content ul.options { list-style: none; padding: 0; margin: .4rem auto 1.2rem; max-width: none; display: flex; flex-wrap: wrap; justify-content: center; gap: .45rem; }
+.content ul.options > li { max-width: none; margin: 0; padding: .35rem .85rem; border: 1px solid var(--border); border-radius: 999px; background: color-mix(in srgb, var(--surface-2) 70%, transparent); }
+/* picture beside long text: text flows around and under the picture */
+@media (min-width: 761px) {
+  .row.split.wrap { display: flow-root; }
+  .row.split.wrap > .block.media { float: left; width: auto; max-width: 42%; margin: .2rem 1.6rem .9rem 0; }
+  .row.split.wrap.reverse > .block.media { float: right; margin: .2rem 0 .9rem 1.6rem; }
+  .row.split.wrap > .block:not(.media) { display: block; }
+  .row.split.wrap > .block:not(.media) > :first-child { margin-top: 0; }
+  .row.split.wrap > .block.media:has(> :nth-child(2)) { display: grid; width: 42%; }
+}
