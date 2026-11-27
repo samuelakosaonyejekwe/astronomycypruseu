@@ -21,10 +21,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><h2>ПОЖАЛУЙСТА, ПОЖЕРТВУЙТЕ СРЕДСТВА В ПОДДЕРЖКУ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</h2>
 <p><img alt="" data-nw="3150" decoding="async" height="252" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="800"/></p>
 <h2>ПОЖЕРТВОВАНИЯ</h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-e5/" rel="noopener noreferrer" target="_blank" title="Donation-€5">ПОЖЕРТВОВАНИЕ-€5</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-10/" rel="noopener noreferrer" target="_blank" title="Donation-€10">ПОЖЕРТВОВАНИЕ-€10</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-20/" rel="noopener noreferrer" target="_blank" title="Donation-€20">ПОЖЕРТВОВАНИЕ-€20</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-50/" rel="noopener noreferrer" target="_blank" title="Donation-€50">ПОЖЕРТВОВАНИЕ-€50</a></h2>
+<div class="link-row"><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-e5/" rel="noopener noreferrer" target="_blank" title="Donation-€5">ПОЖЕРТВОВАНИЕ-€5</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-10/" rel="noopener noreferrer" target="_blank" title="Donation-€10">ПОЖЕРТВОВАНИЕ-€10</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-20/" rel="noopener noreferrer" target="_blank" title="Donation-€20">ПОЖЕРТВОВАНИЕ-€20</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-50/" rel="noopener noreferrer" target="_blank" title="Donation-€50">ПОЖЕРТВОВАНИЕ-€50</a></p></div>
+
+
+
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» – это частная инициатива без государственной поддержки. Она работает как некоммерческая организация и только на волонтёрской основе. С 2008 года она существует на самофинансировании за счёт очень небольшого дохода от пожертвований, входных билетов, школьных визитов, частных мероприятий, астротуризма и небольшого магазина сувениров.</p>
 <p>Мы занимаемся астрономическим просвещением для широкой публики, проводим образовательные курсы, делимся нашей страстью к астрономии и науке в атмосфере веселья и развлечения, вносим вклад в международное научное сообщество научными исследованиями и публикациями и служим местному и международному обществу, храня верность своему делу. Мы предлагаем инновационные программы и мастер-классы STEM и STEAM для A4BD (Астрономия для слепых и людей с инвалидностью), «Астрономии для аутизма» и «Астрономии для людей с особыми возможностями».</p>
 <p>Мы мечтаем продолжать развиваться и расти, построив более крупный научный центр с ещё большими возможностями для приёма большего числа людей, с кафетерием, более крупным музеем, более просторной выставочной зоной и более современными лабораториями. Так мы сможем вовлечь в астрономию и науку больше людей и предложить лучший сервис местному сообществу и обществу.</p>

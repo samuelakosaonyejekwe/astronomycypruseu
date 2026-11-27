@@ -28,8 +28,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>FREE ONLINE EVENT</strong></p>
 <p class="short"><strong>JOIN US ON ONLINE</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+
 <p class="short">Learn about the Perseids Meteor Shower 2024 and how to observe it. </p>
 <p class="short">Find out about our 2 public events related to the meteor showers.</p>
 <p class="short">Join our team for scientific observations of the meteor shower.</p>
@@ -47,10 +47,10 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Records of previous Online Science Cafés are available at our <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">YouTube channel</a>.</p>
 <p>Join Our Spacewalk!</p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p></div>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+</div>
 </div>
 </div>
 </article>

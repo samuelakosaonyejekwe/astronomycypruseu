@@ -80,9 +80,9 @@ require SITE_ROOT . '/includes/header.php';
 <br/>
  The AstroArts and AstroPoetry contests were open to both children and adults in both art and poetry competitions. The results were hundreds of entries differing in media used, rhyme or verse, pencil or color. They brought images of what planets looked like, or how man stepped on the moon, or how children saw themselves traveling through space in words and pictures.</p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p><strong>LINKS:</strong></p>
+<p class="lead"><strong>LINKS:</strong></p>
 <h3><strong>ASTRONOMERS WITHOUT BORDERS</strong></h3>
-<p class="short"><a href="https://www.astronomerswithoutborders.org" rel="noopener noreferrer" target="_blank" title="www.astronomerswithoutborders.org">www.astronomerswithoutborders.org</a></p>
+<div class="link-row"><p class="short"><a href="https://www.astronomerswithoutborders.org" rel="noopener noreferrer" target="_blank" title="www.astronomerswithoutborders.org">www.astronomerswithoutborders.org</a></p></div>
 <h3><strong>INTERNATIONAL EVENTS CALENDAR</strong></h3>
 <p class="short">https://my.astronomerswithoutborders.org/events/calendar</p>
 </div>

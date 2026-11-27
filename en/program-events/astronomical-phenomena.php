@@ -18,7 +18,7 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h3><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">ASTRONOMICAL PHENOMENA OF THE YEAR 2026 Credits: SeaSky</a></strong></h3>
 <h2><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="681" decoding="async" height="300" loading="lazy" src="/images/astronomical-phenomena-of-the-year.JPG" width="681"/></a></h2>
-<p class="short"><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">Press here to learn more...</a></strong></p>
+<div class="link-row"><p class="short"><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">Press here to learn more...</a></strong></p></div>
 <h2><strong>CORNERSTONE EVENTS</strong></h2>
 <p class="short"><a href="/en/projects/international-projects/earth-hour-60+.php"><em>Earth Hour 60+ - 28th March 2026</em></a></p>
 <p class="short"><a href="/en/program-events/public-events/march-2026/18-years-anniversary-13-march-2026.php"><em>18 YEAR ANNIVERSARY CELEBRATIONS</em></a></p>

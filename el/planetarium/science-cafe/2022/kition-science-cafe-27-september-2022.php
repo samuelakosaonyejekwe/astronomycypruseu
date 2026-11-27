@@ -26,13 +26,13 @@ require SITE_ROOT . '/includes/header.php';
 <p>20:00 ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2022 - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΒΙΩΣΙΜΟΤΗΤΑ» ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</p>
 <p>Προσκεκλημένος ομιλητής: Γιώργος Τρούλλιας (Εθνικός Συντονιστής Κύπρου για την Παγκόσμια Εβδομάδα Διαστήματος του ΟΗΕ) και η ομάδα του</p>
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p><img alt="" data-nw="3240" decoding="async" height="267" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-2.png" width="800"/></p>
 <p>Η Παγκόσμια Εβδομάδα Διαστήματος είναι μια διεθνής γιορτή της επιστήμης και της τεχνολογίας και της συμβολής τους στη βελτίωση της ανθρώπινης κατάστασης.</p>
 
 <p>Η Γενική Συνέλευση των Ηνωμένων Εθνών δήλωσε το 1999 ότι η Παγκόσμια Εβδομάδα Διαστήματος θα πραγματοποιείται κάθε χρόνο από 4 έως 10 Οκτωβρίου.</p>
-<p>Οι ημερομηνίες αυτές τιμούν δύο γεγονότα:</p>
+<p class="lead">Οι ημερομηνίες αυτές τιμούν δύο γεγονότα:</p>
 <p>4 Οκτωβρίου 1957: Εκτόξευση του πρώτου ανθρωπογενούς δορυφόρου της Γης, του Σπούτνικ 1, ανοίγοντας έτσι τον δρόμο για τη διαστημική εξερεύνηση</p>
 <p>10 Οκτωβρίου 1967: Υπογραφή της Συνθήκης για τις Αρχές που διέπουν τις δραστηριότητες των κρατών στην εξερεύνηση και χρήση του διαστήματος για ειρηνικούς σκοπούς, συμπεριλαμβανομένης της Σελήνης και των άλλων ουράνιων σωμάτων.</p>
 
@@ -48,19 +48,19 @@ require SITE_ROOT . '/includes/header.php';
 <p>Ελεύθερη είσοδος.</p>
 <p class="short">Ελάτε στον διαστημικό μας περίπατο!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p><img alt="" data-nw="3240" decoding="async" height="267" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-1.png" width="800"/></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p>Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <h3>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 <div class="row">
 <div class="block"><p class="short">"</p></div>

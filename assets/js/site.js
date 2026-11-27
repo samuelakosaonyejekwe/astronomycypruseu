@@ -63,7 +63,14 @@
   /* ---------- Back to top ---------- */
   var top = $('[data-to-top]');
   if (top) {
-    var onScroll = function () { top.classList.toggle('is-on', window.scrollY > 600); };
+    var ring = $('.to-top-ring .progress', top);
+    var onScroll = function () {
+      top.classList.toggle('is-on', window.scrollY > 600);
+      if (ring) {
+        var max = document.documentElement.scrollHeight - window.innerHeight;
+        ring.style.strokeDashoffset = String(100 - (max > 0 ? Math.min(100, window.scrollY / max * 100) : 0));
+      }
+    };
     window.addEventListener('scroll', onScroll, { passive: true }); onScroll();
     top.addEventListener('click', function () { window.scrollTo({ top: 0 }); $('#content').focus({ preventScroll: true }); });
   }

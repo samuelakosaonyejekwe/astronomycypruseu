@@ -26,8 +26,8 @@ require SITE_ROOT . '/includes/header.php';
 <p>20:00 «ΤΙ ΣΥΜΒΑΙΝΕΙ ΜΕ ΤΟΝ ΒΕΤΕΛΓΚΕΖ;» ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</p>
 <p>Προσκεκλημένη ομιλήτρια: Δρ Στέλλα Κάφκα (Εκτελεστική Διευθύντρια και CEO της AAVSO (American Association of Variable Star Observers))</p>
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
-<p class="short">Αναγνωριστικό σύσκεψης: 831 2336 2644</p>
-<p>Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p>Από το 2008 το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ προσφέρει συναντήσεις Science Café ώστε όλοι οι επισκέπτες να μοιράζονται το πάθος τους για την επιστήμη και την αστρονομία.</p>
 
 <p>Από το 2021 πραγματοποιούμε συναντήσεις Science Café και διαδικτυακά.</p>
@@ -61,12 +61,12 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<p class="short">ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead short">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
-<p class="short">Αναγνωριστικό σύσκεψης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <h3>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 </div>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί να...<br/> Συμπορευθείτε στον διαστημικό μας περίπατο</p>

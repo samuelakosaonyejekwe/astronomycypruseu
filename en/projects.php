@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Considering astronomy as an active lifestyle for the society, the KITION PLANETARIUM &amp; OBSERVATORY organizes and participates in many <a href="/en/charity.php">Charity Projects and Events</a>. </p>
 <p><strong>International Astronomical Union</strong>. </p>
 <p>Our organization is Cyprus National Point of Contact for the International Year of Light and Light Based Technologies 2015, conducted by UNESCO and the IAU. </p>
-<p>In the IAU Newsletters it was pointed out that we organized many different <a href="https://www.iau.org/public/publications/newsletter/2015_06/" rel="noopener noreferrer" target="_blank">outreach events</a>, including solar observations and delivered special program for Cyprus during <a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank">United Nations World Space Week</a><a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank"> in 2015</a> under the supervision and with participation of our organization.</p></div>
+<p>In the IAU Newsletters it was pointed out that we organized many different <a href="https://www.iau.org/public/publications/newsletter/2015_06/" rel="noopener noreferrer" target="_blank">outreach events</a>, including solar observations and delivered special program for Cyprus during <a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank">United Nations World Space Week in 2015</a> under the supervision and with participation of our organization.</p></div>
 </div>
 </div>
 </article>

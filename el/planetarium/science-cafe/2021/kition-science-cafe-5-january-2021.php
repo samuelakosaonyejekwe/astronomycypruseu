@@ -24,8 +24,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 <p class="short">19:00 «ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ»</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p>Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p>Από το 2008 το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ προσφέρει συναντήσεις Science Café για όλους τους επισκέπτες, ώστε να μοιράζονται το πάθος τους για την επιστήμη και την αστρονομία.</p>
 <p>Με χαρά ανακοινώνουμε ότι το Science Café θα ξεκινήσει το 2021 στις 5 Ιανουαρίου.</p>
 <p>Παρότι δεν μπορούμε να συναντηθούμε δια ζώσης, μπορούμε να παραμείνουμε σε επαφή εικονικά.</p>
@@ -33,8 +33,8 @@ require SITE_ROOT . '/includes/header.php';
 <p>Ας συγκεντρωθούμε διαδικτυακά και ας γιορτάσουμε την αγάπη για την αστρονομία που μας ενώνει.</p>
 <p>Ελάτε στον διαστημικό μας περίπατο!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p class="short">5 ΙΑΝΟΥΑΡΙΟΥ 2021</p>
 <p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 <p>19:00 «ΚΑΦΕ ΤΗΣ ΕΠΙΣΤΗΜΗΣ» (ΑΓ)</p>
@@ -49,16 +49,16 @@ require SITE_ROOT . '/includes/header.php';
 <p>Ας συναντηθούμε λοιπόν και να γιορτάσουμε μαζί το πάθος μας και την αγάπη μας για την Αστρονομία, που έχουμε σαν κάτι κοινό που μας ενώνει όλους. Συμπορευθείτε στον διαστημικό μας περίπατο!</p>
 
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p>Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p class="short">ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
 </div>

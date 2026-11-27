@@ -47,15 +47,13 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><strong><strong>ГАЗЕТЫ - ЖУРНАЛЫ</strong></strong></div>
 </div>
-<div class="row">
+<div class="row gallery captioned">
 <div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><a href="/images/mass-media/newspapers-magazines/my-city-magical-experience-1.jpg"><img alt="" data-nw="1175" decoding="async" height="255" loading="lazy" src="/images/mass-media/newspapers-magazines/my-city-magical-experience-1.jpg" width="200"/></a><a href="/images/mass-media/newspapers-magazines/my-city-magical-experience-2.jpg"><img alt="" data-nw="1175" decoding="async" height="255" loading="lazy" src="/images/mass-media/newspapers-magazines/my-city-magical-experience-2.jpg" width="200"/></a></p><p class="short"><strong>MY CITY, выпуск 18, октябрь 2015, стр. 18-19</strong></p></div></div></div>
 
 </div>
-</div>
-<div class="row">
 <div class="block"><p><a href="/images/mass-media/newspapers-magazines/cyprus-daily-base-scouts.jpg"><img alt="" data-nw="712" decoding="async" height="404" loading="lazy" src="/images/mass-media/newspapers-magazines/cyprus-daily-base-scouts.jpg" width="400"/></a></p>
-<p class="short"><strong>THE CYPRUS DAILY, 4 ноября 2013 года</strong></p></div>
-</div>
+<p class="short"><strong>THE CYPRUS DAILY, 4 ноября 2013 года</strong></p></div></div>
+
 </div>
 <div class="blocks">
 <div class="row">

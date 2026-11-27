@@ -27,8 +27,8 @@ require SITE_ROOT . '/includes/header.php';
 <p>Используя астрономию как инструмент личностного развития и мастер-классы STEAM, программа стремится дать ученикам лучшие инструменты для знакомства с наукой.</p>
 <p>Регистрация на июль уже началась.</p>
 <h2>Зарегистрируйтесь сейчас!</h2>
-<p class="short">Стоимость: € 80 / месяц</p>
-<p class="short">Даты: июль</p>
+<dl class="specs"><dt>Стоимость</dt><dd> € 80 / месяц</dd><dt>Даты</dt><dd> июль</dd></dl>
+
 <h3><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-en.pdf" rel="noopener" target="_blank">Скачайте программу на АНГЛИЙСКОМ (PDF)</a></h3>
 <p class="short"><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-ru.pdf" rel="noopener" target="_blank">Скачайте программу на РУССКОМ (PDF)</a></p>
 <p>Программа охватывает основы исследования и поиска жизни на планетах и их спутниках.</p>
@@ -45,7 +45,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Директор ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short"><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-en.pdf" rel="noopener" target="_blank">Скачайте программу на АНГЛИЙСКОМ (PDF)</a></p>
 <p class="short"><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-ru.pdf" rel="noopener" target="_blank">Скачайте программу на РУССКОМ (PDF)</a></p>
-<p class="short">ВАЖНОЕ ЗАМЕЧАНИЕ:</p>
+<p class="lead short">ВАЖНОЕ ЗАМЕЧАНИЕ:</p>
 <p>Действует «политика приёма только по предварительной записи».</p>
 <p>Необходима предварительная запись по телефону (+357) 99991111 (для англоговорящих) или (+357) 99037440 (для русскоговорящих).</p>
 <p>Если Вы ищете особые или индивидуальные программы либо услуги для себя, своих друзей или своей группы, свяжитесь с нами: <a href="/ru/contact-us.php">Связаться с нами</a>.</p>

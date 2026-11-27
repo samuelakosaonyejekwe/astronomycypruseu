@@ -106,7 +106,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Вы можете использовать следующую кнопку, чтобы удалить cookie, перечисленные в таблице выше. Эта процедура может работать не во всех браузерах. После удаления Вам следует снова проверить таблицу. Если значения не изменились на N/A, Вам придётся удалить cookie в <a href="#cookie_settings">настройках браузера</a>.</p>
 <h2><strong>Как с нами связаться</strong></h2>
 <p>Если у Вас есть другие вопросы или опасения по поводу этих политик конфиденциальности, пожалуйста, отправьте нам сообщение по электронной почте: <strong><a href="mailto:planetarium@cytanet.com.cy" title="Contact Us">planetarium@cytanet.com.cy</a></strong></p>
-<p>Почтовые отправления можно направлять по адресу:</p>
+<p class="lead">Почтовые отправления можно направлять по адресу:</p>
 <p class="short"><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong></p>
 <p class="short"><strong>9 Ammochostou</strong></p>
 <p class="short"><strong>Kiti</strong></p>

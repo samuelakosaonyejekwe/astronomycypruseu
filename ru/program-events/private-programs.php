@@ -23,8 +23,8 @@ require SITE_ROOT . '/includes/header.php';
 <h3><strong>Наша команда подготовила индивидуальные программы высочайшего уровня, чтобы Вы получили уникальные впечатления от небес.</strong></h3>
 <h3><strong>Радушный приём и специалисты-учёные готовы этим летом совершить космическую прогулку вместе с Вами, Вашими друзьями и семьёй.</strong></h3>
 <h3><strong>Наша обсерватория отправит Вас в путешествие по Вселенной с помощью больших профессиональных телескопов.</strong></h3>
-<h2><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Скачать предлагаемую программу на АНГЛИЙСКОМ (PDF)</strong></a></h2>
-<h2><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></strong></h2>
+<ul class="link-list"><li><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Скачать предлагаемую программу на АНГЛИЙСКОМ (PDF)</strong></a></li><li><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></strong></li></ul>
+
 <div class="blocks">
 <h2><em>Приватные программы (до 10 человек на сеанс)</em></h2>
 <h2><em>Политика «Только по предварительной записи»</em></h2>
@@ -33,7 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="blocks">
 <div class="row">
-<div class="block"><p class="short"><strong>ВАЖНОЕ ПРИМЕЧАНИЕ:</strong></p>
+<div class="block"><p class="lead short"><strong>ВАЖНОЕ ПРИМЕЧАНИЕ:</strong></p>
 <p>Мы работаем по политике «<strong>Только по предварительной записи»</strong>.</p>
 <p>Необходимо записаться заранее по телефону (+357) 99991111 (на английском языке) или (+357) 99037440 (на русском языке).</p>
 <p>Если Вы ищете особые или индивидуальные программы или услуги для себя, своих друзей или своей группы, не стесняйтесь <a href="/ru/contact-us.php">обращаться к нам</a>.</p>

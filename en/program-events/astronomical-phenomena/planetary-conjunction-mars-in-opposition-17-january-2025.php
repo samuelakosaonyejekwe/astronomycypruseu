@@ -26,7 +26,7 @@ require SITE_ROOT . '/includes/header.php';
 <h4>EVENT’S PROGRAM</h4>
 <p class="short">WELCOMING BY THE DIRECTOR (GEORGE TROULLIAS)</p>
 <p class="short">TELESCOPE OBSERVATIONS OF SATURN AND VENUS (WEATHER PERMITTING)</p>
-<p class="short">PLANETARIUM PROGRAM <em><strong>(in English language)</strong></em>: </p>
+<p class="lead short">PLANETARIUM PROGRAM <em><strong>(in English language)</strong></em>: </p>
 <p class="short">PLANETARY CONJUNCTION (PLANETS SATURN AND VENUS)</p>
 <p class="short">MARS IN OPPOSITION</p>
 <p>TELESCOPE OBSERVATIONS OF MARS (WEATHER PERMITTING)</p>

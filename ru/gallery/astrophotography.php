@@ -20,7 +20,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>МЛЕЧНЫЙ ПУТЬ</h2>
 <h2>СОЛНЦЕ</h2>
 <div class="blocks">
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Прохождение Венеры по диску Солнца 6 июня 2012 года.</p>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Прохождение Венеры по диску Солнца 6 июня 2012 года.</p>
 <p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН».</p>
 <p class="short">Следующее произойдёт 19 августа 2030 года и будет видно с Марса.</p></div><div class="block"><img alt="" data-nw="498" decoding="async" height="382" loading="lazy" src="/images/astrophotography/sun/sunspot-AR12192.jpg" width="400"/><p class="short">Огромное солнечное пятно AR12192 22 октября 2014 года.</p>
 <p class="short">Несколько дней она была видна невооружённым глазом.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Прохождение Меркурия по диску Солнца</p></div><div class="block"><img alt="" data-nw="976" decoding="async" height="391" loading="lazy" src="/images/astrophotography/sun/coronado-h-a.jpg" width="400"/><p class="short">Хромосфера Солнца.</p>
@@ -33,7 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>ЛУНА</h2>
 <h2>ПЛАНЕТЫ</h2>
 <div class="blocks">
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Прохождение Венеры по диску Солнца 6 июня 2012 года.</p>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Прохождение Венеры по диску Солнца 6 июня 2012 года.</p>
 <p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН».</p>
 <p class="short">Следующее произойдёт 19 августа 2030 года и будет видно с Марса.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Прохождение Меркурия по диску Солнца</p></div></div>
 

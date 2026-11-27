@@ -42,12 +42,12 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<p class="short">LOLCAL TYPE: PARTIAL SOLAR ECLIPSE</p>
-<p class="short">1st contact Partial Eclipse begins: Sunday 21 June 2020, 7:33</p>
-<p class="short">Maximum Eclipse: Sunday 21 June 2020, 8:28 </p>
+<dl class="specs"><dt>LOLCAL TYPE</dt><dd> PARTIAL SOLAR ECLIPSE</dd><dt>1st contact Partial Eclipse begins</dt><dd> Sunday 21 June 2020, 7:33</dd><dt>Maximum Eclipse</dt><dd> Sunday 21 June 2020, 8:28 </dd></dl>
+
+
 <p class="short">(No 2nd and 3rd Contacts for Cyprus since annularity is not visible)</p>
-<p class="short">4th Contact Partial Eclipse ends: Sunday 21 June 2020, 9:28</p>
-<p class="short">Magnitude at Maximum: 0.38 Duration: 1 hour 55 minutes</p>
+<dl class="specs"><dt>4th Contact Partial Eclipse ends</dt><dd> Sunday 21 June 2020, 9:28</dd><dt>Magnitude at Maximum</dt><dd> 0.38 Duration: 1 hour 55 minutes</dd></dl>
+
 <p><img alt="" data-nw="850" decoding="async" height="709" loading="lazy" src="/images/annular-eclipse-21-jun-2020/Partial%20Solar%20Eclipse%20Max%20Position.jpg" width="850"/></p>
 <p class="short">Partial Solar Eclipse Maximum from KITION PLANETARIUM &amp; OBSERVATORY (CYPRUS)</p>
 <p class="short">PARTIAL SOLAR ECLIPSE DETAILS</p>
@@ -96,7 +96,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p><a class="doc-link" href="/images/annular-eclipse-21-jun-2020/Annular%20Solar%20Eclipse%2021%20June%202020%20Ver1.pdf" rel="noopener" target="_blank" title="annular eclipse pdf">Download the Annular Eclipse Press Release in PDF format.</a></p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p class="short">VIEW THE PHOTOS ON OUR FB PAGE...</p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
 </div>

@@ -32,9 +32,9 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">WELCOMING BY THE UNESCO INTERNATIONAL DAY OF LIGHT CYPRUS NATIONAL NODE, </p>
 <p>GEORGE TROULLIAS (DIRECTOR - KITION PLANETARIUM &amp; OBSERVATORY (CYPRUS)).</p>
 <p>AWARENESS REAGARDING THE GLOBAL INITIATIVE FOR THE CONTINUED APPRECIATION OF LIGHT AND ITS ROLE IT PLAYS IN LIFE.</p>
-<p>LIGHT-BASED TECHNOLOGIES: EXAMPLES.</p>
-<p class="short">LIGHT POLLUTION AWARENESS: EFFECTS ON PLANET AND WAYS TO PROTECT THE NIGHT SKY.</p>
-<p class="short">IAU: DARK AND QUIET SKIES MONTH</p>
+<dl class="specs"><dt>LIGHT-BASED TECHNOLOGIES</dt><dd> EXAMPLES.</dd><dt>LIGHT POLLUTION AWARENESS</dt><dd> EFFECTS ON PLANET AND WAYS TO PROTECT THE NIGHT SKY.</dd><dt>IAU</dt><dd> DARK AND QUIET SKIES MONTH</dd></dl>
+
+
 <p class="short">LIGHT POLLUTION MEASUREMENTS</p>
 <div class="blocks">
 <div class="row">
@@ -43,7 +43,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>The <a href="http://www.light2015.org/" rel="noopener noreferrer" target="_blank">International Year of Light and Light-based Technologies 2015</a> (IYL 2015) was a United Nations observance that raised global awareness of the achievements of light science and its applications, and their importance to humankind. Under the leadership of <a href="http://www.unesco.org/" rel="noopener noreferrer" target="_blank">UNESCO</a>, more than 13,000 activities took place in 147 countries to reach an audience estimated at over 100 million. See the IYL 2015 Final Report for more information.</p>
 <p><img alt="" decoding="async" height="425" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-photo-winner-1.jpg" width="800"/></p>
 <p class="short">Goals</p>
-<p>The major goals of the International Day of Light are:</p>
+<p class="lead">The major goals of the International Day of Light are:</p>
 <p>Improve the public understanding of how light and light-based technologies touch the daily lives of everybody, and are central to the future development of the global society.</p>
 <p>Build worldwide educational capacity through activities targeted on science for young people, addressing issues of gender balance, and focusing especially on developing countries and emerging economies.</p>
 <p>Highlight and explain the intimate link between light and art and culture, enhancing the role of optical technology to preserve cultural heritage.</p>
@@ -57,7 +57,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
 <h2>PAST EVENTS</h2>
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">INTERNATIONAL DAY OF LIGHT 16 MAY 2020</a></p>
-<p class="short">LINKS:</p>
+<p class="lead short">LINKS:</p>
 <p class="short">CYPRUS INTERNATIONAL DAY OF LIGHT FB PAGE <a href="https://www.facebook.com/idlcy/" rel="noopener noreferrer" target="_blank" title="CYPRUS INTERNATIONAL DAY OF LIGHT FB PAGE">https://www.facebook.com/idlcy/</a></p>
 
 <p class="short">UNESCO INTERNATIONAL DAY OF LIGHT <a href="https://www.lightday.org/" rel="noopener noreferrer" target="_blank" title="UNESCO IDL">https://www.lightday.org/</a></p>

@@ -23,7 +23,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row gallery captioned tiles"><div class="block">
 <p><a href="/ru/charity/christina-a-apostolou-foundation.php"><img alt="CHRISTINA A. APOSTOLOU FOUNDATION" data-nw="290" decoding="async" height="200" loading="lazy" src="/images/charity/christina-apostolou-festival/chr_a_apostolou_logo.png" width="200"/></a></p>
 
-<h2><a href="/ru/charity/christina-a-apostolou-foundation.php">ФОНД КРИСТИНЫ А. </a><a href="/ru/charity/christina-a-apostolou-foundation.php">АПОСТОЛУ</a></h2>
+<h2><a href="/ru/charity/christina-a-apostolou-foundation.php">ФОНД КРИСТИНЫ А. АПОСТОЛУ</a></h2>
 </div><div class="block">
 <p><a href="/ru/charity/rmhc-cyprus.php"><img alt="" data-nw="225" decoding="async" height="91" loading="lazy" src="/images/charity/rmhc-cyprus/rmhc-cyprus-logo.png" width="225"/></a></p>
 

@@ -59,9 +59,9 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Вход свободный.</p>
 <p class="short"> Присоединяйтесь к нашей космической прогулке!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
-<p class="short">Идентификатор конференции: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="488" loading="lazy" src="/images/science-cafe/science-cafe-03-august-2021.jpg" width="650"/></p></div><div class="block"><p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p><p>ССЫЛКИ:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p><p class="short">Идентификатор конференции: 831 2336 2644</p><p class="short">Код доступа: kition</p></div></div></div>
+<dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="488" loading="lazy" src="/images/science-cafe/science-cafe-03-august-2021.jpg" width="650"/></p></div><div class="block"><p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p><p class="lead">ССЫЛКИ:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p><dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl></div></div></div>
 
 
 

@@ -42,11 +42,11 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Директор ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p></div>
 </div>
 </div>
-<p class="short"><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy.pdf" rel="noopener" target="_blank" title="programming in astronomy">Скачайте предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></p>
-<p class="short"><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy-ru.pdf" rel="noopener" target="_blank" title="programming in astronomy">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></p>
+<ul class="link-list"><li><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy.pdf" rel="noopener" target="_blank" title="programming in astronomy">Скачайте предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy-ru.pdf" rel="noopener" target="_blank" title="programming in astronomy">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></li></ul>
+
 <div class="blocks">
 <div class="row">
-<div class="block"><p class="short">ВАЖНОЕ ЗАМЕЧАНИЕ:</p>
+<div class="block"><p class="lead short">ВАЖНОЕ ЗАМЕЧАНИЕ:</p>
 <p>Действует «политика приёма только по предварительной записи».</p>
 <p>Необходима предварительная запись по телефону (+357) 99991111 (для англоговорящих) или (+357) 99037440 (для русскоговорящих).</p>
 <p>Если Вы ищете особые или индивидуальные программы либо услуги для себя, своих друзей или своей группы, свяжитесь с нами: <a href="/ru/contact-us.php">Связаться с нами</a>.</p>

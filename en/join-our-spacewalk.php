@@ -34,13 +34,13 @@ require SITE_ROOT . '/includes/header.php';
 <p>So, join our spacewalk for an endless sharing of knowledge and experience… </p>
 <p>Just send us an <a href="mailto:spacewalk@cytanet.com.cy" title="SPACEWALKER NEWLETTER">e-mail</a> with your details for a FREE subscription to our monthly newsletter. We will keep you informed about our public activities and important news and discoveries. (The frequency of e-mails is approximately 10 per year).</p>
 <h4>Please include in your e-mail the following info: ( *complulsory)</h4>
-<p class="short">NAME *: ______________________ SURNAME *:_______________________</p>
-<p class="short">ADDRESS: _______________________________________________________</p>
-<p class="short">COUNTRY: ___________________ POST CODE: _______________________</p>
-<p class="short">E-MAIL *: _______________________________________________________</p>
-<p class="short">MOBILE PHONE No (for future SMS): __________________ AGE : ____________</p>
-<p class="short">INTERESTS / HOBBIES : _____________________________________________</p>
-<p class="short">OTHER: _________________________________________________________</p></div>
+<dl class="specs"><dt>NAME *</dt><dd> ______________________ SURNAME *:_______________________</dd><dt>ADDRESS</dt><dd> _______________________________________________________</dd><dt>COUNTRY</dt><dd> ___________________ POST CODE: _______________________</dd><dt>E-MAIL *</dt><dd> _______________________________________________________</dd><dt>MOBILE PHONE No (for future SMS)</dt><dd> __________________ AGE : ____________</dd><dt>INTERESTS / HOBBIES </dt><dd> _____________________________________________</dd><dt>OTHER</dt><dd> _________________________________________________________</dd></dl>
+
+
+
+
+
+</div>
 </div>
 </div>
 </article>

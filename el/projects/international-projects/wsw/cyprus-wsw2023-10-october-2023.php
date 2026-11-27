@@ -33,17 +33,17 @@ require SITE_ROOT . '/includes/header.php';
 <p>Η Παγκόσμια Εβδομάδα Διαστήματος είναι μια διεθνής γιορτή της επιστήμης και της τεχνολογίας και της συμβολής τους στη βελτίωση της ανθρώπινης κατάστασης.</p>
 
 <p>Η Γενική Συνέλευση των Ηνωμένων Εθνών κήρυξε το 1999 ότι η Παγκόσμια Εβδομάδα Διαστήματος θα πραγματοποιείται κάθε χρόνο από τις 4 έως τις 10 Οκτωβρίου.</p>
-<p>Οι ημερομηνίες αυτές τιμούν δύο γεγονότα:</p>
+<p class="lead">Οι ημερομηνίες αυτές τιμούν δύο γεγονότα:</p>
 <p>4 Οκτωβρίου 1957: Εκτόξευση του πρώτου ανθρωπογενούς δορυφόρου της Γης, του Σπούτνικ 1, ανοίγοντας έτσι τον δρόμο για τη διαστημική εξερεύνηση</p>
 <p>10 Οκτωβρίου 1967: Υπογραφή της Συνθήκης για τις Αρχές που Διέπουν τις Δραστηριότητες των Κρατών στην Εξερεύνηση και Χρήση του Διαστήματος για ειρηνικούς σκοπούς, συμπεριλαμβανομένης της Σελήνης και των Λοιπών Ουρανίων Σωμάτων.</p>
 
 <p>Το φετινό θέμα είναι <strong>«ΔΙΑΣΤΗΜΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ»</strong>.</p>
-<p>ΕΠΙΣΗΜΟΣ ΣΥΝΔΕΣΜΟΣ ΕΓΓΡΑΦΗΣ UN WSW2023:</p>
+<p class="lead">ΕΠΙΣΗΜΟΣ ΣΥΝΔΕΣΜΟΣ ΕΓΓΡΑΦΗΣ UN WSW2023:</p>
 <p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+
 <h3>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FB...</h3>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY</a></p></div>
 </div>

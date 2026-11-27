@@ -22,8 +22,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block">
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
-<p class="short">Αναγνωριστικό σύσκεψης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p class="short">02 ΜΑΡΤΙΟΥ 2021</p>
 <p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 <p class="short">19:00 ΚΑΦΕ ΤΗΣ ΕΠΙΣΤΗΜΗΣ« Η ΠΡΩΤΗ (ΚΑΙ ΕΛΠΙΖΟΥΜΕ Η ΜΟΝΑΔΙΚΗ) ΔΙΑΔΙΚΤΥΑΚΗ</p>
@@ -42,10 +42,10 @@ require SITE_ROOT . '/includes/header.php';
 <p>Δωρεάν Συμμετοχή.</p>
 <p> Συμπορευθείτε στον διαστημικό μας περίπατο!</p>
 <p>Εάν έχετε οποιαδήποτε απορία ή πρόταση, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
-<p class="short">Αναγνωριστικό σύσκεψης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p class="short">ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
 </div>

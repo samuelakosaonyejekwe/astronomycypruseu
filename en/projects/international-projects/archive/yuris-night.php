@@ -21,7 +21,7 @@ require SITE_ROOT . '/includes/header.php';
 </div></div>
 </div>
 <p>The FIRST manned space flight happened on April, 12th, 1961. It was the beginning of the space exploration by Human. The first cosmonaut was Yuri Gagarin. Later, he said:</p>
-<p><em>"Circling the Earth in my orbital spaceship I marveled at the beauty of our blue planet. People of the world, let us safeguard and enhance this beauty — not destroy it!"</em></p>
+<p>"Circling the Earth in my orbital spaceship I marveled at the beauty of our blue planet. People of the world, let us safeguard and enhance this beauty — not destroy it!"</p>
 <p>Yuri's Night is the World Space Party. Every April 12th we bring the world together to dream about where we're going, explore where we are, and celebrate where we've been. For further details visit the official website of the <a href="http://yurisnight.net/" rel="noopener noreferrer" target="_blank">Yuri's Night</a>. </p>
 <p>Since 2014 the KITION PLANETARIUM &amp; OBSERVATORY conducts Yuri's Night in Cyprus celebrating this great achivement of Humanity and rocking the planet.</p>
 <p>2017 </p>

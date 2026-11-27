@@ -17,7 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <h2><a href="https://astronomycyprus.eu/gift-shop/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></h2>
-<p><strong>Первым использованным нами куполом планетария был полупостоянный купол диаметром 4,5 м, который мы построили вместе с учёными со всего мира.</strong></p>
+<p>Первым использованным нами куполом планетария был полупостоянный купол диаметром 4,5 м, который мы построили вместе с учёными со всего мира.</p>
 <p><strong>Он был построен для проведения «Первого международного фестиваля планетарных куполов на Кипре» </strong></p>
 <p><strong>состоявшегося в 2009 году в Ларнаке на территории Американской академии.</strong></p>
 <p><strong>На этом наклонном куполе, рассчитанном на 37 мест, демонстрировались полностью иммерсивные 3D-шоу с охватом 360 градусов.</strong></p>

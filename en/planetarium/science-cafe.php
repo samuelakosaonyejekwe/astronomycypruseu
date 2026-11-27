@@ -29,7 +29,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></h2>
+<div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p></div>
 <h2>Meeting ID: 831 2336 2644</h2>
 <h2>Passcode: kition</h2>
 <h2>2026 "KITION Online Science Café" Meetings </h2>
@@ -53,8 +53,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>28 APRIL 2026</strong></div>
-<div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2026/kition-science-cafe-28-april-2026.php"><strong>SETI: SEARCH FOR EXTRATERRESTRIAL INTELLIGENCE</strong></a></p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (DIRECTOR KITION PLANETARIUM &amp; OBSERVATORY (CYPRUS)) </strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/en/planetarium/science-cafe/2026/kition-science-cafe-28-april-2026.php"><strong>SETI</strong></a></dt><dd> SEARCH FOR EXTRATERRESTRIAL INTELLIGENCE</dd><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (DIRECTOR KITION PLANETARIUM &amp; OBSERVATORY (CYPRUS)) </dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>26 MAY 2026</strong></div>
@@ -68,8 +68,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>28 JULY 2026</strong></div>
-<div class="block"><p class="short"><strong>TOPIC: TO BE ANNOUNCED</strong></p>
-<p class="short"><strong>SPEAKER: </strong><strong>TO BE ANNOUNCED</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> TO BE ANNOUNCED</dd><dt><strong>SPEAKER</strong></dt><dd> <strong>TO BE ANNOUNCED</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>25 AUGUST 2026</strong></div>
@@ -88,13 +88,13 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>24 NOVEMBER 2026</strong></div>
-<div class="block"><p class="short"><strong>TOPIC: TO BE ANNOUNCED</strong></p>
-<p class="short"><strong>SPEAKER: </strong><strong>TO BE ANNOUNCED</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> TO BE ANNOUNCED</dd><dt><strong>SPEAKER</strong></dt><dd> <strong>TO BE ANNOUNCED</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 DECEMBER 2026</strong></div>
-<div class="block"><p class="short"><strong>TOPIC: TO BE ANNOUNCED</strong></p>
-<p class="short"><strong>SPEAKER: </strong><strong>TO BE ANNOUNCED</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> TO BE ANNOUNCED</dd><dt><strong>SPEAKER</strong></dt><dd> <strong>TO BE ANNOUNCED</strong></dd></dl>
+</div>
 </div>
 </div>
 <h2>2025 "KITION Online Science Café" Meetings </h2>
@@ -118,54 +118,54 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>29 APRIL 2025</strong></div>
-<div class="block"><p class="short"><strong>TOPIC: <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-29-april-2025.php">GLOBAL ASTRONOMY MONTH 2025 SUMMARY - GAM2025 GLOBAL LIVE - ASTRONOMY NEWS</a></strong> </p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (CYPRUS'S NATIONAL COORDINATOR FOR AWB)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-29-april-2025.php">GLOBAL ASTRONOMY MONTH 2025 SUMMARY - GAM2025 GLOBAL LIVE - ASTRONOMY NEWS</a> </dd><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (CYPRUS'S NATIONAL COORDINATOR FOR AWB)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>27 MAY 2025</strong></div>
-<div class="block"><p class="short"><strong>TOPIC: <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-27-may-2025.php">NEW SPACE RACE</a></strong></p>
-<p class="short"><strong>SPEAKER: EKATERINI DEMETRIOU (SPACE SCIENTIST)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-27-may-2025.php">NEW SPACE RACE</a></dd><dt><strong>SPEAKER</strong></dt><dd> EKATERINI DEMETRIOU (SPACE SCIENTIST)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>24 JUNE 2025</strong></div>
-<div class="block"><p class="short"><strong>TOPIC: <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-24-june-2025.php">ASTEROID DISCOVERIES MADE BY KITION - ASTEROID DAY 2025</a></strong></p>
-<p class="short"><strong>SPEAKER: ALEXANDR PROKOFYEV (ASTROPHYSICIST, KITION PLANETARIUM &amp; OBSERVATORY)</strong></p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (CYPRUS'S NATIONAL COORDINATOR FOR ASTEROID DAY)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-24-june-2025.php">ASTEROID DISCOVERIES MADE BY KITION - ASTEROID DAY 2025</a></dd><dt><strong>SPEAKER</strong></dt><dd> ALEXANDR PROKOFYEV (ASTROPHYSICIST, KITION PLANETARIUM &amp; OBSERVATORY)</dd><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (CYPRUS'S NATIONAL COORDINATOR FOR ASTEROID DAY)</dd></dl>
+
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 JULY 2025</strong></div>
-<div class="block"><p><strong>TOPIC: <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-29-july-2025.php">QUANTUM PHOTONICS</a></strong></p>
-<p><strong>SPEAKER: </strong><strong>IVI AFXENTI (BSc Physics, MSc Physics (Free Electron Lasers), PhD Candidate (Quantum Photonics))</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-29-july-2025.php">QUANTUM PHOTONICS</a></dd><dt><strong>SPEAKER</strong></dt><dd> <strong>IVI AFXENTI (BSc Physics, MSc Physics (Free Electron Lasers), PhD Candidate (Quantum Photonics))</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>26 AUGUST 2025</strong></div>
-<div class="block"><p class="short"><strong>TOPIC 1: <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ECLIPSES IN ANCIENT INDIA</a></strong></p>
-<p class="short"><strong>TOPIC 2: <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">INTERNATIONAL OLYMPIAD ON ASTRONOMY AND ASTROPHYSICS 2025</a></strong></p>
-<p class="short"><strong>TOPIC 3: <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ASTRONOMY NEWS - TOTAL LUNAR ECLIPSE, 7 SEPTEMBER 2025</a></strong></p>
-<p class="short"><strong>SPEAKER 1: ALEXANDR PROKOFYEV (ASTROPHYSICIST, KITION PLANETARIUM &amp; OBSERVATORY)</strong></p>
-<p class="short"><strong>SPEAKER 2: MATVEY DUBISHKIN (STUDENT-RESEARCHER, KITION PLANETARIUM &amp; OBSERVATORY)</strong></p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC 1</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ECLIPSES IN ANCIENT INDIA</a></dd><dt><strong>TOPIC 2</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">INTERNATIONAL OLYMPIAD ON ASTRONOMY AND ASTROPHYSICS 2025</a></dd><dt><strong>TOPIC 3</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ASTRONOMY NEWS - TOTAL LUNAR ECLIPSE, 7 SEPTEMBER 2025</a></dd><dt><strong>SPEAKER 1</strong></dt><dd> ALEXANDR PROKOFYEV (ASTROPHYSICIST, KITION PLANETARIUM &amp; OBSERVATORY)</dd><dt><strong>SPEAKER 2</strong></dt><dd> MATVEY DUBISHKIN (STUDENT-RESEARCHER, KITION PLANETARIUM &amp; OBSERVATORY)</dd><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</dd></dl>
+
+
+
+
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 SEPTEMBER 2025</strong></div>
-<div class="block"><p class="short"><strong>TOPIC: </strong><a href="/en/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>WORLD SPACE WEEK 2025 - LIVING IN SPACE</strong></a></p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (CYPRUS'S NATIONAL COORDINATOR FOR WSW)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>WORLD SPACE WEEK 2025 - LIVING IN SPACE</strong></a></dd><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (CYPRUS'S NATIONAL COORDINATOR FOR WSW)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>28 OCTOBER 2025</strong></div>
-<div class="block"><p class="short"><strong>TOPIC:</strong><a href="/en/planetarium/science-cafe/2025/kition-science-cafe-28-october-2025.php"><strong> ASTRO NEWS - COMET 3I / ATLAS</strong></a></p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd><a href="/en/planetarium/science-cafe/2025/kition-science-cafe-28-october-2025.php"><strong> ASTRO NEWS - COMET 3I / ATLAS</strong></a></dd><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>25 NOVEMBER 2025</strong></div>
-<div class="block"><p class="short"><strong>TOPIC: <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-25-november-2025.php">ARTIFICIAL INTELLIGENCE IN OUR LIVES</a></strong></p>
-<p class="short"><strong>SPEAKER: <a href="https://www.nup.ac.cy/faculty/zach-anthis/" rel="noopener noreferrer" target="_blank">ZACH ANTHIS</a> (NEAPOLIS UNIVERSITY OF PAFOS, CYPRUS)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>TOPIC</strong></dt><dd> <a href="/en/planetarium/science-cafe/2025/kition-science-cafe-25-november-2025.php">ARTIFICIAL INTELLIGENCE IN OUR LIVES</a></dd><dt><strong>SPEAKER</strong></dt><dd> <a href="https://www.nup.ac.cy/faculty/zach-anthis/" rel="noopener noreferrer" target="_blank">ZACH ANTHIS</a> (NEAPOLIS UNIVERSITY OF PAFOS, CYPRUS)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 DECEMBER 2025</strong></div>
-<div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2025/kition-science-cafe-30-december-2025.php"><strong>TOPIC: SEASON'S GREETINGS, GEMINIDS METEOR SHOWER, TOTAL SOLAR ECLIPSE 2026</strong></a></p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</strong></p>
-<p class="short"><strong>SPEAKER: ALEXANDR PROKOFYEV (ASTROPHYSICIST, KITION PLANETARIUM &amp; OBSERVATORY)</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/en/planetarium/science-cafe/2025/kition-science-cafe-30-december-2025.php"><strong>TOPIC</strong></a></dt><dd> SEASON'S GREETINGS, GEMINIDS METEOR SHOWER, TOTAL SOLAR ECLIPSE 2026</dd><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</dd><dt><strong>SPEAKER</strong></dt><dd> ALEXANDR PROKOFYEV (ASTROPHYSICIST, KITION PLANETARIUM &amp; OBSERVATORY)</dd></dl>
+
+</div>
 </div>
 </div>
 <h2>2024 "KITION Online Science Café" Meetings </h2>
@@ -206,8 +206,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><strong>25 JUNE 2024</strong></div>
 <div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2024/kition-science-cafe-25-june-2024.php"><strong> ASTEROIDS AND DINOSAURS</strong></a></p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</strong></p>
-<p class="short"><strong>GUSET SPEAKER: ALEXIS PANTELIDES (PALEONTOLOGIST)</strong></p></div>
+<dl class="specs"><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</dd><dt><strong>GUSET SPEAKER</strong></dt><dd> ALEXIS PANTELIDES (PALEONTOLOGIST)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 JULY 2024</strong></div>
@@ -233,13 +233,13 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>26 NOVEMBER 2024</strong></div>
-<div class="block"><p><strong><a href="/en/planetarium/science-cafe/2024/kition-science-cafe-26-november-2024.php">BEHAVIORAL SCIENCE &amp; ITS REVELATION IN HELPING HUMANS COMPREHEND A REAL WAY OF LIVING! LET'S REVEAL TOOLS &amp; WAYS FOR PERSONAL GROWTH IN ALL ASPECTS OF LIFE!</a></strong></p>
-<p><strong>SPEAKER: EMILIA NICOLAIDOU</strong> <strong>(BSc (Hons) Optometry &amp; Visual Science, MSc Psychology, Diploma In Modern Applied Psychology, Internationally Accredited Life Coach)</strong></p></div>
+<div class="block"><p><a href="/en/planetarium/science-cafe/2024/kition-science-cafe-26-november-2024.php">BEHAVIORAL SCIENCE &amp; ITS REVELATION IN HELPING HUMANS COMPREHEND A REAL WAY OF LIVING! LET'S REVEAL TOOLS &amp; WAYS FOR PERSONAL GROWTH IN ALL ASPECTS OF LIFE!</a></p>
+<p>SPEAKER: EMILIA NICOLAIDOU (BSc (Hons) Optometry &amp; Visual Science, MSc Psychology, Diploma In Modern Applied Psychology, Internationally Accredited Life Coach)</p></div>
 </div>
 <div class="row">
 <div class="block"><strong>17 DECEMBER 2024</strong></div>
-<div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2024/kition-science-cafe-17-december-2024.php"><strong>TOPIC: CLIMATE CHANGE, ENERGY SAVING, LIGHT POLLUTION, ECOSYSTEM, BIODIVERSITY</strong></a></p>
-<p class="short"><strong>SPEAKER: GEORGE TROULLIAS (KITION PLANETARIUM &amp; OBSERVATORY)</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/en/planetarium/science-cafe/2024/kition-science-cafe-17-december-2024.php"><strong>TOPIC</strong></a></dt><dd> CLIMATE CHANGE, ENERGY SAVING, LIGHT POLLUTION, ECOSYSTEM, BIODIVERSITY</dd><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (KITION PLANETARIUM &amp; OBSERVATORY)</dd></dl>
+</div>
 </div>
 </div>
 <h2>2023 "KITION Online Science Café" Meetings </h2>
@@ -279,12 +279,12 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>25 JULY 2023</strong></div>
-<div class="block"><p class="short"><strong><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php">PERSEIDS METEOR SHOWER 2023</a></strong></p>
-<p class="short"><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php"><strong>EXPEDITION 67 / CONSTANTINOS TROULLIAS - 1ST CYPRIOT MAN ANALOGUE ASTRONAUT</strong></a></p></div>
+<div class="block"><ul class="link-list"><li><strong><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php">PERSEIDS METEOR SHOWER 2023</a></strong></li><li><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php"><strong>EXPEDITION 67 / CONSTANTINOS TROULLIAS - 1ST CYPRIOT MAN ANALOGUE ASTRONAUT</strong></a></li></ul>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 AUGUST 2023</strong></div>
-<div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php"><strong>BLUE SUPERMOON AND OPPOSITION OF SATURN</strong></a></p>
+<div class="block"><div class="link-row"><p class="short"><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php"><strong>BLUE SUPERMOON AND OPPOSITION OF SATURN</strong></a></p></div>
 <strong><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php">
 <p class="short">PERSEIDS AND FIREBALLS</p>
 <p class="short">CYPRUS 1ST GOLD MEDAL IN IOAA</p>
@@ -498,29 +498,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <h3>
  APRIL <strong>–</strong> GLOBAL ASTRONOMY MONTH 2016</h3>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>6 APRIL </strong></div>
-<div class="block"><strong>"JUPITER THE KING OF PLANETS"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>13 APRIL</strong></div>
-<div class="block"><strong>“LUNAR EXPLORATIONS”<br/>
-</strong></div>
-</div>
-<div class="row">
-<div class="block"> <strong>4 MAY</strong></div>
-<div class="block"><strong>“UNIVERSE” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>11 MAY</strong></div>
-<div class="block"><strong>“HOW TO OBSERVE UFO”</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>25 MAY</strong></div>
-<div class="block"><strong>“MARS COLONIZATION” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>6 APRIL </strong></th><th scope="col"><strong>"JUPITER THE KING OF PLANETS"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>13 APRIL</strong></th><th scope="col"><strong>“LUNAR EXPLORATIONS”<br/>
+</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"> <strong>4 MAY</strong></th><th scope="col"><strong>“UNIVERSE” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>11 MAY</strong></th><th scope="col"><strong>“HOW TO OBSERVE UFO”</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>25 MAY</strong></th><th scope="col"><strong>“MARS COLONIZATION” </strong></th></tr></table></div>
 <h2>2015 "KITION Science Café" INTERNATIONAL YEAR OF LIGHT AND LIGHT-BASED ECHNOLOGIES</h2>
 <div class="blocks">
 <div class="row">
@@ -541,66 +520,9 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h3>APRIL <strong>–</strong> GLOBAL ASTRONOMY MONTH </h3>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>8 APRIL </strong></div>
-<div class="block"><strong>"APRIL’S SPACEWALK"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>15 APRIL </strong></div>
-<div class="block"><strong>"GLOBE AT NIGHT"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>22 APRIL</strong></div>
-<div class="block"><strong>“LUNAR EXPLORATIONS”<br/>
-</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>29 APRIL</strong></div>
-<div class="block"><strong>“LUNAR EXPLORATIONS”<br/>
-</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>13 MAY</strong></div>
-<div class="block"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>27 MAY</strong></div>
-<div class="block"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>14 OCTOBER</strong></div>
-<div class="block"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>28 OCTOBER</strong></div>
-<div class="block"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>18 NOVEMBER</strong></div>
-<div class="block"><strong>“MARS COLONIZATION” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>25 NOVEMBER</strong></div>
-<div class="block"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>2 DECEMBER</strong></div>
-<div class="block"><strong>“GEMS OF STARRY SKY” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>9 DECEMBER</strong></div>
-<div class="block"><strong>“ETERNAL LOVE” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>23 DECEMBER</strong></div>
-<div class="block"><strong>“HOW TO OBSERVE UFO”</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>30 DECEMBER</strong></div>
-<div class="block"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>8 APRIL </strong></th><th scope="col"><strong>"APRIL’S SPACEWALK"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>15 APRIL </strong></th><th scope="col"><strong>"GLOBE AT NIGHT"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>22 APRIL</strong></th><th scope="col"><strong>“LUNAR EXPLORATIONS”<br/>
+</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>29 APRIL</strong></th><th scope="col"><strong>“LUNAR EXPLORATIONS”<br/>
+</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>13 MAY</strong></th><th scope="col"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>27 MAY</strong></th><th scope="col"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>14 OCTOBER</strong></th><th scope="col"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>28 OCTOBER</strong></th><th scope="col"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>18 NOVEMBER</strong></th><th scope="col"><strong>“MARS COLONIZATION” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>25 NOVEMBER</strong></th><th scope="col"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>2 DECEMBER</strong></th><th scope="col"><strong>“GEMS OF STARRY SKY” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>9 DECEMBER</strong></th><th scope="col"><strong>“ETERNAL LOVE” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>23 DECEMBER</strong></th><th scope="col"><strong>“HOW TO OBSERVE UFO”</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>30 DECEMBER</strong></th><th scope="col"><strong>PRESENTATION - DEBATE “ASTROLOGY VS ASTRONOMY” </strong></th></tr></table></div>
 <h2>2014 "KITION Science Café"</h2>
 <div class="blocks">
 <div class="row">
@@ -702,28 +624,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>2013 "KITION Science Café"</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>10 APRIL</strong></div>
-<div class="block"><strong>LECTURE “STARPEACE” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>22 SEPTEMBER</strong></div>
-<div class="block"><strong>“SHIELD OF AJAX” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>9 OCTOBER</strong></div>
-<div class="block"><strong>“EXPLORING MARS, DISCOVERING EARTH” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>11 DECEMBER</strong></div>
-<div class="block"><strong>LECTURE “SPACE RESEARCH ON COINS” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>18 DECEMBER</strong></div>
-<div class="block"><strong>LECTURE “COMETS OF THE MONTH” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>10 APRIL</strong></th><th scope="col"><strong>LECTURE “STARPEACE” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>22 SEPTEMBER</strong></th><th scope="col"><strong>“SHIELD OF AJAX” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>9 OCTOBER</strong></th><th scope="col"><strong>“EXPLORING MARS, DISCOVERING EARTH” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>11 DECEMBER</strong></th><th scope="col"><strong>LECTURE “SPACE RESEARCH ON COINS” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>18 DECEMBER</strong></th><th scope="col"><strong>LECTURE “COMETS OF THE MONTH” </strong></th></tr></table></div>
 <h2>2012 "KITION Science Café"</h2>
 <div class="blocks">
 <div class="row">
@@ -747,36 +648,10 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>2009 "KITION Science Café" - INTERNATIONAL YEAR OF ASTRONOMY</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>27 AUGUST</strong></div>
-<div class="block"><strong>MARS HOAX</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>6 OCTOBER</strong></div>
-<div class="block"><p class="short"><strong>"DIGITAL SIMULATION OF THE NIGHT SKY" SPEAKER: </strong>
-<strong>YIANNOS IOANNOU, ASTRONOMER</strong></p></div>
-</div>
-<div class="row">
-<div class="block"><strong>27 NOVEMBER</strong></div>
-<div class="block"><strong>LECTURES - DISCUSSIONS “JUPITER AND OUR STELLITE THE MOON"</strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>27 AUGUST</strong></th><th scope="col"><strong>MARS HOAX</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>6 OCTOBER</strong></th><th scope="col"><strong>"DIGITAL SIMULATION OF THE NIGHT SKY" SPEAKER: </strong>
+<strong>YIANNOS IOANNOU, ASTRONOMER</strong> </th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>27 NOVEMBER</strong></th><th scope="col"><strong>LECTURES - DISCUSSIONS “JUPITER AND OUR STELLITE THE MOON"</strong></th></tr></table></div>
 <h2>2008 "KITION Science Café"</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>11 OCTOBER</strong></div>
-<div class="block"><strong>COFFEE AND EDUCATIONAL ASTRONOMY LECTURE</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>14 NOVEMBER</strong></div>
-<div class="block"><strong>WORLD SPACE WEEK "SPACE FOR EDUCATION"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>26 NOVEMBER</strong></div>
-<div class="block"><strong>COFFEE AND SPACE EDUCATION</strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>11 OCTOBER</strong></th><th scope="col"><strong>COFFEE AND EDUCATIONAL ASTRONOMY LECTURE</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>14 NOVEMBER</strong></th><th scope="col"><strong>WORLD SPACE WEEK "SPACE FOR EDUCATION"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>26 NOVEMBER</strong></th><th scope="col"><strong>COFFEE AND SPACE EDUCATION</strong></th></tr></table></div>
 <p>To attend a "KITION Science Café" meeting at our premises you need to book in advance.</p>
 <p>To attend a "KITION Science Café" meeting online, you just need to follow the provided link for the metting.</p>
 <p>You can share with us your ideas, or topics you wish us to have in a "KITION Science Café" meeting in the near future. </p>

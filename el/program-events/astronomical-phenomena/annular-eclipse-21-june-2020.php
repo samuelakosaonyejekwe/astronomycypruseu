@@ -42,12 +42,12 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <p>Ένας ασφαλής τρόπος για να παρακολουθήσετε μια έκλειψη Ηλίου είναι να φορέσετε προστατευτικά γυαλιά εκλείψεων ή να προβάλετε την εικόνα του εκλειπόμενου Ηλίου με μια κάμερα στενής οπής (pinhole).</p>
-<p>ΤΟΠΙΚΟΣ ΤΥΠΟΣ: ΜΕΡΙΚΗ ΕΚΛΕΙΨΗ ΗΛΙΟΥ</p>
-<p class="short">1η επαφή Έναρξη μερικής έκλειψης: Κυριακή 21 Ιουνίου 2020, 7:33</p>
-<p class="short">Μέγιστο της έκλειψης: Κυριακή 21 Ιουνίου 2020, 8:28</p>
+<dl class="specs"><dt>ΤΟΠΙΚΟΣ ΤΥΠΟΣ</dt><dd> ΜΕΡΙΚΗ ΕΚΛΕΙΨΗ ΗΛΙΟΥ</dd><dt>1η επαφή Έναρξη μερικής έκλειψης</dt><dd> Κυριακή 21 Ιουνίου 2020, 7:33</dd><dt>Μέγιστο της έκλειψης</dt><dd> Κυριακή 21 Ιουνίου 2020, 8:28</dd></dl>
+
+
 <p class="short">(Δεν υπάρχουν 2η και 3η επαφή για την Κύπρο, καθώς η δακτυλιοειδής φάση δεν είναι ορατή)</p>
-<p class="short">4η επαφή Λήξη μερικής έκλειψης: Κυριακή 21 Ιουνίου 2020, 9:28</p>
-<p class="short">Μέγεθος στο μέγιστο: 0,38 Διάρκεια: 1 ώρα 55 λεπτά</p>
+<dl class="specs"><dt>4η επαφή Λήξη μερικής έκλειψης</dt><dd> Κυριακή 21 Ιουνίου 2020, 9:28</dd><dt>Μέγεθος στο μέγιστο</dt><dd> 0,38 Διάρκεια: 1 ώρα 55 λεπτά</dd></dl>
+
 <p><img alt="" data-nw="850" decoding="async" height="709" loading="lazy" src="/images/annular-eclipse-21-jun-2020/Partial%20Solar%20Eclipse%20Max%20Position.jpg" width="850"/></p>
 <p class="short">Μέγιστο της μερικής έκλειψης Ηλίου από το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ (ΚΥΠΡΟΣ)</p>
 <p class="short">ΛΕΠΤΟΜΕΡΕΙΕΣ ΜΕΡΙΚΗΣ ΕΚΛΕΙΨΗΣ ΗΛΙΟΥ</p>
@@ -96,7 +96,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p><a class="doc-link" href="/images/annular-eclipse-21-jun-2020/Annular%20Solar%20Eclipse%2021%20June%202020%20Ver1.pdf" rel="noopener" target="_blank" title="annular eclipse pdf">Κατεβάστε το Δελτίο Τύπου για τη Δακτυλιοειδή Έκλειψη σε μορφή PDF.</a></p>
 <p>Αν έχετε οποιαδήποτε απορία ή πρόταση, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short">ΔΕΙΤΕ ΤΙΣ ΦΩΤΟΓΡΑΦΙΕΣ ΣΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FB...</p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
 </div>

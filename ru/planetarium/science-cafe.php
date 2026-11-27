@@ -29,7 +29,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></h2>
+<div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p></div>
 <h2>Идентификатор конференции: 831 2336 2644</h2>
 <h2>Код доступа: kition</h2>
 <h2>Встречи 2026 "KITION Online Science Café"</h2>
@@ -51,8 +51,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>28 АПРЕЛЯ 2026</strong></div>
-<div class="block"><p class="short"><a href="/ru/planetarium/science-cafe/2026/kition-science-cafe-28-april-2026.php"><strong>SETI: ПОИСК ВНЕЗЕМНОГО РАЗУМА</strong></a></p>
-<p class="short"><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» (КИПР)) </strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/ru/planetarium/science-cafe/2026/kition-science-cafe-28-april-2026.php"><strong>SETI</strong></a></dt><dd> ПОИСК ВНЕЗЕМНОГО РАЗУМА</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» (КИПР)) </dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>26 МАЯ 2026</strong></div>
@@ -66,8 +66,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>28 ИЮЛЯ 2026</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА: БУДЕТ ОБЪЯВЛЕНО</strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: </strong><strong>БУДЕТ ОБЪЯВЛЕНО</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> БУДЕТ ОБЪЯВЛЕНО</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> <strong>БУДЕТ ОБЪЯВЛЕНО</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>25 АВГУСТА 2026</strong></div>
@@ -86,13 +86,13 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>24 НОЯБРЯ 2026</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА: БУДЕТ ОБЪЯВЛЕНО</strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: </strong><strong>БУДЕТ ОБЪЯВЛЕНО</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> БУДЕТ ОБЪЯВЛЕНО</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> <strong>БУДЕТ ОБЪЯВЛЕНО</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 ДЕКАБРЯ 2026</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА: БУДЕТ ОБЪЯВЛЕНО</strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: </strong><strong>БУДЕТ ОБЪЯВЛЕНО</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> БУДЕТ ОБЪЯВЛЕНО</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> <strong>БУДЕТ ОБЪЯВЛЕНО</strong></dd></dl>
+</div>
 </div>
 </div>
 <h2>Встречи 2025 "KITION Online Science Café"</h2>
@@ -114,54 +114,54 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>29 АПРЕЛЯ 2025</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА: <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-29-april-2025.php">ИТОГИ ВСЕМИРНОГО МЕСЯЦА АСТРОНОМИИ 2025 - GAM2025 GLOBAL LIVE - НОВОСТИ АСТРОНОМИИ</a></strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ОТ AWB)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-29-april-2025.php">ИТОГИ ВСЕМИРНОГО МЕСЯЦА АСТРОНОМИИ 2025 - GAM2025 GLOBAL LIVE - НОВОСТИ АСТРОНОМИИ</a></dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ОТ AWB)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>27 МАЯ 2025</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА: <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-27-may-2025.php">НОВАЯ КОСМИЧЕСКАЯ ГОНКА</a></strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: ЕКАТЕРИНА ДЕМЕТРИУ (СПЕЦИАЛИСТ ПО КОСМИЧЕСКИМ НАУКАМ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-27-may-2025.php">НОВАЯ КОСМИЧЕСКАЯ ГОНКА</a></dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ЕКАТЕРИНА ДЕМЕТРИУ (СПЕЦИАЛИСТ ПО КОСМИЧЕСКИМ НАУКАМ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>24 ИЮНЯ 2025</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА: <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-24-june-2025.php">ОТКРЫТИЯ АСТЕРОИДОВ, СДЕЛАННЫЕ В КИТИОНЕ - ДЕНЬ АСТЕРОИДОВ 2025</a></strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: АЛЕКСАНДР ПРОКОФЬЕВ (АСТРОФИЗИК, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ДНЮ АСТЕРОИДОВ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-24-june-2025.php">ОТКРЫТИЯ АСТЕРОИДОВ, СДЕЛАННЫЕ В КИТИОНЕ - ДЕНЬ АСТЕРОИДОВ 2025</a></dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> АЛЕКСАНДР ПРОКОФЬЕВ (АСТРОФИЗИК, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ДНЮ АСТЕРОИДОВ)</dd></dl>
+
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 ИЮЛЯ 2025</strong></div>
-<div class="block"><p><strong>ТЕМА: <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-29-july-2025.php">КВАНТОВАЯ ФОТОНИКА</a></strong></p>
-<p><strong>ДОКЛАДЧИК: </strong><strong>ИВИ АФКСЕНТИ (BSc физика, MSc физика (лазеры на свободных электронах), кандидат на степень PhD (квантовая фотоника))</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-29-july-2025.php">КВАНТОВАЯ ФОТОНИКА</a></dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> <strong>ИВИ АФКСЕНТИ (BSc физика, MSc физика (лазеры на свободных электронах), кандидат на степень PhD (квантовая фотоника))</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>26 АВГУСТА 2025</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА 1: <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ЗАТМЕНИЯ В ДРЕВНЕЙ ИНДИИ</a></strong></p>
-<p class="short"><strong>ТЕМА 2: <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">МЕЖДУНАРОДНАЯ ОЛИМПИАДА ПО АСТРОНОМИИ И АСТРОФИЗИКЕ 2025</a></strong></p>
-<p class="short"><strong>ТЕМА 3: <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">НОВОСТИ АСТРОНОМИИ - ПОЛНОЕ ЛУННОЕ ЗАТМЕНИЕ 7 СЕНТЯБРЯ 2025</a></strong></p>
-<p class="short"><strong>ДОКЛАДЧИК 1: АЛЕКСАНДР ПРОКОФЬЕВ (АСТРОФИЗИК, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p>
-<p class="short"><strong>ДОКЛАДЧИК 2: МАТВЕЙ ДУБИШКИН (УЧАЩИЙСЯ-ИССЛЕДОВАТЕЛЬ, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА 1</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ЗАТМЕНИЯ В ДРЕВНЕЙ ИНДИИ</a></dd><dt><strong>ТЕМА 2</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">МЕЖДУНАРОДНАЯ ОЛИМПИАДА ПО АСТРОНОМИИ И АСТРОФИЗИКЕ 2025</a></dd><dt><strong>ТЕМА 3</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">НОВОСТИ АСТРОНОМИИ - ПОЛНОЕ ЛУННОЕ ЗАТМЕНИЕ 7 СЕНТЯБРЯ 2025</a></dd><dt><strong>ДОКЛАДЧИК 1</strong></dt><dd> АЛЕКСАНДР ПРОКОФЬЕВ (АСТРОФИЗИК, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd><dt><strong>ДОКЛАДЧИК 2</strong></dt><dd> МАТВЕЙ ДУБИШКИН (УЧАЩИЙСЯ-ИССЛЕДОВАТЕЛЬ, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd></dl>
+
+
+
+
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 СЕНТЯБРЯ 2025</strong></div>
-<div class="block"><p><strong>ТЕМА: </strong><a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА 2025 - ЖИЗНЬ В КОСМОСЕ</strong></a></p>
-<p><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ВСЕМИРНОЙ НЕДЕЛЕ КОСМОСА (WSW))</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА 2025 - ЖИЗНЬ В КОСМОСЕ</strong></a></dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ВСЕМИРНОЙ НЕДЕЛЕ КОСМОСА (WSW))</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>28 ОКТЯБРЯ 2025</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА:</strong><a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-28-october-2025.php"><strong> АСТРОНОВОСТИ - КОМЕТА 3I / ATLAS</strong></a></p>
-<p class="short"><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd><a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-28-october-2025.php"><strong> АСТРОНОВОСТИ - КОМЕТА 3I / ATLAS</strong></a></dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>25 НОЯБРЯ 2025</strong></div>
-<div class="block"><p class="short"><strong>ТЕМА: <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-25-november-2025.php">ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В НАШЕЙ ЖИЗНИ</a></strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: <a href="https://www.nup.ac.cy/faculty/zach-anthis/" rel="noopener noreferrer" target="_blank">ЗАК АНТИС</a> (УНИВЕРСИТЕТ НЕАПОЛИС, ПАФОС, КИПР)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ТЕМА</strong></dt><dd> <a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-25-november-2025.php">ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В НАШЕЙ ЖИЗНИ</a></dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> <a href="https://www.nup.ac.cy/faculty/zach-anthis/" rel="noopener noreferrer" target="_blank">ЗАК АНТИС</a> (УНИВЕРСИТЕТ НЕАПОЛИС, ПАФОС, КИПР)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 ДЕКАБРЯ 2025</strong></div>
-<div class="block"><p class="short"><a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-30-december-2025.php"><strong>ТЕМА: ПОЗДРАВЛЕНИЯ С ПРАЗДНИКАМИ, МЕТЕОРНЫЙ ПОТОК ГЕМИНИДЫ, ПОЛНОЕ СОЛНЕЧНОЕ ЗАТМЕНИЕ 2026</strong></a></p>
-<p class="short"><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p>
-<p class="short"><strong>ДОКЛАДЧИК: АЛЕКСАНДР ПРОКОФЬЕВ (АСТРОФИЗИК, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-30-december-2025.php"><strong>ТЕМА</strong></a></dt><dd> ПОЗДРАВЛЕНИЯ С ПРАЗДНИКАМИ, МЕТЕОРНЫЙ ПОТОК ГЕМИНИДЫ, ПОЛНОЕ СОЛНЕЧНОЕ ЗАТМЕНИЕ 2026</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> АЛЕКСАНДР ПРОКОФЬЕВ (АСТРОФИЗИК, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd></dl>
+
+</div>
 </div>
 </div>
 <h2>Встречи 2024 "KITION Online Science Café"</h2>
@@ -200,8 +200,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><strong>25 ИЮНЯ 2024</strong></div>
 <div class="block"><p class="short"><a href="/ru/planetarium/science-cafe/2024/kition-science-cafe-25-june-2024.php"><strong> АСТЕРОИДЫ И ДИНОЗАВРЫ</strong></a></p>
-<p class="short"><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p>
-<p class="short"><strong>ПРИГЛАШЁННЫЙ ДОКЛАДЧИК: АЛЕКСИС ПАНТЕЛИДЕС (ПАЛЕОНТОЛОГ)</strong></p></div>
+<dl class="specs"><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (ДИРЕКТОР, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd><dt><strong>ПРИГЛАШЁННЫЙ ДОКЛАДЧИК</strong></dt><dd> АЛЕКСИС ПАНТЕЛИДЕС (ПАЛЕОНТОЛОГ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 ИЮЛЯ 2024</strong></div>
@@ -227,13 +227,13 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>26 НОЯБРЯ 2024</strong></div>
-<div class="block"><p><strong><a href="/ru/planetarium/science-cafe/2024/kition-science-cafe-26-november-2024.php">НАУКА О ПОВЕДЕНИИ И ЕЁ РОЛЬ В ТОМ, ЧТОБЫ ПОМОЧЬ ЛЮДЯМ ПОНЯТЬ НАСТОЯЩИЙ СПОСОБ ЖИТЬ! ДАВАЙТЕ ОТКРОЕМ ИНСТРУМЕНТЫ &amp; ПУТИ ЛИЧНОСТНОГО РОСТА ВО ВСЕХ СФЕРАХ ЖИЗНИ!</a></strong></p>
-<p><strong>ДОКЛАДЧИК: ЭМИЛИЯ НИКОЛАИДУ</strong> <strong>(BSc (Hons) оптометрия и наука о зрении, MSc психология, диплом по современной прикладной психологии, лайф-коуч с международной аккредитацией)</strong></p></div>
+<div class="block"><p><a href="/ru/planetarium/science-cafe/2024/kition-science-cafe-26-november-2024.php">НАУКА О ПОВЕДЕНИИ И ЕЁ РОЛЬ В ТОМ, ЧТОБЫ ПОМОЧЬ ЛЮДЯМ ПОНЯТЬ НАСТОЯЩИЙ СПОСОБ ЖИТЬ! ДАВАЙТЕ ОТКРОЕМ ИНСТРУМЕНТЫ &amp; ПУТИ ЛИЧНОСТНОГО РОСТА ВО ВСЕХ СФЕРАХ ЖИЗНИ!</a></p>
+<p>ДОКЛАДЧИК: ЭМИЛИЯ НИКОЛАИДУ (BSc (Hons) оптометрия и наука о зрении, MSc психология, диплом по современной прикладной психологии, лайф-коуч с международной аккредитацией)</p></div>
 </div>
 <div class="row">
 <div class="block"><strong>17 ДЕКАБРЯ 2024</strong></div>
-<div class="block"><p><a href="/ru/planetarium/science-cafe/2024/kition-science-cafe-17-december-2024.php"><strong>ТЕМА: ИЗМЕНЕНИЕ КЛИМАТА, ЭНЕРГОСБЕРЕЖЕНИЕ, СВЕТОВОЕ ЗАГРЯЗНЕНИЕ, ЭКОСИСТЕМА, БИОРАЗНООБРАЗИЕ</strong></a></p>
-<p><strong>ДОКЛАДЧИК: ГЕОРГИЙ ТРУЛЛИАС (ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/ru/planetarium/science-cafe/2024/kition-science-cafe-17-december-2024.php"><strong>ТЕМА</strong></a></dt><dd> ИЗМЕНЕНИЕ КЛИМАТА, ЭНЕРГОСБЕРЕЖЕНИЕ, СВЕТОВОЕ ЗАГРЯЗНЕНИЕ, ЭКОСИСТЕМА, БИОРАЗНООБРАЗИЕ</dd><dt><strong>ДОКЛАДЧИК</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd></dl>
+</div>
 </div>
 </div>
 <h2>Встречи 2023 "KITION Online Science Café"</h2>
@@ -271,12 +271,12 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>25 ИЮЛЯ 2023</strong></div>
-<div class="block"><p class="short"><strong><a href="/ru/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php">МЕТЕОРНЫЙ ПОТОК ПЕРСЕИДЫ 2023</a></strong></p>
-<p class="short"><a href="/ru/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php"><strong>ЭКСПЕДИЦИЯ 67 / КОНСТАНТИНОС ТРУЛЛИАС - ПЕРВЫЙ КИПРСКИЙ АНАЛОГОВЫЙ АСТРОНАВТ</strong></a></p></div>
+<div class="block"><ul class="link-list"><li><strong><a href="/ru/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php">МЕТЕОРНЫЙ ПОТОК ПЕРСЕИДЫ 2023</a></strong></li><li><a href="/ru/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php"><strong>ЭКСПЕДИЦИЯ 67 / КОНСТАНТИНОС ТРУЛЛИАС - ПЕРВЫЙ КИПРСКИЙ АНАЛОГОВЫЙ АСТРОНАВТ</strong></a></li></ul>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 АВГУСТА 2023</strong></div>
-<div class="block"><p class="short"><a href="/ru/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php"><strong>СИНЯЯ СУПЕРЛУНА И ПРОТИВОСТОЯНИЕ САТУРНА</strong></a></p>
+<div class="block"><div class="link-row"><p class="short"><a href="/ru/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php"><strong>СИНЯЯ СУПЕРЛУНА И ПРОТИВОСТОЯНИЕ САТУРНА</strong></a></p></div>
 <strong><a href="/ru/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php">
 <p class="short">ПЕРСЕИДЫ И БОЛИДЫ</p>
 <p class="short">ПЕРВАЯ ЗОЛОТАЯ МЕДАЛЬ КИПРА НА IOAA</p>
@@ -311,8 +311,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks">
 <div class="row">
 <div class="block"><strong>25 ЯНВАРЯ 2022</strong></div>
-<div class="block"><p class="short"><strong><a href="/ru/planetarium/science-cafe.php">КОМЕТЫ: ОТ ОТКРЫТИЯ ДО ФОТОГРАФИРОВАНИЯ</a></strong></p>
-<p class="short"><strong>ВЫСТУПАЕТ: МАРУН ХАБИБ (ЛИВАН)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong><a href="/ru/planetarium/science-cafe.php">КОМЕТЫ</a></strong></dt><dd> ОТ ОТКРЫТИЯ ДО ФОТОГРАФИРОВАНИЯ</dd><dt><strong>ВЫСТУПАЕТ</strong></dt><dd> МАРУН ХАБИБ (ЛИВАН)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>22 ФЕВРАЛЯ 2022</strong></div>
@@ -326,8 +326,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>26 АПРЕЛЯ 2022</strong></div>
-<div class="block"><p class="short"><strong><a href="/ru/planetarium/science-cafe/2022/kition-science-cafe-26-april-2022.php">ГНОМОН И ЕГО ТЕНИ В ДНИ СОЛНЦЕСТОЯНИЯ: УНИВЕРСАЛЬНАЯ ПАРАДИГМА?</a></strong></p>
-<p class="short"><strong>ВЫСТУПАЕТ: ПРОФ. РАУЛЬ ПЕРЕС ЭНРИКЕС (МЕКСИКА)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong><a href="/ru/planetarium/science-cafe/2022/kition-science-cafe-26-april-2022.php">ГНОМОН И ЕГО ТЕНИ В ДНИ СОЛНЦЕСТОЯНИЯ</a></strong></dt><dd> УНИВЕРСАЛЬНАЯ ПАРАДИГМА?</dd><dt><strong>ВЫСТУПАЕТ</strong></dt><dd> ПРОФ. РАУЛЬ ПЕРЕС ЭНРИКЕС (МЕКСИКА)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>31 МАЯ 2022</strong></div>
@@ -351,8 +351,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>27 СЕНТЯБРЯ 2022</strong></div>
-<div class="block"><p class="short"><a href="/ru/planetarium/science-cafe/2022/kition-science-cafe-27-september-2022.php"><strong>КОСМОС И УСТОЙЧИВОЕ РАЗВИТИЕ: ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА ООН 2022</strong></a></p>
-<p class="short"><strong>ВЫСТУПАЕТ: ГЕОРГИЙ ТРУЛЛИАС (ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/ru/planetarium/science-cafe/2022/kition-science-cafe-27-september-2022.php"><strong>КОСМОС И УСТОЙЧИВОЕ РАЗВИТИЕ</strong></a></dt><dd> ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА ООН 2022</dd><dt><strong>ВЫСТУПАЕТ</strong></dt><dd> ГЕОРГИЙ ТРУЛЛИАС (ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>25 ОКТЯБРЯ 2022</strong></div>
@@ -388,8 +388,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>16 ФЕВР</strong><strong>АЛЯ</strong><strong> 2021</strong></div>
-<div class="block"><p class="short"><a href="/ru/planetarium/science-cafe/2021/kition-science-cafe-16-february-2021.php" title="KITION Science Café"><strong>ИССЛЕДОВАНИЕ ЛУНЫ: С ЗЕМЛИ, ИЗ КОСМОСА И С ПОВЕРХНОСТИ ЛУНЫ</strong></a></p>
-<p class="short"><strong>ВЫСТУПАЕТ: АСТРОНОМ УИЛЬЯМ ДЖОЙС</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/ru/planetarium/science-cafe/2021/kition-science-cafe-16-february-2021.php" title="KITION Science Café"><strong>ИССЛЕДОВАНИЕ ЛУНЫ</strong></a></dt><dd> С ЗЕМЛИ, ИЗ КОСМОСА И С ПОВЕРХНОСТИ ЛУНЫ</dd><dt><strong>ВЫСТУПАЕТ</strong></dt><dd> АСТРОНОМ УИЛЬЯМ ДЖОЙС</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong> 02 МАРТА</strong><strong> 2021</strong></div>
@@ -449,7 +449,7 @@ require SITE_ROOT . '/includes/header.php';
 </div><div class="row">
 <div class="block"><strong>28 СЕН</strong><strong> 2021</strong></div>
 <div class="block"><p><a href="/ru/planetarium/science-cafe/2021/kition-science-cafe-28-september-2021.php" title="KITION Science Café"><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА 2021 - ЖЕНЩИНЫ В КОСМОСЕ</strong></a></p>
-<p><strong>ВЫСТУПАЕТ: ГЕОРГИЙ ТРУЛЛИАС (НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ВСЕМИРНОЙ НЕДЕЛЕ КОСМОСА ООН) И КЭТИ ДЕМЕТРИУ (СПЕЦИАЛИСТ ПО КОСМИЧЕСКИМ НАУКАМ)</strong></p></div>
+<p>ВЫСТУПАЕТ: ГЕОРГИЙ ТРУЛЛИАС (НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ВСЕМИРНОЙ НЕДЕЛЕ КОСМОСА ООН) И КЭТИ ДЕМЕТРИУ (СПЕЦИАЛИСТ ПО КОСМИЧЕСКИМ НАУКАМ)</p></div>
 </div><div class="row">
 <div class="block"><strong>26 ОКТ</strong><strong> 2021</strong></div>
 <div class="block"><p class="short"><a href="/ru/planetarium/science-cafe/2021/kition-science-cafe-26-october-2021.php" title="KITION Science Café"><strong>ЧТО ПРОИСХОДИТ С БЕТЕЛЬГЕЙЗЕ?</strong></a></p>
@@ -484,28 +484,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h3>АПРЕЛЯ <strong>–</strong> ВСЕМИРНЫЙ МЕСЯЦ АСТРОНОМИИ 2016</h3>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>6 АПРЕЛЯ </strong></div>
-<div class="block"><strong>"ЮПИТЕР — КОРОЛЬ ПЛАНЕТ"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>13 АПРЕЛЯ</strong></div>
-<div class="block"><strong>“ИССЛЕДОВАНИЯ ЛУНЫ”<br/> </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>4 МАЯ</strong></div>
-<div class="block"><strong>“ВСЕЛЕННАЯ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>11 МАЯ</strong></div>
-<div class="block"><strong>“КАК НАБЛЮДАТЬ НЛО”</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>25 МАЯ</strong></div>
-<div class="block"><strong>“КОЛОНИЗАЦИЯ МАРСА” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>6 АПРЕЛЯ </strong></th><th scope="col"><strong>"ЮПИТЕР — КОРОЛЬ ПЛАНЕТ"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>13 АПРЕЛЯ</strong></th><th scope="col"><strong>“ИССЛЕДОВАНИЯ ЛУНЫ”<br/> </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>4 МАЯ</strong></th><th scope="col"><strong>“ВСЕЛЕННАЯ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>11 МАЯ</strong></th><th scope="col"><strong>“КАК НАБЛЮДАТЬ НЛО”</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>25 МАЯ</strong></th><th scope="col"><strong>“КОЛОНИЗАЦИЯ МАРСА” </strong></th></tr></table></div>
 <h2>2015 "KITION SCIENCE CAFÉ" МЕЖДУНАРОДНЫЙ ГОД СВЕТА И СВЕТОВЫХ ТЕХНОЛОГИЙ</h2>
 <div class="blocks">
 <div class="row">
@@ -526,64 +505,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h3>АПРЕЛЯ <strong>–</strong> ВСЕМИРНЫЙ МЕСЯЦ АСТРОНОМИИ</h3>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>8 АПРЕЛЯ </strong></div>
-<div class="block"><strong>"КОСМИЧЕСКАЯ ПРОГУЛКА АПРЕЛЯ"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>15 АПРЕЛЯ </strong></div>
-<div class="block"><strong>"ЗЕМЛЯ НОЧЬЮ"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>22 АПРЕЛЯ</strong></div>
-<div class="block"><strong>“ИССЛЕДОВАНИЯ ЛУНЫ”<br/> </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>29 АПРЕЛЯ</strong></div>
-<div class="block"><strong>“ИССЛЕДОВАНИЯ ЛУНЫ”<br/> </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>13 МАЯ</strong></div>
-<div class="block"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>27 МАЯ</strong></div>
-<div class="block"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>14 ОКТЯБРЯ</strong></div>
-<div class="block"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>28 ОКТЯБРЯ</strong></div>
-<div class="block"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>18 НОЯБРЯ</strong></div>
-<div class="block"><strong>“КОЛОНИЗАЦИЯ МАРСА” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>25 НОЯБРЯ</strong></div>
-<div class="block"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>2 ДЕКАБРЯ</strong></div>
-<div class="block"><strong>“ЖЕМЧУЖИНЫ ЗВЁЗДНОГО НЕБА” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>9 ДЕКАБРЯ</strong></div>
-<div class="block"><strong>“ВЕЧНАЯ ЛЮБОВЬ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>23 ДЕКАБРЯ</strong></div>
-<div class="block"><strong>“КАК НАБЛЮДАТЬ НЛО”</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>30 ДЕКАБРЯ</strong></div>
-<div class="block"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>8 АПРЕЛЯ </strong></th><th scope="col"><strong>"КОСМИЧЕСКАЯ ПРОГУЛКА АПРЕЛЯ"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>15 АПРЕЛЯ </strong></th><th scope="col"><strong>"ЗЕМЛЯ НОЧЬЮ"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>22 АПРЕЛЯ</strong></th><th scope="col"><strong>“ИССЛЕДОВАНИЯ ЛУНЫ”<br/> </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>29 АПРЕЛЯ</strong></th><th scope="col"><strong>“ИССЛЕДОВАНИЯ ЛУНЫ”<br/> </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>13 МАЯ</strong></th><th scope="col"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>27 МАЯ</strong></th><th scope="col"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>14 ОКТЯБРЯ</strong></th><th scope="col"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>28 ОКТЯБРЯ</strong></th><th scope="col"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>18 НОЯБРЯ</strong></th><th scope="col"><strong>“КОЛОНИЗАЦИЯ МАРСА” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>25 НОЯБРЯ</strong></th><th scope="col"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>2 ДЕКАБРЯ</strong></th><th scope="col"><strong>“ЖЕМЧУЖИНЫ ЗВЁЗДНОГО НЕБА” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>9 ДЕКАБРЯ</strong></th><th scope="col"><strong>“ВЕЧНАЯ ЛЮБОВЬ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>23 ДЕКАБРЯ</strong></th><th scope="col"><strong>“КАК НАБЛЮДАТЬ НЛО”</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>30 ДЕКАБРЯ</strong></th><th scope="col"><strong>ПРЕЗЕНТАЦИЯ - ДИСКУССИЯ “АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ” </strong></th></tr></table></div>
 <h2>2014 "KITION Science Café"</h2>
 <div class="blocks">
 <div class="row">
@@ -684,28 +606,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>2013 "KITION Science Café"</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>10 АПРЕЛЯ</strong></div>
-<div class="block"><strong>ЛЕКЦИЯ “STARPEACE” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>22 СЕНТЯБРЯ</strong></div>
-<div class="block"><strong>“ЩИТ АЯКСА” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>9 ОКТЯБРЯ</strong></div>
-<div class="block"><strong>“ИССЛЕДУЯ МАРС, ОТКРЫВАЯ ЗЕМЛЮ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>11 ДЕКАБРЯ</strong></div>
-<div class="block"><strong>ЛЕКЦИЯ “КОСМИЧЕСКИЕ ИССЛЕДОВАНИЯ НА МОНЕТАХ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>18 ДЕКАБРЯ</strong></div>
-<div class="block"><strong>ЛЕКЦИЯ “КОМЕТЫ МЕСЯЦА” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>10 АПРЕЛЯ</strong></th><th scope="col"><strong>ЛЕКЦИЯ “STARPEACE” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>22 СЕНТЯБРЯ</strong></th><th scope="col"><strong>“ЩИТ АЯКСА” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>9 ОКТЯБРЯ</strong></th><th scope="col"><strong>“ИССЛЕДУЯ МАРС, ОТКРЫВАЯ ЗЕМЛЮ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>11 ДЕКАБРЯ</strong></th><th scope="col"><strong>ЛЕКЦИЯ “КОСМИЧЕСКИЕ ИССЛЕДОВАНИЯ НА МОНЕТАХ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>18 ДЕКАБРЯ</strong></th><th scope="col"><strong>ЛЕКЦИЯ “КОМЕТЫ МЕСЯЦА” </strong></th></tr></table></div>
 <h2>2012 "KITION Science Café"</h2>
 <div class="blocks">
 <div class="row">
@@ -729,35 +630,9 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>2009 "KITION Science Café" - МЕЖДУНАРОДНЫЙ ГОД АСТРОНОМИИ</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>27 АВГУСТА</strong></div>
-<div class="block"><strong>МАРСИАНСКАЯ МИСТИФИКАЦИЯ</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>6 ОКТЯБРЯ</strong></div>
-<div class="block"><p class="short"><strong>"ЦИФРОВАЯ МОДЕЛЬ НОЧНОГО НЕБА" ДОКЛАДЧИК: </strong> <strong>ЯННОС ИОАННУ, АСТРОНОМ</strong></p></div>
-</div>
-<div class="row">
-<div class="block"><strong>27 НОЯБРЯ</strong></div>
-<div class="block"><strong>ЛЕКЦИИ - ОБСУЖДЕНИЯ “ЮПИТЕР И НАШ СПУТНИК ЛУНА"</strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>27 АВГУСТА</strong></th><th scope="col"><strong>МАРСИАНСКАЯ МИСТИФИКАЦИЯ</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>6 ОКТЯБРЯ</strong></th><th scope="col"><strong>"ЦИФРОВАЯ МОДЕЛЬ НОЧНОГО НЕБА" ДОКЛАДЧИК: </strong> <strong>ЯННОС ИОАННУ, АСТРОНОМ</strong> </th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>27 НОЯБРЯ</strong></th><th scope="col"><strong>ЛЕКЦИИ - ОБСУЖДЕНИЯ “ЮПИТЕР И НАШ СПУТНИК ЛУНА"</strong></th></tr></table></div>
 <h2>2008 "KITION Science Café"</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>11 ОКТЯБРЯ</strong></div>
-<div class="block"><strong>КОФЕ И ОБРАЗОВАТЕЛЬНАЯ ЛЕКЦИЯ ПО АСТРОНОМИИ</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>14 НОЯБРЯ</strong></div>
-<div class="block"><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА "КОСМОС ДЛЯ ОБРАЗОВАНИЯ"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>26 НОЯБРЯ</strong></div>
-<div class="block"><strong>КОФЕ И КОСМИЧЕСКОЕ ОБРАЗОВАНИЕ</strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>11 ОКТЯБРЯ</strong></th><th scope="col"><strong>КОФЕ И ОБРАЗОВАТЕЛЬНАЯ ЛЕКЦИЯ ПО АСТРОНОМИИ</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>14 НОЯБРЯ</strong></th><th scope="col"><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА "КОСМОС ДЛЯ ОБРАЗОВАНИЯ"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>26 НОЯБРЯ</strong></th><th scope="col"><strong>КОФЕ И КОСМИЧЕСКОЕ ОБРАЗОВАНИЕ</strong></th></tr></table></div>
 <p>Чтобы принять участие во встрече "KITION Science Café" в наших помещениях, необходимо заранее записаться.</p>
 <p>Чтобы принять участие во встрече "KITION Science Café" онлайн, достаточно перейти по ссылке, предоставленной для встречи.</p>
 <p>Вы можете поделиться с нами своими идеями или темами, которые хотели бы увидеть на встрече "KITION Science Café" в ближайшем будущем.</p>

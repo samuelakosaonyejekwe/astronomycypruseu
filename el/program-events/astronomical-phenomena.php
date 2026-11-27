@@ -18,7 +18,7 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h3><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">ΑΣΤΡΟΝΟΜΙΚΑ ΦΑΙΝΟΜΕΝΑ ΤΟΥ ΕΤΟΥΣ 2026 Πηγή: SeaSky</a></strong></h3>
 <h2><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="681" decoding="async" height="300" loading="lazy" src="/images/astronomical-phenomena-of-the-year.JPG" width="681"/></a></h2>
-<p class="short"><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">Πατήστε εδώ για να μάθετε περισσότερα...</a></strong></p>
+<div class="link-row"><p class="short"><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">Πατήστε εδώ για να μάθετε περισσότερα...</a></strong></p></div>
 <h2><strong>ΘΕΜΕΛΙΩΔΕΙΣ ΕΚΔΗΛΩΣΕΙΣ</strong></h2>
 <p class="short"><a href="/el/projects/international-projects/earth-hour-60+.php"><em>Ώρα της Γης 60+ - 28 Μαρτίου 2026</em></a></p>
 <p class="short"><a href="/el/program-events/public-events/march-2026/18-years-anniversary-13-march-2026.php"><em>ΕΟΡΤΑΣΜΟΙ 18ΗΣ ΕΠΕΤΕΙΟΥ</em></a></p>

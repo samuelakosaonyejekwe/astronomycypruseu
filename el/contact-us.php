@@ -19,10 +19,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><a href="/images/gift-shop/visit-our-gift-shop.jpg"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p></div><div class="block"><p><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></p><p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p></div></div></div>
 
 
-<p class="short"><strong>Διεύθυνση:</strong> Αμμοχώστου 9, Κίτι, 7550 <br/>Επαρχία Λάρνακας<br/> Κύπρος</p>
-<p class="short">Συντεταγμένες: 34.8440156N, 33.5757433E</p>
-<p class="short"><strong>Τηλ.:</strong> +357 99 99 11 11 <br/> <strong>Τηλ.:</strong> +357 24 42 53 00</p>
-<p class="short"><strong>Ηλεκτρονικά ταχυδρομεία:</strong></p>
+<dl class="specs"><dt><strong>Διεύθυνση</strong></dt><dd> Αμμοχώστου 9, Κίτι, 7550 <br/>Επαρχία Λάρνακας<br/> Κύπρος</dd><dt>Συντεταγμένες</dt><dd> 34.8440156N, 33.5757433E</dd><dt><strong>Τηλ.</strong></dt><dd> +357 99 99 11 11 <br/> <strong>Τηλ.:</strong> +357 24 42 53 00</dd></dl>
+
+
+<p class="lead short"><strong>Ηλεκτρονικά ταχυδρομεία:</strong></p>
 <p class="short"><a href="mailto:planetarium@cytanet.com.cy">@ Κίτιον Πλανητάριο<br/> </a> <a href="mailto:observatory@cytanet.com.cy">@ Κίτιον Αστεροσκοπείο</a> <a href="mailto:spacewalk@cytanet.com.cy"><br/> @ Αιτήματα γενικών πληροφοριών</a></p>
 <p class="short">ΧΑΡΤΗΣ GOOGLE</p>
 <p><iframe allowfullscreen="" loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2709.2756356046416!2d33.57574261462543!3d34.84404558303632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14e09b5f9f11e867%3A0x72c8749395ddf02!2sKITION%20PLANETARIUM%20%26%20OBSERVATORY!5e1!3m2!1sen!2s!4v1605702887267!5m2!1sen!2s" title="Embedded content"></iframe>

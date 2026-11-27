@@ -19,12 +19,12 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><a href="/images/gift-shop/visit-our-gift-shop.jpg"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p></div><div class="block"><p><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></p><p class="short"> KITION PLANETARIUM &amp; OBSERVATORY </p></div></div></div>
 
 
-<p class="short"><strong>Address:</strong> 9 Ammochostou, Kiti, 7550 <br/>Larnaca District<br/>
- Cyprus</p>
-<p class="short">Coordinates: 34.8440156N, 33.5757433E</p>
-<p class="short"> <strong>Tel:</strong> +357 99 99 11 11 <br/>
-<strong>Tel:</strong> +357 24 42 53 00</p>
-<p class="short"> <strong>E-mails:</strong></p>
+<dl class="specs"><dt><strong>Address</strong></dt><dd> 9 Ammochostou, Kiti, 7550 <br/>Larnaca District<br/>
+ Cyprus</dd><dt>Coordinates</dt><dd> 34.8440156N, 33.5757433E</dd><dt> <strong>Tel</strong></dt><dd> +357 99 99 11 11 <br/>
+<strong>Tel:</strong> +357 24 42 53 00</dd></dl>
+
+
+<p class="lead short"> <strong>E-mails:</strong></p>
 <p class="short"> <a href="mailto:planetarium@cytanet.com.cy">@ Kition Planetarium<br/>
 </a> <a href="mailto:observatory@cytanet.com.cy">@ Kition Observatory</a> <a href="mailto:spacewalk@cytanet.com.cy"><br/>
  @ General Information Requests</a></p>

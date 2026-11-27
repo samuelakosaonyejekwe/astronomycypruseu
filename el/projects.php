@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Θεωρώντας την αστρονομία έναν ενεργό τρόπο ζωής για την κοινωνία, το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ διοργανώνει και συμμετέχει σε πολλά <a href="/el/charity.php">Φιλανθρωπικά Έργα και Εκδηλώσεις</a>.</p>
 <p><strong>Διεθνής Αστρονομική Ένωση</strong>.</p>
 <p>Ο οργανισμός μας είναι το Εθνικό Σημείο Επαφής της Κύπρου για το Διεθνές Έτος Φωτός και Τεχνολογιών που Βασίζονται στο Φως 2015, που διεξήχθη από την UNESCO και τη IAU.</p>
-<p>Στα Ενημερωτικά Δελτία της IAU επισημάνθηκε ότι διοργανώσαμε πολλές διαφορετικές <a href="https://www.iau.org/public/publications/newsletter/2015_06/" rel="noopener noreferrer" target="_blank">εκδηλώσεις ενημέρωσης του κοινού</a>, συμπεριλαμβανομένων ηλιακών παρατηρήσεων, και παρουσιάσαμε ειδικό πρόγραμμα για την Κύπρο κατά την <a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank">Παγκόσμια Εβδομάδα Διαστήματος των Ηνωμένων Εθνών</a><a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank"> το 2015</a> υπό την εποπτεία και με τη συμμετοχή του οργανισμού μας.</p></div>
+<p>Στα Ενημερωτικά Δελτία της IAU επισημάνθηκε ότι διοργανώσαμε πολλές διαφορετικές <a href="https://www.iau.org/public/publications/newsletter/2015_06/" rel="noopener noreferrer" target="_blank">εκδηλώσεις ενημέρωσης του κοινού</a>, συμπεριλαμβανομένων ηλιακών παρατηρήσεων, και παρουσιάσαμε ειδικό πρόγραμμα για την Κύπρο κατά την <a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank">Παγκόσμια Εβδομάδα Διαστήματος των Ηνωμένων Εθνών το 2015</a> υπό την εποπτεία και με τη συμμετοχή του οργανισμού μας.</p></div>
 </div>
 </div>
 </article>

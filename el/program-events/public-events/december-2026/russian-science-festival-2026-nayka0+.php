@@ -32,22 +32,22 @@ require SITE_ROOT . '/includes/header.php';
 
 <h2>Οι προβολές των ταινιών γίνονται με αγγλικούς υπότιτλους.</h2>
 <p>Μετά από κάθε προβολή, όσοι επιθυμούν θα μπορούν να συνεχίσουν τη γνωριμία τους με το διάστημα:</p>
-<p>• να παρατηρήσουν τον ουρανό του Δεκεμβρίου με τα τηλεσκόπια του αστεροσκοπείου·</p>
-<p>• να επισκεφθούν τη διαστημική έκθεση του πλανηταρίου·</p>
-<p>• να δουν αληθινούς μετεωρίτες, δείγματα διαστημικής τροφής και μοντέλα διαστημικών οχημάτων.</p>
+<ul class="items"><li>να παρατηρήσουν τον ουρανό του Δεκεμβρίου με τα τηλεσκόπια του αστεροσκοπείου·</li><li>να επισκεφθούν τη διαστημική έκθεση του πλανηταρίου·</li><li>να δουν αληθινούς μετεωρίτες, δείγματα διαστημικής τροφής και μοντέλα διαστημικών οχημάτων.</li></ul>
+
+
 <h2><strong><br/> <br/> 5 ΔΕΚΕΜΒΡΙΟΥ </strong></h2>
-<p class="short"><strong><a href="https://astronomycyprus.eu/gift-shop/product/a-year-in-orbit/" rel="noopener noreferrer" target="_blank">17:00 ΤΑΙΝΙΑ «ΕΝΑΣ ΧΡΟΝΟΣ ΣΕ ΤΡΟΧΙΑ»</a></strong></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-1800/" rel="noopener noreferrer" target="_blank"><strong>18:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></h3>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/survival-in-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ΤΑΙΝΙΑ «ΕΠΙΒΙΩΣΗ ΣΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></h3>
+<ul class="link-list"><li><strong><a href="https://astronomycyprus.eu/gift-shop/product/a-year-in-orbit/" rel="noopener noreferrer" target="_blank">17:00 ΤΑΙΝΙΑ «ΕΝΑΣ ΧΡΟΝΟΣ ΣΕ ΤΡΟΧΙΑ»</a></strong></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-1800/" rel="noopener noreferrer" target="_blank"><strong>18:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/survival-in-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ΤΑΙΝΙΑ «ΕΠΙΒΙΩΣΗ ΣΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></li></ul>
+
+
+
 <h2><strong><br/> <br/> 12 ΔΕΚΕΜΒΡΙΟΥ </strong></h2>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/back-to-the-moon/" rel="noopener noreferrer" target="_blank"><strong>17:00 ΤΑΙΝΙΑ «ΕΠΙΣΤΡΟΦΗ ΣΤΗ ΣΕΛΗΝΗ»</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-1800/" rel="noopener noreferrer" target="_blank">18:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</a></h3>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/open-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ΤΑΙΝΙΑ «ΑΝΟΙΧΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></h3>
+<ul class="link-list"><li><a href="https://astronomycyprus.eu/gift-shop/product/back-to-the-moon/" rel="noopener noreferrer" target="_blank"><strong>17:00 ΤΑΙΝΙΑ «ΕΠΙΣΤΡΟΦΗ ΣΤΗ ΣΕΛΗΝΗ»</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-1800/" rel="noopener noreferrer" target="_blank">18:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/open-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ΤΑΙΝΙΑ «ΑΝΟΙΧΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></li></ul>
+
+
+
 <h2><strong>ΚΟΣΤΟΣ ΚΑΙ ΟΡΟΙ ΣΥΜΜΕΤΟΧΗΣ</strong></h2>
-<p class="short">• Οι επιστημονικές προβολές ταινιών στις 5 και 12 Δεκεμβρίου — δωρεάν.</p>
-<p>• Παρατηρήσεις με τηλεσκόπια και επίσκεψη στη διαστημική έκθεση — 7 €.</p>
+<ul class="items"><li>Οι επιστημονικές προβολές ταινιών στις 5 και 12 Δεκεμβρίου — δωρεάν.</li><li>Παρατηρήσεις με τηλεσκόπια και επίσκεψη στη διαστημική έκθεση — 7 €.</li></ul>
+
 <p><strong>Ελάτε με όλη την οικογένεια!</strong> Σας περιμένει γνωριμία με τις διαστημικές τεχνολογίες και ένα ταξίδι στο Σύμπαν μέσα από το επιστημονικό σινεμά.</p>
 <p>Θα ανακαλύψουμε την επιστήμη μαζί!</p></div>
 </div>

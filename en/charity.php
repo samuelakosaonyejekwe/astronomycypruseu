@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row gallery captioned tiles"><div class="block">
 <p><a href="/en/charity/christina-a-apostolou-foundation.php"><img alt="CHRISTINA A. APOSTOLOU FOUNDATION" data-nw="290" decoding="async" height="200" loading="lazy" src="/images/charity/christina-apostolou-festival/chr_a_apostolou_logo.png" width="200"/></a></p>
 
-<h2><a href="/en/charity/christina-a-apostolou-foundation.php">CHRISTINA A. APOSTOLOU </a><a href="/en/charity/christina-a-apostolou-foundation.php">FOUNDATION</a></h2>
+<h2><a href="/en/charity/christina-a-apostolou-foundation.php">CHRISTINA A. APOSTOLOU FOUNDATION</a></h2>
 </div><div class="block">
 <p><a href="/en/charity/rmhc-cyprus.php"><img alt="" data-nw="225" decoding="async" height="91" loading="lazy" src="/images/charity/rmhc-cyprus/rmhc-cyprus-logo.png" width="225"/></a></p>
 

@@ -28,14 +28,14 @@ require SITE_ROOT . '/includes/header.php';
 
 <p><strong>ПРИСОЕДИНЯЙТЕСЬ К НАМ ОНЛАЙН</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p>Присоединяйтесь к нашей космической прогулке!</p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
-<p>ССЫЛКИ:</p>
+<p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p class="short">ПОСЕТИТЕ НАШУ СТРАНИЦУ В FACEBOOK...</p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
 </div>

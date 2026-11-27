@@ -28,7 +28,7 @@ require SITE_ROOT . '/includes/header.php';
 </source></video>
 <p>Всемирный месяц астрономии (GAM), проходящий в 12-й раз, организуют «Астрономы без границ», и это крупнейший в мире ежегодный глобальный праздник астрономии.</p>
 
-<p>Каждый GAM приносит новые космические идеи и новые возможности, и GAM 2021 не исключение:</p>
+<p class="lead">Каждый GAM приносит новые космические идеи и новые возможности, и GAM 2021 не исключение:</p>
 <p>он объединяет любителей ночного неба по всему миру, чтобы отметить девиз «Астрономов без границ»</p>
 <h3>«Один народ, одно небо».</h3>
 <p>«Астрономы без границ» способствуют взаимопониманию и доброй воле поверх национальных и культурных границ, выстраивая отношения благодаря универсальной притягательности астрономии.</p>
@@ -54,7 +54,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1366" decoding="async" height="309" loading="lazy" src="/images/global-astronomy-month/gam2021-poster.jpg" width="550"/></p></div><div class="block"><h2><strong>Главные программы</strong></h2><p class="short">Глобальная звёздная вечеринка и День Солнца</p><p class="short">Тематические мероприятия в Facebook</p><p class="short">Астроискусство: поэзия и изобразительное искусство</p><h2><strong>Партнёры</strong></h2><p class="short">Кампания по поиску астероидов: Международное сотрудничество по астрономическому поиску</p><p class="short">Наблюдательные задания: Астрономическая лига</p><p class="short">Проект гражданской науки Globe at Night: Globe at Night</p><p class="short">Неделя осведомлённости о тёмном небе: Международная ассоциация тёмного неба</p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1366" decoding="async" height="309" loading="lazy" src="/images/global-astronomy-month/gam2021-poster.jpg" width="550"/></p></div><div class="block"><h2><strong>Главные программы</strong></h2><p class="short">Глобальная звёздная вечеринка и День Солнца</p><p class="short">Тематические мероприятия в Facebook</p><p class="short">Астроискусство: поэзия и изобразительное искусство</p><h2><strong>Партнёры</strong></h2><dl class="specs"><dt>Кампания по поиску астероидов</dt><dd> Международное сотрудничество по астрономическому поиску</dd><dt>Наблюдательные задания</dt><dd> Астрономическая лига</dd><dt>Проект гражданской науки Globe at Night</dt><dd> Globe at Night</dd><dt>Неделя осведомлённости о тёмном небе</dt><dd> Международная ассоциация тёмного неба</dd></dl></div></div></div>
 
 
 
@@ -76,9 +76,9 @@ require SITE_ROOT . '/includes/header.php';
 <p>Наши <strong>тематические мероприятия в Facebook</strong> развиваются с первого Всемирного месяца астрономии, а вместе с ними растёт и число подписчиков в социальных сетях. Это также стало удобным местом, где наши международные участники и специалисты общаются с публикой и друг с другом. Наши тематические <a href="https://www.facebook.com/gam.awb/videos/?ref=page_internal" rel="noopener noreferrer" target="_blank">прямые эфиры в Facebook</a> с GAM 2020 стали неотъемлемой частью жизни нашего сообщества.<br/> <br/> Темы варьируются от того, чем занимаются национальные координаторы на местах, до звёздных преданий коренных народов Австралии, путешествий по далёким галактикам и шаровым скоплениям (объекты Мессье), уроков рисования лунных кратеров, отражения от Луны изображения и звука или космического концерта. Эти очень популярные и увлекательные онлайн-мероприятия собирают аудиторию без географических границ.</p>
 <p>Программы <strong>AstroArts</strong> и <strong>AstroPoetry</strong> развивались на протяжении многих лет. AWB организовала и провела конкурсы AstroArts и AstroPoetry, чтобы побудить людей всех возрастов и культур к созданию произведений искусства и стихов. Эти конкурсы побудили многих не только поделиться любовью к ночному небу, но и углубить знания об астрономической науке. <br/> <br/> В конкурсах AstroArts и AstroPoetry, как художественных, так и поэтических, могли участвовать и дети, и взрослые. В результате поступили сотни работ, различавшихся используемыми материалами, рифмой или белым стихом, карандашом или цветом. В них отразилось, как выглядят планеты, как человек ступил на Луну или как дети видят себя путешествующими по космосу, в словах и картинах.</p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
-<p><strong>ССЫЛКИ:</strong></p>
+<p class="lead"><strong>ССЫЛКИ:</strong></p>
 <h3><strong>АСТРОНОМЫ БЕЗ ГРАНИЦ</strong></h3>
-<p class="short"><a href="https://www.astronomerswithoutborders.org" rel="noopener noreferrer" target="_blank" title="www.astronomerswithoutborders.org">www.astronomerswithoutborders.org</a></p>
+<div class="link-row"><p class="short"><a href="https://www.astronomerswithoutborders.org" rel="noopener noreferrer" target="_blank" title="www.astronomerswithoutborders.org">www.astronomerswithoutborders.org</a></p></div>
 <h3><strong>МЕЖДУНАРОДНЫЙ КАЛЕНДАРЬ МЕРОПРИЯТИЙ</strong></h3>
 <p class="short">https://my.astronomerswithoutborders.org/events/calendar</p>
 </div>

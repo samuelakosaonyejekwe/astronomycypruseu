@@ -41,11 +41,11 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block">
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
-<p><strong>ССЫЛКИ:</strong></p>
+<p class="lead"><strong>ССЫЛКИ:</strong></p>
 <h3>САЙТ НОЧИ ЮРИЯ</h3>
-<p class="short"><a href="https://www.yurisnight.net" rel="noopener noreferrer" target="_blank"><strong>https://www.yurisnight.net</strong></a></p>
+<div class="link-row"><p class="short"><a href="https://www.yurisnight.net" rel="noopener noreferrer" target="_blank"><strong>https://www.yurisnight.net</strong></a></p></div>
 <h3><strong>НОЧЬ ЮРИЯ В TWITTER</strong></h3>
-<p class="short"><a href="https://twitter.com/yurisnight" rel="noopener noreferrer" target="_blank">https://twitter.com/yurisnight</a></p>
+<div class="link-row"><p class="short"><a href="https://twitter.com/yurisnight" rel="noopener noreferrer" target="_blank">https://twitter.com/yurisnight</a></p></div>
 </div>
 </div>
 </div>

@@ -22,7 +22,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="5728" decoding="async" height="854" loading="lazy" src="/images/wsw/wsw2025/wsw2025-poster-cyprus.jpg" width="600"/></p></div><div class="block"><p class="short">Мероприятия WSW на <strong>Кипре</strong> включают:</p><p class="short"><strong>● ВТОРНИК, 30 СЕНТЯБРЯ 2025, ВРЕМЯ: 20:00 (UTC+3) </strong></p><p class="short"><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> (ЧЕРЕЗ ZOOM)</p><p><a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>20:00 ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА 2025 — «ЖИЗНЬ В КОСМОСЕ» — ОНЛАЙН-SCIENCE CAFÉ</strong></a></p><p><strong>Докладчик: Георгиос Труллиас (национальный координатор Кипра во Всемирной неделе космоса ООН)</strong></p><p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p><p class="short"><strong>Идентификатор встречи: 831 2336 2644</strong></p><p class="short"><strong>Код доступа: kition</strong></p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="5728" decoding="async" height="854" loading="lazy" src="/images/wsw/wsw2025/wsw2025-poster-cyprus.jpg" width="600"/></p></div><div class="block"><p class="lead short">Мероприятия WSW на <strong>Кипре</strong> включают:</p><p class="short"><strong>● ВТОРНИК, 30 СЕНТЯБРЯ 2025, ВРЕМЯ: 20:00 (UTC+3) </strong></p><p class="short"><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> (ЧЕРЕЗ ZOOM)</p><p><a href="/ru/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>20:00 ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА 2025 — «ЖИЗНЬ В КОСМОСЕ» — ОНЛАЙН-SCIENCE CAFÉ</strong></a></p><p><strong>Докладчик: Георгиос Труллиас (национальный координатор Кипра во Всемирной неделе космоса ООН)</strong></p><p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p><dl class="specs"><dt><strong>Идентификатор встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl></div></div></div>
 
 
 
@@ -62,7 +62,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="960" decoding="async" height="394" loading="lazy" src="/images/wsw/wsw2025/wsw2025-supermoon-7-october-2025.jpg" width="700"/></p></div><div class="block"><p class="short"><strong>● СРЕДА, 8 ОКТЯБРЯ 2025 </strong>ВРЕМЯ: 20:00 (UTC+3)</p><p class="short">ОНЛАЙН-ВСТРЕЧА В ZOOM</p><p class="short"><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА 2025 «ЖИЗНЬ В КОСМОСЕ» </strong></p><p class="short"><strong>СПЕКТРОСКОПИЧЕСКАЯ ОБСЕРВАТОРИЯ ХАГГИНСА (ВЕЛИКОБРИТАНИЯ)</strong></p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p><p class="short"><strong>Идентификатор встречи: 831 2336 2644</strong></p><p class="short"><strong>Код доступа: kition</strong></p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="960" decoding="async" height="394" loading="lazy" src="/images/wsw/wsw2025/wsw2025-supermoon-7-october-2025.jpg" width="700"/></p></div><div class="block"><p class="short"><strong>● СРЕДА, 8 ОКТЯБРЯ 2025 </strong>ВРЕМЯ: 20:00 (UTC+3)</p><p class="short">ОНЛАЙН-ВСТРЕЧА В ZOOM</p><p class="short"><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА 2025 «ЖИЗНЬ В КОСМОСЕ» </strong></p><p class="short"><strong>СПЕКТРОСКОПИЧЕСКАЯ ОБСЕРВАТОРИЯ ХАГГИНСА (ВЕЛИКОБРИТАНИЯ)</strong></p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p><dl class="specs"><dt><strong>Идентификатор встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl></div></div></div>
 
 
 
@@ -105,15 +105,15 @@ require SITE_ROOT . '/includes/header.php';
 <h2>Пожалуйста, ознакомьтесь с основными событиями Всемирной недели космоса 2025</h2>
 <h2>Что такое Всемирная неделя космоса?</h2>
 <p>Всемирная неделя космоса — это международный праздник науки и технологий и их вклада в улучшение условий жизни человечества. Генеральная Ассамблея Организации Объединённых Наций объявила в 1999 году, что Всемирная неделя космоса будет проводиться ежегодно с 4 по 10 октября. Эти даты отмечают два события:</p>
-<p>* 4 октября 1957 года: запуск первого искусственного спутника Земли «Спутник-1», открывший путь к освоению космоса</p>
-<p>* 10 октября 1967 года: подписание Договора о принципах деятельности государств по исследованию и мирному использованию космического пространства, включая Луну и другие небесные тела.</p>
+<ul class="items"><li>4 октября 1957 года: запуск первого искусственного спутника Земли «Спутник-1», открывший путь к освоению космоса</li><li>10 октября 1967 года: подписание Договора о принципах деятельности государств по исследованию и мирному использованию космического пространства, включая Луну и другие небесные тела.</li></ul>
+
 <p>Всемирная неделя космоса состоит из образовательных и просветительских космических мероприятий, которые проводят космические агентства, аэрокосмические компании, школы, планетарии, музеи и астрономические клубы по всему миру в единые сроки. Эти синхронизированные космические мероприятия привлекают больше внимания общественности и СМИ. Всемирная неделя космоса 2023 года достигла рекордного масштаба:</p>
-<p>* более 16 000 мероприятий</p>
-<p class="short">* мероприятия в 80 странах</p>
+<ul class="items"><li>более 16 000 мероприятий</li><li>мероприятия в 80 странах</li></ul>
+
 <h3>Всемирная неделя космоса координируется Организацией Объединённых Наций при поддержке Ассоциации Всемирной недели космоса (WSWA). WSWA руководит глобальной командой национальных координаторов, которые продвигают проведение Всемирной недели космоса в своих странах.</h3>
 <h2>Общая аудитория с 2007 года:</h2>
-<p class="short">* Более 2 000 000 участников</p>
-<p>* Почти 500 000 000 упоминаний в СМИ</p>
+<ul class="items"><li>Более 2 000 000 участников</li><li>Почти 500 000 000 упоминаний в СМИ</li></ul>
+
 <p>Всемирная неделя космоса координируется Организацией Объединённых Наций при поддержке Ассоциации Всемирной недели космоса (WSWA).</p>
 <p>WSWA руководит глобальной командой национальных координаторов, которые продвигают проведение Всемирной недели космоса в своих странах.</p>
 <h2>Каковы цели Всемирной недели космоса?</h2>
@@ -124,7 +124,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Вдохновлять молодёжь на занятия наукой, технологиями, инженерией и математикой</p>
 <p>Содействовать международному сотрудничеству в популяризации космоса и космическом образовании</p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
-<p><strong>ССЫЛКИ:</strong></p>
+<p class="lead"><strong>ССЫЛКИ:</strong></p>
 <p><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА ООН</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
 
 <p><strong>МЕЖДУНАРОДНЫЕ МЕРОПРИЯТИЯ ВСЕМИРНОЙ НЕДЕЛИ КОСМОСА ООН</strong> https://www.worldspaceweek.org/events/event-list/</p>

@@ -34,7 +34,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>ΛΗΨΕΙΣ:</h3>
 <h3><a class="doc-link" href="/docs/educational-courses/astronomy-principles/astronomy-principles.pdf" rel="noopener" target="_blank" title="ASTRONOMY PRINCIPLES">ΑΡΧΕΣ ΑΣΤΡΟΝΟΜΙΑΣ</a> (Αγγλικά)</h3>
 <h3><a class="doc-link" href="/docs/educational-courses/astronomy-principles/astronomy-principles-ru.pdf" rel="noopener" target="_blank" title="ЭЛЕМЕНТЫ АСТРОНОМИИ">ΑΡΧΕΣ ΑΣΤΡΟΝΟΜΙΑΣ</a> (Ρωσικά)</h3>
-<p class="short"><strong>ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</strong></p>
+<p class="lead short"><strong>ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</strong></p>
 <p>Εφαρμόζεται η «Πολιτική Μόνο με Κράτηση».</p>
 <p>Απαιτείται κράτηση εκ των προτέρων καλώντας στο (+357) 99991111 (αγγλόφωνοι και ελληνόφωνοι) ή στο (+357) 99037440 (ρωσόφωνοι).</p>
 <p>Μέγιστο 10 άτομα ανά συνεδρία για αυτά τα προγράμματα.</p>

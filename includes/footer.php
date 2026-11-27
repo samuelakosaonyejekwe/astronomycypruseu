@@ -92,7 +92,10 @@ if ($kids):
   </div>
 </footer>
 
-<button type="button" class="to-top" data-to-top aria-label="<?php echo e(t('back_to_top')); ?>" title="<?php echo e(t('back_to_top')); ?>">↑</button>
+<button type="button" class="to-top" data-to-top aria-label="<?php echo e(t('back_to_top')); ?>" title="<?php echo e(t('back_to_top')); ?>">
+  <svg class="to-top-ring" viewBox="0 0 52 52" aria-hidden="true"><circle class="track" cx="26" cy="26" r="23"/><circle class="progress" cx="26" cy="26" r="23" pathLength="100"/></svg>
+  <svg class="to-top-arrow" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12 4.5 4.6 11.9l1.5 1.5 4.8-4.8V20h2.2V8.6l4.8 4.8 1.5-1.5z"/></svg>
+</button>
 
 <!-- Image viewer -->
 <dialog class="lightbox" id="lightbox" aria-label="<?php echo e(t('open_image')); ?>">

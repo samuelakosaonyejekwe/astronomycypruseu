@@ -27,8 +27,8 @@ require SITE_ROOT . '/includes/header.php';
 <p>Χρησιμοποιώντας την Αστρονομία ως εργαλείο προσωπικής ανάπτυξης και εργαστήρια STEAM, το πρόγραμμα στοχεύει να προσφέρει στους μαθητές τα καλύτερα εργαλεία για μια εισαγωγή στην επιστήμη.</p>
 <p>Οι εγγραφές για τον Ιούλιο έχουν ήδη ξεκινήσει.</p>
 <h2>Εγγραφείτε τώρα!</h2>
-<p class="short">Κόστος: € 80 / μήνα</p>
-<p class="short">Ημερομηνίες: Ιούλιος</p>
+<dl class="specs"><dt>Κόστος</dt><dd> € 80 / μήνα</dd><dt>Ημερομηνίες</dt><dd> Ιούλιος</dd></dl>
+
 <h3><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-en.pdf" rel="noopener" target="_blank">Κατεβάστε το πρόγραμμα στα ΑΓΓΛΙΚΑ (PDF)</a></h3>
 <p><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-ru.pdf" rel="noopener" target="_blank">Κατεβάστε το πρόγραμμα στα ΡΩΣΙΚΑ (PDF)</a></p>
 <p>Το πρόγραμμα καλύπτει τα βασικά της εξερεύνησης και της αναζήτησης ζωής στους πλανήτες και τους δορυφόρους τους.</p>
@@ -45,7 +45,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Διευθυντής, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 <p class="short"><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-en.pdf" rel="noopener" target="_blank">Κατεβάστε το πρόγραμμα στα ΑΓΓΛΙΚΑ (PDF)</a></p>
 <p class="short"><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-ru.pdf" rel="noopener" target="_blank">Κατεβάστε το πρόγραμμα στα ΡΩΣΙΚΑ (PDF)</a></p>
-<p class="short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
+<p class="lead short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
 <p>Εφαρμόζεται η «Πολιτική Μόνο με Κράτηση».</p>
 <p>Απαιτείται κράτηση εκ των προτέρων καλώντας στο (+357) 99991111 (αγγλόφωνοι) ή στο (+357) 99037440 (ρωσόφωνοι).</p>
 <p>Αν αναζητάτε ειδικά ή προσαρμοσμένα προγράμματα ή υπηρεσίες για εσάς, τους φίλους σας ή την ομάδα σας, μη διστάσετε να <a href="/el/contact-us.php">επικοινωνήσετε μαζί μας</a>.</p>

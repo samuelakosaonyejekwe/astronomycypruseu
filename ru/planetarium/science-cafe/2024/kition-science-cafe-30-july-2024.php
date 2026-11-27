@@ -28,8 +28,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>БЕСПЛАТНОЕ ОНЛАЙН-МЕРОПРИЯТИЕ</strong></p>
 <p class="short"><strong>ПРИСОЕДИНЯЙТЕСЬ К НАМ ОНЛАЙН</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p class="short">Узнайте о метеорном потоке Персеиды 2024 года и о том, как его наблюдать.</p>
 <p class="short">Узнайте о двух наших публичных мероприятиях, посвящённых метеорным потокам.</p>
 <p class="short">Присоединяйтесь к нашей команде для научных наблюдений метеорного потока.</p>
@@ -47,10 +47,10 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Записи предыдущих онлайн-встреч Science Café доступны на нашем <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">канале YouTube</a>.</p>
 <p>Присоединяйтесь к нашей космической прогулке!</p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
-<p>ССЫЛКИ:</p>
+<p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p></div>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+</div>
 </div>
 </div>
 </article>

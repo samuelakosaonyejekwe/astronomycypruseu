@@ -70,7 +70,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>We use third-party websites such as YouTube, Facebook, Instagram, TripAdvisor, Flickr, MoonPhase.co.uk, RevolverMaps.cpm and others, to provide some of the content on our website. Often this content will be embedded material hosted on other websites or the services will be provided by external websites. These third-parties have their own cookies which are controlled by them. We have no control over third-party cookies. You should check the relevant third party website for more information about htese cookies.</p>
 <h3>RevolverMaps Cookies (Widget used on our website)</h3>
 <p>"Karma Implementor" is the owner and developer of revolvermaps.com widget which is used on our website for visitors' statistics. You may read their legal statement and policy here.</p><p>www.revolvermaps.com uses HTTP cookies to improve the usability of the website. Therefore cookies will be accessed (created, read and written) only on the client side to store and retrieve several user settings. All necessary cookie action is handled by client side JavaScript code. Due to their technical characteristics cookies will be send to www.revolvermaps.com with every page request but no information from cookies will be read, collected and stored at the server. To avoid plaintext transmission of cookies you should use secure connections to the revolvermaps.com servers.</p><p>This website can be used without cookies.</p>
-<p class="short">The following table lists the cookies set and read by www.revolvermaps.com:</p>
+<p class="lead short">The following table lists the cookies set and read by www.revolvermaps.com:</p>
 <div class="table-wrap"><table>
 <div class="row">
 <div class="block"><p>Cookie Name</p></div>
@@ -106,7 +106,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>You can use the following button to delete the cookies listed in the table above. This procedure may not work in all browsers. After the deletion you should check the table again. If the values don't change to N/A you have to clear the cookies in your <a href="#cookie_settings">browser settings</a>. </p>
 <h2><strong>How to Contact Us</strong></h2>
 <p>Should you have other questions or concerns about these privacy policies, please send us an email at <strong><a href="mailto:planetarium@cytanet.com.cy" title="Contact Us">planetarium@cytanet.com.cy</a></strong></p>
-<p> Postal mail may be sent to:</p>
+<p class="lead"> Postal mail may be sent to:</p>
 <p class="short"><strong>KITION PLANETARIUM &amp; OBSERVATORY</strong></p>
 <p class="short"><strong>9 Ammochostou</strong></p>
 <p class="short"><strong>Kiti</strong></p>

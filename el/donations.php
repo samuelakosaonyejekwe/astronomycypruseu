@@ -21,10 +21,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><h2>ΠΑΡΑΚΑΛΟΥΜΕ ΠΡΟΣΦΕΡΕΤΕ ΔΩΡΕΑ ΓΙΑ ΤΗ ΣΤΗΡΙΞΗ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ</h2>
 <p><img alt="" data-nw="3150" decoding="async" height="252" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="800"/></p>
 <h2>ΔΩΡΕΕΣ</h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-e5/" rel="noopener noreferrer" target="_blank" title="Donation-€5">ΔΩΡΕΑ-€5</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-10/" rel="noopener noreferrer" target="_blank" title="Donation-€10">ΔΩΡΕΑ-€10</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-20/" rel="noopener noreferrer" target="_blank" title="Donation-€20">ΔΩΡΕΑ-€20</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-50/" rel="noopener noreferrer" target="_blank" title="Donation-€50">ΔΩΡΕΑ-€50</a></h2>
+<div class="link-row"><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-e5/" rel="noopener noreferrer" target="_blank" title="Donation-€5">ΔΩΡΕΑ-€5</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-10/" rel="noopener noreferrer" target="_blank" title="Donation-€10">ΔΩΡΕΑ-€10</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-20/" rel="noopener noreferrer" target="_blank" title="Donation-€20">ΔΩΡΕΑ-€20</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-50/" rel="noopener noreferrer" target="_blank" title="Donation-€50">ΔΩΡΕΑ-€50</a></p></div>
+
+
+
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ είναι μια ιδιωτική πρωτοβουλία χωρίς κρατική υποστήριξη. Λειτουργεί ως μη κερδοσκοπικός οργανισμός και εργάζεται αποκλειστικά με εθελοντές. Αυτοχρηματοδοτείται από το 2008 με πολύ μικρά έσοδα από δωρεές, εισιτήρια εισόδου, επισκέψεις σχολείων, ιδιωτικές εκδηλώσεις, αστροτουρισμό και ένα μικρό κατάστημα δώρων.</p>
 <p>Κάνουμε αστρονομική ενημέρωση για το ευρύ κοινό, εκπαιδευτικά μαθήματα, μοιραζόμαστε το πάθος μας για την αστρονομία και την επιστήμη με διασκέδαση και ψυχαγωγία, συμβάλλουμε στη διεθνή επιστημονική κοινότητα με επιστημονική έρευνα και δημοσιεύσεις, και προσφέρουμε υπηρεσίες και δέσμευση προς την τοπική και διεθνή κοινωνία. Παρέχουμε καινοτόμα προγράμματα και εργαστήρια STEM και STEAM για το A4BD (Αστρονομία για Τυφλούς και Άτομα με Αναπηρία), την Αστρονομία για τον Αυτισμό και την Αστρονομία για άτομα με Ειδικές Ικανότητες.</p>
 <p>Ονειρευόμαστε να εξελισσόμαστε και να μεγαλώνουμε, χτίζοντας ένα μεγαλύτερο κέντρο επιστήμης με ακόμη μεγαλύτερη δυνατότητα φιλοξενίας περισσότερων ατόμων, με καφετέρια, μεγαλύτερο μουσείο, μεγαλύτερο εκθεσιακό χώρο και πιο προηγμένα εργαστήρια. Με αυτόν τον τρόπο θα μπορέσουμε να εμπλέξουμε περισσότερους ανθρώπους στην αστρονομία και την επιστήμη και να προσφέρουμε καλύτερη υπηρεσία στην τοπική κοινότητα και την κοινωνία.</p>

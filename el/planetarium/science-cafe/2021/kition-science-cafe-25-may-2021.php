@@ -22,8 +22,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><div class="blocks"><div class="row gallery captioned promo"><div class="block media"><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-25-may-2021.jpg" width="550"/></div><div class="block"><p><img alt="" data-nw="300" decoding="async" height="150" loading="lazy" src="/images/science-cafe/imca-vice-president.jpg" width="300"/></p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p></div></div></div>
 
 
-<p class="short">Αναγνωριστικό σύσκεψης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1264" decoding="async" height="563" loading="lazy" src="/images/science-cafe/meteorites-book.jpg" width="400"/></p></div><div class="block"><p class="short">25 ΜΑΪΟΥ 2021</p><p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p><p class="short">19:00 "ΜΕΤΕΩΡΙΤΕΣ" ΔΙΑΔΙΚΤΥΑΚΟ ΚΑΦΕ ΤΗΣ ΕΠΙΣΤΗΜΗΣ</p><p>Ομιλητής, ο ειδικός στους μετεωρίτες, Τάκης Θεοδοσίου (ΣΥΛΛΟΓΗ ΑΕΡΟΛΙΘΩΝ ΘΕΟΔΟΣΙΟΥ)</p><p>Απο το 2008 το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ διοργανώνει δωρεάν βραδιές με «Καφέ της Επιστήμης»</p><p>που δίνουν την δυνατότητα στο ευρύ κοινό να λάβει μέρος σε συζητήσεις και να μοιραστεί με άλλους  το πάθος του για την Αστρονομία αλλά και την επιστήμη γενικότερα. </p><p>Από τον Ιανουάριο, επισκέπτες από διάφορα μέρη του κόσμου συμμετείχαν στις διαδικτυακές μας συνεδρίες,</p></div></div></div>
 
 
@@ -37,12 +37,12 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<p class="short">ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead short">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
-<p class="short">Αναγνωριστικό σύσκεψης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <h3>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 </div>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί να...<br/> Συμπορευθείτε στον διαστημικό μας περίπατο</p>

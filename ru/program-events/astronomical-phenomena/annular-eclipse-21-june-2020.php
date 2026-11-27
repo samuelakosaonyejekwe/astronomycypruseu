@@ -42,12 +42,12 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<p class="short">МЕСТНЫЙ ТИП: ЧАСТНОЕ СОЛНЕЧНОЕ ЗАТМЕНИЕ</p>
-<p class="short">1-й контакт, начало частного затмения: воскресенье 21 июня 2020 года, 7:33</p>
-<p class="short">Максимальная фаза затмения: воскресенье 21 июня 2020 года, 8:28</p>
+<dl class="specs"><dt>МЕСТНЫЙ ТИП</dt><dd> ЧАСТНОЕ СОЛНЕЧНОЕ ЗАТМЕНИЕ</dd><dt>1-й контакт, начало частного затмения</dt><dd> воскресенье 21 июня 2020 года, 7:33</dd><dt>Максимальная фаза затмения</dt><dd> воскресенье 21 июня 2020 года, 8:28</dd></dl>
+
+
 <p class="short">(Для Кипра 2-го и 3-го контактов нет, поскольку кольцевая фаза не видна)</p>
-<p class="short">4-й контакт, окончание частного затмения: воскресенье 21 июня 2020 года, 9:28</p>
-<p class="short">Величина фазы в максимуме: 0,38. Продолжительность: 1 час 55 минут</p>
+<dl class="specs"><dt>4-й контакт, окончание частного затмения</dt><dd> воскресенье 21 июня 2020 года, 9:28</dd><dt>Величина фазы в максимуме</dt><dd> 0,38. Продолжительность: 1 час 55 минут</dd></dl>
+
 <p><img alt="" data-nw="850" decoding="async" height="709" loading="lazy" src="/images/annular-eclipse-21-jun-2020/Partial%20Solar%20Eclipse%20Max%20Position.jpg" width="850"/></p>
 <p>Максимальная фаза частного солнечного затмения из ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» (КИПР)</p>
 <p>ПОДРОБНОСТИ ЧАСТНОГО СОЛНЕЧНОГО ЗАТМЕНИЯ</p>
@@ -96,7 +96,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p><a class="doc-link" href="/images/annular-eclipse-21-jun-2020/Annular%20Solar%20Eclipse%2021%20June%202020%20Ver1.pdf" rel="noopener" target="_blank" title="annular eclipse pdf">Скачать пресс-релиз о кольцеобразном затмении в формате PDF.</a></p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
-<p>ССЫЛКИ:</p>
+<p class="lead">ССЫЛКИ:</p>
 <p class="short">СМОТРИТЕ ФОТОГРАФИИ НА НАШЕЙ СТРАНИЦЕ В FB...</p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
 </div>

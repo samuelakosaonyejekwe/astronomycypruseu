@@ -20,10 +20,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><a href="https://astronomycyprus.eu/gift-shop/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a>
 <h3><a href="https://youtu.be/6OZOUlYB8C4?si=3XBaIPB_H-GNlvoU" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/science-cafe-29-august-2023.jpg" width="960"/></a></h3>
-<h2><a href="https://youtu.be/6OZOUlYB8C4?si=3XBaIPB_H-GNlvoU" rel="noopener noreferrer" target="_blank">Βίντεο στο YouTube</a></h2>
+<div class="link-row"><p class="short"><a href="https://youtu.be/6OZOUlYB8C4?si=3XBaIPB_H-GNlvoU" rel="noopener noreferrer" target="_blank">Βίντεο στο YouTube</a></p></div>
 <h2>ΤΡΙΤΗ 29 ΑΥΓΟΥΣΤΟΥ 2023, ΩΡΑ: 20:00 (UTC+3)</h2>
 <h2>ΣΥΜΜΕΤΕΧΕΤΕ ΔΙΑΔΙΚΤΥΑΚΑ...</h2>
-<h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></h2>
+<div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p></div>
 <h2>Αναγνωριστικό συνάντησης: 831 2336 2644</h2>
 <h2>Κωδικός πρόσβασης: kition</h2>
 <p>Συμμετέχετε στο διαδικτυακό μας Science Café και μάθετε για <strong>τα τελευταία νέα και αστρονομικά φαινόμενα</strong>.</p>
@@ -44,7 +44,7 @@ require SITE_ROOT . '/includes/header.php';
 
 <p>Θα προσπαθήσουμε να έχουμε και τους δύο μαθητές μαζί μας διαδικτυακά...</p>
 <h2>ΣΥΜΜΕΤΕΧΕΤΕ ΔΙΑΔΙΚΤΥΑΚΑ...</h2>
-<h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></h2>
+<div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p></div>
 <h2>Αναγνωριστικό συνάντησης: 831 2336 2644</h2>
 <h2>Κωδικός πρόσβασης: kition</h2>
 <h2><strong>Κωνσταντίνος Τρούλλιας</strong></h2>
@@ -60,22 +60,22 @@ require SITE_ROOT . '/includes/header.php';
 
 <p><strong>Τα θραύσματα που εισέρχονται στην ατμόσφαιρα της Γης ονομάζονται μετέωρα.</strong></p>
 <h2><strong>ΤΙ ΕΙΝΑΙ ΕΝΑΣ ΑΝΑΛΟΓΙΚΟΣ ΑΣΤΡΟΝΑΥΤΗΣ;</strong></h2>
-<p><strong>Αναλογικός αστροναύτης είναι ένα άτομο που αποφάσισε να παίξει τον ρόλο του αστροναύτη κατά τη διάρκεια μιας προσομοιωμένης επανδρωμένης αποστολής.</strong></p>
+<p>Αναλογικός αστροναύτης είναι ένα άτομο που αποφάσισε να παίξει τον ρόλο του αστροναύτη κατά τη διάρκεια μιας προσομοιωμένης επανδρωμένης αποστολής.</p>
 <p><strong>Ανάλογα με τη μελέτη και το περιβάλλον, μπορεί να ισχύουν διαφορετικές απαιτήσεις για έναν υποψήφιο αναλογικό αστροναύτη</strong></p>
 <p>Ανυπομονούμε για τη συμμετοχή του ευρέος κοινού, με ερωτήσεις, προτάσεις και διάλογο.</p>
 
 <h2>Ελεύθερη είσοδος.</h2>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p>Ελάτε στον διαστημικό μας περίπατο!</p>
 <p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <h3>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 <div class="row">
 <div class="block"><p class="short">"</p></div>

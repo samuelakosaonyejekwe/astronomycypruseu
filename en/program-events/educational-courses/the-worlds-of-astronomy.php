@@ -36,7 +36,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>DOWNLOADS:</h3>
 <h3><a class="doc-link" href="/docs/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy.pdf" rel="noopener" target="_blank" title="THE WORLDS OF ASTRONOMY">THE WORLDS OF ASTRONOMY</a> (English)</h3>
 <h3><a class="doc-link" href="/docs/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy-ru.pdf" rel="noopener" target="_blank" title="АСТРОНОМИЧЕСКИЕ МИРЫ">THE WORLDS OF ASTRONOMY</a> (Russian)</h3>
-<p class="short"><strong>IMPORTANT NOTE:</strong></p>
+<p class="lead short"><strong>IMPORTANT NOTE:</strong></p>
 <p>"Bookings Only Policy" is used.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>Maximum 10 persons per session for these programs.</p>

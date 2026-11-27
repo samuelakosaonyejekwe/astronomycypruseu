@@ -110,7 +110,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong>ПРАЗДНОВАНИЯ НА КИПРЕ 2022</strong></h2>
 <p class="short">#ASTEROIDDAY #AD2022</p>
 <h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="Call for Asteroid Day Cyprus 2022">Приглашение на День астероидов на Кипре 2022</a></h2>
-<div class="blocks"><div class="row split"><div class="block media"><p><a href="https://www.youtube.com/watch?v=JDGfaJkzDVE" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="225" loading="lazy" src="/images/asteroid-day/esa-call-ad2022.jpg" width="400"/></a></p></div><div class="block"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank"><strong>ДЕНЬ АСТЕРОИДОВ НА КИПРЕ 30 ИЮНЯ 2022</strong></a></p><h3>ПРОГРАММА МЕРОПРИЯТИЯ В ZOOM: ЧЕТВЕРГ, 30 ИЮНЯ 2022 ГОДА, ВРЕМЯ: 20:00</h3><p>20:00 ПРИВЕТСТВИЕ ОТ НАЦИОНАЛЬНОГО КООРДИНАТОРА КИПРА ПО ДНЮ АСТЕРОИДОВ ГОСПОДИНА ГЕОРГИЯ ТРУЛЛИАСА</p><p>20:02 ЧТО ТАКОЕ ДЕНЬ АСТЕРОИДОВ? (ГЕОРГИЙ ТРУЛЛИАС)</p><p class="short">20:05 ПОСЛЕДНИЕ НОВОСТИ ОБ АСТЕРОИДАХ (ГЕОРГИЙ ТРУЛЛИАС)</p><p class="short">20:10 ИССЛЕДОВАНИЕ ТУНГУССКОГО СОБЫТИЯ (АЛЕКСАНДР ПРОКОФЬЕВ)</p><p class="short">20:15 ПОИСК АСТЕРОИДОВ (ВИДА МИРШАМСИ)</p><p>20:20 ИССЛЕДОВАНИЕ АСТЕРОИДОВ (КЭТИ ДЕМЕТРИУ)</p><p>20:30 КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ ТРАЕКТОРИЙ БОЛИДОВ ПО СВИДЕТЕЛЬСКИМ ПОКАЗАНИЯМ (МАКСИМ ВЕРЕВКИН)</p><p>20:50 КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ ТРАЕКТОРИЙ БОЛИДОВ ПО ВИДЕОДАННЫМ (ДМИТРИЙ ДУБИШКИН)</p><p>21:02 ОБЪЯВЛЕНИЕ О НОВЫХ ОТКРЫТИЯХ АСТЕРОИДОВ, СДЕЛАННЫХ ПЛАНЕТАРИЕМ И ОБСЕРВАТОРИЕЙ «КИТИОН»</p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><a href="https://www.youtube.com/watch?v=JDGfaJkzDVE" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="225" loading="lazy" src="/images/asteroid-day/esa-call-ad2022.jpg" width="400"/></a></p></div><div class="block"><div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank"><strong>ДЕНЬ АСТЕРОИДОВ НА КИПРЕ 30 ИЮНЯ 2022</strong></a></p></div><h3>ПРОГРАММА МЕРОПРИЯТИЯ В ZOOM: ЧЕТВЕРГ, 30 ИЮНЯ 2022 ГОДА, ВРЕМЯ: 20:00</h3><p>20:00 ПРИВЕТСТВИЕ ОТ НАЦИОНАЛЬНОГО КООРДИНАТОРА КИПРА ПО ДНЮ АСТЕРОИДОВ ГОСПОДИНА ГЕОРГИЯ ТРУЛЛИАСА</p><p>20:02 ЧТО ТАКОЕ ДЕНЬ АСТЕРОИДОВ? (ГЕОРГИЙ ТРУЛЛИАС)</p><p class="short">20:05 ПОСЛЕДНИЕ НОВОСТИ ОБ АСТЕРОИДАХ (ГЕОРГИЙ ТРУЛЛИАС)</p><p class="short">20:10 ИССЛЕДОВАНИЕ ТУНГУССКОГО СОБЫТИЯ (АЛЕКСАНДР ПРОКОФЬЕВ)</p><p class="short">20:15 ПОИСК АСТЕРОИДОВ (ВИДА МИРШАМСИ)</p><p>20:20 ИССЛЕДОВАНИЕ АСТЕРОИДОВ (КЭТИ ДЕМЕТРИУ)</p><p>20:30 КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ ТРАЕКТОРИЙ БОЛИДОВ ПО СВИДЕТЕЛЬСКИМ ПОКАЗАНИЯМ (МАКСИМ ВЕРЕВКИН)</p><p>20:50 КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ ТРАЕКТОРИЙ БОЛИДОВ ПО ВИДЕОДАННЫМ (ДМИТРИЙ ДУБИШКИН)</p><p>21:02 ОБЪЯВЛЕНИЕ О НОВЫХ ОТКРЫТИЯХ АСТЕРОИДОВ, СДЕЛАННЫХ ПЛАНЕТАРИЕМ И ОБСЕРВАТОРИЕЙ «КИТИОН»</p></div></div></div>
 
 
 
@@ -155,8 +155,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><p class="short">27 ИЮНЯ</p></div>
 <div class="block"><p class="short">МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ</p><p class="short">ВВЕДЕНИЕ В ДЕНЬ АСТЕРОИДОВ ОТ <br/> РЕГИОНАЛЬНОГО КООРДИНАТОРА КИПРА ГОСПОДИНА ГЕОРГИЯ ТРУЛЛИАСА</p>
-<p class="short">АСТЕРОИДНЫЕ МИССИИ: ЛЕКЦИЯ К. ДЕМЕТРИУ</p>
-<p class="short">ОХОТА НА АСТЕРОИДЫ: ГРАЧЬЯ ЗАКАРЯН</p>
+<dl class="specs"><dt>АСТЕРОИДНЫЕ МИССИИ</dt><dd> ЛЕКЦИЯ К. ДЕМЕТРИУ</dd><dt>ОХОТА НА АСТЕРОИДЫ</dt><dd> ГРАЧЬЯ ЗАКАРЯН</dd></dl>
+
 <p class="short">НАБЛЮДЕНИЯ ЮПИТЕРА И САТУРНА</p>
 <p class="short">(ЛЕКЦИОННЫЙ ЗАЛ, НАУЧНЫЙ КОРПУС, АНГЛИЙСКАЯ ШКОЛА, НИКОСИЯ)</p></div>
 </div>
@@ -174,28 +174,15 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2018</strong></p>
 <p class="short">#ASTEROIDDAY #AD2018</p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="short">27 ИЮНЯ</p></div>
-<div class="block"><p class="short">МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ</p><br/> <br/><p class="short">(ЛЕКЦИОННЫЙ ЗАЛ, НАУЧНЫЙ КОРПУС, АНГЛИЙСКАЯ ШКОЛА, НИКОСИЯ)</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">28 ИЮНЯ</p></div>
-<div class="block"><p class="short">МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ</p><br/> <br/><p class="short">НАБЛЮДЕНИЯ ЮПИТЕРА</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">30 ИЮНЯ</p></div>
-<div class="block"><p class="short">МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ</p><br/> <br/><p class="short">“ПРОЕКТ NEOShield-2” ДОКЛАДЧИЦА ВАНЕССА РОМАНЕЛЛО (ГЕРМАНИЯ)</p></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col">27 ИЮНЯ</th><th scope="col">МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ<br/> <br/> (ЛЕКЦИОННЫЙ ЗАЛ, НАУЧНЫЙ КОРПУС, АНГЛИЙСКАЯ ШКОЛА, НИКОСИЯ)</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">28 ИЮНЯ</th><th scope="col">МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ<br/> <br/> НАБЛЮДЕНИЯ ЮПИТЕРА</th></tr><tr><td>30 ИЮНЯ</td><td>МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ<br/> <br/> “ПРОЕКТ NEOShield-2” ДОКЛАДЧИЦА ВАНЕССА РОМАНЕЛЛО (ГЕРМАНИЯ)</td></tr></table></div>
 <p class="short"><strong>2017</strong></p>
 <p class="short">#ASTEROIDDAY #AD2017</p>
 <div class="blocks">
 <div class="row">
 <div class="block"><p class="short">27 ИЮНЯ</p></div>
 <div class="block"><p class="short">МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ</p><p class="short">ВВЕДЕНИЕ В ДЕНЬ АСТЕРОИДОВ ОТ <br/>РЕГИОНАЛЬНОГО КООРДИНАТОРА КИПРА ГОСПОДИНА ГЕОРГИЯ ТРУЛЛИАСА</p>
-<p class="short">АСТЕРОИДНЫЕ МИССИИ: ЛЕКЦИЯ К. ДЕМЕТРИУ</p>
-<p class="short">ОХОТА НА АСТЕРОИДЫ: ГРАЧЬЯ ЗАКАРЯН</p>
+<dl class="specs"><dt>АСТЕРОИДНЫЕ МИССИИ</dt><dd> ЛЕКЦИЯ К. ДЕМЕТРИУ</dd><dt>ОХОТА НА АСТЕРОИДЫ</dt><dd> ГРАЧЬЯ ЗАКАРЯН</dd></dl>
+
 <p class="short">НАБЛЮДЕНИЯ ЮПИТЕРА И САТУРНА</p>
 <p class="short">(ЛЕКЦИОННЫЙ ЗАЛ, НАУЧНЫЙ КОРПУС, АНГЛИЙСКАЯ ШКОЛА, НИКОСИЯ)</p></div>
 </div>
@@ -245,7 +232,7 @@ require SITE_ROOT . '/includes/header.php';
 <source src="/video/asteroids-size-comparison.mp4" type="video/mp4">
 </source></video>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или позвоните по телефону +357 9999 1111.</p>
-<p>ССЫЛКИ:</p>
+<p class="lead">ССЫЛКИ:</p>
 <p class="short">СТРАНИЦА ДНЯ АСТЕРОИДОВ НА КИПРЕ В FB <a href="https://www.facebook.com/asteroiddaycyprus/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/asteroiddaycyprus/</a></p>
 
 <p>МЕЖДУНАРОДНЫЙ ДЕНЬ АСТЕРОИДОВ <a href="https://asteroidday.org/" rel="noopener noreferrer" target="_blank">https://asteroidday.org/</a></p>

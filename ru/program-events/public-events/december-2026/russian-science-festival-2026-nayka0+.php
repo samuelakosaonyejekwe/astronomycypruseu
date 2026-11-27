@@ -31,23 +31,23 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">приглашаем в Планетарий и обсерваторию Китиона (KITION PLANETARIUM &amp; OBSERVATORY)</p>
 <p class="short">на показы четырёх документальных фильмов телеканала «Наука».</p>
 <h2>Сеансы с фильмами с английскими субтитрами.</h2>
-<p class="short">После каждого кинопоказа желающие смогут продолжить знакомство с космосом:</p>
-<p class="short"> • понаблюдать декабрьское небо в телескопы обсерватории; </p>
-<p class="short">• посетить космическую экспозицию планетария; </p>
-<p class="short">• увидеть настоящие метеориты, образцы космической еды и модели космических аппаратов.</p>
+<p class="lead short">После каждого кинопоказа желающие смогут продолжить знакомство с космосом:</p>
+<ul class="items"><li>понаблюдать декабрьское небо в телескопы обсерватории; </li><li>посетить космическую экспозицию планетария; </li><li>увидеть настоящие метеориты, образцы космической еды и модели космических аппаратов.</li></ul>
+
+
 <h2><strong><br/> <br/> 5 ДЕКАБРЯ </strong></h2>
-<p class="short"><strong><a href="https://astronomycyprus.eu/gift-shop/product/a-year-in-orbit/" rel="noopener noreferrer" target="_blank">17:00 ФИЛЬМ «ГОД НА ОРБИТЕ»</a></strong></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-1800/" rel="noopener noreferrer" target="_blank"><strong>18:00 ВЫСТАВКА И НАБЛЮДЕНИЯ при ясной погоде</strong></a></h3>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/survival-in-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ФИЛЬМ «ВЫЖИТЬ В КОСМОСЕ»</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ВЫСТАВКА И НАБЛЮДЕНИЯ при ясной погоде</strong></a></h3>
+<div class="link-row"><p class="short"><strong><a href="https://astronomycyprus.eu/gift-shop/product/a-year-in-orbit/" rel="noopener noreferrer" target="_blank">17:00 ФИЛЬМ «ГОД НА ОРБИТЕ»</a></strong></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-1800/" rel="noopener noreferrer" target="_blank"><strong>18:00 ВЫСТАВКА И НАБЛЮДЕНИЯ при ясной погоде</strong></a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/survival-in-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ФИЛЬМ «ВЫЖИТЬ В КОСМОСЕ»</strong></a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ВЫСТАВКА И НАБЛЮДЕНИЯ при ясной погоде</strong></a></p></div>
+
+
+
 <h2><strong><br/> <br/> 12 ДЕКАБРЯ </strong></h2>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/back-to-the-moon/" rel="noopener noreferrer" target="_blank"><strong>17:00 ФИЛЬМ «НАЗАД НА ЛУНУ»</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-1800/" rel="noopener noreferrer" target="_blank">18:00 ВЫСТАВКА И НАБЛЮДЕНИЯ при ясной погоде</a></h3>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/open-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ФИЛЬМ «ОТКРЫТЫЙ КОСМОС»</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ВЫСТАВКА И НАБЛЮДЕНИЯ при ясной погоде</strong></a></h3>
+<div class="link-row"><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/back-to-the-moon/" rel="noopener noreferrer" target="_blank"><strong>17:00 ФИЛЬМ «НАЗАД НА ЛУНУ»</strong></a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-1800/" rel="noopener noreferrer" target="_blank">18:00 ВЫСТАВКА И НАБЛЮДЕНИЯ при ясной погоде</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/open-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ФИЛЬМ «ОТКРЫТЫЙ КОСМОС»</strong></a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ВЫСТАВКА И НАБЛЮДЕНИЯ при ясной погоде</strong></a></p></div>
+
+
+
 <h2><strong>СТОИМОСТЬ И УСЛОВИЯ УЧАСТИЯ</strong></h2>
-<p class="short">• Научные кинопоказы 5 и 12 декабря — бесплатно.</p>
-<p>• Наблюдения в телескопы и посещение космической экспозиции — 7 €.</p>
+<ul class="items"><li>Научные кинопоказы 5 и 12 декабря — бесплатно.</li><li>Наблюдения в телескопы и посещение космической экспозиции — 7 €.</li></ul>
+
 <p><strong>Приходите всей семьёй!</strong> Вас ждут знакомство с космическими технологиями и путешествие по Вселенной через научное кино.</p>
 <p> Будем открывать науку вместе!</p></div>
 </div>

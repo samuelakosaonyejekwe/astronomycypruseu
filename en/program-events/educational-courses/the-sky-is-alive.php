@@ -31,14 +31,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>Alexander Prokofyev graduated with honor the Department of Physics at Moscow State University (Lomonosov University). His scientific work is connected to “Cosmic Strings in Expanded Theories of Gravitation”. Nowadays he conducts research in archeoastronomy, organizes and participates in observations of total sun eclipses, meteor showers and asteroid's occultations. He has publications in scientific and popular editions, makes reports on national and International conferences. His talent to uncover modern scientific achievements to common listeners is well known to amatures of astronomy. He gave lectures in Russia, Ukraine, Germany, Finland and Cyprus.</p>
 <p> The sessions will be held every Thursday evening, at 19:30 at the KITION PLANETARIUM &amp; OBSERVATORY, in Kiti.</p>
 <p>At completion of the course a certificate will be awarded.</p>
-<p class="short"><strong>FEES:</strong></p>
+<p class="lead short"><strong>FEES:</strong></p>
 <p class="short"><strong>ADULTS €70 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-adult-gift-ticket/" rel="noopener noreferrer" target="_blank">BUY NOW</a></strong></p>
 <p class="short"><strong> STUDENTS €50 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/the-sky-is-alive-student-ticket/" rel="noopener noreferrer" target="_blank">BUY NOW</a></strong></p>
 <p class="short"><a class="doc-link" href="/docs/the-sky-is-alive/ENGLISH/THE%20SKY%20IS%20ALIVE%20EN%20INV.pdf" rel="noopener" target="_blank">Download the Course Curriculum and details (PDF)</a></p>
 </div>
 </div>
 </div>
-<p class="short"><strong>IMPORTANT NOTE:</strong></p>
+<p class="lead short"><strong>IMPORTANT NOTE:</strong></p>
 <p>We operate on a "Bookings Only Policy".</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>The maximum number accepted is 10 persons per course. </p>

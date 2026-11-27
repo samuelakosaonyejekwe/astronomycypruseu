@@ -43,7 +43,7 @@ require SITE_ROOT . '/includes/header.php';
  Cyprus Regional Coordinator for ASTEROID DAY<br/>
  Cyprus NPoC for IMO<br/>
  NASA Radio Jove Project</p>
-<p>Projects Coordinated and involved:</p><p>AWB UNDER THE SAME STARS (ASTROPHOTOGRAPHY) <br/>
+<p class="lead">Projects Coordinated and involved:</p><p>AWB UNDER THE SAME STARS (ASTROPHOTOGRAPHY) <br/>
  Cosmic Light Reaches Cyprus 2016, Program Developer / Organizer<br/>
  UCLAN, International Astrophysics Conference,<br/>
  Disc Dynamics and Planet Formation, Organizational Partner 2015<br/>

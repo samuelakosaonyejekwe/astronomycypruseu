@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">СТОИМОСТЬ: €200 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/my-first-telescope/" rel="noopener noreferrer" target="_blank">КУПИТЬ СЕЙЧАС</a></p></div>
 </div>
 </div>
-<p class="short">ВАЖНОЕ ПРИМЕЧАНИЕ:</p>
+<p class="lead short">ВАЖНОЕ ПРИМЕЧАНИЕ:</p>
 <p>Действует «Политика работы только по предварительной записи».</p>
 <p>Необходимо записаться заранее по телефону (+357) 99991111 (для англо- и грекоговорящих) или (+357) 99037440 (для русскоговорящих).</p>
 <p>В связи с пандемией COVID19 во время занятий соблюдаются все протоколы правительства.</p>

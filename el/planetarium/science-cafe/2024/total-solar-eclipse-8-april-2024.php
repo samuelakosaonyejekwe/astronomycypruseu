@@ -27,21 +27,21 @@ require SITE_ROOT . '/includes/header.php';
 <p>19:55 ΠΑΡΑΚΟΛΟΥΘΗΣΤΕ ΤΗΝ ΕΚΛΕΙΨΗ ΖΩΝΤΑΝΑ - ΖΩΝΤΑΝΗ ΜΕΤΑΔΟΣΗ ΤΗΣ NASA</p>
 <p><strong>Ολική Ηλιακή Έκλειψη 8 ΑΠΡΙΛΙΟΥ 2024 </strong></p>
 <p><strong>Η Ολική Ηλιακή Έκλειψη είναι ίσως το πιο εντυπωσιακό ουράνιο φαινόμενο, που προσφέρει μια μοναδική εμπειρία στους παρατηρητές. </strong></p>
-<p><strong>Η Ολική αυτή Ηλιακή Έκλειψη δεν θα είναι ορατή από την Κύπρο, αλλά θα δώσουμε την ευκαιρία στο ευρύ κοινό να μάθει για αυτήν και να την παρακολουθήσει. </strong></p>
+<p>Η Ολική αυτή Ηλιακή Έκλειψη δεν θα είναι ορατή από την Κύπρο, αλλά θα δώσουμε την ευκαιρία στο ευρύ κοινό να μάθει για αυτήν και να την παρακολουθήσει. </p>
 <p><strong>ΔΩΡΕΑΝ ΔΙΑΔΙΚΤΥΑΚΗ ΕΚΔΗΛΩΣΗ</strong></p>
 <p class="short"><strong>ΣΥΜΜΕΤΕΧΕΤΕ ΔΙΑΔΙΚΤΥΑΚΑ</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p class="short">Ελάτε στον διαστημικό μας περίπατο!</p>
 <p class="short"><a href="https://www.youtube.com/live/2MJY_ptQW1o?si=h0CcRxbWaenuae-C" rel="noopener noreferrer" target="_blank"><strong>ΖΩΝΤΑΝΗ ΜΕΤΑΔΟΣΗ ΤΗΣ NASA</strong></a></p>
 <p class="short"><strong><a href="https://www.youtube.com/live/UUw4yi9XSsU?si=ZewuYSjf_nxYTAXe" rel="noopener noreferrer" target="_blank">ΖΩΝΤΑΝΗ ΜΕΤΑΔΟΣΗ ΤΟΥ EarthSky</a></strong></p>
 <p><strong><a href="https://www.timeanddate.com/live/eclipse-solar-2024-april-8" rel="noopener noreferrer" target="_blank">ΖΩΝΤΑΝΗ ΜΕΤΑΔΟΣΗ ΤΟΥ TimeAndDate</a></strong></p>
 <p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 </div>
 </div>
 </div>

@@ -25,8 +25,8 @@ require SITE_ROOT . '/includes/header.php';
 <p>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 <p>20:00 (UT+3) «<strong>Το διεισδυτικό βλέμμα του διαστημικού τηλεσκοπίου James Webb</strong>» ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</p>
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p>Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p>Από το 2008 το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ προσφέρει συναντήσεις Science Café για όλους τους επισκέπτες, ώστε να μοιράζονται το πάθος τους για την επιστήμη και την αστρονομία.</p>
 
 <p>Από το 2021 πραγματοποιούμε συναντήσεις Science Café και διαδικτυακά.</p>
@@ -41,12 +41,12 @@ require SITE_ROOT . '/includes/header.php';
 <p>Ελεύθερη είσοδος.</p>
 <p class="short">Ελάτε στον διαστημικό μας περίπατο!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p>Κωδικός πρόσβασης: kition</p>
-<p><a href="https://astronomycyprus.eu/gift-shop/index.php/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">ΔΩΡΕΑΝ ΕΓΓΡΑΦΗ: https://astronomycyprus.eu/gift-shop/index.php/product/kition-online-science-cafe/ </a></p>
-<p>20:00 (UT+3:00) «<strong>Το διεισδυτικό βλέμμα του διαστημικού τηλεσκοπίου James Webb</strong>»</p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd><dt><a href="https://astronomycyprus.eu/gift-shop/index.php/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">ΔΩΡΕΑΝ ΕΓΓΡΑΦΗ</a></dt><dd> https://astronomycyprus.eu/gift-shop/index.php/product/kition-online-science-cafe/ </dd></dl>
+
+
+<p class="short">20:00 (UT+3:00) «<strong>Το διεισδυτικό βλέμμα του διαστημικού τηλεσκοπίου James Webb</strong>»</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-26-july-2022.jpg" width="800"/></p>
 <p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
 </div>

@@ -45,11 +45,11 @@ require SITE_ROOT . '/includes/header.php';
 <p>World Space Week is an international celebration of science and technology,  and their contribution to the betterment of the human condition. </p>
 
 <p>The United Nations General Assembly declared in 1999 that World Space Week will be held each year from October 4-10.</p>
-<p> These dates commemorate two events:</p>
-<p>October 4, 1957: Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</p>
-<p> October 10, 1967: The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space,  including the Moon and Other Celestial Bodies.</p>
+<p class="lead"> These dates commemorate two events:</p>
+<dl class="specs"><dt>October 4, 1957</dt><dd> Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</dd><dt> October 10, 1967</dt><dd> The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space,  including the Moon and Other Celestial Bodies.</dd></dl>
 
-<p>This year's theme is <strong>"SPACE AND ENTREPRENEURSHIP"</strong>.</p>
+
+<p class="short">This year's theme is <strong>"SPACE AND ENTREPRENEURSHIP"</strong>.</p>
 <h2>Free entrance.</h2>
 <p class="short">Join Our Spacewalk!</p>
 <h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></h2>
@@ -57,10 +57,10 @@ require SITE_ROOT . '/includes/header.php';
 <h2>Passcode: kition</h2>
 <p>UN WSW2023 OFFICIAL REGISTRATION LINK: https://www.worldspaceweek.org/events/event-details/?eventID=64971 </p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+
 <h3>VISIT OUR FB PAGE...</h3>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY</a></p></div>
 </div>

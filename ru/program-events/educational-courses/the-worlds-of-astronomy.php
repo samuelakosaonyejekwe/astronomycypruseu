@@ -36,7 +36,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>ЗАГРУЗКИ:</h3>
 <h3><a class="doc-link" href="/docs/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy.pdf" rel="noopener" target="_blank" title="THE WORLDS OF ASTRONOMY">АСТРОНОМИЧЕСКИЕ МИРЫ</a> (английский)</h3>
 <h3><a class="doc-link" href="/docs/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy-ru.pdf" rel="noopener" target="_blank" title="АСТРОНОМИЧЕСКИЕ МИРЫ">АСТРОНОМИЧЕСКИЕ МИРЫ</a> (русский)</h3>
-<p class="short"><strong>ВАЖНОЕ ЗАМЕЧАНИЕ:</strong></p>
+<p class="lead short"><strong>ВАЖНОЕ ЗАМЕЧАНИЕ:</strong></p>
 <p>Действует «политика приёма только по предварительной записи».</p>
 <p>Необходима предварительная запись по телефону (+357) 99991111 (для англоговорящих) или (+357) 99037440 (для русскоговорящих).</p>
 <p>Не более 10 человек на занятие по этим программам.</p>

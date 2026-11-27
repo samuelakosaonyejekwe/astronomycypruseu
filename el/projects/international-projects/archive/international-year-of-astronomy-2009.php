@@ -24,52 +24,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Το Διεθνές Έτος Αστρονομίας 2009 είναι μια παγκόσμια προσπάθεια που ξεκίνησε από τη Διεθνή Αστρονομική Ένωση (IAU) και την UNESCO, για να βοηθήσει τους πολίτες του κόσμου να ανακαλύψουν εκ νέου τη θέση τους στο Σύμπαν μέσα από τον ουρανό της ημέρας και της νύχτας και, με τον τρόπο αυτό, να ενεργοποιήσουν μια προσωπική αίσθηση θαυμασμού και ανακάλυψης. Επισκεφθείτε την επίσημη ιστοσελίδα του <a href="https://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">Διεθνούς </a><a href="http://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">Έτους Αστρονομίας 2009</a> για περισσότερες λεπτομέρειες.</p>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ πραγματοποίησε εκδηλώσεις καθ’ όλη τη διάρκεια του 2009 στην Κύπρο.</p>
 <p>2009 </p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="short">27 ΝΟΕΜΒΡΙΟΥ</p></div>
-<div class="block"><p class="short">ΑΣΤΡΟΠΑΡΤΙ ΚΑΛΟ ΧΩΡΙΟ, ΛΑΡΝΑΚΑ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">17 ΝΟΕΜΒΡΙΟΥ</p></div>
-<div class="block"><p class="short">ΠΑΡΑΤΗΡΗΣΗ ΛΕΟΝΤΙΔΩΝ ΚΑΛΟ ΧΩΡΙΟ, ΛΑΡΝΑΚΑ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">20-22 ΟΚΤΩΒΡΙΟΥ</p></div>
-<div class="block"><a href="/el/projects/international-projects/archive/galilean-nights.php">ΝΥΧΤΕΣ ΤΟΥ ΓΑΛΙΛΑΙΟΥ</a><br/><p class="short">ΓΚΑΛΕΡΙ ΤΕΧΝΗΣ ΔΡΟΜΕΝΑ, ΛΕΥΚΩΣΙΑ, ΚΥΠΡΟΣ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">6-10 ΟΚΤΩΒΡΙΟΥ</p></div>
-<div class="block"><p class="short">ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ</p><br/><p class="short">ΠΕΡΒΟΛΙΑ ΚΑΙ DREAMLAND, ΛΑΡΝΑΚΑ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">3-4 ΟΚΤΩΒΡΙΟΥ</p></div>
-<div class="block"><p class="short">ΑΣΤΡΟΠΑΡΤΙ ΜΕ ΚΑΜΠΙΝΓΚ</p><br/><p class="short">ΤΡΟΟΔΟΣ, ΚΥΠΡΟΣ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">12 ΣΕΠΤΕΜΒΡΙΟΥ</p></div>
-<div class="block"><p class="short">ΦΙΛΑΝΘΡΩΠΙΚΗ ΕΚΔΗΛΩΣΗ ΙΔΡΥΜΑ ΧΡΙΣΤΙΝΑΣ Α. ΑΠΟΣΤΟΛΟΥ</p><br/><p class="short">ΔΗΜΟΤΙΚΟΙ ΚΗΠΟΙ ΛΑΡΝΑΚΑΣ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">27 ΑΥΓΟΥΣΤΟΥ</p></div>
-<div class="block"><p class="short">Η ΑΠΑΤΗ ΤΟΥ ΑΡΗ - ΦΑΙΝΟΜΕΝΟ ΑΔΥΝΑΤΟ!</p><br/><p class="short">ΠΕΡΒΟΛΙΑ, ΛΑΡΝΑΚΑ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">12 ΑΥΓΟΥΣΤΟΥ</p></div>
-<div class="block"><p class="short">ΒΡΟΧΗ ΜΕΤΕΩΡΩΝ ΠΕΡΣΕΙΔΕΣ 2009</p><br/><p class="short">ΑΣΤΡΟ-ΠΑΡΤΙ ΣΤΗΝ ΠΑΡΑΛΙΑ</p><br/><p class="short">ΠΑΡΑΛΙΑ ΣΟΦΤΑΔΩΝ, ΛΑΡΝΑΚΑ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">28 ΜΑΡΤΙΟΥ</p></div>
-<div class="block"><p class="short">ΩΡΑ ΤΗΣ ΓΗΣ</p><br/><p class="short">ΠΕΡΒΟΛΙΑ, ΛΑΡΝΑΚΑ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">27 ΦΕΒΡΟΥΑΡΙΟΥ</p></div>
-<div class="block"><p class="short">ΚΑΡΝΑΒΑΛΙΣΤΙΚΟ ΠΑΡΤΙ</p><br/><p class="short">DREAMLAND, ΛΑΡΝΑΚΑ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">13 ΦΕΒΡΟΥΑΡΙΟΥ</p></div>
-<div class="block"><p class="short">ΑΣΤΡΟΠΑΡΤΙ ΤΟΥ ΑΓΙΟΥ ΒΑΛΕΝΤΙΝΟΥ</p><br/><p class="short">ΦΑΡΟΣ, ΛΑΡΝΑΚΑ</p></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col">27 ΝΟΕΜΒΡΙΟΥ</th><th scope="col">ΑΣΤΡΟΠΑΡΤΙ ΚΑΛΟ ΧΩΡΙΟ, ΛΑΡΝΑΚΑ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">17 ΝΟΕΜΒΡΙΟΥ</th><th scope="col">ΠΑΡΑΤΗΡΗΣΗ ΛΕΟΝΤΙΔΩΝ ΚΑΛΟ ΧΩΡΙΟ, ΛΑΡΝΑΚΑ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">20-22 ΟΚΤΩΒΡΙΟΥ</th><th scope="col"><a href="/el/projects/international-projects/archive/galilean-nights.php">ΝΥΧΤΕΣ ΤΟΥ ΓΑΛΙΛΑΙΟΥ</a><br/> ΓΚΑΛΕΡΙ ΤΕΧΝΗΣ ΔΡΟΜΕΝΑ, ΛΕΥΚΩΣΙΑ, ΚΥΠΡΟΣ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">6-10 ΟΚΤΩΒΡΙΟΥ</th><th scope="col">ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ<br/> ΠΕΡΒΟΛΙΑ ΚΑΙ DREAMLAND, ΛΑΡΝΑΚΑ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">3-4 ΟΚΤΩΒΡΙΟΥ</th><th scope="col">ΑΣΤΡΟΠΑΡΤΙ ΜΕ ΚΑΜΠΙΝΓΚ<br/> ΤΡΟΟΔΟΣ, ΚΥΠΡΟΣ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">12 ΣΕΠΤΕΜΒΡΙΟΥ</th><th scope="col">ΦΙΛΑΝΘΡΩΠΙΚΗ ΕΚΔΗΛΩΣΗ ΙΔΡΥΜΑ ΧΡΙΣΤΙΝΑΣ Α. ΑΠΟΣΤΟΛΟΥ <br/>ΔΗΜΟΤΙΚΟΙ ΚΗΠΟΙ ΛΑΡΝΑΚΑΣ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">27 ΑΥΓΟΥΣΤΟΥ</th><th scope="col">Η ΑΠΑΤΗ ΤΟΥ ΑΡΗ - ΦΑΙΝΟΜΕΝΟ ΑΔΥΝΑΤΟ! <br/> ΠΕΡΒΟΛΙΑ, ΛΑΡΝΑΚΑ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">12 ΑΥΓΟΥΣΤΟΥ</th><th scope="col">ΒΡΟΧΗ ΜΕΤΕΩΡΩΝ ΠΕΡΣΕΙΔΕΣ 2009<br/>ΑΣΤΡΟ-ΠΑΡΤΙ ΣΤΗΝ ΠΑΡΑΛΙΑ <br/>ΠΑΡΑΛΙΑ ΣΟΦΤΑΔΩΝ, ΛΑΡΝΑΚΑ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">28 ΜΑΡΤΙΟΥ</th><th scope="col">ΩΡΑ ΤΗΣ ΓΗΣ<br/>ΠΕΡΒΟΛΙΑ, ΛΑΡΝΑΚΑ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">27 ΦΕΒΡΟΥΑΡΙΟΥ</th><th scope="col">ΚΑΡΝΑΒΑΛΙΣΤΙΚΟ ΠΑΡΤΙ<br/>DREAMLAND, ΛΑΡΝΑΚΑ</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">13 ΦΕΒΡΟΥΑΡΙΟΥ</th><th scope="col">ΑΣΤΡΟΠΑΡΤΙ ΤΟΥ ΑΓΙΟΥ ΒΑΛΕΝΤΙΝΟΥ<br/>ΦΑΡΟΣ, ΛΑΡΝΑΚΑ</th></tr></table></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

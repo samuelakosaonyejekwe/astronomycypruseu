@@ -23,8 +23,8 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong><strong>ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</strong></strong></h2>
 <h2><strong>ΤΡΙΤΗ 27 ΟΚΤΩΒΡΙΟΥ 2026 ΩΡΑ: 19:00 (UTC+2)</strong></h2>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p>
-<p class="short"><strong>Αναγνωριστικό συνάντησης: 831 2336 2644</strong></p>
-<p class="short"><strong>Κωδικός πρόσβασης: kition</strong></p>
+<dl class="specs"><dt><strong>Αναγνωριστικό συνάντησης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>
+
 <p><strong>19:00 ΚΑΛΩΣΟΡΙΣΜΑ ΑΠΟ ΤΟΝ ΔΙΕΥΘΥΝΤΗ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ)</strong></p>
 <p><strong>19:05 NASA SPACE APPS CHALLENGE ΛΕΜΕΣΟΥ </strong>(ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ, ΥΠΕΥΘΥΝΟΣ ΤΟΥ NASA SPACE APPS CHALLENGE ΛΕΜΕΣΟΥ)</p>
 <p>Με χαρά σας ενημερώνουμε ότι το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ, επίσημος χορηγός του NASA Space Apps Λεμεσού, άνοιξε την πλατφόρμα του για μια ανοιχτή συζήτηση που καλωσορίζει εμάς, τους φίλους μας και τους προσκεκλημένους.</p>
@@ -33,23 +33,23 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <p>Η συνεδρία αυτή έχει σχεδιαστεί ώστε να θεμελιώσει τις ιδέες σας στην πραγματική επιστήμη, τεχνολογία και τέχνη και να σας συνδέσει με παγκόσμιες προκλήσεις.</p>
-<p>Το επίκεντρο της συνεδρίας:</p>
-<p>• Πλαίσιο της πρόκλησης: Εξερευνήστε τα παγκόσμια δεδομένα και το επιστημονικό εύρος των προοπτικών του Next Frontier, για να ανακαλύψετε απροσδόκητες οπτικές για τα έργα σας.</p>
-<p>• Διάλογος με ειδικούς: Συζητήστε με επιστήμονες για να δοκιμάσετε τις υποθέσεις σας και να διευρύνετε την οπτική σας.</p>
-<p>• Κοινοτική συνάψη: Συνδεθείτε με άλλους καινοτόμους για να πυροδοτήσετε τη συνεργασία και τη διασταύρωση ιδεών.</p>
-<p>Συμμετοχή: Δωρεάν.</p>
+<p class="lead">Το επίκεντρο της συνεδρίας:</p>
+<ul class="items"><li>Πλαίσιο της πρόκλησης: Εξερευνήστε τα παγκόσμια δεδομένα και το επιστημονικό εύρος των προοπτικών του Next Frontier, για να ανακαλύψετε απροσδόκητες οπτικές για τα έργα σας.</li><li>Διάλογος με ειδικούς: Συζητήστε με επιστήμονες για να δοκιμάσετε τις υποθέσεις σας και να διευρύνετε την οπτική σας.</li><li>Κοινοτική συνάψη: Συνδεθείτε με άλλους καινοτόμους για να πυροδοτήσετε τη συνεργασία και τη διασταύρωση ιδεών.</li></ul>
+
+
+<p class="short">Συμμετοχή: Δωρεάν.</p>
 <p class="short">Ελάτε μαζί μας για να μάθετε περισσότερα...</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p>
-<p class="short"><strong>Αναγνωριστικό συνάντησης: 831 2336 2644</strong></p>
-<p class="short"><strong>Κωδικός πρόσβασης: kition</strong></p>
+<dl class="specs"><dt><strong>Αναγνωριστικό συνάντησης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>
+
 <p class="short"><strong>Όλες οι συναντήσεις του Science Café είναι <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">δωρεάν</a> και μπορεί να συμμετάσχει οποιοσδήποτε. </strong></p>
 <p><strong>Οι κωδικοί και οι πληροφορίες για τη συνάντηση δημοσιεύονται <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">εδώ</a>.</strong></p>
 <p><strong><br/> Οι καταγραφές των προηγούμενων Διαδικτυακών Science Café είναι διαθέσιμες στο <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">κανάλι μας στο YouTube</a>.</strong></p>
 <p>Εάν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
-<p><strong>ΣΥΝΔΕΣΜΟΙ</strong>:</p>
+<p class="lead"><strong>ΣΥΝΔΕΣΜΟΙ</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p></div>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+</div>
 </div>
 </div>
 </article>

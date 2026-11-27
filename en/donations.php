@@ -21,10 +21,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><h2>PLEASE DONATE TO SUPPORT THE KITION PLANETARIUM &amp; OBSERVATORY</h2>
 <p><img alt="" data-nw="3150" decoding="async" height="252" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="800"/></p>
 <h2>DONATIONS</h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-e5/" rel="noopener noreferrer" target="_blank" title="Donation-€5">DONATION-€5</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-10/" rel="noopener noreferrer" target="_blank" title="Donation-€10">DONATION-€10</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-20/" rel="noopener noreferrer" target="_blank" title="Donation-€20">DONATION-€20</a></h2>
-<h2><a href="https://astronomycyprus.eu/gift-shop/product/donation-50/" rel="noopener noreferrer" target="_blank" title="Donation-€50">DONATION-€50</a></h2>
+<div class="link-row"><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-e5/" rel="noopener noreferrer" target="_blank" title="Donation-€5">DONATION-€5</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-10/" rel="noopener noreferrer" target="_blank" title="Donation-€10">DONATION-€10</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-20/" rel="noopener noreferrer" target="_blank" title="Donation-€20">DONATION-€20</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-50/" rel="noopener noreferrer" target="_blank" title="Donation-€50">DONATION-€50</a></p></div>
+
+
+
 <p>The KITION PLANETARIUM &amp; OBSERVATORY is a private initiative with no governmental support. It operates as a non-profit organization and it works with volunteers only. It is self-funded since 2008 by a very small ammount of income from donations, entrance tickets, schools visits, private events, astrotourism and a small gift shop.</p>
 <p>We do astronomy outreach for the general public, educational courses, we share our passion for astronomy and science with fun and entertainment, we contribute to the international scientific community with scientfic research and publications, and we offer service and commitment to the local and international society. We provide innovative STEM and STEAM programs and workshops for A4BD (Astronomy for the Blind and Disabled), Astronomy for Autism and Astronomy for people with Special Capabilitites.</p>
 <p>We dream of keep evoluting and growing, building a bigger science center with even more capability for hosting more people, with a cafeteria, a larger museum, a larger exhibition area, and more advanced laboratories. In this way we will be able to involve more people in astronomy and science and offer a better service to the local community and society.</p>

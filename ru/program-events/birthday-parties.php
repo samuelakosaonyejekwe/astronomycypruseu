@@ -39,41 +39,29 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <div class="blocks">
-<div class="row">
+<div class="row gallery captioned tiles">
 <div class="block">
 <p><a href="/images/gam2014/gam2014_03.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th03.jpg" width="283"/></a><br/> МЕЖДУНАРОДНЫЕ ВЕЧЕРИНКИ СКАУТОВ</p>
 </div>
 <div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><a href="/images/gam2014/gam2014_02.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th02.jpg" width="283"/></a></p><p class="short">ГЛОБАЛЬНАЯ ЗВЁЗДНАЯ ВЕЧЕРИНКА В ОБСЕРВАТОРИИ</p></div></div></div>
 </div>
-</div>
-<div class="row">
 <div class="block">
 <p><a href="/images/gam2014/gam2014_01.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th01.jpg" width="283"/></a>МЕЖДУНАРОДНЫЕ АСТРОНОМИЧЕСКИЕ ДИСКУССИИ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_06.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th06.jpg" width="283"/></a></p>
-<p class="short">ДИСКОТЕКИ НА АСТРОНОМИЧЕСКУЮ ТЕМУ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_06.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th06.jpg" width="283"/></a></p>
+<p class="short">ДИСКОТЕКИ НА АСТРОНОМИЧЕСКУЮ ТЕМУ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_07.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th07.jpg" width="283"/></a></p>
 <p class="short">НАБЛЮДЕНИЯ ЛУНЫ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_08.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th08.jpg" width="283"/></a></p>
-<p class="short">НАБЛЮДЕНИЯ ПЛАНЕТ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_08.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th08.jpg" width="283"/></a></p>
+<p class="short">НАБЛЮДЕНИЯ ПЛАНЕТ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_09.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th09.jpg" width="283"/></a><br/> ОТСЛЕЖИВАНИЕ СПУТНИКОВ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_10.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th10.jpg" width="125"/></a><br/> НАБЛЮДЕНИЯ МЕТЕОРНЫХ ПОТОКОВ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_10.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th10.jpg" width="125"/></a><br/> НАБЛЮДЕНИЯ МЕТЕОРНЫХ ПОТОКОВ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_11.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th11.jpg" width="283"/></a></p>
 <p class="short">НАБЛЮДЕНИЯ СОЛНЦА</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_12.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th12.jpg" width="125"/></a><br/> НАБЛЮДАЙТЕ СОЛНЕЧНЫЕ ПЯТНА, ВИДИМЫЕ НА СОЛНЕЧНОМ ДИСКЕ.</p></div>
-</div>
+</div><div class="block"><p><a href="/images/gam2014/gam2014_12.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th12.jpg" width="125"/></a><br/> НАБЛЮДАЙТЕ СОЛНЕЧНЫЕ ПЯТНА, ВИДИМЫЕ НА СОЛНЕЧНОМ ДИСКЕ.</p></div></div>
+
+
+
+
 </div>
 </div>
 </div>

@@ -41,11 +41,11 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Директор ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p></div>
 </div>
 </div>
-<p class="short"><a class="doc-link" href="/docs/educational-courses/wonders-of-spherical-astronomy/wonders-of-spherical-astronomy-en.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Скачать предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></p>
-<p class="short"><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></p>
+<ul class="link-list"><li><a class="doc-link" href="/docs/educational-courses/wonders-of-spherical-astronomy/wonders-of-spherical-astronomy-en.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Скачать предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></li></ul>
+
 <div class="blocks">
 <div class="row">
-<div class="block"><p class="short">ВАЖНОЕ ПРИМЕЧАНИЕ:</p>
+<div class="block"><p class="lead short">ВАЖНОЕ ПРИМЕЧАНИЕ:</p>
 <p>Действует политика «Только по предварительной записи».</p>
 <p>Необходимо записаться заранее по телефону (+357) 99991111 (на английском языке) или (+357) 99037440 (на русском языке).</p>
 <p>Если Вы ищете особые или индивидуальные программы или услуги для себя, своих друзей или своей группы, не стесняйтесь <a href="/ru/contact-us.php">обращаться к нам</a>.</p>

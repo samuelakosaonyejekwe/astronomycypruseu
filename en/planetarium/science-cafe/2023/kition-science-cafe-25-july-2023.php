@@ -22,12 +22,12 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<p class="short"><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:00 Perseids Meteor Shower 2023 
- (George Troullias - Cyprus NPoC for IMO)</strong></a></p>
-<p class="short"><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:35 Expedition 67 - 
+<ul class="link-list"><li><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:00 Perseids Meteor Shower 2023 
+ (George Troullias - Cyprus NPoC for IMO)</strong></a></li><li><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:35 Expedition 67 - 
  Constantinos Troullias -
- Cypriot Analogue Astronaut</strong></a></p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="490" decoding="async" height="200" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/constantinos-troullias.png" width="200"/></p></div><div class="block"><p><strong>Constantinos Troullias</strong> graduated from the American Academy Larnaca, Cyprus  with a High Academic Achievement of a yearly average of 95.83%.</p><p>At the moment he is a 3rd year student pursuing a degree in Biological Sciences at the University of Leicester, England. </p><p>He is planning to do a Master’s degree in Biotechnology and Astrobiology.</p><p> He joined the Expedition 67 to simulate a mission on the lunar surface and carry out experiments  which are also carried out in space onboard the International Space Station.</p><p>JOIN US ON ONLINE... </p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p></div></div></div>
+ Cypriot Analogue Astronaut</strong></a></li></ul>
+
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="490" decoding="async" height="200" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/constantinos-troullias.png" width="200"/></p></div><div class="block"><p><strong>Constantinos Troullias</strong> graduated from the American Academy Larnaca, Cyprus  with a High Academic Achievement of a yearly average of 95.83%.</p><p>At the moment he is a 3rd year student pursuing a degree in Biological Sciences at the University of Leicester, England. </p><p>He is planning to do a Master’s degree in Biotechnology and Astrobiology.</p><p> He joined the Expedition 67 to simulate a mission on the lunar surface and carry out experiments  which are also carried out in space onboard the International Space Station.</p><p>JOIN US ON ONLINE... </p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl></div></div></div>
 
 
 
@@ -50,16 +50,16 @@ require SITE_ROOT . '/includes/header.php';
 
 <h2>Free entrance.</h2>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+
 <p>Join Our Spacewalk!</p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+
 <h3>VISIT OUR FB PAGE...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 <div class="row">
 <div class="block"><p class="short">"</p></div>

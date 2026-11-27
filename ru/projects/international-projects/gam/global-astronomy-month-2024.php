@@ -44,7 +44,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <h3>Всемирный месяц астрономии 2024</h3>
-<p><strong>Ключевые программы:</strong></p>
+<p class="lead"><strong>Ключевые программы:</strong></p>
 <p><strong><img alt="" data-nw="1366" decoding="async" height="281" loading="lazy" src="/images/gam/gam2024/gam-2024.jpg" width="500"/><br/> </strong>Всемирная звёздная вечеринка<br/> SunDay<br/> Прямая экскурсия по объектам дальнего космоса с Virtual Telescope (дата уточняется)<br/> Прямая трансляция полного солнечного затмения с Time and Date, 8 апреля</p>
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><a href="/ru/planetarium/science-cafe/2024/total-solar-eclipse-8-april-2024.php"><img alt="" data-nw="960" decoding="async" height="281" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/total-solar-eclipse-8-april-2024-nasa.jpg" width="500"/></a></p><p class="short">ВСТРЕЧА СО ЗВЁЗДАМИ — НЕБЕСА — НАША СВОБОДА (МЕРОПРИЯТИЕ В EXCELLENCE INSTITUTE) ССЫЛКА 1</p></div></div></div></div><div class="block"><p class="short"><a href="https://fb.me/e/1StBhQsJU" rel="noopener noreferrer" target="_blank">ВСТРЕЧА СО ЗВЁЗДАМИ — НЕБЕСА — НАША СВОБОДА (МЕРОПРИЯТИЕ В EXCELLENCE INSTITUTE) </a> ССЫЛКА 2</p><p><a href="https://fb.me/e/1StBhQsJU" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="281" loading="lazy" src="/images/gam/gam2024/gam-2024-heavens-freedom.jpg" width="500"/></a></p></div><div class="block media"><p><a href="https://astronomycyprus.eu/gift-shop/product/sunday/" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="960" decoding="async" height="281" loading="lazy" src="/images/gam/gam2024/sunday-28-april-2024.jpg" width="500"/></a></p></div></div></div>
 
@@ -52,7 +52,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <p>Кампания по поиску астероидов<br/> Наблюдательные задания<br/> Проект гражданской науки Globe at Night<br/> Неделя осведомлённости о тёмном небе<br/> Карты неба на апрель<br/> Астроискусство — поэзия и изобразительное искусство</p>
-<p><strong>Партнёры</strong>:</p>
+<p class="lead"><strong>Партнёры</strong>:</p>
 <p><a href="https://www.astroleague.org/" rel="noopener noreferrer" target="_blank">Astronomical League</a><br/> <a href="https://www.globeatnight.org/" rel="noopener noreferrer" target="_blank">Globe at Night</a><br/> <a href="http://iasc.cosmosearch.org/" rel="noopener noreferrer" target="_blank">International Astronomical Search Collaboration</a><br/> <a href="https://www.darksky.org/" rel="noopener noreferrer" target="_blank">International Dark Sky Association</a><br/> <a href="https://www.timeanddate.com/" rel="noopener noreferrer" target="_blank">Time and Date</a><br/> <a href="https://www.virtualtelescope.eu/" rel="noopener noreferrer" target="_blank">Virtual Telescope</a></p>
 <p>Планируете провести астрономическое мероприятие В АПРЕЛЕ?</p>
 <p class="short">ДОБАВЬТЕ СВОЁ МЕРОПРИЯТИЕ ЗДЕСЬ</p>
@@ -63,7 +63,7 @@ require SITE_ROOT . '/includes/header.php';
 
 <h2><strong>ПРАЗДНОВАНИЕ #GAM2023 НА КИПРЕ</strong></h2>
 <h2><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/gam/gam2023/gam-2023-program.jpg" width="800"/></h2>
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="600" decoding="async" height="180" loading="lazy" src="/images/est2008LOGOweb.jpg" width="550"/></p></div><div class="block"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встречам Zoom</a></p><p class="short">Идентификатор встречи: 831 2336 2644</p><p>Код доступа: kition</p><p>Всемирный месяц астрономии (GAM), которому исполняется 14 лет, организуется «Астрономами без границ»</p><p>и является крупнейшим в мире ежегодным глобальным праздником астрономии.</p><p>Каждый GAM приносит новые космические идеи и новые возможности, и GAM 2023 не исключение, объединяя любителей ночного неба по всему миру для празднования девиза «Астрономов без границ»</p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="600" decoding="async" height="180" loading="lazy" src="/images/est2008LOGOweb.jpg" width="550"/></p></div><div class="block"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встречам Zoom</a></p><dl class="specs"><dt>Идентификатор встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl><p>Всемирный месяц астрономии (GAM), которому исполняется 14 лет, организуется «Астрономами без границ»</p><p>и является крупнейшим в мире ежегодным глобальным праздником астрономии.</p><p>Каждый GAM приносит новые космические идеи и новые возможности, и GAM 2023 не исключение, объединяя любителей ночного неба по всему миру для празднования девиза «Астрономов без границ»</p></div></div></div>
 
 
 
@@ -88,7 +88,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<h2><a class="doc-link" href="/docs/projects/international-projects/gam/GAM_2022-Cyprus-program.pdf" rel="noopener" target="_blank" title="CYPRUS GAM22 PROGRAM"> ПРОГРАММА GAM 2022 НА КИПРЕ ЗДЕСЬ (PDF)</a></h2>
+<div class="link-row"><p class="short"><a class="doc-link" href="/docs/projects/international-projects/gam/GAM_2022-Cyprus-program.pdf" rel="noopener" target="_blank" title="CYPRUS GAM22 PROGRAM"> ПРОГРАММА GAM 2022 НА КИПРЕ ЗДЕСЬ (PDF)</a></p></div>
 <p>В этом году в связи с мерами, принятыми правительствами из-за пандемии COVID-19, мы поддерживаем онлайн-мероприятия ради безопасности людей, а также несколько мероприятий с очным присутствием, на которых участники получат возможность принять участие в международных проектах.</p>
 
 
@@ -120,7 +120,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Наши <strong>тематические мероприятия в Facebook</strong> растут с самого первого Всемирного месяца астрономии, а вместе с ними и число наших подписчиков в социальных сетях. Это также стало удобным местом для общения наших международных участников и специалистов с публикой и с нашим сообществом. Наши тематические <a href="https://www.facebook.com/gam.awb/videos/?ref=page_internal" rel="noopener noreferrer" target="_blank">прямые эфиры в Facebook</a> стали неотъемлемой частью жизни нашего сообщества начиная с GAM 2020.<br/> <br/> Темы варьируются от того, чем национальные координаторы занимаются на местах, до звёздных сказаний коренных народов Австралии, путешествий по далёким галактикам и шаровым скоплениям (объекты Мессье), уроков рисования лунных кратеров, отражения изображения и звука от Луны или космического концерта. Эти очень популярные и увлекательные онлайн-мероприятия собирают аудиторию без географических границ.</p>
 <p>Программы <strong>АстроАрт</strong> и <strong>АстроПоэзия</strong> развивались на протяжении многих лет. «Астрономы без границ» организовали и провели конкурсы АстроАрт и АстроПоэзия, чтобы побудить людей всех возрастов и из всех культур создавать произведения искусства и стихи. Эти конкурсы мотивировали многих не только делиться любовью к ночному небу, но и углублять знания в области астрономической науки. <br/> <br/> Конкурсы АстроАрт и АстроПоэзия были открыты как для детей, так и для взрослых — и в художественных, и в поэтических номинациях. В результате поступили сотни работ, различающихся используемыми материалами, рифмой или белым стихом, карандашом или цветом. Они показали, как выглядят планеты, как человек ступил на Луну и как дети видели себя путешествующими по космосу — в словах и картинках.</p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
-<p><strong>ССЫЛКИ:</strong></p>
+<p class="lead"><strong>ССЫЛКИ:</strong></p>
 <h3><strong>АСТРОНОМЫ БЕЗ ГРАНИЦ</strong></h3>
 <p class="short"><a href="https://www.astronomerswithoutborders.org" rel="noopener noreferrer" target="_blank" title="www.astronomerswithoutborders.org">www.astronomerswithoutborders.org</a></p>
 <p class="short"><strong>GAM</strong></p>

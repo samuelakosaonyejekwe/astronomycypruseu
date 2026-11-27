@@ -28,20 +28,20 @@ require SITE_ROOT . '/includes/header.php';
 <h2>by spending 60 minutes doing </h2>
 <h2>something - anything - positive for our planet.</h2>
 <h2>Over 385,284 people from 175 countries and territories are pledging to give:</h2>
-<p class="short">* 33,627 hours Reconnecting with our planet </p>
-<p class="short">* 26,147 hours Restoring our planet </p>
-<p class="short">* 320,892 hours Learning more about our planet </p>
-<p class="short">*1,555 hours Inspiring others to take care for our planet </p>
-<p class="short">*3,063 hours Finding other ways to make an impact</p>
+<ul class="items"><li>33,627 hours Reconnecting with our planet </li><li>26,147 hours Restoring our planet </li><li>320,892 hours Learning more about our planet </li><li>1,555 hours Inspiring others to take care for our planet </li><li>3,063 hours Finding other ways to make an impact</li></ul>
+
+
+
+
 </div>
 </div>
 </div>
 <div class="blocks">
 <div class="row">
 <div class="block"><p><a href="https://www.earthhour.org/cs/c/?cta_guid=df19f640-94be-486e-a952-5008ba4b1eee&amp;signature=AAH58kFewtBS4oVpP94jvl-uNIBPjdm4Zg&amp;pageId=38535589956&amp;placement_guid=da53b608-3035-4f42-b43a-c7dc00f91eba&amp;click=0c91e7eb-e6b2-4068-abc6-a098e9a15184&amp;hsutk=6752ca739c687c4c0d21bc4b89a242f8&amp;canon=https%3A%2F%2Fwww.earthhour.org%2F&amp;utm_referrer=https%3A%2F%2Fwww.earthhour.org%2F&amp;portal_id=4783129&amp;redirect_url=APefjpHtqK_BFLjOe15xI0kKMbKVo-FfvDuz07rETRshO8SNpmVL7MLc2YLiMTgiXvNMrj87IGqm3puoeElBCLld4xAFYCu3awV_JG7UNsheuGrUIkRiUBql-srHOHQg9MS4QpAgnJE4fyfUfZ67YA7ngvtH2b-oO2bVFhq2W9YZU3X6TYYGoSejrkCq6Vcbp5hvF6oBBFUMX_q92uCSv9weuTtLDPdctoYWFx09B5JVMlXyLk3FdwY_qKq5euYrGA64p63oIOtadRBMlpAzSzqYjMgm9EUWTw&amp;__hstc=227722178.6752ca739c687c4c0d21bc4b89a242f8.1679730835354.1679730835354.1679730835354.1&amp;__hssc=227722178.6.1679730835355&amp;__hsfp=1583514378&amp;contentType=standard-page" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1254" decoding="async" height="378" loading="lazy" src="/images/earth-hour-60%2B/earth-hour-events.png" width="800"/></a></p>
-<p class="short"><em><a href="https://www.earthhour.org/cs/c/?cta_guid=06e3e85a-4d6c-40f9-bdda-4dcc27d10886&amp;signature=AAH58kFNfbX4EWPVReqP2ZIOhSXZ8GC8cQ&amp;pageId=38535589956&amp;placement_guid=2fe7beed-3b74-459a-8bc5-61ba0fb64e9c&amp;click=00208420-4156-41e6-af1e-6a6c42486fcd&amp;hsutk=6752ca739c687c4c0d21bc4b89a242f8&amp;canon=https%3A%2F%2Fwww.earthhour.org%2F&amp;utm_referrer=https%3A%2F%2Fwww.earthhour.org%2F%3FhsCtaTracking%3D19a02db2-139f-4516-9bd1-59789bd70809%7C7b52947c-c846-4f03-8498-8d007d6a6c6c&amp;portal_id=4783129&amp;redirect_url=APefjpEE4oEhFk8265cp6hqQRi8E67DYriBIBe8helEf_RwWpuAS6c_NKIZu3Z8YBaeDG_Ho2rBCwnWEIg8pCFPEJWWw7m7bqcKJn2faQgJygKtv6FA7p_eFvDTjm9BGs52jjInyOe4EiOpO8EDuqWntiYAKvePM9JlcjF2tP1L8jrzMqGx_jqOYkxqve-VPjCkwa6QUiuCMTKK1JrbltLtGEC8nnFKi9dGM6iWkE20NyuGOS93VnQmq2Ic4W1q_V1RaV71WCOnLNnivztDSClH2ok3z8ZycDw&amp;__hstc=227722178.6752ca739c687c4c0d21bc4b89a242f8.1679730835354.1679730835354.1679733139861.2&amp;__hssc=227722178.3.1679733139861&amp;__hsfp=1583514378&amp;contentType=standard-page" rel="noopener noreferrer" target="_blank" title="DISCOVER WAYS TO GIVE YOUR HOUR">DISCOVER WAYS TO GIVE YOUR HOUR</a></em></p></div>
+<div class="link-row"><p class="short"><em><a href="https://www.earthhour.org/cs/c/?cta_guid=06e3e85a-4d6c-40f9-bdda-4dcc27d10886&amp;signature=AAH58kFNfbX4EWPVReqP2ZIOhSXZ8GC8cQ&amp;pageId=38535589956&amp;placement_guid=2fe7beed-3b74-459a-8bc5-61ba0fb64e9c&amp;click=00208420-4156-41e6-af1e-6a6c42486fcd&amp;hsutk=6752ca739c687c4c0d21bc4b89a242f8&amp;canon=https%3A%2F%2Fwww.earthhour.org%2F&amp;utm_referrer=https%3A%2F%2Fwww.earthhour.org%2F%3FhsCtaTracking%3D19a02db2-139f-4516-9bd1-59789bd70809%7C7b52947c-c846-4f03-8498-8d007d6a6c6c&amp;portal_id=4783129&amp;redirect_url=APefjpEE4oEhFk8265cp6hqQRi8E67DYriBIBe8helEf_RwWpuAS6c_NKIZu3Z8YBaeDG_Ho2rBCwnWEIg8pCFPEJWWw7m7bqcKJn2faQgJygKtv6FA7p_eFvDTjm9BGs52jjInyOe4EiOpO8EDuqWntiYAKvePM9JlcjF2tP1L8jrzMqGx_jqOYkxqve-VPjCkwa6QUiuCMTKK1JrbltLtGEC8nnFKi9dGM6iWkE20NyuGOS93VnQmq2Ic4W1q_V1RaV71WCOnLNnivztDSClH2ok3z8ZycDw&amp;__hstc=227722178.6752ca739c687c4c0d21bc4b89a242f8.1679730835354.1679730835354.1679733139861.2&amp;__hssc=227722178.3.1679733139861&amp;__hsfp=1583514378&amp;contentType=standard-page" rel="noopener noreferrer" target="_blank" title="DISCOVER WAYS TO GIVE YOUR HOUR">DISCOVER WAYS TO GIVE YOUR HOUR</a></em></p></div></div>
 <div class="block"><h2><img alt="" data-nw="1262" decoding="async" height="390" loading="lazy" src="/images/earth-hour-60%2B/earth-hour-2023-lights.png" width="800"/></h2>
-<p class="short"><a href="https://www.earthhour.org/cs/c/?cta_guid=7b52947c-c846-4f03-8498-8d007d6a6c6c&amp;signature=AAH58kHPmGfgZ0y1fNYYz7rYLs9nV0lgXg&amp;pageId=38535589956&amp;placement_guid=19a02db2-139f-4516-9bd1-59789bd70809&amp;click=1586f6ed-45a2-4644-83c5-784e3b3ff52c&amp;hsutk=6752ca739c687c4c0d21bc4b89a242f8&amp;canon=https%3A%2F%2Fwww.earthhour.org%2F&amp;utm_referrer=https%3A%2F%2Fwww.earthhour.org%2F%3FhsCtaTracking%3D19a02db2-139f-4516-9bd1-59789bd70809%7C7b52947c-c846-4f03-8498-8d007d6a6c6c&amp;portal_id=4783129&amp;redirect_url=APefjpEAMsE2j67u6btLv9DZMWyMW6bxlnuQpc75_1JBfQmPRDqU7WQmkXy_B2MzT_8L9HAPJEiYVCwgbPtT8Mc7ulSc6mAcp-4grgeWeqShuhtjYc28jCBy9pDHNrvi1yImxwJn50m-eBYk6hM3lv4gXLq-q0dM0c3p1Mxj7O8oS4ByZWTt6ROc-N1DVf2PEinMU1XNyIwg1_QiEjnmgavFzEiYN0Hyw4hQJd4LeIpOUsPRQvddQLYmh5CscPwaV_dPZeleAeA0oIb4CJZN_kbS4XbJVkHlyg&amp;__hstc=227722178.6752ca739c687c4c0d21bc4b89a242f8.1679730835354.1679730835354.1679733139861.2&amp;__hssc=227722178.2.1679733139861&amp;__hsfp=1583514378&amp;contentType=standard-page" rel="noopener noreferrer" target="_blank" title="I AM GIVING AN HOUR FOR EARTH"><em>I AM GIVING AN HOUR FOR EARTH</em></a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.earthhour.org/cs/c/?cta_guid=7b52947c-c846-4f03-8498-8d007d6a6c6c&amp;signature=AAH58kHPmGfgZ0y1fNYYz7rYLs9nV0lgXg&amp;pageId=38535589956&amp;placement_guid=19a02db2-139f-4516-9bd1-59789bd70809&amp;click=1586f6ed-45a2-4644-83c5-784e3b3ff52c&amp;hsutk=6752ca739c687c4c0d21bc4b89a242f8&amp;canon=https%3A%2F%2Fwww.earthhour.org%2F&amp;utm_referrer=https%3A%2F%2Fwww.earthhour.org%2F%3FhsCtaTracking%3D19a02db2-139f-4516-9bd1-59789bd70809%7C7b52947c-c846-4f03-8498-8d007d6a6c6c&amp;portal_id=4783129&amp;redirect_url=APefjpEAMsE2j67u6btLv9DZMWyMW6bxlnuQpc75_1JBfQmPRDqU7WQmkXy_B2MzT_8L9HAPJEiYVCwgbPtT8Mc7ulSc6mAcp-4grgeWeqShuhtjYc28jCBy9pDHNrvi1yImxwJn50m-eBYk6hM3lv4gXLq-q0dM0c3p1Mxj7O8oS4ByZWTt6ROc-N1DVf2PEinMU1XNyIwg1_QiEjnmgavFzEiYN0Hyw4hQJd4LeIpOUsPRQvddQLYmh5CscPwaV_dPZeleAeA0oIb4CJZN_kbS4XbJVkHlyg&amp;__hstc=227722178.6752ca739c687c4c0d21bc4b89a242f8.1679730835354.1679730835354.1679733139861.2&amp;__hssc=227722178.2.1679733139861&amp;__hsfp=1583514378&amp;contentType=standard-page" rel="noopener noreferrer" target="_blank" title="I AM GIVING AN HOUR FOR EARTH"><em>I AM GIVING AN HOUR FOR EARTH</em></a></p></div></div>
 </div>
 </div>
 <p><strong>EARTH HOUR 60 2026 - CELEBRATIONS IN CYPRUS BY THE KITION PLANETARIUM &amp; OBSERVATORY</strong> </p>
@@ -158,8 +158,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="block"><p class="short">EARTH HOUR 60+ 2021 CELEBRATIONS</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">ONELINE ZOOM MEETING</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p></div>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+</div>
 </div>
 </div>
 <p class="short"><strong>2020</strong></p>
@@ -296,7 +296,7 @@ require SITE_ROOT . '/includes/header.php';
  participate in the events for EARTH HOUR 60+</p>
 
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p class="short"> EARTH HOUR 60+ <a href="https://www.earthhour.org/" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/</a></p>
 
 <p class="short">INTERNATIONAL EVENTS FOR EARTH HOUR 60+ <a href="https://www.earthhour.org/take-part/events" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/take-part/events</a></p>

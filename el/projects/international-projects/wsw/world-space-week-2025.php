@@ -22,7 +22,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="5728" decoding="async" height="854" loading="lazy" src="/images/wsw/wsw2025/wsw2025-poster-cyprus.jpg" width="600"/></p></div><div class="block"><p class="short">Οι δράσεις της ΠΕΔ στην <strong>Κύπρο</strong> περιλαμβάνουν:</p><p class="short"><strong>● ΤΡΙΤΗ 30 ΣΕΠΤΕΜΒΡΙΟΥ 2025 ΩΡΑ: 20:00 (UTC+3) </strong></p><p class="short"><strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> (ΜΕΣΩ ZOOM)</p><p><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>20:00 ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2025 - ONLINE SCIENCE CAFÉ «ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></p><p><strong>Ομιλητής: Γιώργος Τρούλλιας (Εθνικός Συντονιστής της Κύπρου για την Παγκόσμια Εβδομάδα Διαστήματος του ΟΗΕ)</strong></p><p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη σύσκεψη Zoom</strong></a></p><p class="short"><strong>Meeting ID: 831 2336 2644</strong></p><p class="short"><strong>Passcode: kition</strong></p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="5728" decoding="async" height="854" loading="lazy" src="/images/wsw/wsw2025/wsw2025-poster-cyprus.jpg" width="600"/></p></div><div class="block"><p class="lead short">Οι δράσεις της ΠΕΔ στην <strong>Κύπρο</strong> περιλαμβάνουν:</p><p class="short"><strong>● ΤΡΙΤΗ 30 ΣΕΠΤΕΜΒΡΙΟΥ 2025 ΩΡΑ: 20:00 (UTC+3) </strong></p><p class="short"><strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> (ΜΕΣΩ ZOOM)</p><p><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>20:00 ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2025 - ONLINE SCIENCE CAFÉ «ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></p><p><strong>Ομιλητής: Γιώργος Τρούλλιας (Εθνικός Συντονιστής της Κύπρου για την Παγκόσμια Εβδομάδα Διαστήματος του ΟΗΕ)</strong></p><p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη σύσκεψη Zoom</strong></a></p><dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl></div></div></div>
 
 
 
@@ -105,15 +105,15 @@ require SITE_ROOT . '/includes/header.php';
 <h2>Παρακαλούμε δείτε τα Κυριότερα Σημεία της Παγκόσμιας Εβδομάδας Διαστήματος 2025</h2>
 <h2>Τι είναι η Παγκόσμια Εβδομάδα Διαστήματος;</h2>
 <p>Η Παγκόσμια Εβδομάδα Διαστήματος είναι μια διεθνής γιορτή της επιστήμης και της τεχνολογίας και της συμβολής τους στη βελτίωση της ανθρώπινης κατάστασης. Η Γενική Συνέλευση των Ηνωμένων Εθνών κήρυξε το 1999 ότι η Παγκόσμια Εβδομάδα Διαστήματος θα πραγματοποιείται κάθε χρόνο από τις 4 έως τις 10 Οκτωβρίου. Οι ημερομηνίες αυτές τιμούν δύο γεγονότα:</p>
-<p>* 4 Οκτωβρίου 1957: Εκτόξευση του πρώτου ανθρωπογενούς δορυφόρου της Γης, του Σπούτνικ 1, ανοίγοντας έτσι τον δρόμο για τη διαστημική εξερεύνηση</p>
+<ul class="items"><li>4 Οκτωβρίου 1957: Εκτόξευση του πρώτου ανθρωπογενούς δορυφόρου της Γης, του Σπούτνικ 1, ανοίγοντας έτσι τον δρόμο για τη διαστημική εξερεύνηση</li></ul>
 <p>* 10 Οκτωβρίου 1967: Υπογραφή της Συνθήκης για τις Αρχές που Διέπουν τις Δραστηριότητες των Κρατών στην Εξερεύνηση και Χρήση του Διαστήματος, συμπεριλαμβανομένης της Σελήνης και των Λοιπών Ουρανίων Σωμάτων, για ειρηνικούς σκοπούς.</p>
 <p>Η Παγκόσμια Εβδομάδα Διαστήματος αποτελείται από εκπαιδευτικές εκδηλώσεις και εκδηλώσεις ενημέρωσης για το διάστημα, που διοργανώνονται από διαστημικές υπηρεσίες, αεροδιαστημικές εταιρείες, σχολεία, πλανητάρια, μουσεία και αστρονομικούς συλλόγους σε όλο τον κόσμο, σε κοινό χρονικό πλαίσιο. Αυτές οι συγχρονισμένες διαστημικές εκδηλώσεις προσελκύουν μεγαλύτερο ενδιαφέρον από το κοινό και τα μέσα ενημέρωσης. Η Παγκόσμια Εβδομάδα Διαστήματος 2023 σημείωσε ρεκόρ κλίμακας:</p>
-<p>* περισσότερες από 16.000 εκδηλώσεις</p>
-<p class="short">* Εκδηλώσεις σε 80 χώρες</p>
+<ul class="items"><li>περισσότερες από 16.000 εκδηλώσεις</li><li>Εκδηλώσεις σε 80 χώρες</li></ul>
+
 <h3>Η Παγκόσμια Εβδομάδα Διαστήματος συντονίζεται από τα Ηνωμένα Έθνη με την υποστήριξη του Οργανισμού Παγκόσμιας Εβδομάδας Διαστήματος (WSWA). Ο WSWA ηγείται μιας παγκόσμιας ομάδας Εθνικών Συντονιστών, οι οποίοι προωθούν τον εορτασμό της Παγκόσμιας Εβδομάδας Διαστήματος στις χώρες τους.</h3>
 <h2>Συνολικό κοινό από το 2007:</h2>
-<p class="short">* Πάνω από 2.000.000 συμμετέχοντες</p>
-<p>* Σχεδόν 500.000.000 εμφανίσεις στα μέσα ενημέρωσης</p>
+<ul class="items"><li>Πάνω από 2.000.000 συμμετέχοντες</li><li>Σχεδόν 500.000.000 εμφανίσεις στα μέσα ενημέρωσης</li></ul>
+
 <p>Η Παγκόσμια Εβδομάδα Διαστήματος συντονίζεται από τα Ηνωμένα Έθνη με την υποστήριξη του Οργανισμού Παγκόσμιας Εβδομάδας Διαστήματος (WSWA).</p>
 <p>Ο WSWA ηγείται μιας παγκόσμιας ομάδας Εθνικών Συντονιστών, οι οποίοι προωθούν τον εορτασμό της Παγκόσμιας Εβδομάδας Διαστήματος στις χώρες τους.</p>
 <h2>Ποιοι είναι οι στόχοι της Παγκόσμιας Εβδομάδας Διαστήματος;</h2>
@@ -124,7 +124,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Ενθουσιασμός των νέων για την επιστήμη, την τεχνολογία, τη μηχανική και τα μαθηματικά</p>
 <p>Προώθηση της διεθνούς συνεργασίας στην ενημέρωση και εκπαίδευση για το διάστημα</p>
 <p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
-<p><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
+<p class="lead"><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
 <p><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
 
 <p><strong>ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ</strong> https://www.worldspaceweek.org/events/event-list/</p>

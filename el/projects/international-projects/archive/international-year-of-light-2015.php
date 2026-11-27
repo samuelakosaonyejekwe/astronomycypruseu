@@ -67,10 +67,10 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><p class="short">19</p><strong>ΑΠΡΙΛΙΟΥ</strong><p class="short">10:00</p></div>
-<div class="block"><p><strong>«Η ΜΕΡΑ ΤΟΥ ΗΛΙΟΥ»</strong><br/>
-<strong>«ΑΛΛΑΖΩ ΣΤΑΣΗ, ΑΝΑΛΑΜΒΑΝΩ ΟΙΚΟΛΟΓΙΚΗ ΔΡΑΣΗ»</strong><br/>
-<strong>«ΦΩΣ – ΑΝΑΝΕΩΣΙΜΕΣ ΠΗΓΕΣ ΕΝΕΡΓΕΙΑΣ</strong><strong>»</strong><br/>
-<strong>ΠΑΡΑΤΗΡΗΣΗ ΤΟΥ ΗΛΙΟΥ<br/>(«ΗΛΙΟΣΤΑΛΑΓΜΑΤΙΕΣ» ΛΑΡΝΑΚΑ)</strong></p></div>
+<div class="block"><p>«Η ΜΕΡΑ ΤΟΥ ΗΛΙΟΥ»<br/>
+«ΑΛΛΑΖΩ ΣΤΑΣΗ, ΑΝΑΛΑΜΒΑΝΩ ΟΙΚΟΛΟΓΙΚΗ ΔΡΑΣΗ»<br/>
+«ΦΩΣ – ΑΝΑΝΕΩΣΙΜΕΣ ΠΗΓΕΣ ΕΝΕΡΓΕΙΑΣ»<br/>
+ΠΑΡΑΤΗΡΗΣΗ ΤΟΥ ΗΛΙΟΥ<br/>(«ΗΛΙΟΣΤΑΛΑΓΜΑΤΙΕΣ» ΛΑΡΝΑΚΑ)</p></div>
 </div>
 <div class="row">
 <div class="block"><p class="short">26</p><strong>ΑΠΡΙΛΙΟΥ</strong><p class="short">17:00</p></div>

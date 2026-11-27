@@ -32,8 +32,8 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" data-nw="1080" decoding="async" height="439" loading="lazy" src="/images/charity/christina-apostolou-festival/2024/christina-apostolou-2024.jpg" width="1000"/></p>
 <h2><img alt="" data-nw="3425" decoding="async" height="1000" loading="lazy" src="/images/charity/christina-apostolou-festival/2024/christina-apostolou-2024-leaflet-1.jpg" width="1000"/></h2>
 <h2><img alt="" data-nw="3425" decoding="async" height="984" loading="lazy" src="/images/charity/christina-apostolou-festival/2024/christina-apostolou-2024-leaflet-2.jpg" width="1000"/></h2>
-<h2><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2023.php">2023</a></h2>
-<h2><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2022.php">2022</a></h2>
+<div class="link-row"><p class="short"><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2023.php">2023</a></p><p class="short"><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2022.php">2022</a></p></div>
+
 <h2>2021</h2>
 <h2>2020</h2>
 <h2>2019</h2>

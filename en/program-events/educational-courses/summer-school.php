@@ -29,10 +29,10 @@ require SITE_ROOT . '/includes/header.php';
 <h3>More summer programs for other summer school visits</h3>
 <h3>or specialized programs such as "Astronomy for Scouts", "Astronomy for Artists" etc </h3>
 <h3>are available upon request and can be customized according to your needs. </h3>
-<p class="short"><strong>BOOKING IS ESSENTIAL:</strong></p>
+<p class="lead short"><strong>BOOKING IS ESSENTIAL:</strong></p>
 <p class="short">Book via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a>, or via phone +357 99991111</p>
 <p><a class="doc-link" href="/docs/cancellation_policy_special_events.pdf" rel="noopener" target="_blank" title="Cancellation Policy">Cancellation policy</a> <strong>(Please read before registration)</strong></p>
-<p><strong>"Gift Tickets" are available for these events. Please contact us to purchase your "Gift Tickets". There is an additional charge of just €5 (Postage &amp; Packaging) and you will receive a gift card with your purchase.</strong></p>
+<p>"Gift Tickets" are available for these events. Please contact us to purchase your "Gift Tickets". There is an additional charge of just €5 (Postage &amp; Packaging) and you will receive a gift card with your purchase.</p>
 <div class="blocks">
 <div class="row">
 <div class="block"><h2>SUMMER PROGRAMS</h2>
@@ -67,14 +67,14 @@ require SITE_ROOT . '/includes/header.php';
 <h2>COURSES FOR EXEMPTIONAL STUDENTS (Available upon request)</h2>
 </div>
 </div>
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Astronomy and Astrophysics Olympiad</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Mathematics Olympiad</p></div></div>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Astronomy and Astrophysics Olympiad</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Mathematics Olympiad</p></div></div>
 
 <div class="row">
 <div class="block">
 <h2>A4BD - SPECIALIZED EVENTS FOR SPECIAL GROUPS (Available upon request)</h2>
 </div>
 </div>
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short"> Astronomy for the Visually Impaired</p>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short"> Astronomy for the Visually Impaired</p>
 <p class="short">Astronomy for the Hearing Impaired</p>
 <p class="short">Astronomy for People with Special Capabilities</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Astronomy for Autism</p></div></div>
 

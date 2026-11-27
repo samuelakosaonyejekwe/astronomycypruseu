@@ -16,7 +16,7 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<h2><strong><a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА ООН</a></strong></h2>
+<div class="link-row"><p class="short"><strong><a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА ООН</a></strong></p></div>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="2680" decoding="async" height="257" loading="lazy" src="/images/wsw/World%20Space%20Week%20Cyprus%201.png" width="200"/></p><h2>#WSW2027 #WSW2026 #WorldSpaceWeek #RocketRevolution #kpocyprus</h2><h2><em><strong>Тема Всемирной недели космоса 2027</strong> будет объявлена в ближайшее время...</em></h2><h3><a class="doc-link" href="/docs/press-release/press-release-wsw2026-cyprus.pdf" rel="noopener" target="_blank">ПРЕСС-РЕЛИЗ WSW2026 (Нажмите здесь...)</a></h3></div></div></div>
 
 
@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>но также включали множество занятий и лекций, посвящённых космическим наукам, освоению космоса, астрономии и астрофизике.</h2>
 <p>Полный список запланированных мероприятий можно найти на странице https://www.worldspaceweek.org/nation/Cyprus/</p>
 <p><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2026.php">НАЖМИТЕ ЗДЕСЬ, ЧТОБЫ УЗНАТЬ О МЕРОПРИЯТИЯХ, ПРОВЕДЁННЫХ ПЛАНЕТАРИЕМ И ОБСЕРВАТОРИЕЙ «КИТИОН» В РАМКАХ WSW 2026 НА КИПРЕ</a></strong></p>
-<p><a href="/ru/projects/international-projects/wsw/world-space-week-2026.php"><img alt="" data-nw="1080" decoding="async" height="594" loading="lazy" src="/images/wsw/wsw2026/Save%20the%20date%20WSW%20-%202026-Cyprus.png" width="475"/></a><a href="/ru/projects/international-projects/wsw/world-space-week-2026.php"><img alt="" data-nw="1600" decoding="async" height="603" loading="lazy" src="/images/wsw/wsw2026/rocket-revolution.png" width="1072"/></a></p>
+<p><a href="/ru/projects/international-projects/wsw/world-space-week-2026.php"><img alt="" data-nw="1080" decoding="async" height="594" loading="lazy" src="/images/wsw/wsw2026/Save%20the%20date%20WSW%20-%202026-Cyprus.png" width="475"/><img alt="" data-nw="1600" decoding="async" height="603" loading="lazy" src="/images/wsw/wsw2026/rocket-revolution.png" width="1072"/></a></p>
 <p class="short"><em>НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ВСЕМИРНОЙ НЕДЕЛЕ КОСМОСА ООН, ГОСПОДИН ДЖОРДЖ ТРУЛЛИАС,</em></p>
 <p class="short"><em>ПРИСУТСТВОВАЛ ПОЧТИ НА ВСЕХ МЕРОПРИЯТИЯХ, РАССКАЗЫВАЯ О ГЛОБАЛЬНОЙ ИНИЦИАТИВЕ </em></p>
 <p class="short"><em>ВСЕМИРНОЙ НЕДЕЛИ КОСМОСА ООН</em> <em>И ГОВОРИЛ О ТЕМЕ «<strong>РАКЕТНАЯ РЕВОЛЮЦИЯ</strong>».</em></p>
@@ -67,26 +67,26 @@ require SITE_ROOT . '/includes/header.php';
 <li>Содействовать международному сотрудничеству в области космического просвещения и образования</li>
 </ul>
 <h2>Каковы цели Всемирной недели космоса?</h2>
-<p class="short">* Создать уникальный рычаг для просвещения и образования в области космоса</p>
-<p>* Рассказать людям по всему миру о пользе, которую они получают от космоса</p>
-<p>* Способствовать более широкому использованию космоса для устойчивого экономического развития</p>
-<p>* Продемонстрировать общественную поддержку космических программ</p>
-<p>* Увлечь молодёжь наукой, технологиями, инженерией и математикой</p>
-<p>* Содействовать международному сотрудничеству в области космического просвещения и образования</p>
+<ul class="items"><li>Создать уникальный рычаг для просвещения и образования в области космоса</li><li>Рассказать людям по всему миру о пользе, которую они получают от космоса</li><li>Способствовать более широкому использованию космоса для устойчивого экономического развития</li><li>Продемонстрировать общественную поддержку космических программ</li><li>Увлечь молодёжь наукой, технологиями, инженерией и математикой</li><li>Содействовать международному сотрудничеству в области космического просвещения и образования</li></ul>
+
+
+
+
+
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
-<p><strong>ССЫЛКИ:</strong></p>
+<p class="lead"><strong>ССЫЛКИ:</strong></p>
 <p><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА ООН</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
 
 <p><strong>МЕЖДУНАРОДНЫЕ МЕРОПРИЯТИЯ ВСЕМИРНОЙ НЕДЕЛИ КОСМОСА ООН</strong> https://www.worldspaceweek.org/nation/Cyprus/</p>
 
 <h2><strong>Всемирная неделя космоса (база данных прошлых лет)</strong></h2>
-<h3><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2026.php">WSW 2026</a></strong></h3>
-<h3><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2025.php">WSW 2025</a></strong></h3>
-<h3><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2024.php">WSW 2024</a></strong></h3>
-<h3><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2023.php">WSW 2023</a></strong></h3>
-<h3><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2022.php">WSW 2022</a></strong></h3>
-<p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021">WSW 2021</a></strong></p>
-<p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">WSW 2020</a></strong></p></div>
+<div class="link-row"><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2026.php">WSW 2026</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2025.php">WSW 2025</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2024.php">WSW 2024</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2023.php">WSW 2023</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2022.php">WSW 2022</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021">WSW 2021</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">WSW 2020</a></strong></p></div>
+
+
+
+
+
+</div>
 </div>
 </div>
 </article>

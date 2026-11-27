@@ -18,7 +18,7 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h3><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">АСТРОНОМИЧЕСКИЕ ЯВЛЕНИЯ 2026 ГОДА Источник: SeaSky</a></strong></h3>
 <h2><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="681" decoding="async" height="300" loading="lazy" src="/images/astronomical-phenomena-of-the-year.JPG" width="681"/></a></h2>
-<p class="short"><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">Нажмите здесь, чтобы узнать больше...</a></strong></p>
+<div class="link-row"><p class="short"><strong><a href="http://www.seasky.org/astronomy/astronomy-calendar-2026.html" rel="noopener noreferrer" target="_blank">Нажмите здесь, чтобы узнать больше...</a></strong></p></div>
 <h2><strong>КЛЮЧЕВЫЕ СОБЫТИЯ</strong></h2>
 <p class="short"><a href="/ru/projects/international-projects/earth-hour-60+.php"><em>Час Земли 60+ - 28 марта 2026 года</em></a></p>
 <p class="short"><a href="/ru/program-events/public-events/march-2026/18-years-anniversary-13-march-2026.php"><em>ПРАЗДНОВАНИЕ 18-ЛЕТИЯ</em></a></p>

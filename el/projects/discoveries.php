@@ -61,8 +61,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><strong>Αστεροειδής 2024 RT48</strong></div>
 </div>
 </table></div>
-<h2><a href="https://minorplanetcenter.net/db_search/show_object?object_id=2164" rel="noopener noreferrer" target="_blank">Κέντρο Μικρών Πλανητών (Minor Planet Center)</a></h2>
-<h2><a href="https://ssd.jpl.nasa.gov/horizons.cgi#results" rel="noopener noreferrer" target="_blank">NASA JPL</a></h2>
+<div class="link-row"><p class="short"><a href="https://minorplanetcenter.net/db_search/show_object?object_id=2164" rel="noopener noreferrer" target="_blank">Κέντρο Μικρών Πλανητών (Minor Planet Center)</a></p><p class="short"><a href="https://ssd.jpl.nasa.gov/horizons.cgi#results" rel="noopener noreferrer" target="_blank">NASA JPL</a></p></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

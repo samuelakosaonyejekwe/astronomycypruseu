@@ -23,8 +23,8 @@ require SITE_ROOT . '/includes/header.php';
 <h3>It uses the unique opportunity of Cyprus with clear skies almost the whole year around and the excellent position of </h3>
 <h3>the KITION PLANETARIUM &amp; OBSERVATORY, which is situated in a dark site. The site is easily accessible from all parts of the island. </h3>
 <h3>The curriculum was developed by enthusiastic scientists, who do research, make discoveries and scientific publications.</h3>
-<h3><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy.pdf" rel="noopener" target="_blank" title="KITION ASTRONOMY ACADEMY">KITION ASTRONOMY ACADEMY (EN) PDF</a> </h3>
-<h3><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy-rus.pdf" rel="noopener" target="_blank">KITION ASTRONOMY ACADEMY (RUS) PDF</a></h3>
+<div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy.pdf" rel="noopener" target="_blank" title="KITION ASTRONOMY ACADEMY">KITION ASTRONOMY ACADEMY (EN) PDF</a> </p><p class="short"><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy-rus.pdf" rel="noopener" target="_blank">KITION ASTRONOMY ACADEMY (RUS) PDF</a></p></div>
+
 <div class="blocks">
 <div class="row">
 <div class="block"><p class="short">The KITION ASTRONOMY ACADEMY is specially designed for students of different levels.</p>

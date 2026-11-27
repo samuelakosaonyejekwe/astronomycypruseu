@@ -16,7 +16,7 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<h2><strong><a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">UNITED NATIONS WORLD SPACE WEEK</a></strong></h2>
+<div class="link-row"><p class="short"><strong><a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">UNITED NATIONS WORLD SPACE WEEK</a></strong></p></div>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="2680" decoding="async" height="257" loading="lazy" src="/images/wsw/World%20Space%20Week%20Cyprus%201.png" width="200"/></p><h2>#wsw2024</h2><h3>PRESS RELEASE</h3><p class="short"><strong>In 2024, UN World Space Week celebrates</strong></p></div></div></div>
 
 
@@ -31,8 +31,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>20:00 WORLD SPACE WEEK 2024 - "SPACE AND CLIMATE CHANGE" ONLINE SCIENCE CAFÉ</strong></p>
 <p class="short"><strong>Speaker: George Troullias (Cyprus National Coordinator for UN World Space Week)</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Join Zoom Meeting</strong></a></p>
-<p class="short"><strong>Meeting ID: 831 2336 2644</strong></p>
-<p class="short"><strong>Passcode: kition</strong></p>
+<dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl>
+
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="/en/planetarium/science-cafe/2024/kition-science-cafe-24-september-2024.php"><img alt="" data-nw="2000" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-24-september-2024.jpg" width="600"/></a></p><p class="short"><strong>●	FRI 4 OCTOBER 2024 TIME: 19:30 </strong></p><p class="short"><strong> WSW 2024 CYPRUS OFFICIAL OPENING EVENT “SPACE AND CLIMATE CHANGE" </strong></p><p class="short"><strong>TELESCOPE OBSERVATIONS OF SATURN</strong></p></div></div></div>
 
 
@@ -68,15 +68,15 @@ require SITE_ROOT . '/includes/header.php';
 <h2>Please check the World Space Week Highlights 2024</h2>
 <h2>What is the World Space Week?</h2>
 <p>World Space Week is an international celebration of science and technology, and their contribution to the betterment of the human condition. The United Nations General Assembly declared in 1999 that World Space Week will be held each year from October 4-10. These dates commemorate two events:</p>
-<p>* October 4, 1957: Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</p>
-<p>* October 10, 1967: The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space, including the Moon and Other Celestial Bodies.</p>
+<ul class="items"><li>October 4, 1957: Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</li><li>October 10, 1967: The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space, including the Moon and Other Celestial Bodies.</li></ul>
+
 <p>World Space Week consists of space education and outreach events held by space agencies, aerospace companies, schools, planetaria, museums, and astronomy clubs around the world in a common timeframe. These synchronized space events attract greater public and media attention. World Space Week 2023 achieved record scale:</p>
-<p>* more than 16,000 events</p>
-<p class="short">* Events in 80 nations</p>
+<ul class="items"><li>more than 16,000 events</li><li>Events in 80 nations</li></ul>
+
 <h3>World Space Week is coordinated by the United Nations with the support of the World Space Week Association (WSWA). The WSWA leads a global team of National Coordinators, who promote the celebration of World Space Week within their own countries.</h3>
 <h2>Total audience since 2007:</h2>
-<p class="short">* Over 2,000,000 attendees</p>
-<p>* Nearly 500,000,000 media impressions</p>
+<ul class="items"><li>Over 2,000,000 attendees</li><li>Nearly 500,000,000 media impressions</li></ul>
+
 <p>World Space Week is coordinated by the United Nations with the support of the World Space Week Association (WSWA).</p>
 <p>The WSWA leads a global team of National Coordinators, who promote the celebration of World Space Week within their own countries.</p>
 <h2>What are the goals of World Space Week?</h2>
@@ -87,7 +87,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Excite young people about science, technology, engineering, and math</p>
 <p>Foster international cooperation in space outreach and education</p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p><strong>LINKS:</strong></p>
+<p class="lead"><strong>LINKS:</strong></p>
 <p><strong>UN WORLD SPACE WEEK</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
 
 <p><strong>INTERNATIONAL EVENTS FOR THE UN WORLD SPACE WEEK</strong> https://www.worldspaceweek.org/events/event-list/</p>

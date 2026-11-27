@@ -36,8 +36,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="3264" decoding="async" height="225" loading="lazy" src="/images/science-cafe/stella-kafka.jpg" width="400"/></p></div><div class="block"><p>Доктор Стелла Кафка – исполнительный директор и генеральный директор AAVSO * <br/>(Американская ассоциация наблюдателей переменных звезд), международной организации, <br/>занимающейся привлечением профессиональных астрономов и астрономов-любителей к науке. Под эгидой AAVSO <br/>д-р Кафка работает над тем, чтобы дать возможность людям из всех слоёв общества активно участвовать <br/>в исследовательских проектах, создавая сообщество подкованных наукой граждан, которые коллективно работают <br/>
  над пониманием одних из самых динамичных явлений во Вселенной.</p><p>Доктор Кафка получила степень бакалавра физики в Афинском университете (Греция) и степень <br/>магистра / доктора астрономии в Университете Индианы (США). Исследовательские интересы доктора Кафки - <br/>
  это тесные двойные звездные системы (катаклизмические переменные), которые могут стать сверхновыми типа Ia. <br/>
- Более подробную информацию о докторе Кафке можно найти по адресу: <a href="https://www.linkedin.com/in/stellakafka" rel="noopener noreferrer" target="_blank">https://www.linkedin.com/in/stellakafka</a>.</p><p>* AAVSO - это международная некоммерческая организация наблюдателей переменных звезд, миссия которой <br/>
- состоит в том, чтобы позволить всем и везде участвовать в научных открытиях переменных звёзд.</p><p>Вход свободный.</p><p class="short">Присоединяйтесь к нашей космической прогулке!</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p><p class="short">Идентификатор конференции: 831 2336 2644</p><p class="short">Код доступа: kition</p></div></div></div>
+ Более подробную информацию о докторе Кафке можно найти по адресу: <a href="https://www.linkedin.com/in/stellakafka" rel="noopener noreferrer" target="_blank">https://www.linkedin.com/in/stellakafka</a>.</p><ul class="items"><li>AAVSO - это международная некоммерческая организация наблюдателей переменных звезд, миссия которой <br/>
+ состоит в том, чтобы позволить всем и везде участвовать в научных открытиях переменных звёзд.</li></ul><p class="short">Вход свободный.</p><p class="short">Присоединяйтесь к нашей космической прогулке!</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p><dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl></div></div></div>
 
 
 
@@ -48,12 +48,12 @@ require SITE_ROOT . '/includes/header.php';
 
 <p><img alt="" data-nw="960" decoding="async" height="450" loading="lazy" src="/images/science-cafe/science-cafe-26-october-2021.jpg" width="800"/></p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
-<p>ССЫЛКИ:</p>
+<p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
-<p class="short">Идентификатор конференции: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <h3>ПОСЕТИТЕ НАШУ СТРАНИЦУ В FB...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас...<br/> Присоединяйтесь к нашей космической прогулке</p>

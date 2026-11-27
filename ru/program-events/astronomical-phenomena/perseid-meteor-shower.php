@@ -28,7 +28,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>На Кипре лучшее время для наблюдения метеорного потока Персеиды — ночь с 12 на 13 августа и утро 13 августа.</p>
 <p>В годы без лунного света наблюдатели видят больше метеоров в час.</p>
 <p class="short">В годы всплесков активности их число может составлять от 150 до 200 метеоров в час.</p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1080" decoding="async" height="449" loading="lazy" src="/images/perseids/PPattichis6.jpg" width="600"/></p></div><div class="block"><p><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Авторство изображения: Филиппос Паттичис ©</a></strong></p><p><strong>Чтобы лучше увидеть Персеиды, отправляйтесь в самое тёмное место и откиньтесь назад, чтобы охватить как можно больше неба прямо над головой.</strong></p><p><strong>Лучшее время для поиска метеоров — предрассветные часы.</strong></p><p><strong>Вы сможете увидеть великолепное зрелище метеорного потока в любую ночь с 11 по 13 августа, </strong> <strong>но и с полуночи до рассвета в любое утро за неделю до или после этих дат можно увидеть несколько метеоров. </strong></p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1080" decoding="async" height="449" loading="lazy" src="/images/perseids/PPattichis6.jpg" width="600"/></p></div><div class="block"><p><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Авторство изображения: Филиппос Паттичис ©</a></strong></p><p>Чтобы лучше увидеть Персеиды, отправляйтесь в самое тёмное место и откиньтесь назад, чтобы охватить как можно больше неба прямо над головой.</p><p><strong>Лучшее время для поиска метеоров — предрассветные часы.</strong></p><p><strong>Вы сможете увидеть великолепное зрелище метеорного потока в любую ночь с 11 по 13 августа, </strong> <strong>но и с полуночи до рассвета в любое утро за неделю до или после этих дат можно увидеть несколько метеоров. </strong></p></div></div></div>
 
 
 
@@ -44,79 +44,15 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <p><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/perseids/radiant.jpg" width="800"/></p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="short"><strong>ПОТОК МЕТЕОРОВ ПЕРСЕИДЫ ДЛЯ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</strong></p>
-<p class="short">(Ночь с 12 на 13 августа)</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Время</p></div>
-<div class="block"><p class="short">Азимут/направление</p></div>
-<div class="block"><p class="short">Высота</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Ср 20:00</p></div>
-<div class="block"><p class="short">11° север</p></div>
-<div class="block"><p class="short">4.9°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Ср 21:00</p></div>
-<div class="block"><p class="short">19° северо-северо-восток</p></div>
-<div class="block"><p class="short">8.0°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Ср 22:00</p></div>
-<div class="block"><p class="short">25° северо-северо-восток</p></div>
-<div class="block"><p class="short">12.6°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Ср 23:00</p></div>
-<div class="block"><p class="short">31° северо-северо-восток</p></div>
-<div class="block"><p class="short">18.3°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Чт 12:00 (полночь)</p></div>
-<div class="block"><p class="short">35° северо-восток</p></div>
-<div class="block"><p class="short">25.0°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Чт 1:00</p></div>
-<div class="block"><p class="short">38° северо-восток</p></div>
-<div class="block"><p class="short">32.4°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Чт 2:00</p></div>
-<div class="block"><p class="short">40° северо-восток</p></div>
-<div class="block"><p class="short">40.2°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Чт 3:00</p></div>
-<div class="block"><p class="short">39° северо-восток</p></div>
-<div class="block"><p class="short">48.0°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Чт 4:00</p></div>
-<div class="block"><p class="short">35° северо-восток</p></div>
-<div class="block"><p class="short">55.5°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Чт 5:00</p></div>
-<div class="block"><p class="short">27° северо-северо-восток</p></div>
-<div class="block"><p class="short">62.0°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Чт 6:00</p></div>
-<div class="block"><p class="short">11° север</p></div>
-<div class="block"><p class="short">66.0°</p></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><td class="note-row" colspan="3"><strong>ПОТОК МЕТЕОРОВ ПЕРСЕИДЫ ДЛЯ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</strong> 
+(Ночь с 12 на 13 августа) </td></tr><tr><td>Время</td><td>Азимут/направление</td><td>Высота</td></tr><tr><td>Ср 20:00</td><td>11° север</td><td>4.9°</td></tr><tr><td>Ср 21:00</td><td>19° северо-северо-восток</td><td>8.0°</td></tr><tr><td>Ср 22:00</td><td>25° северо-северо-восток</td><td>12.6°</td></tr><tr><td>Ср 23:00</td><td>31° северо-северо-восток</td><td>18.3°</td></tr><tr><td>Чт 12:00 (полночь)</td><td>35° северо-восток</td><td>25.0°</td></tr><tr><td>Чт 1:00</td><td>38° северо-восток</td><td>32.4°</td></tr><tr><td>Чт 2:00</td><td>40° северо-восток</td><td>40.2°</td></tr><tr><td>Чт 3:00</td><td>39° северо-восток</td><td>48.0°</td></tr><tr><td>Чт 4:00</td><td>35° северо-восток</td><td>55.5°</td></tr><tr><td>Чт 5:00</td><td>27° северо-северо-восток</td><td>62.0°</td></tr><tr><td>Чт 6:00</td><td>11° север</td><td>66.0°</td></tr></table></div>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="960" decoding="async" height="398" loading="lazy" src="/images/perseids/PPattichis5.jpg" width="600"/></p><p class="short"><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Авторство изображения: Филиппос Паттичис ©</a></strong></p></div></div></div>
 
 <div class="blocks">
 <div class="row">
 <div class="block">
 <h2>Болиды</h2>
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="1080" decoding="async" height="501" loading="lazy" src="/images/perseids/PPattichis2.jpg" width="600"/></p></div><div class="block"><p class="short"><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Авторство изображения: Филиппос Паттичис ©</a></strong></p><h2>Болиды</h2><h4><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» </strong>— официальный национальный контактный пункт Кипра</h4><h4>Международной метеорной организации (IMO) по болидам.</h4><h4>Пожалуйста, прочитайте ниже, что такое болиды, и отправьте нам по электронной почте <a href="mailto:observatory@cytanet.com.cy">observatory@cytanet.com.cy</a> видео или фотографии болидов, которые Вы наблюдали,</h4><h4>и краткое описание Ваших впечатлений для дальнейших научных исследований.</h4><p>Болиды — это метеоры, которые выглядят ярче обычных. Подавляющее большинство вещества, обращающегося в космическом пространстве, составляют мельчайшие, меньше миллиметра, частицы камня, льда или металла либо их сочетания. Их называют микрометеороидами или просто космической пылью. Эти крошечные фрагменты при встрече с атмосферой не дают достаточно света, чтобы их можно было увидеть, и тем не менее ежегодно добавляют к массе Земли множество тонн вещества. Когда размер таких объектов приближается к миллиметру, при входе в верхние слои атмосферы они начинают давать достаточно света, чтобы их можно было увидеть как обычные метеоры. Из-за скорости, с которой они врезаются в атмосферу Земли, фрагменты крупнее 1 миллиметра способны давать яркую вспышку, прочерчивая небо. Эти яркие метеоры мы и называем болидами, и они нередко вызывают у очевидцев страх и благоговение.</p><p>На самом деле болиды появляются каждый день по всей Земле. Но для отдельного человека это редкое зрелище, которое удаётся увидеть очень немного раз за всю жизнь. Следует помнить, что болиды бывают и днём, и в облачную ночь. Они также появляются над океаном и над необитаемыми участками суши. Даже если болид появится над Вашим местом, Вам нужно находиться на улице и смотреть в правильном направлении, иначе Вы всё равно его пропустите. Поэтому Международная метеорная организация живо интересуется такими наблюдениями в надежде установить происхождение болида и, возможно, найти метеориты.</p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="1080" decoding="async" height="501" loading="lazy" src="/images/perseids/PPattichis2.jpg" width="600"/></p></div><div class="block"><div class="link-row"><p class="short"><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Авторство изображения: Филиппос Паттичис ©</a></strong></p></div><h2>Болиды</h2><h4><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» </strong>— официальный национальный контактный пункт Кипра</h4><h4>Международной метеорной организации (IMO) по болидам.</h4><h4>Пожалуйста, прочитайте ниже, что такое болиды, и отправьте нам по электронной почте <a href="mailto:observatory@cytanet.com.cy">observatory@cytanet.com.cy</a> видео или фотографии болидов, которые Вы наблюдали,</h4><h4>и краткое описание Ваших впечатлений для дальнейших научных исследований.</h4><p>Болиды — это метеоры, которые выглядят ярче обычных. Подавляющее большинство вещества, обращающегося в космическом пространстве, составляют мельчайшие, меньше миллиметра, частицы камня, льда или металла либо их сочетания. Их называют микрометеороидами или просто космической пылью. Эти крошечные фрагменты при встрече с атмосферой не дают достаточно света, чтобы их можно было увидеть, и тем не менее ежегодно добавляют к массе Земли множество тонн вещества. Когда размер таких объектов приближается к миллиметру, при входе в верхние слои атмосферы они начинают давать достаточно света, чтобы их можно было увидеть как обычные метеоры. Из-за скорости, с которой они врезаются в атмосферу Земли, фрагменты крупнее 1 миллиметра способны давать яркую вспышку, прочерчивая небо. Эти яркие метеоры мы и называем болидами, и они нередко вызывают у очевидцев страх и благоговение.</p><p>На самом деле болиды появляются каждый день по всей Земле. Но для отдельного человека это редкое зрелище, которое удаётся увидеть очень немного раз за всю жизнь. Следует помнить, что болиды бывают и днём, и в облачную ночь. Они также появляются над океаном и над необитаемыми участками суши. Даже если болид появится над Вашим местом, Вам нужно находиться на улице и смотреть в правильном направлении, иначе Вы всё равно его пропустите. Поэтому Международная метеорная организация живо интересуется такими наблюдениями в надежде установить происхождение болида и, возможно, найти метеориты.</p></div></div></div>
 
 
 
@@ -152,7 +88,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">РЕЗУЛЬТАТЫ ОПУБЛИКОВАНЫ И НАПРАВЛЕНЫ В <a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank">БАЗУ ДАННЫХ</a> МЕЖДУНАРОДНОЙ МЕТЕОРНОЙ ОРГАНИЗАЦИИ</p></div>
 </div>
 </div>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="641" decoding="async" height="599" loading="lazy" src="/images/perseids/PPattichis1.jpg" width="400"/></p></div><div class="block"><p><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Авторство изображения: Филиппос Паттичис ©</a></strong></p><p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p><p>ССЫЛКИ:</p><p class="short">СТРАНИЦА ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» В FB <a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank">https://www.facebook.com/groups/kition</a></p><p class="short">МЕЖДУНАРОДНАЯ МЕТЕОРНАЯ ОРГАНИЗАЦИЯ <a href="https://www.imo.net/" rel="noopener noreferrer" target="_blank">https://www.imo.net/</a></p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="641" decoding="async" height="599" loading="lazy" src="/images/perseids/PPattichis1.jpg" width="400"/></p></div><div class="block"><p><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Авторство изображения: Филиппос Паттичис ©</a></strong></p><p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p><p class="lead">ССЫЛКИ:</p><p class="short">СТРАНИЦА ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» В FB <a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank">https://www.facebook.com/groups/kition</a></p><p class="short">МЕЖДУНАРОДНАЯ МЕТЕОРНАЯ ОРГАНИЗАЦИЯ <a href="https://www.imo.net/" rel="noopener noreferrer" target="_blank">https://www.imo.net/</a></p></div></div></div>
 
 
 

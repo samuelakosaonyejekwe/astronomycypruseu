@@ -29,10 +29,10 @@ require SITE_ROOT . '/includes/header.php';
 <h3>Περισσότερα θερινά προγράμματα για άλλες επισκέψεις θερινών σχολείων</h3>
 <h3>ή εξειδικευμένα προγράμματα όπως «Αστρονομία για Πρόσκοπους», «Αστρονομία για Καλλιτέχνες» κ.λπ.</h3>
 <h3>διατίθενται κατόπιν αιτήματος και μπορούν να προσαρμοστούν στις ανάγκες σας.</h3>
-<p class="short"><strong>Η ΚΡΑΤΗΣΗ ΕΙΝΑΙ ΑΠΑΡΑΙΤΗΤΗ:</strong></p>
+<p class="lead short"><strong>Η ΚΡΑΤΗΣΗ ΕΙΝΑΙ ΑΠΑΡΑΙΤΗΤΗ:</strong></p>
 <p class="short">Κάντε κράτηση μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a>, ή τηλεφωνικά στο +357 99991111</p>
 <p><a class="doc-link" href="/docs/cancellation_policy_special_events.pdf" rel="noopener" target="_blank" title="Cancellation Policy">Πολιτική ακύρωσης</a> <strong>(Παρακαλούμε διαβάστε πριν από την εγγραφή)</strong></p>
-<p><strong>Διατίθενται «Δωροεισιτήρια» για αυτές τις εκδηλώσεις. Παρακαλούμε επικοινωνήστε μαζί μας για να αγοράσετε τα «Δωροεισιτήριά» σας. Υπάρχει επιπλέον χρέωση μόλις €5 (Ταχυδρομικά και Συσκευασία) και θα λάβετε δωροκάρτα με την αγορά σας.</strong></p>
+<p>Διατίθενται «Δωροεισιτήρια» για αυτές τις εκδηλώσεις. Παρακαλούμε επικοινωνήστε μαζί μας για να αγοράσετε τα «Δωροεισιτήριά» σας. Υπάρχει επιπλέον χρέωση μόλις €5 (Ταχυδρομικά και Συσκευασία) και θα λάβετε δωροκάρτα με την αγορά σας.</p>
 <div class="blocks">
 <div class="row">
 <div class="block"><h2>ΘΕΡΙΝΑ ΠΡΟΓΡΑΜΜΑΤΑ</h2>
@@ -67,14 +67,14 @@ require SITE_ROOT . '/includes/header.php';
 <h2>ΜΑΘΗΜΑΤΑ ΓΙΑ ΕΞΑΙΡΕΤΙΚΟΥΣ ΜΑΘΗΤΕΣ (Διατίθενται κατόπιν αιτήματος)</h2>
 </div>
 </div>
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ολυμπιάδα Αστρονομίας και Αστροφυσικής</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ολυμπιάδα Μαθηματικών</p></div></div>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ολυμπιάδα Αστρονομίας και Αστροφυσικής</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ολυμπιάδα Μαθηματικών</p></div></div>
 
 <div class="row">
 <div class="block">
 <h2>A4BD - ΕΙΔΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΕΙΔΙΚΕΣ ΟΜΑΔΕΣ (Διατίθενται κατόπιν αιτήματος)</h2>
 </div>
 </div>
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Αστρονομία για Άτομα με Προβλήματα Όρασης</p>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Αστρονομία για Άτομα με Προβλήματα Όρασης</p>
 <p class="short">Αστρονομία για Άτομα με Προβλήματα Ακοής</p>
 <p class="short">Αστρονομία για Άτομα με Ειδικές Ικανότητες</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Αστρονομία για τον Αυτισμό</p></div></div>
 

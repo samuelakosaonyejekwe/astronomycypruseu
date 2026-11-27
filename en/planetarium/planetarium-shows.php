@@ -53,7 +53,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>Programs for children 8+: </h2>
-<p><strong>(Especially designed STEAM prorgams for these ages. Use of language and terms that are understandable for their age. They are intriguing and absorb attention)</strong></p>
+<p>(Especially designed STEAM prorgams for these ages. Use of language and terms that are understandable for their age. They are intriguing and absorb attention)</p>
 <div class="blocks">
 <div class="row">
 <div class="block"><h3>Dawn of Space Age</h3></div>

@@ -23,8 +23,8 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong><strong>ONLINE SCIENCE CAFÉ</strong></strong></h2>
 <h2><strong>ΤΡΙ 31 ΜΑΡΤΙΟΥ 2026 ΩΡΑ: 20:00 (UTC+3)</strong></h2>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη σύσκεψη Zoom</strong></a></p>
-<p class="short"><strong>Αναγνωριστικό σύσκεψης: 831 2336 2644</strong></p>
-<p class="short"><strong>Κωδικός πρόσβασης: kition</strong></p>
+<dl class="specs"><dt><strong>Αναγνωριστικό σύσκεψης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>
+
 <p class="short"><strong>20:00 ΚΑΛΩΣΟΡΙΣΜΑ ΑΠΟ ΤΟΝ ΔΙΕΥΘΥΝΤΗ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ)</strong></p>
 <p><strong>20:05 AWB ΠΑΓΚΟΣΜΙΟΣ ΜΗΝΑΣ ΑΣΤΡΟΝΟΜΙΑΣ - ΑΝΑΚΟΙΝΩΣΗ</strong></p>
 <p><strong>20:10 «Η COVID-19 ΩΣ ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ ΓΙΑ ΤΗΝ ΕΡΕΥΝΑ ΕΞΩΓΗΙΝΗΣ ΖΩΗΣ»</strong> (ΤΖΟΡΤΖΙΑ Ε. ΜΠΡΑΟΥΝ)</p>
@@ -69,16 +69,16 @@ require SITE_ROOT . '/includes/header.php';
 
 <p>Ελάτε μαζί μας για να μάθετε περισσότερα...</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη σύσκεψη Zoom</strong></a></p>
-<p class="short"><strong>Αναγνωριστικό σύσκεψης: 831 2336 2644</strong></p>
-<p><strong>Κωδικός πρόσβασης: kition</strong></p>
+<dl class="specs"><dt><strong>Αναγνωριστικό σύσκεψης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>
+
 <p><strong>Όλες οι συναντήσεις των συνεδριών Science Café είναι <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">δωρεάν</a> και μπορεί να συμμετάσχει οποιοσδήποτε. </strong></p>
 <p><strong>Οι κωδικοί και οι πληροφορίες για τη σύσκεψη δημοσιεύονται <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">εδώ</a>.</strong></p>
 <p><strong><br/> Οι καταγραφές των προηγούμενων Online Science Café είναι διαθέσιμες στο <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">κανάλι μας στο YouTube</a>.</strong></p>
 <p>Αν έχετε οποιαδήποτε απορία ή πρόταση, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
-<p><strong>ΣΥΝΔΕΣΜΟΙ</strong>:</p>
+<p class="lead"><strong>ΣΥΝΔΕΣΜΟΙ</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
-<p class="short">Αναγνωριστικό σύσκεψης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p></div>
+<dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+</div>
 </div>
 </div>
 </article>

@@ -110,7 +110,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong>ΕΟΡΤΑΣΜΟΙ ΣΤΗΝ ΚΥΠΡΟ 2022</strong></h2>
 <p class="short">#ASTEROIDDAY #AD2022</p>
 <h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="Call for Asteroid Day Cyprus 2022">Πρόσκληση για την Ημέρα Αστεροειδών Κύπρου 2022</a></h2>
-<div class="blocks"><div class="row split"><div class="block media"><p><a href="https://www.youtube.com/watch?v=JDGfaJkzDVE" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="225" loading="lazy" src="/images/asteroid-day/esa-call-ad2022.jpg" width="400"/></a></p></div><div class="block"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank"><strong>ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ ΚΥΠΡΟΣ 30 ΙΟΥΝΙΟΥ 2022</strong></a></p><h3>ΠΡΟΓΡΑΜΜΑ ΕΚΔΗΛΩΣΗΣ ΣΤΟ ZOOM: ΠΕΜΠΤΗ 30 ΙΟΥΝΙΟΥ 2022, ΩΡΑ: 20:00</h3><p>20:00 ΧΑΙΡΕΤΙΣΜΟΣ ΑΠΟ ΤΟΝ ΕΘΝΙΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ, ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ</p><p>20:02 ΤΙ ΕΙΝΑΙ Η ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ; (ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ)</p><p class="short">20:05 ΤΕΛΕΥΤΑΙΑ ΝΕΑ ΓΙΑ ΤΟΥΣ ΑΣΤΕΡΟΕΙΔΕΙΣ (ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ)</p><p class="short">20:10 ΕΡΕΥΝΑ ΤΟΥ ΣΥΜΒΑΝΤΟΣ ΤΗΣ ΤΟΥΝΓΚΟΥΣΚΑ (ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ)</p><p class="short">20:15 ΑΝΑΖΗΤΗΣΗ ΑΣΤΕΡΟΕΙΔΩΝ (ΒΙΝΤΑ ΜΙΡΣΑΜΣΙ)</p><p>20:20 ΕΞΕΡΕΥΝΗΣΗ ΑΣΤΕΡΟΕΙΔΩΝ (ΚΑΤΙΑ ΔΗΜΗΤΡΙΟΥ)</p><p>20:30 ΠΡΟΣΟΜΟΙΩΣΗ ΜΕ ΤΗ ΒΟΗΘΕΙΑ ΥΠΟΛΟΓΙΣΤΗ ΤΩΝ ΤΡΟΧΙΩΝ ΠΥΡΙΝΩΝ ΣΦΑΙΡΩΝ ΜΕ ΒΑΣΗ ΜΑΡΤΥΡΙΕΣ (ΜΑΞΙΜ ΒΕΡΕΒΚΙΝ)</p><p>20:50 ΠΡΟΣΟΜΟΙΩΣΗ ΜΕ ΤΗ ΒΟΗΘΕΙΑ ΥΠΟΛΟΓΙΣΤΗ ΤΩΝ ΤΡΟΧΙΩΝ ΠΥΡΙΝΩΝ ΣΦΑΙΡΩΝ ΜΕ ΒΑΣΗ ΔΕΔΟΜΕΝΑ ΒΙΝΤΕΟ (ΝΤΜΙΤΡΙ ΝΤΟΥΜΠΙΣΚΙΝ)</p><p>21:02 ΑΝΑΚΟΙΝΩΣΗ ΝΕΩΝ ΑΝΑΚΑΛΥΨΕΩΝ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><a href="https://www.youtube.com/watch?v=JDGfaJkzDVE" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="225" loading="lazy" src="/images/asteroid-day/esa-call-ad2022.jpg" width="400"/></a></p></div><div class="block"><div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank"><strong>ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ ΚΥΠΡΟΣ 30 ΙΟΥΝΙΟΥ 2022</strong></a></p></div><h3>ΠΡΟΓΡΑΜΜΑ ΕΚΔΗΛΩΣΗΣ ΣΤΟ ZOOM: ΠΕΜΠΤΗ 30 ΙΟΥΝΙΟΥ 2022, ΩΡΑ: 20:00</h3><p>20:00 ΧΑΙΡΕΤΙΣΜΟΣ ΑΠΟ ΤΟΝ ΕΘΝΙΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ, ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ</p><p>20:02 ΤΙ ΕΙΝΑΙ Η ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ; (ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ)</p><p class="short">20:05 ΤΕΛΕΥΤΑΙΑ ΝΕΑ ΓΙΑ ΤΟΥΣ ΑΣΤΕΡΟΕΙΔΕΙΣ (ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ)</p><p class="short">20:10 ΕΡΕΥΝΑ ΤΟΥ ΣΥΜΒΑΝΤΟΣ ΤΗΣ ΤΟΥΝΓΚΟΥΣΚΑ (ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ)</p><p class="short">20:15 ΑΝΑΖΗΤΗΣΗ ΑΣΤΕΡΟΕΙΔΩΝ (ΒΙΝΤΑ ΜΙΡΣΑΜΣΙ)</p><p>20:20 ΕΞΕΡΕΥΝΗΣΗ ΑΣΤΕΡΟΕΙΔΩΝ (ΚΑΤΙΑ ΔΗΜΗΤΡΙΟΥ)</p><p>20:30 ΠΡΟΣΟΜΟΙΩΣΗ ΜΕ ΤΗ ΒΟΗΘΕΙΑ ΥΠΟΛΟΓΙΣΤΗ ΤΩΝ ΤΡΟΧΙΩΝ ΠΥΡΙΝΩΝ ΣΦΑΙΡΩΝ ΜΕ ΒΑΣΗ ΜΑΡΤΥΡΙΕΣ (ΜΑΞΙΜ ΒΕΡΕΒΚΙΝ)</p><p>20:50 ΠΡΟΣΟΜΟΙΩΣΗ ΜΕ ΤΗ ΒΟΗΘΕΙΑ ΥΠΟΛΟΓΙΣΤΗ ΤΩΝ ΤΡΟΧΙΩΝ ΠΥΡΙΝΩΝ ΣΦΑΙΡΩΝ ΜΕ ΒΑΣΗ ΔΕΔΟΜΕΝΑ ΒΙΝΤΕΟ (ΝΤΜΙΤΡΙ ΝΤΟΥΜΠΙΣΚΙΝ)</p><p>21:02 ΑΝΑΚΟΙΝΩΣΗ ΝΕΩΝ ΑΝΑΚΑΛΥΨΕΩΝ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p></div></div></div>
 
 
 
@@ -155,8 +155,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><p class="short">27 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p>ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ <br/> ΤΟΝ ΠΕΡΙΦΕΡΕΙΑΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ</p>
-<p>ΑΠΟΣΤΟΛΕΣ ΑΣΤΕΡΟΕΙΔΩΝ: ΔΙΑΛΕΞΗ ΑΠΟ ΤΗΝ Κ. ΔΗΜΗΤΡΙΟΥ</p>
-<p class="short">ΚΥΝΗΓΙ ΑΣΤΕΡΟΕΙΔΩΝ: ΧΡΑΤΣΙΑ ΖΑΚΑΡΙΑΝ</p>
+<dl class="specs"><dt>ΑΠΟΣΤΟΛΕΣ ΑΣΤΕΡΟΕΙΔΩΝ</dt><dd> ΔΙΑΛΕΞΗ ΑΠΟ ΤΗΝ Κ. ΔΗΜΗΤΡΙΟΥ</dd><dt>ΚΥΝΗΓΙ ΑΣΤΕΡΟΕΙΔΩΝ</dt><dd> ΧΡΑΤΣΙΑ ΖΑΚΑΡΙΑΝ</dd></dl>
+
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ ΚΑΙ ΤΟΥ ΚΡΟΝΟΥ</p>
 <p class="short">(ΑΜΦΙΘΕΑΤΡΟ, ΚΤΙΡΙΟ ΕΠΙΣΤΗΜΩΝ, ΑΓΓΛΙΚΗ ΣΧΟΛΗ, ΛΕΥΚΩΣΙΑ)</p></div>
 </div>
@@ -174,28 +174,15 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2018</strong></p>
 <p class="short">#ASTEROIDDAY #AD2018</p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="short">27 ΙΟΥΝΙΟΥ</p></div>
-<div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><br/> <br/><p class="short">(ΑΜΦΙΘΕΑΤΡΟ, ΚΤΙΡΙΟ ΕΠΙΣΤΗΜΩΝ, ΑΓΓΛΙΚΗ ΣΧΟΛΗ, ΛΕΥΚΩΣΙΑ)</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">28 ΙΟΥΝΙΟΥ</p></div>
-<div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><br/> <br/><p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">30 ΙΟΥΝΙΟΥ</p></div>
-<div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><br/> <br/><p class="short">“ΕΡΓΟ NEOShield-2” ΟΜΙΛΗΤΡΙΑ ΒΑΝΕΣΣΑ ΡΟΜΑΝΕΛΟ (ΓΕΡΜΑΝΙΑ)</p></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col">27 ΙΟΥΝΙΟΥ</th><th scope="col">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> (ΑΜΦΙΘΕΑΤΡΟ, ΚΤΙΡΙΟ ΕΠΙΣΤΗΜΩΝ, ΑΓΓΛΙΚΗ ΣΧΟΛΗ, ΛΕΥΚΩΣΙΑ)</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">28 ΙΟΥΝΙΟΥ</th><th scope="col">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ</th></tr><tr><td>30 ΙΟΥΝΙΟΥ</td><td>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> “ΕΡΓΟ NEOShield-2” ΟΜΙΛΗΤΡΙΑ ΒΑΝΕΣΣΑ ΡΟΜΑΝΕΛΟ (ΓΕΡΜΑΝΙΑ)</td></tr></table></div>
 <p class="short"><strong>2017</strong></p>
 <p class="short">#ASTEROIDDAY #AD2017</p>
 <div class="blocks">
 <div class="row">
 <div class="block"><p class="short">27 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p>ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ <br/>ΤΟΝ ΠΕΡΙΦΕΡΕΙΑΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ</p>
-<p>ΑΠΟΣΤΟΛΕΣ ΑΣΤΕΡΟΕΙΔΩΝ: ΔΙΑΛΕΞΗ ΑΠΟ ΤΗΝ Κ. ΔΗΜΗΤΡΙΟΥ</p>
-<p class="short">ΚΥΝΗΓΙ ΑΣΤΕΡΟΕΙΔΩΝ: ΧΡΑΤΣΙΑ ΖΑΚΑΡΙΑΝ</p>
+<dl class="specs"><dt>ΑΠΟΣΤΟΛΕΣ ΑΣΤΕΡΟΕΙΔΩΝ</dt><dd> ΔΙΑΛΕΞΗ ΑΠΟ ΤΗΝ Κ. ΔΗΜΗΤΡΙΟΥ</dd><dt>ΚΥΝΗΓΙ ΑΣΤΕΡΟΕΙΔΩΝ</dt><dd> ΧΡΑΤΣΙΑ ΖΑΚΑΡΙΑΝ</dd></dl>
+
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ ΚΑΙ ΤΟΥ ΚΡΟΝΟΥ</p>
 <p class="short">(ΑΜΦΙΘΕΑΤΡΟ, ΚΤΙΡΙΟ ΕΠΙΣΤΗΜΩΝ, ΑΓΓΛΙΚΗ ΣΧΟΛΗ, ΛΕΥΚΩΣΙΑ)</p></div>
 </div>
@@ -245,7 +232,7 @@ require SITE_ROOT . '/includes/header.php';
 <source src="/video/asteroids-size-comparison.mp4" type="video/mp4">
 </source></video>
 <p>Εάν έχετε οποιεσδήποτε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> ηλεκτρονικού ταχυδρομείου</a> ή τηλεφωνήστε στο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short">ΣΕΛΙΔΑ ΤΗΣ ΗΜΕΡΑΣ ΑΣΤΕΡΟΕΙΔΩΝ ΚΥΠΡΟΥ ΣΤΟ FB <a href="https://www.facebook.com/asteroiddaycyprus/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/asteroiddaycyprus/</a></p>
 
 <p>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ <a href="https://asteroidday.org/" rel="noopener noreferrer" target="_blank">https://asteroidday.org/</a></p>

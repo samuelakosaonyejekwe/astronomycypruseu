@@ -47,11 +47,11 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 </div>
-<p class="short"><a class="doc-link" href="/docs/educational-courses/wonderful-planets/wonderful-planets-en.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</a></p>
-<p class="short"><a class="doc-link" href="/docs/educational-courses/wonderful-planets/wonderful-planets-rus.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></p>
+<ul class="link-list"><li><a class="doc-link" href="/docs/educational-courses/wonderful-planets/wonderful-planets-en.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/wonderful-planets/wonderful-planets-rus.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></li></ul>
+
 <div class="blocks">
 <div class="row">
-<div class="block"><p class="short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
+<div class="block"><p class="lead short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
 <p>Εφαρμόζεται «Πολιτική Αποκλειστικά με Κράτηση».</p>
 <p>Απαιτείται κράτηση εκ των προτέρων, καλώντας στο (+357) 99991111 (αγγλόφωνοι) ή στο (+357) 99037440 (ρωσόφωνοι).</p>
 <p>Αν αναζητάτε ειδικά ή προσαρμοσμένα προγράμματα ή υπηρεσίες για εσάς, τους φίλους σας ή την ομάδα σας, μη διστάσετε να <a href="/el/contact-us.php">επικοινωνήσετε μαζί μας</a>.</p>

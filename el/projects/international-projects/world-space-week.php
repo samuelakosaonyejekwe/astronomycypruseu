@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>αλλά περιλάμβαναν επίσης πολλές δραστηριότητες και διαλέξεις σχετικά με τις διαστημικές επιστήμες, τη διαστημική εξερεύνηση, την αστρονομία και την αστροφυσική.</h2>
 <p>Πλήρης κατάλογος των προγραμματισμένων δραστηριοτήτων υπάρχει στη διεύθυνση https://www.worldspaceweek.org/nation/Cyprus/</p>
 <p><strong><a href="/el/projects/international-projects/wsw/world-space-week-2026.php">ΠΑΤΗΣΤΕ ΕΔΩ ΓΙΑ ΤΙΣ ΕΚΔΗΛΩΣΕΙΣ ΠΟΥ ΦΙΛΟΞΕΝΗΣΕ ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ ΓΙΑ ΤΗ WSW 2026 ΚΥΠΡΟΣ</a></strong></p>
-<p><a href="/el/projects/international-projects/wsw/world-space-week-2026.php"><img alt="" data-nw="1080" decoding="async" height="594" loading="lazy" src="/images/wsw/wsw2026/Save%20the%20date%20WSW%20-%202026-Cyprus.png" width="475"/></a><a href="/el/projects/international-projects/wsw/world-space-week-2026.php"><img alt="" data-nw="1600" decoding="async" height="603" loading="lazy" src="/images/wsw/wsw2026/rocket-revolution.png" width="1072"/></a></p>
+<p><a href="/el/projects/international-projects/wsw/world-space-week-2026.php"><img alt="" data-nw="1080" decoding="async" height="594" loading="lazy" src="/images/wsw/wsw2026/Save%20the%20date%20WSW%20-%202026-Cyprus.png" width="475"/><img alt="" data-nw="1600" decoding="async" height="603" loading="lazy" src="/images/wsw/wsw2026/rocket-revolution.png" width="1072"/></a></p>
 <p><em>Ο ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ, κ. ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ,</em></p>
 <p><em>ΠΑΡΕΥΡΕΘΗΚΕ ΣΧΕΔΟΝ ΣΕ ΟΛΕΣ ΤΙΣ ΕΚΔΗΛΩΣΕΙΣ, ΕΝΗΜΕΡΩΝΟΝΤΑΣ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΟΒΟΥΛΙΑ </em></p>
 <p><em>ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ</em> <em>ΚΑΙ ΜΙΛΗΣΕ ΓΙΑ ΤΗΝ «<strong>ΕΠΑΝΑΣΤΑΣΗ ΤΩΝ ΠΥΡΑΥΛΩΝ</strong>».</em></p>
@@ -67,26 +67,26 @@ require SITE_ROOT . '/includes/header.php';
 <li>Να προάγει τη διεθνή συνεργασία στην ενημέρωση και την εκπαίδευση για το διάστημα</li>
 </ul>
 <h2>Ποιοι είναι οι στόχοι της Παγκόσμιας Εβδομάδας Διαστήματος;</h2>
-<p>* Να προσφέρει μοναδικό μοχλό στην ενημέρωση και την εκπαίδευση για το διάστημα</p>
-<p>* Να ενημερώσει τους ανθρώπους σε όλο τον κόσμο για τα οφέλη που αποκομίζουν από το διάστημα</p>
-<p>* Να ενθαρρύνει τη μεγαλύτερη αξιοποίηση του διαστήματος για τη βιώσιμη οικονομική ανάπτυξη</p>
-<p>* Να καταδείξει τη δημόσια στήριξη στα διαστημικά προγράμματα</p>
-<p class="short">* Να ενθουσιάσει τους νέους με την επιστήμη, την τεχνολογία, τη μηχανική και τα μαθηματικά</p>
-<p>* Να προάγει τη διεθνή συνεργασία στην ενημέρωση και την εκπαίδευση για το διάστημα</p>
+<ul class="items"><li>Να προσφέρει μοναδικό μοχλό στην ενημέρωση και την εκπαίδευση για το διάστημα</li><li>Να ενημερώσει τους ανθρώπους σε όλο τον κόσμο για τα οφέλη που αποκομίζουν από το διάστημα</li><li>Να ενθαρρύνει τη μεγαλύτερη αξιοποίηση του διαστήματος για τη βιώσιμη οικονομική ανάπτυξη</li><li>Να καταδείξει τη δημόσια στήριξη στα διαστημικά προγράμματα</li><li>Να ενθουσιάσει τους νέους με την επιστήμη, την τεχνολογία, τη μηχανική και τα μαθηματικά</li><li>Να προάγει τη διεθνή συνεργασία στην ενημέρωση και την εκπαίδευση για το διάστημα</li></ul>
+
+
+
+
+
 <p>Εάν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να τηλεφωνήσετε στο +357 9999 1111.</p>
-<p><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
+<p class="lead"><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
 <p><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
 
 <p><strong>ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ</strong> https://www.worldspaceweek.org/nation/Cyprus/</p>
 
 <h2><strong>Παγκόσμια Εβδομάδα Διαστήματος (βάση δεδομένων προηγούμενων ετών)</strong></h2>
-<h3><strong><a href="/el/projects/international-projects/wsw/world-space-week-2026.php">WSW 2026</a></strong></h3>
-<h3><strong><a href="/el/projects/international-projects/wsw/world-space-week-2025.php">WSW 2025</a></strong></h3>
-<h3><strong><a href="/el/projects/international-projects/wsw/world-space-week-2024.php">WSW 2024</a></strong></h3>
-<h3><strong><a href="/el/projects/international-projects/wsw/world-space-week-2023.php">WSW 2023</a></strong></h3>
-<h3><strong><a href="/el/projects/international-projects/wsw/world-space-week-2022.php">WSW 2022</a></strong></h3>
-<p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021">WSW 2021</a></strong></p>
-<p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">WSW 2020</a></strong></p></div>
+<div class="link-row"><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2026.php">WSW 2026</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2025.php">WSW 2025</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2024.php">WSW 2024</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2023.php">WSW 2023</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2022.php">WSW 2022</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021">WSW 2021</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">WSW 2020</a></strong></p></div>
+
+
+
+
+
+</div>
 </div>
 </div>
 </article>

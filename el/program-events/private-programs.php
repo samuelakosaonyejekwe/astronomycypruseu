@@ -23,8 +23,8 @@ require SITE_ROOT . '/includes/header.php';
 <h3><strong>Η ομάδα μας έχει προετοιμάσει προσαρμοσμένα προγράμματα του υψηλότερου επιπέδου, για να ζήσετε μια μοναδική εμπειρία των ουρανών.</strong></h3>
 <h3><strong>Εξαιρετική φιλοξενία και εξειδικευμένοι επιστήμονες είναι πρόθυμοι να κάνουν διαστημικό περίπατο μαζί σας, με τους φίλους και την οικογένειά σας αυτό το καλοκαίρι.</strong></h3>
 <h3><strong>Το αστεροσκοπείο μας θα σας ταξιδέψει στο Σύμπαν με τα μεγάλα, επαγγελματικά τηλεσκόπιά μας.</strong></h3>
-<h2><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</strong></a></h2>
-<h2><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></strong></h2>
+<ul class="link-list"><li><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</strong></a></li><li><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></strong></li></ul>
+
 <div class="blocks">
 <h2><em>Ιδιωτικά προγράμματα (έως 10 άτομα ανά συνεδρία)</em></h2>
 <h2><em> «Πολιτική Αποκλειστικά με Κράτηση»</em></h2>
@@ -33,7 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="blocks">
 <div class="row">
-<div class="block"><p class="short"><strong>ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</strong></p>
+<div class="block"><p class="lead short"><strong>ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</strong></p>
 <p>Λειτουργούμε με «<strong>Πολιτική Αποκλειστικά με Κράτηση»</strong>.</p>
 <p>Απαιτείται κράτηση εκ των προτέρων, καλώντας στο (+357) 99991111 (αγγλόφωνοι) ή στο (+357) 99037440 (ρωσόφωνοι).</p>
 <p>Αν αναζητάτε ειδικά ή προσαρμοσμένα προγράμματα ή υπηρεσίες για εσάς, τους φίλους σας ή την ομάδα σας, μη διστάσετε να <a href="/el/contact-us.php">επικοινωνήσετε μαζί μας</a>.</p>

@@ -20,10 +20,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><a href="https://astronomycyprus.eu/gift-shop/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a>
 <h3><a href="https://youtu.be/6OZOUlYB8C4?si=3XBaIPB_H-GNlvoU" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/science-cafe-29-august-2023.jpg" width="960"/></a></h3>
-<h2><a href="https://youtu.be/6OZOUlYB8C4?si=3XBaIPB_H-GNlvoU" rel="noopener noreferrer" target="_blank">Видеозапись на YouTube</a></h2>
+<div class="link-row"><p class="short"><a href="https://youtu.be/6OZOUlYB8C4?si=3XBaIPB_H-GNlvoU" rel="noopener noreferrer" target="_blank">Видеозапись на YouTube</a></p></div>
 <h2>ВТОРНИК, 29 АВГУСТА 2023 ГОДА, ВРЕМЯ: 20:00 (UTC+3)</h2>
 <h2>ПРИСОЕДИНЯЙТЕСЬ К НАМ ОНЛАЙН...</h2>
-<h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></h2>
+<div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p></div>
 <h2>ID встречи: 831 2336 2644</h2>
 <h2>Код доступа: kition</h2>
 <p>Присоединяйтесь к нашему онлайн-кафе Science Café и узнайте <strong>о последних новостях и астрономических явлениях</strong>.</p>
@@ -44,7 +44,7 @@ require SITE_ROOT . '/includes/header.php';
 
 <p>Мы постараемся, чтобы оба ученика присоединились к нам онлайн...</p>
 <h2>ПРИСОЕДИНЯЙТЕСЬ К НАМ ОНЛАЙН...</h2>
-<h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></h2>
+<div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p></div>
 <h2>ID встречи: 831 2336 2644</h2>
 <h2>Код доступа: kition</h2>
 <h2><strong>Константинос Труллиас</strong></h2>
@@ -66,16 +66,16 @@ require SITE_ROOT . '/includes/header.php';
 
 <h2>Вход свободный.</h2>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p>Присоединяйтесь к нашей космической прогулке!</p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
-<p>ССЫЛКИ:</p>
+<p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <h3>ПОСЕТИТЕ НАШУ СТРАНИЦУ В FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 <div class="row">
 <div class="block"><p class="short">"</p></div>

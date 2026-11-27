@@ -29,10 +29,10 @@ require SITE_ROOT . '/includes/header.php';
 <h3>Дополнительные летние программы для других летних школьных визитов</h3>
 <h3>или специализированные программы, такие как «Астрономия для скаутов», «Астрономия для художников» и т. д.</h3>
 <h3>доступны по запросу и могут быть адаптированы в соответствии с Вашими потребностями.</h3>
-<p class="short"><strong>ПРЕДВАРИТЕЛЬНАЯ ЗАПИСЬ ОБЯЗАТЕЛЬНА:</strong></p>
+<p class="lead short"><strong>ПРЕДВАРИТЕЛЬНАЯ ЗАПИСЬ ОБЯЗАТЕЛЬНА:</strong></p>
 <p class="short">Записывайтесь по <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> или по телефону +357 99991111</p>
 <p><a class="doc-link" href="/docs/cancellation_policy_special_events.pdf" rel="noopener" target="_blank" title="Cancellation Policy">Правила отмены</a> <strong>(Пожалуйста, прочтите перед регистрацией)</strong></p>
-<p><strong>Для этих мероприятий доступны «Подарочные билеты». Пожалуйста, свяжитесь с нами, чтобы приобрести «Подарочные билеты». Взимается дополнительная плата всего в €5 (почтовые расходы и упаковка), и вместе с покупкой Вы получите подарочную открытку.</strong></p>
+<p>Для этих мероприятий доступны «Подарочные билеты». Пожалуйста, свяжитесь с нами, чтобы приобрести «Подарочные билеты». Взимается дополнительная плата всего в €5 (почтовые расходы и упаковка), и вместе с покупкой Вы получите подарочную открытку.</p>
 <div class="blocks">
 <div class="row">
 <div class="block"><h2>ЛЕТНИЕ ПРОГРАММЫ</h2>
@@ -67,14 +67,14 @@ require SITE_ROOT . '/includes/header.php';
 <h2>КУРСЫ ДЛЯ ВЫДАЮЩИХСЯ УЧАЩИХСЯ (по запросу)</h2>
 </div>
 </div>
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Олимпиада по астрономии и астрофизике</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Олимпиада по математике</p></div></div>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Олимпиада по астрономии и астрофизике</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Олимпиада по математике</p></div></div>
 
 <div class="row">
 <div class="block">
 <h2>A4BD - СПЕЦИАЛИЗИРОВАННЫЕ МЕРОПРИЯТИЯ ДЛЯ ОСОБЫХ ГРУПП (по запросу)</h2>
 </div>
 </div>
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Астрономия для людей с нарушениями зрения</p>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Астрономия для людей с нарушениями зрения</p>
 <p class="short">Астрономия для людей с нарушениями слуха</p>
 <p class="short">Астрономия для людей с особыми возможностями</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Астрономия для людей с аутизмом</p></div></div>
 

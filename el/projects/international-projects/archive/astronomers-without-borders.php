@@ -31,49 +31,34 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short">ΦΩΤΟΓΡΑΦΙΕΣ</p>
 <div class="blocks">
-<div class="row">
+<div class="row gallery captioned tiles">
 <div class="block">
 <p><a href="/images/gam2014/gam2014_03.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th03.jpg" width="283"/></a><br/>
  ΠΡΟΣΚΟΠΟΙ ΑΠΟ ΤΗΝ ΚΥΠΡΟ ΗΡΘΑΝ ΣΕ ΕΠΑΦΗ ΜΕΣΩ ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗΣ ΜΕ ΤΗ ΛΙΒΥΗ</p>
 </div>
 <div class="block"><p><a href="/images/gam2014/gam2014_02.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th02.jpg" width="283"/></a>ΠΑΓΚΟΣΜΙΟ ΑΣΤΡΟ ΠΑΡΤΙ ΣΤΟ ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p></div>
-</div>
-<div class="row">
 <div class="block">
 <p><a href="/images/gam2014/gam2014_01.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th01.jpg" width="283"/></a>ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ΜΕ ΤΗ ΛΙΒΥΗ. <br/>
  ΜΕΤΑ ΑΠΟ ΑΣΤΡΟΝΟΜΙΚΕΣ ΣΥΖΗΤΗΣΕΙΣ ΠΡΟΣΚΟΠΟΙ ΕΞΗΓΗΣΑΝ ΤΙΣ ΚΥΠΡΙΑΚΕΣ ΠΑΡΑΔΟΣΕΙΣ ΚΑΙ ΕΘΙΜΑ ΚΑΙ ΕΔΕΙΞΑΝ ΕΘΝΙΚΟΥΣ ΧΟΡΟΥΣ</p>
-</div>
-<div class="block"><p><a href="https://astronomycyprus.eu/images/gam2014/gam2014_04.jpg" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" height="188" loading="lazy" src="https://astronomycyprus.eu/images/gam2014/gam2014_th04.jpg" width="283"/></a>ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ ΕΝΩΣΕ ΔΥΟ ΗΠΕΙΡΟΥΣ:<br/>
+</div><div class="block"><p><a href="https://astronomycyprus.eu/images/gam2014/gam2014_04.jpg" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" height="188" loading="lazy" src="https://astronomycyprus.eu/images/gam2014/gam2014_th04.jpg" width="283"/></a>ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ ΕΝΩΣΕ ΔΥΟ ΗΠΕΙΡΟΥΣ:<br/>
  ΤΗΝ ΕΥΡΩΠΗ ΚΑΙ ΤΗΝ ΑΦΡΙΚΗ<br/> 
- ΠΡΙΝ ΤΗΝ ΠΑΡΑΤΗΡΗΣΗ ΤΟΥ ΑΡΗ</p></div>
-</div>
-<div class="row">
-<div class="block">
+ ΠΡΙΝ ΤΗΝ ΠΑΡΑΤΗΡΗΣΗ ΤΟΥ ΑΡΗ</p></div><div class="block">
 <p><a href="https://astronomycyprus.eu/images/gam2014/gam2014_05.jpg" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" height="188" loading="lazy" src="https://astronomycyprus.eu/images/gam2014/gam2014_th05.jpg" width="283"/></a>Ο ΦΩΤΟΣΤΕΦΑΝΟ ΤΗΣ ΣΕΛΗΝΗΣ. ΑΠΟ ΤΟΝ ΟΚΤΩΒΡΙΟ ΜΕΧΡΙ ΤΟΝ ΑΠΡΙΛΙΟ ΤΑ ΦΩΤΟΣΤΕΦΑΝΑ ΕΙΝΑΙ ΚΟΙΝΑ ΣΤΟΝ ΚΥΠΡΙΑΚΟ ΟΥΡΑΝΟ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_06.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th06.jpg" width="283"/></a>"ΒΟΡΕΙΟ ΣΕΛΑΣ" ΑΣΤΡΟ ΚΟΝΣΕΡΤΟ - AKΟΛΟΥΘΗΣΕ ΒΡΑΔΙΑ ΜΕ ΜΟΥΣΙΚΗ ΝΤΙΣΚΟ ΓΙΑ ΤΟΝ ΓΙΟΥΡΙ ΓΚΑΓΚΑΡΙΝ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_06.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th06.jpg" width="283"/></a>"ΒΟΡΕΙΟ ΣΕΛΑΣ" ΑΣΤΡΟ ΚΟΝΣΕΡΤΟ - AKΟΛΟΥΘΗΣΕ ΒΡΑΔΙΑ ΜΕ ΜΟΥΣΙΚΗ ΝΤΙΣΚΟ ΓΙΑ ΤΟΝ ΓΙΟΥΡΙ ΓΚΑΓΚΑΡΙΝ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_07.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th07.jpg" width="283"/></a>ΕΠΙΣΚΕΠΤΕΣ ΚΑΙ ΣΥΜΜΕΤΕΧΟΝΤΕΣ ΑΠΟ ΟΛΗ ΤΗΝ ΚΥΠΡΟ ΚΑΙ ΤΟΥΡΙΣΤΕΣ ΑΠΟ ΤΟ ΕΞΩΤΕΡΙΚΟ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_08.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th08.jpg" width="283"/></a>ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΤΗΣ ΔΙΕΘΝΟΥΣ ΕΒΔΟΜΑΔΑΣ ΤΟΥ ΣΚΟΤΕΙΝΟΥ ΟΥΡΑΝΟΥ ΟΙ ΕΠΙΣΚΕΠΤΕΣ ΕΝΗΜΕΡΩΘΗΚΑΝ ΓΙΑ ΤΗΝ ΦΩΤΟΡΥΠΑΝΣΗ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_08.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th08.jpg" width="283"/></a>ΚΑΤΑ ΤΗ ΔΙΑΡΚΕΙΑ ΤΗΣ ΔΙΕΘΝΟΥΣ ΕΒΔΟΜΑΔΑΣ ΤΟΥ ΣΚΟΤΕΙΝΟΥ ΟΥΡΑΝΟΥ ΟΙ ΕΠΙΣΚΕΠΤΕΣ ΕΝΗΜΕΡΩΘΗΚΑΝ ΓΙΑ ΤΗΝ ΦΩΤΟΡΥΠΑΝΣΗ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_09.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th09.jpg" width="283"/></a><br/>
  ΦΑΡΟΣ - ΠΕΡΒΟΛΙΑ. ΕΙΝΑΙ ΕΝΑΣ ΓΝΩΣΤΟΣ ΧΩΡΟΣ ΣΤΟ ΝΗΣΙ. ΑΝΑΓΝΩΡΙΖΟΝΤΑΣ ΤΟΥΣ ΑΣΤΕΡΙΣΜΟΥΣ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_10.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th10.jpg" width="125"/></a><br/>
- ΓΙΑ ΤΑ ΤΕΛΕΥΤΑΙΑ 2600 ΧΡΟΝΙΑ ΟΙ ΑΝΘΡΩΠΟΙ ΑΠΟ ΟΛΑ ΤΑ ΜΕΡΗ ΤΗΣ ΓΗΣ ΠΑΡΑΚΟΛΟΥΘΟΥΝ ΤΗ ΒΡΟΧΗ ΜΕΤΕΩΡΩΝ ΤΩΝ ΛΥΡΙΔΩΝ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_10.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th10.jpg" width="125"/></a><br/>
+ ΓΙΑ ΤΑ ΤΕΛΕΥΤΑΙΑ 2600 ΧΡΟΝΙΑ ΟΙ ΑΝΘΡΩΠΟΙ ΑΠΟ ΟΛΑ ΤΑ ΜΕΡΗ ΤΗΣ ΓΗΣ ΠΑΡΑΚΟΛΟΥΘΟΥΝ ΤΗ ΒΡΟΧΗ ΜΕΤΕΩΡΩΝ ΤΩΝ ΛΥΡΙΔΩΝ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_11.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th11.jpg" width="283"/></a>«Η ΜΕΡΑ ΤΟΥ ΗΛΙΟΥ» <br/>ΗΤΑΝ Η ΩΡΑ ΓΙΑ ΤΙΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΗΛΙΟΥ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_12.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th12.jpg" width="125"/></a><br/>
- Ο ΗΛΙΟΣ ΗΤΑΝ ΠΟΛΥ ΔΡΑΣΤΗΡΙΟΣ ΤΗΝ ΚΥΡΙΑΚΗ. ΥΠΗΡΧΑΝ ΜΕΧΡΙ ΚΑΙ 50 ΗΛΙΑΚΕΣ ΚΗΛΙΔΕΣ ΟΡΑΤΕΣ ΣΤΟΝ ΗΛΙΑΚΟ ΔΙΣΚΟ</p></div>
-</div>
+</div><div class="block"><p><a href="/images/gam2014/gam2014_12.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th12.jpg" width="125"/></a><br/>
+ Ο ΗΛΙΟΣ ΗΤΑΝ ΠΟΛΥ ΔΡΑΣΤΗΡΙΟΣ ΤΗΝ ΚΥΡΙΑΚΗ. ΥΠΗΡΧΑΝ ΜΕΧΡΙ ΚΑΙ 50 ΗΛΙΑΚΕΣ ΚΗΛΙΔΕΣ ΟΡΑΤΕΣ ΣΤΟΝ ΗΛΙΑΚΟ ΔΙΣΚΟ</p></div></div>
+
+
+
+
+
 </div>
 <div class="blocks"><div class="row split"><div class="block media"><p><a href="https://astronomycyprus.eu/images/gam2014/gam2014_13.jpg" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" loading="lazy" src="https://astronomycyprus.eu/images/gam2014/gam2014_th13.jpg"/></a></p></div><div class="block"><p class="short">Ο ΑΠΡΙΛΙΟΣ ΕΙΝΑΙ Ο ΚΑΛΥΤΕΡΟΣ ΜΗΝΑΣ ΤΟΥ ΕΤΟΥΣ. ΕΙΝΑΙ Ο ΠΑΓΚΟΣΜΙΟΣ ΜΗΝΑΣ ΑΣΤΡΟΝΟΜΙΑΣ!</p><p class="short">ΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ<br/>
 <a href="https://astronomycyprus.eu/docs/April2014Events_KPO.pdf" rel="noopener noreferrer" target="_blank" title="April2014Events_KPO.pdf">ΤΟΥ ΠΑΓΚΟΣΜΙΟΥ ΜΗΝΑ ΑΣΤΡΟΝΟΜΙΑΣ 2014 (PDF FILE)</a></p><p class="short">ΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ<br/>

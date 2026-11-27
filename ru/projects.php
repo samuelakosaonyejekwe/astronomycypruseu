@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Рассматривая астрономию как активный образ жизни для общества, ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» организует многие <a href="/ru/charity.php">Благотворительные проекты и мероприятия</a> и участвует в них.</p>
 <p><strong>Международный астрономический союз</strong>.</p>
 <p>Наша организация является национальным контактным пунктом Кипра по Международному году света и световых технологий 2015, проводимому ЮНЕСКО и МАС.</p>
-<p>В информационных бюллетенях МАС отмечалось, что мы организовали множество различных <a href="https://www.iau.org/public/publications/newsletter/2015_06/" rel="noopener noreferrer" target="_blank">просветительских мероприятий</a>, включая наблюдения Солнца, и провели специальную программу для Кипра во время <a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank">Всемирной недели космоса Организации Объединённых Наций</a><a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank"> в 2015 году</a> под руководством и при участии нашей организации.</p></div>
+<p>В информационных бюллетенях МАС отмечалось, что мы организовали множество различных <a href="https://www.iau.org/public/publications/newsletter/2015_06/" rel="noopener noreferrer" target="_blank">просветительских мероприятий</a>, включая наблюдения Солнца, и провели специальную программу для Кипра во время <a href="https://www.iau.org/public/publications/newsletter/2015_15/" rel="noopener noreferrer" target="_blank">Всемирной недели космоса Организации Объединённых Наций в 2015 году</a> под руководством и при участии нашей организации.</p></div>
 </div>
 </div>
 </article>

@@ -26,8 +26,8 @@ require SITE_ROOT . '/includes/header.php';
 <p>20:00 "WHAT IS THE DEAL WITH BETELGEUSE?" ONLINE SCIENCE CAFÉ</p>
 <p>Guest speaker: Dr. Stella Kafka (Executive Director and CEO of the AAVSO (American Association of Variable Star Observers)</p>
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p>Passcode: kition</p>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+
 <p>Since 2008 KITION PLANETARIUM &amp; OBSERVATORY has offered Science Café sessions for all visitors to share their passion for science and astronomy.</p>
 
 <p>From the year 2021 we are holding Science Café meetings online, as well.</p>
@@ -43,7 +43,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>This presentation will focus on the 2019-2020 Betelgeuse event,  presenting key theories and research outcomes explaining it. </p>
 
 <p>STELLA KAFKA (BIOGRAPHY)</p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="3264" decoding="async" height="225" loading="lazy" src="/images/science-cafe/stella-kafka.jpg" width="400"/></p></div><div class="block"><p>Dr. Stella Kafka, is the Executive Director and CEO of the AAVSO* (American Association of Variable Star Observers),  an international organization focusing on engaging professional and amateur astronomers in science. </p><p>Within the auspices of the AAVSO, Dr Kafka is working towards enabling individuals from all backgrounds  to actively participate in research projects, building a community of science-savvy citizens  who work collectively to understand some of the most dynamic phenomena in the universe.</p><p>Dr Kafka acquired her BSc in Physics from the University of Athens (Greece) </p><p class="short">and her MA/PhD in Astronomy from Indiana University (USA). </p><p class="short">Dr Kafka’s research interest is semi-detached binary star systems (cataclysmic variables)</p><p class="short"> which can become supernovae Ia.</p><p>More information on Dr Kafka can be found at: <a href="https://www.linkedin.com/in/stellakafka/" rel="noopener noreferrer" target="_blank">https://www.linkedin.com/in/stellakafka/</a></p><p>*The AAVSO is an international non-profit organization of variable star observers whose mission is to enable anyone, anywhere, to participate in scientific discovery through variable star astronomy. </p><p>Free entrance.</p><p class="short">Join Our Spacewalk!</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="3264" decoding="async" height="225" loading="lazy" src="/images/science-cafe/stella-kafka.jpg" width="400"/></p></div><div class="block"><p>Dr. Stella Kafka, is the Executive Director and CEO of the AAVSO* (American Association of Variable Star Observers),  an international organization focusing on engaging professional and amateur astronomers in science. </p><p>Within the auspices of the AAVSO, Dr Kafka is working towards enabling individuals from all backgrounds  to actively participate in research projects, building a community of science-savvy citizens  who work collectively to understand some of the most dynamic phenomena in the universe.</p><p>Dr Kafka acquired her BSc in Physics from the University of Athens (Greece) </p><p class="short">and her MA/PhD in Astronomy from Indiana University (USA). </p><p class="short">Dr Kafka’s research interest is semi-detached binary star systems (cataclysmic variables)</p><p class="short"> which can become supernovae Ia.</p><p class="short">More information on Dr Kafka can be found at: <a href="https://www.linkedin.com/in/stellakafka/" rel="noopener noreferrer" target="_blank">https://www.linkedin.com/in/stellakafka/</a></p><ul class="items"><li>The AAVSO is an international non-profit organization of variable star observers whose mission is to enable anyone, anywhere, to participate in scientific discovery through variable star astronomy. </li></ul><p class="short">Free entrance.</p><p class="short">Join Our Spacewalk!</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl></div></div></div>
 
 
 
@@ -67,12 +67,12 @@ require SITE_ROOT . '/includes/header.php';
 
 <p><img alt="" data-nw="960" decoding="async" height="450" loading="lazy" src="/images/science-cafe/science-cafe-26-october-2021.jpg" width="800"/></p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+
 <h3>VISIT OUR FB PAGE...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 </div>
 <p class="short">The KITION PLANETARIUM &amp; OBSERVATORY invites you to...<br/>

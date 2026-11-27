@@ -29,15 +29,15 @@ require SITE_ROOT . '/includes/header.php';
 <p>The sessions will be conducted once a week at the KITION PLANETARIUM &amp; OBSERVATORY, in Kiti.</p>
 <p>At completion of the course a diploma will be awarded.</p>
 <p>Alexander Prokofyev graduated with honor the Department of Physics at Moscow State University (Lomonosov University). His scientific work is connected to “Cosmic Strings in Expanded Theories of Gravitation”. Nowadays he conducts research in archeoastronomy, organizes and participates in observations of total sun eclipses, meteor showers and asteroid's occultations. He has publications in scientific and popular editions, makes reports on national and International conferences. His talent to uncover modern scientific achievements to common listeners is well known to amatures of astronomy. He gave lectures in Russia, Ukraine, Germany, Finland and Cyprus.</p>
-<p>FEES:</p>
+<p class="lead">FEES:</p>
 <p>ADULTS €70 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-adult-ticket/" rel="noopener noreferrer" target="_blank">BUY NOW</a></p>
 <p>STUDENTS €50 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-student-ticket/" rel="noopener noreferrer" target="_blank">BUY NOW</a></p>
 <p><a class="doc-link" href="/docs/read-the-sky/English/READ%20THE%20SKY%20EN%20INV.pdf" rel="noopener" target="_blank">Download the Course Invitation (PDF)</a></p>
 <p><a class="doc-link" href="/docs/read-the-sky/English/Read%20the%20Sky%20Astronomy%20Course%20for%20Beginners%20EN.pdf" rel="noopener" target="_blank">Download the Course Curriculum and details (PDF)</a></p>
 </div>
 <div class="block">
-<p><a class="doc-link" href="/docs/read-the-sky/Russian/READ%20THE%20SKY%20RU%20INV.pdf" rel="noopener" target="_blank">Download the course invitation (PDF)</a></p>
-<p><a class="doc-link" href="/docs/read-the-sky/Russian/Read%20the%20Sky%20Astronomy%20Course%20for%20Beginners%20Russian.pdf" rel="noopener" target="_blank">Download the course curriculum and details (PDF)</a></p></div>
+<div class="link-row"><p><a class="doc-link" href="/docs/read-the-sky/Russian/READ%20THE%20SKY%20RU%20INV.pdf" rel="noopener" target="_blank">Download the course invitation (PDF)</a></p><p><a class="doc-link" href="/docs/read-the-sky/Russian/Read%20the%20Sky%20Astronomy%20Course%20for%20Beginners%20Russian.pdf" rel="noopener" target="_blank">Download the course curriculum and details (PDF)</a></p></div>
+</div>
 </div>
 </table></div>
 <div class="blocks">

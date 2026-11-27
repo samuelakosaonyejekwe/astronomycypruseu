@@ -23,8 +23,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">IAU International Astronomical Union</p>
 <p>Project: Cosmic Light Comes to Cyprus 2016<br/> Country: Cyprus</p>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY presents the project "Cosmic Light Comes to Cyprus 2016", which will be carried out by scientists, amateur astronomers and educators through activities, workshops, lectures, planetarium shows and telescope observations, with the aim of promoting the science of astronomy to kindergartens, primary, secondary and tertiary education, organized groups, the media, tourists and the wider public, using astronomy as a tool for development.</p>
-<p>Mission: to raise awareness of our place in the Universe and to foster respect for and understanding of the importance of the Cosmic Light that reaches the Earth.</p>
-<p>Vision: to strengthen awareness of the protection of the dark sky and to encourage locals to take part in light pollution measurements that will help to preserve the dark sky in Cyprus.</p>
+<dl class="specs"><dt>Mission</dt><dd> to raise awareness of our place in the Universe and to foster respect for and understanding of the importance of the Cosmic Light that reaches the Earth.</dd><dt>Vision</dt><dd> to strengthen awareness of the protection of the dark sky and to encourage locals to take part in light pollution measurements that will help to preserve the dark sky in Cyprus.</dd></dl>
+
 <div class="blocks">
 <div class="row">
 <div class="block"><p class="short">30 JANUARY 19:00</p></div>

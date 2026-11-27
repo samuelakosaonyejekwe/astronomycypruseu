@@ -49,10 +49,10 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p>The excavations at the site of Pampoula, have shown that the area was continuously inhabited from the end of the Geometric to the Hellenistic period. The first architectural remains dated to the 9th century B.C., consist of a temple and various other buildings. During the Archaic and Classical period, the temple was extended to include many rooms, open courts with stoas and shrines, offering hearths and industrial installations for the smelting of copper. The variety of finds indicates that a number of deities was worshipped at Kition, the most significant being the Phoenician deities Astarte (equivalent of Aphrodite), Melkart (equivalent of Heracles), and Esmoun (equivalent of Asclepius), as well as the Egyptian deities Hathor, Bes and Horus.</p>
 <p>During the Classical period, large-scale construction work was commissioned in the city of Kition, such as monumental public buildings which formed part of an ambitious public works project. Part of this project was also the draining of the marshland in the quarter of Pampoula, the creation of a sanitary system, and the construction of two harbours, one for commercial purposes and one for military use. Only the military one has been excavated so far. The ramps used to tow the ships into the harbor for repair or for safe keeping, still exist.</p>
-<p><strong>Credits</strong>:</p>
+<p class="lead"><strong>Credits</strong>:</p>
 <p>CYPRUS DEPARTMENT OF ANTIQUITIES <a href="http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument" rel="noopener noreferrer" target="_blank" title="KITION - CYPRUS DEPT OF ANTIQUITIES">http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument</a></p>
 
-<p><strong>Links</strong>: </p>
+<p class="lead"><strong>Links</strong>: </p>
 <p>VISIT ANCIENT KITION https://www.visitcyprus.com/index.php/en/discovercyprus/culture-religion/sites-monuments/item/177-kition-archaeological-site</p>
 
 <p>KITION (WIKIPEDIA)</p>

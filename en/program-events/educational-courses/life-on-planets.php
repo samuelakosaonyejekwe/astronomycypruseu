@@ -27,8 +27,8 @@ require SITE_ROOT . '/includes/header.php';
 <p>By using Astronomy as a tool for personal development and STEAM workshops, the program aims to give students the best tools for an introduction in science.</p>
 <p>Registration for July has already begun.</p>
 <h2> Register now!</h2>
-<p class="short"> Cost: € 80 / month</p>
-<p class="short"> Dates: July </p>
+<dl class="specs"><dt> Cost</dt><dd> € 80 / month</dd><dt> Dates</dt><dd> July </dd></dl>
+
 <h3><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-en.pdf" rel="noopener" target="_blank">Download the program in ENGLISH (PDF)</a></h3>
 <p><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-ru.pdf" rel="noopener" target="_blank">Download the program in RUSSIAN (PDF)</a></p>
 <p> The program covers the basics of exploration and search for life on planets and their satellites. </p>
@@ -45,7 +45,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY </p>
 <p class="short"><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-en.pdf" rel="noopener" target="_blank">Download the program in ENGLISH (PDF)</a></p>
 <p class="short"><a class="doc-link" href="/docs/educational-courses/life-on-planets/life-on-planets-ru.pdf" rel="noopener" target="_blank">Download the program in RUSSIAN (PDF)</a></p>
-<p class="short">IMPORTANT NOTE:</p>
+<p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>

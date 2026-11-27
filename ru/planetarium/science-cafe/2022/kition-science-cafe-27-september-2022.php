@@ -26,15 +26,15 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">20:00 ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА 2022 — «КОСМОС И УСТОЙЧИВОЕ РАЗВИТИЕ» ОНЛАЙН SCIENCE CAFÉ</p>
 <p class="short">Приглашённый докладчик: Джордж Труллиас (НК ВНК ООН, КИПР) и его команда</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p><img alt="" data-nw="3240" decoding="async" height="267" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-2.png" width="800"/></p>
 <p>Всемирная неделя космоса — международное празднование науки и технологий и их вклада в улучшение условий жизни человека.</p>
 
 <p>Генеральная Ассамблея Организации Объединённых Наций в 1999 году постановила проводить Всемирную неделю космоса ежегодно с 4 по 10 октября.</p>
-<p>Эти даты отмечают два события:</p>
-<p>4 октября 1957 года: запуск первого искусственного спутника Земли «Спутник-1», открывший путь к освоению космоса</p>
-<p>10 октября 1967 года: подписание Договора о принципах деятельности государств по исследованию и использованию космического пространства, включая Луну и другие небесные тела.</p>
+<p class="lead">Эти даты отмечают два события:</p>
+<dl class="specs"><dt>4 октября 1957 года</dt><dd> запуск первого искусственного спутника Земли «Спутник-1», открывший путь к освоению космоса</dd><dt>10 октября 1967 года</dt><dd> подписание Договора о принципах деятельности государств по исследованию и использованию космического пространства, включая Луну и другие небесные тела.</dd></dl>
+
 
 <p>Каждый год Ассоциация Всемирной недели космоса (WSWA) выбирает тему предстоящей Всемирной недели космоса (ВНК), чтобы задать фокус мероприятий и событий, проходящих по всему миру с 4 по 10 октября. Тема Всемирной недели космоса 2022 года — «Космос и устойчивое развитие».</p>
 
@@ -48,19 +48,19 @@ require SITE_ROOT . '/includes/header.php';
 <p>Вход свободный.</p>
 <p class="short">Присоединяйтесь к нашей космической прогулке!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p><img alt="" data-nw="3240" decoding="async" height="267" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-1.png" width="800"/></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p>Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
-<p>ССЫЛКИ:</p>
+<p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <h3>ПОСЕТИТЕ НАШУ СТРАНИЦУ В FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 <div class="row">
 <div class="block"><p class="short">"</p></div>

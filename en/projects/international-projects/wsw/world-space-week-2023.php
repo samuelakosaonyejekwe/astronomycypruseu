@@ -68,15 +68,15 @@ require SITE_ROOT . '/includes/header.php';
 <h3><img alt="" data-nw="1920" decoding="async" height="183" loading="lazy" src="/images/wsw/wsw2023/wsw2023-cover-1.jpg" width="325"/><img alt="" data-nw="1920" decoding="async" height="183" loading="lazy" src="/images/wsw/wsw2023/wsw2023-cover-2.jpg" width="325"/><img alt="" data-nw="1920" decoding="async" height="183" loading="lazy" src="/images/wsw/wsw2023/wsw2023-cover-3.jpg" width="325"/></h3>
 <h2>What is the World Space Week?</h2>
 <p>World Space Week is an international celebration of science and technology, and their contribution to the betterment of the human condition. The United Nations General Assembly declared in 1999 that World Space Week will be held each year from October 4-10. These dates commemorate two events:</p>
-<p>* October 4, 1957: Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</p>
-<p>* October 10, 1967: The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space, including the Moon and Other Celestial Bodies.</p>
+<ul class="items"><li>October 4, 1957: Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</li><li>October 10, 1967: The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space, including the Moon and Other Celestial Bodies.</li></ul>
+
 <p>World Space Week consists of space education and outreach events held by space agencies, aerospace companies, schools, planetaria, museums, and astronomy clubs around the world in a common timeframe. These synchronized space events attract greater public and media attention. World Space Week 2022 achieved record scale:</p>
-<p>* more than 11,221 events</p>
-<p class="short">* Events in 87 nations</p>
+<ul class="items"><li>more than 11,221 events</li><li>Events in 87 nations</li></ul>
+
 <h3>World Space Week is coordinated by the United Nations with the support of the World Space Week Association (WSWA). The WSWA leads a global team of National Coordinators, who promote the celebration of World Space Week within their own countries.</h3>
 <h2>Total audience since 2007:</h2>
-<p class="short">* Over 2,000,000 attendees</p>
-<p>* Nearly 500,000,000 media impressions</p>
+<ul class="items"><li>Over 2,000,000 attendees</li><li>Nearly 500,000,000 media impressions</li></ul>
+
 <p>World Space Week is coordinated by the United Nations with the support of the World Space Week Association (WSWA).</p>
 <p>The WSWA leads a global team of National Coordinators, who promote the celebration of World Space Week within their own countries.</p>
 <h2>What are the goals of World Space Week?</h2>
@@ -87,7 +87,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Excite young people about science, technology, engineering, and math</p>
 <p>Foster international cooperation in space outreach and education</p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p>UN WORLD SPACE WEEK <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
 
 <p>INTERNATIONAL EVENTS FOR THE UN WORLD SPACE WEEK https://www.worldspaceweek.org/events/event-list/</p>

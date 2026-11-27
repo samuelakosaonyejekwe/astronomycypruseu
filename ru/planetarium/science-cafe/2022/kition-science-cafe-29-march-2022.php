@@ -28,8 +28,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">ОФИЦИАЛЬНО ЗАРЕГИСТРИРОВАННОЕ МЕРОПРИЯТИЕ МАС <a href="https://iau.org/public/oao-events/" rel="noopener noreferrer" target="_blank"> https://iau.org/public/oao-events/</a></p>
 
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p>Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p>С 2008 года ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» проводит встречи Science Café, на которых все посетители могут поделиться своей увлечённостью наукой и астрономией.</p>
 
 <p>С 2021 года встречи Science Café проходят также онлайн.</p>
@@ -72,10 +72,10 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<p class="short">ССЫЛКИ:</p>
+<p class="lead short">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <h3>ПОСЕТИТЕ НАШУ СТРАНИЦУ В FACEBOOK...</h3>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
 <p class="short">Международный астрономический союз (МАС)</p>

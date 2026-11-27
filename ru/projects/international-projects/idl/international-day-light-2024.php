@@ -31,8 +31,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Приветственное слово национального узла Международного дня света ЮНЕСКО на Кипре,</p>
 <p>Георгиос Труллиас (директор — ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» (Кипр)).</p>
 <p>Информирование о глобальной инициативе по неослабевающему вниманию к свету и его роли в жизни.</p>
-<p>Технологии на основе света: примеры.</p>
-<p class="short">Осведомлённость о световом загрязнении: влияние на планету и способы защиты ночного неба.</p>
+<dl class="specs"><dt>Технологии на основе света</dt><dd> примеры.</dd><dt>Осведомлённость о световом загрязнении</dt><dd> влияние на планету и способы защиты ночного неба.</dd></dl>
+
 <p class="short"><strong><a href="https://astronomycyprus.eu/gift-shop/product/international-day-of-light-2024-cyprus/" rel="noopener noreferrer" target="_blank">НАБЛЮДЕНИЯ В ТЕЛЕСКОП И ЛАЗЕРНАЯ ЭКСКУРСИЯ ПО НЕБУ</a></strong></p>
 <div class="blocks">
 <div class="row">
@@ -54,7 +54,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><a href="http://www.light2015.org/" rel="noopener noreferrer" target="_blank">Международный год света и световых технологий 2015</a> (IYL 2015) был мероприятием Организации Объединённых Наций, которое привлекло внимание мирового сообщества к достижениям науки о свете и её применению, а также к их значению для человечества. Под руководством <a href="http://www.unesco.org/" rel="noopener noreferrer" target="_blank">ЮНЕСКО</a> было проведено более 13 000 мероприятий в 147 странах, которые охватили аудиторию, оцениваемую более чем в 100 миллионов человек. Дополнительную информацию см. в итоговом отчёте IYL 2015.</p>
 <p><img alt="" decoding="async" height="425" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-photo-winner-1.jpg" width="800"/></p>
 <p class="short">Цели</p>
-<p>Основные цели Международного дня света:</p>
+<p class="lead">Основные цели Международного дня света:</p>
 <p>Улучшить понимание обществом того, как свет и технологии на его основе затрагивают повседневную жизнь каждого человека и играют ключевую роль в дальнейшем развитии мирового сообщества.</p>
 <p>Наращивать образовательный потенциал во всём мире с помощью мероприятий, посвящённых науке для молодёжи, затрагивая вопросы гендерного баланса и уделяя особое внимание развивающимся странам и странам с формирующейся экономикой.</p>
 <p>Показать и разъяснить тесную связь света с искусством и культурой, усиливая роль оптических технологий в сохранении культурного наследия.</p>
@@ -69,7 +69,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>Прошедшие мероприятия</h2>
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2020</a></p>
 <p class="short"><a href="/ru/projects/international-projects/idl/international-day-light-2023.php">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2023</a></p>
-<p class="short"><strong>ССЫЛКИ:</strong></p>
+<p class="lead short"><strong>ССЫЛКИ:</strong></p>
 <p class="short">Страница Международного дня света на Кипре в Facebook <a href="https://www.facebook.com/idlcy/" rel="noopener noreferrer" target="_blank" title="CYPRUS INTERNATIONAL DAY OF LIGHT FB PAGE">https://www.facebook.com/idlcy/</a></p>
 
 <p class="short">Международный день света ЮНЕСКО <a href="https://www.lightday.org/" rel="noopener noreferrer" target="_blank" title="UNESCO IDL">https://www.lightday.org/</a></p>

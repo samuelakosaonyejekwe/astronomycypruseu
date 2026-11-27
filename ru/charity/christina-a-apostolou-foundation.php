@@ -29,12 +29,12 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <h2>2026</h2>
-<p><a class="doc-link" href="/images/charity/christina-apostolou-festival/2026/christina-apostolou-2026.pdf" rel="noopener" target="_blank"><img alt="" data-nw="909" decoding="async" height="900" loading="lazy" src="/images/charity/christina-apostolou-festival/2026/christina-apostolou-foundation-2026.JPG" width="909"/></a></p>
+<p><a href="/images/charity/christina-apostolou-festival/2026/christina-apostolou-2026.pdf" rel="noopener" target="_blank"><img alt="" data-nw="909" decoding="async" height="900" loading="lazy" src="/images/charity/christina-apostolou-festival/2026/christina-apostolou-foundation-2026.JPG" width="909"/></a></p>
 <h2><a class="doc-link" href="/images/charity/christina-apostolou-festival/2026/christina-apostolou-2026.pdf" rel="noopener" target="_blank"><img alt="" data-nw="909" decoding="async" height="907" loading="lazy" src="/images/charity/christina-apostolou-festival/2026/christina-apostolou-foundation-2026-a.JPG" width="909"/></a></h2>
-<h2><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2025.php">2025</a></h2>
-<h2><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2024.php">2024</a></h2>
-<h2><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2023.php">2023</a></h2>
-<h2><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2022.php">2022</a></h2>
+<div class="link-row"><p class="short"><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2025.php">2025</a></p><p class="short"><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2024.php">2024</a></p><p class="short"><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2023.php">2023</a></p><p class="short"><a href="/ru/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2022.php">2022</a></p></div>
+
+
+
 <h2>2021</h2>
 <h2>2020</h2>
 <h2>2019</h2>

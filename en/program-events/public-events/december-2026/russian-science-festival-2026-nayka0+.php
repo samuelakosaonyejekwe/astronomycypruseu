@@ -31,23 +31,23 @@ require SITE_ROOT . '/includes/header.php';
 
 <p>to screenings of four documentary films from the "Nauka" TV channel.</p>
 <h2>The films are shown with English subtitles.</h2>
-<p class="short">After each film screening, those who wish can continue their acquaintance with space:</p>
-<p class="short">• observe the December sky through the observatory's telescopes;</p>
-<p class="short">• visit the planetarium's space exhibition;</p>
-<p class="short">• see real meteorites, samples of space food and models of spacecraft.</p>
+<p class="lead short">After each film screening, those who wish can continue their acquaintance with space:</p>
+<ul class="items"><li>observe the December sky through the observatory's telescopes;</li><li>visit the planetarium's space exhibition;</li><li>see real meteorites, samples of space food and models of spacecraft.</li></ul>
+
+
 <h2><strong><br/> <br/> 5 DECEMBER </strong></h2>
-<p class="short"><strong><a href="https://astronomycyprus.eu/gift-shop/product/a-year-in-orbit/" rel="noopener noreferrer" target="_blank">17:00 FILM "A YEAR IN ORBIT"</a></strong></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-1800/" rel="noopener noreferrer" target="_blank"><strong>18:00 EXHIBITION AND OBSERVATIONS weather permitting</strong></a></h3>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/survival-in-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 FILM "SURVIVING IN SPACE"</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 EXHIBITION AND OBSERVATIONS weather permitting</strong></a></h3>
+<ul class="link-list"><li><strong><a href="https://astronomycyprus.eu/gift-shop/product/a-year-in-orbit/" rel="noopener noreferrer" target="_blank">17:00 FILM "A YEAR IN ORBIT"</a></strong></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-1800/" rel="noopener noreferrer" target="_blank"><strong>18:00 EXHIBITION AND OBSERVATIONS weather permitting</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/survival-in-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 FILM "SURVIVING IN SPACE"</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 EXHIBITION AND OBSERVATIONS weather permitting</strong></a></li></ul>
+
+
+
 <h2><strong><br/> <br/> 12 DECEMBER </strong></h2>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/back-to-the-moon/" rel="noopener noreferrer" target="_blank"><strong>17:00 FILM "BACK TO THE MOON"</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-1800/" rel="noopener noreferrer" target="_blank">18:00 EXHIBITION AND OBSERVATIONS weather permitting</a></h3>
-<p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/open-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 FILM "OPEN SPACE"</strong></a></p>
-<h3><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 EXHIBITION AND OBSERVATIONS weather permitting</strong></a></h3>
+<ul class="link-list"><li><a href="https://astronomycyprus.eu/gift-shop/product/back-to-the-moon/" rel="noopener noreferrer" target="_blank"><strong>17:00 FILM "BACK TO THE MOON"</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-1800/" rel="noopener noreferrer" target="_blank">18:00 EXHIBITION AND OBSERVATIONS weather permitting</a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/open-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 FILM "OPEN SPACE"</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 EXHIBITION AND OBSERVATIONS weather permitting</strong></a></li></ul>
+
+
+
 <h2><strong>COST AND CONDITIONS OF PARTICIPATION</strong></h2>
-<p class="short">• Science film screenings on 5 and 12 December are free.</p>
-<p>• Telescope observations and a visit to the space exhibition - €7.</p>
+<ul class="items"><li>Science film screenings on 5 and 12 December are free.</li><li>Telescope observations and a visit to the space exhibition - €7.</li></ul>
+
 <p><strong>Come with your whole family!</strong> You will be introduced to space technologies and take a journey through the Universe by way of science films.</p>
 <p>Let us discover science together!</p></div>
 </div>

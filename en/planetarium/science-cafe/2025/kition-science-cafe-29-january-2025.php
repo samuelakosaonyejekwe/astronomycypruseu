@@ -27,8 +27,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>20:45 QUESTIONS AND ANSWERS</strong></p>
 <p class="short"><strong>20:55 ASTRONOMY NEWS AND EVENTS BY KITION PLANETARIUM &amp; OBSERVATORY</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Join Zoom Meeting</strong></a></p>
-<p class="short"><strong>Meeting ID: 831 2336 2644</strong></p>
-<p class="short"><strong>Passcode: kition</strong></p>
+<dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl>
+
 <p class="short">We will have a special guest from Greece, our colleague <strong>Mr. Takis Theodossiou</strong>.</p>
 <p class="short"> Mr. Theodossiou is an <strong>expert in meteorites</strong>.</p>
 <p class="short">He is a registered IMCA member and Vice president of the IMCA commitee.</p>
@@ -46,10 +46,10 @@ require SITE_ROOT . '/includes/header.php';
 <p><strong><br/>
  Records of previous Online Science Cafés are available at our <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">YouTube channel</a>.</strong></p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> or call +357 9999 1111.</p>
-<p><strong>LINKS</strong>:</p>
+<p class="lead"><strong>LINKS</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p></div>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+</div>
 </div>
 </div>
 </article>

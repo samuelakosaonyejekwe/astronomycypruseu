@@ -21,7 +21,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="2021" decoding="async" height="760" loading="lazy" src="/images/wsw/world-space-week-2021-poster.jpg" width="600"/></p></div><div class="block"><p><strong>EVENT CELEBRATIONS IN CYPRUS</strong></p><p>This year This year, because of the measures taken by governments for the COVID19 pandemic, we promote online events for the safety of the people.</p><p>EVENT'S PROGRAM: </p><p class="short"><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-28-september-2021.php">TUESDAY 28 SEPTEMBER 2021 TIME 20:00</a></p><p class="short"><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-28-september-2021.php">MONDAY 04 OCTOBER 2021 TIME 20:00</a></p><p class="short">WELCOMING BY THE CYPRUS NATIONAL COORDINATOR, MR. GEORGE TROULLIAS.</p><p class="short">AWARENESS INTRODUCTION TO THE GLOBAL INITIATIVE FOR THE UNITED NATIONS WORLD SPACE WEEK</p><p class="short">AND</p><p class="short">THE ROLE OF SATELLITES IN IMPROVING OUR LIVES. </p><p class="short">KATIE DEMETRIOU (SPACE SCIENTIST)</p><p class="short">WILL TALK ABOUT WOMEN IN SPACE AND</p><p class="short">THEIR ROLE IN SATISFATORY EXPEDITIONS.</p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="2021" decoding="async" height="760" loading="lazy" src="/images/wsw/world-space-week-2021-poster.jpg" width="600"/></p></div><div class="block"><p><strong>EVENT CELEBRATIONS IN CYPRUS</strong></p><p>This year This year, because of the measures taken by governments for the COVID19 pandemic, we promote online events for the safety of the people.</p><p class="lead">EVENT'S PROGRAM: </p><dl class="specs"><dt><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-28-september-2021.php">TUESDAY 28 SEPTEMBER 2021 TIME 20</a></dt><dd>00</dd><dt><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-28-september-2021.php">MONDAY 04 OCTOBER 2021 TIME 20</a></dt><dd>00</dd></dl><p class="short">WELCOMING BY THE CYPRUS NATIONAL COORDINATOR, MR. GEORGE TROULLIAS.</p><p class="short">AWARENESS INTRODUCTION TO THE GLOBAL INITIATIVE FOR THE UNITED NATIONS WORLD SPACE WEEK</p><p class="short">AND</p><p class="short">THE ROLE OF SATELLITES IN IMPROVING OUR LIVES. </p><p class="short">KATIE DEMETRIOU (SPACE SCIENTIST)</p><p class="short">WILL TALK ABOUT WOMEN IN SPACE AND</p><p class="short">THEIR ROLE IN SATISFATORY EXPEDITIONS.</p></div></div></div>
 
 
 
@@ -45,14 +45,14 @@ require SITE_ROOT . '/includes/header.php';
 <h2>Please check the World Space Week Highlights 2021</h2>
 <h2>What is the World Space Week?</h2>
 <p>World Space Week is an international celebration of science and technology, and their contribution to the betterment of the human condition. The United Nations General Assembly declared in 1999 that World Space Week will be held each year from October 4-10. These dates commemorate two events:</p>
-<p>* October 4, 1957: Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</p>
-<p>* October 10, 1967: The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space, including the Moon and Other Celestial Bodies.</p>
+<ul class="items"><li>October 4, 1957: Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</li><li>October 10, 1967: The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space, including the Moon and Other Celestial Bodies.</li></ul>
+
 <p>World Space Week consists of space education and outreach events held by space agencies, aerospace companies, schools, planetaria, museums, and astronomy clubs around the world in a common timeframe. These synchronized space events attract greater public and media attention. World Space Week 2017 achieved record scale:</p>
-<p>* more than 4,000 events</p>
-<p class="short">* Events in 82 nations</p>
-<p class="short">Total audience since 2007:</p>
-<p class="short">* Over 2,000,000 attendees</p>
-<p>* Nearly 500,000,000 media impressions</p>
+<ul class="items"><li>more than 4,000 events</li><li>Events in 82 nations</li></ul>
+
+<p class="lead short">Total audience since 2007:</p>
+<ul class="items"><li>Over 2,000,000 attendees</li><li>Nearly 500,000,000 media impressions</li></ul>
+
 <p>World Space Week is coordinated by the United Nations with the support of the World Space Week Association (WSWA).</p>
 <p>The WSWA leads a global team of National Coordinators, who promote the celebration of World Space Week within their own countries.</p>
 <h2>What are the goals of World Space Week?</h2>
@@ -62,7 +62,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Demonstrate public support for space programs</p>
 <p class="short">Excite young people about science, technology, engineering, and math</p>
 <p class="short">Foster international cooperation in space outreach and education</p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="940" decoding="async" height="503" loading="lazy" src="/images/wsw/world-space-week-2021-poster1.jpg" width="600"/></p></div><div class="block"><p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p><p>LINKS:</p><p>UN WORLD SPACE WEEK <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p><p>INTERNATIONAL EVENTS FOR THE UN WORLD SPACE WEEK https://www.worldspaceweek.org/events/event-list/</p><p>World Space Week (previous years database)</p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="940" decoding="async" height="503" loading="lazy" src="/images/wsw/world-space-week-2021-poster1.jpg" width="600"/></p></div><div class="block"><p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p><p class="lead">LINKS:</p><p>UN WORLD SPACE WEEK <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p><p>INTERNATIONAL EVENTS FOR THE UN WORLD SPACE WEEK https://www.worldspaceweek.org/events/event-list/</p><p>World Space Week (previous years database)</p></div></div></div>
 
 
 
@@ -70,7 +70,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<h3><a href="/en/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">wsw 2020</a></h3>
+<div class="link-row"><p class="short"><a href="/en/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">wsw 2020</a></p></div>
 </div>
 </div>
 </div>

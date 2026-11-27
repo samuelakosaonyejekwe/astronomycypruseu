@@ -22,9 +22,9 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<p><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:00 Метеорный поток Персеиды 2023 (Джордж Труллиас — национальный координатор Кипра по связям с Международной метеорной организацией)</strong></a></p>
-<p><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:35 Экспедиция 67 — Константинос Труллиас — кипрский аналоговый астронавт</strong></a></p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="490" decoding="async" height="200" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/constantinos-troullias.png" width="200"/></p></div><div class="block"><p class="short"><strong>Константинос Труллиас</strong> окончил Американскую академию в Ларнаке (Кипр)</p><p>с высокими академическими результатами — средний годовой балл 95,83%.</p><p>В настоящее время он студент 3-го курса Университета Лестера (Англия), изучает биологические науки.</p><p>Он планирует получить степень магистра по биотехнологии и астробиологии.</p><p>Он присоединился к Экспедиции 67, чтобы имитировать миссию на поверхности Луны и проводить эксперименты, которые также проводятся в космосе на борту Международной космической станции.</p><p>ПРИСОЕДИНЯЙТЕСЬ К НАМ ОНЛАЙН...</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p><p class="short">ID встречи: 831 2336 2644</p><p class="short">Код доступа: kition</p></div></div></div>
+<ul class="link-list"><li><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:00 Метеорный поток Персеиды 2023 (Джордж Труллиас — национальный координатор Кипра по связям с Международной метеорной организацией)</strong></a></li><li><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:35 Экспедиция 67 — Константинос Труллиас — кипрский аналоговый астронавт</strong></a></li></ul>
+
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="490" decoding="async" height="200" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/constantinos-troullias.png" width="200"/></p></div><div class="block"><p class="short"><strong>Константинос Труллиас</strong> окончил Американскую академию в Ларнаке (Кипр)</p><p>с высокими академическими результатами — средний годовой балл 95,83%.</p><p>В настоящее время он студент 3-го курса Университета Лестера (Англия), изучает биологические науки.</p><p>Он планирует получить степень магистра по биотехнологии и астробиологии.</p><p>Он присоединился к Экспедиции 67, чтобы имитировать миссию на поверхности Луны и проводить эксперименты, которые также проводятся в космосе на борту Международной космической станции.</p><p>ПРИСОЕДИНЯЙТЕСЬ К НАМ ОНЛАЙН...</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p><dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl></div></div></div>
 
 
 
@@ -47,16 +47,16 @@ require SITE_ROOT . '/includes/header.php';
 
 <h2>Вход свободный.</h2>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <p>Присоединяйтесь к нашей космической прогулке!</p>
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
-<p>ССЫЛКИ:</p>
+<p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
-<p class="short">ID встречи: 831 2336 2644</p>
-<p class="short">Код доступа: kition</p>
+<dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
+
 <h3>ПОСЕТИТЕ НАШУ СТРАНИЦУ В FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 <div class="row">
 <div class="block"><p class="short">"</p></div>

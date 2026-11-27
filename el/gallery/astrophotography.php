@@ -20,7 +20,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>ΓΑΛΑΞΙΑΣ</h2>
 <h2>ΗΛΙΟΣ</h2>
 <div class="blocks">
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Διάβαση της Αφροδίτης 6 Ιουνίου 2012.</p>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Διάβαση της Αφροδίτης 6 Ιουνίου 2012.</p>
 <p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ.</p>
 <p class="short">Το επόμενο θα συμβεί στις 19 Αυγούστου 2030 και θα είναι ορατό από τον Άρη.</p></div><div class="block"><img alt="" data-nw="498" decoding="async" height="382" loading="lazy" src="/images/astrophotography/sun/sunspot-AR12192.jpg" width="400"/><p class="short">Τεράστια ηλιακή κηλίδα AR12192 στις 22 Οκτωβρίου 2014.</p>
 <p class="short">Για μερικές ημέρες ήταν ορατή με γυμνό μάτι.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Διάβαση του Ερμή</p></div><div class="block"><img alt="" data-nw="976" decoding="async" height="391" loading="lazy" src="/images/astrophotography/sun/coronado-h-a.jpg" width="400"/><p class="short">Η χρωμόσφαιρα του Ήλιου.</p>
@@ -33,7 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>ΣΕΛΗΝΗ</h2>
 <h2>ΠΛΑΝΗΤΕΣ</h2>
 <div class="blocks">
-<div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Διάβαση της Αφροδίτης 6 Ιουνίου 2012.</p>
+<div class="row gallery captioned"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Διάβαση της Αφροδίτης 6 Ιουνίου 2012.</p>
 <p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ.</p>
 <p class="short">Το επόμενο θα συμβεί στις 19 Αυγούστου 2030 και θα είναι ορατό από τον Άρη.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Διάβαση του Ερμή</p></div></div>
 

@@ -37,14 +37,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ έχει προσθέσει νέα εκθέματα στην έκθεση διαστήματος.</p>
 <p>Αναμνηστικά και συλλεκτικά νομίσματα εκδόθηκαν για να μας θυμίζουν τα ορόσημα στην ανθρώπινη ιστορία.</p>
 <p>Ο Αστροφυσικός μας Αλεξάντερ Προκόφιεβ θα παρουσιάσει και θα περιγράψει στο κοινό τα νομίσματα που έχουμε στην έκθεσή μας.</p>
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-27-april-2021.jpg" width="550"/></p></div><div class="block"><p>Εάν έχετε οποιαδήποτε απορία ή πρόταση, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο +357 9999 1111.</p><p>ΣΥΝΔΕΣΜΟΙ:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p><p class="short">Αναγνωριστικό σύσκεψης: 831 2336 2644</p><p class="short">Κωδικός πρόσβασης: kition</p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-27-april-2021.jpg" width="550"/></p></div><div class="block"><p>Εάν έχετε οποιαδήποτε απορία ή πρόταση, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο +357 9999 1111.</p><p class="lead">ΣΥΝΔΕΣΜΟΙ:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p><dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl></div></div></div>
 
 
 
 
 
 <h3>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 </div>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί να...<br/> Συμπορευθείτε στον διαστημικό μας περίπατο</p>

@@ -31,9 +31,9 @@ require SITE_ROOT . '/includes/header.php';
 <p>ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ ΜΕ ΤΗΛΕΣΚΟΠΙΑ</p>
 <p>ΧΑΙΡΕΤΙΣΜΟΣ ΑΠΟ ΤΟΝ ΕΘΝΙΚΟ ΚΟΜΒΟ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗ ΔΙΕΘΝΗ ΗΜΕΡΑ ΦΩΤΟΣ ΤΗΣ UNESCO, ΓΙΩΡΓΟ ΤΡΟΥΛΛΙΑ (ΔΙΕΥΘΥΝΤΗ - ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ (ΚΥΠΡΟΣ)).</p>
 <p>ΕΥΑΙΣΘΗΤΟΠΟΙΗΣΗ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΟΒΟΥΛΙΑ ΓΙΑ ΤΗ ΣΥΝΕΧΙΖΟΜΕΝΗ ΕΚΤΙΜΗΣΗ ΤΟΥ ΦΩΤΟΣ ΚΑΙ ΤΟΥ ΡΟΛΟΥ ΠΟΥ ΔΙΑΔΡΑΜΑΤΙΖΕΙ ΣΤΗ ΖΩΗ.</p>
-<p>ΤΕΧΝΟΛΟΓΙΕΣ ΒΑΣΙΣΜΕΝΕΣ ΣΤΟ ΦΩΣ: ΠΑΡΑΔΕΙΓΜΑΤΑ.</p>
-<p>ΕΥΑΙΣΘΗΤΟΠΟΙΗΣΗ ΓΙΑ ΤΗ ΦΩΤΟΡΥΠΑΝΣΗ: ΕΠΙΠΤΩΣΕΙΣ ΣΤΟΝ ΠΛΑΝΗΤΗ ΚΑΙ ΤΡΟΠΟΙ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΝΥΧΤΕΡΙΝΟΥ ΟΥΡΑΝΟΥ.</p>
-<p><strong>ΑΓΟΡΑΣΤΕ ΕΔΩ ΤΑ ΕΙΣΙΤΗΡΙΑ ΣΑΣ</strong></p>
+<dl class="specs"><dt>ΤΕΧΝΟΛΟΓΙΕΣ ΒΑΣΙΣΜΕΝΕΣ ΣΤΟ ΦΩΣ</dt><dd> ΠΑΡΑΔΕΙΓΜΑΤΑ.</dd><dt>ΕΥΑΙΣΘΗΤΟΠΟΙΗΣΗ ΓΙΑ ΤΗ ΦΩΤΟΡΥΠΑΝΣΗ</dt><dd> ΕΠΙΠΤΩΣΕΙΣ ΣΤΟΝ ΠΛΑΝΗΤΗ ΚΑΙ ΤΡΟΠΟΙ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΝΥΧΤΕΡΙΝΟΥ ΟΥΡΑΝΟΥ.</dd></dl>
+
+<p class="short"><strong>ΑΓΟΡΑΣΤΕ ΕΔΩ ΤΑ ΕΙΣΙΤΗΡΙΑ ΣΑΣ</strong></p>
 <div class="blocks">
 <div class="row">
 <div class="block"><p>Το <strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> είναι ο Εθνικός Κόμβος της Κύπρου για τη Διεθνή Ημέρα Φωτός της UNESCO.</p>
@@ -42,7 +42,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Το <a href="http://www.light2015.org/" rel="noopener noreferrer" target="_blank">Διεθνές Έτος Φωτός και Τεχνολογιών Βασισμένων στο Φως 2015</a> (IYL 2015) ήταν μια εορτή των Ηνωμένων Εθνών που ευαισθητοποίησε τον κόσμο για τα επιτεύγματα της επιστήμης του φωτός και των εφαρμογών της, καθώς και για τη σημασία τους για την ανθρωπότητα. Υπό την ηγεσία της <a href="http://www.unesco.org/" rel="noopener noreferrer" target="_blank">UNESCO</a>, πραγματοποιήθηκαν περισσότερες από 13.000 δραστηριότητες σε 147 χώρες, φτάνοντας σε κοινό που εκτιμάται σε πάνω από 100 εκατομμύρια. Δείτε την Τελική Έκθεση του IYL 2015 για περισσότερες πληροφορίες.</p>
 <p><img alt="" decoding="async" height="425" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-photo-winner-1.jpg" width="800"/></p>
 <p class="short"><strong>Στόχοι</strong></p>
-<p>Οι κύριοι στόχοι της Διεθνούς Ημέρας Φωτός είναι:</p>
+<p class="lead">Οι κύριοι στόχοι της Διεθνούς Ημέρας Φωτός είναι:</p>
 <p>Να βελτιώσει την κατανόηση του κοινού για το πώς το φως και οι τεχνολογίες που βασίζονται στο φως αγγίζουν την καθημερινή ζωή όλων και είναι κεντρικές για τη μελλοντική ανάπτυξη της παγκόσμιας κοινωνίας.</p>
 <p>Να οικοδομήσει παγκοσμίως εκπαιδευτική ικανότητα μέσω δραστηριοτήτων με στόχο την επιστήμη για νέους, αντιμετωπίζοντας ζητήματα ισορροπίας των φύλων και εστιάζοντας ιδιαίτερα στις αναπτυσσόμενες χώρες και τις αναδυόμενες οικονομίες.</p>
 <p>Να αναδείξει και να εξηγήσει τη στενή σύνδεση μεταξύ φωτός και τέχνης και πολιτισμού, ενισχύοντας τον ρόλο της οπτικής τεχνολογίας στη διατήρηση της πολιτιστικής κληρονομιάς.</p>
@@ -59,7 +59,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="/el/projects/international-projects/idl/international-day-light-2024.php" title="INTERNATIONAL DAY OF LIGHT 16 MAY 2024">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2024</a></p>
 <p class="short"><a href="/el/projects/international-projects/idl/international-day-light-2023.php">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2023</a></p>
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2020</a></p>
-<p class="short"><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
+<p class="lead short"><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
 <p class="short"><strong>ΣΕΛΙΔΑ ΣΤΟ FACEBOOK ΤΗΣ ΔΙΕΘΝΟΥΣ ΗΜΕΡΑΣ ΦΩΤΟΣ ΚΥΠΡΟΥ</strong> <a href="https://www.facebook.com/idlcy/" rel="noopener noreferrer" target="_blank" title="CYPRUS INTERNATIONAL DAY OF LIGHT FB PAGE">https://www.facebook.com/idlcy/</a></p>
 
 <p class="short"><strong>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ ΤΗΣ UNESCO</strong> <a href="https://www.lightday.org/" rel="noopener noreferrer" target="_blank" title="UNESCO IDL">https://www.lightday.org/</a></p>

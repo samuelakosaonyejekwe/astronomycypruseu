@@ -34,7 +34,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>ЗАГРУЗКИ:</h3>
 <h3><a class="doc-link" href="/docs/educational-courses/astronomy-principles/astronomy-principles.pdf" rel="noopener" target="_blank" title="ASTRONOMY PRINCIPLES">ЭЛЕМЕНТЫ АСТРОНОМИИ</a> (английский)</h3>
 <h3><a class="doc-link" href="/docs/educational-courses/astronomy-principles/astronomy-principles-ru.pdf" rel="noopener" target="_blank" title="ЭЛЕМЕНТЫ АСТРОНОМИИ">ЭЛЕМЕНТЫ АСТРОНОМИИ</a> (русский)</h3>
-<p class="short"><strong>ВАЖНОЕ ЗАМЕЧАНИЕ:</strong></p>
+<p class="lead short"><strong>ВАЖНОЕ ЗАМЕЧАНИЕ:</strong></p>
 <p>Действует «политика приёма только по предварительной записи».</p>
 <p>Необходима предварительная запись по телефону (+357) 99991111 (для англо- и грекоговорящих) или (+357) 99037440 (для русскоговорящих).</p>
 <p>Не более 10 человек на занятие по этим программам.</p>

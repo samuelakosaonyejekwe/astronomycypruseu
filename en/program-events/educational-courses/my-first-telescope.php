@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">FEES: €200 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/my-first-telescope/" rel="noopener noreferrer" target="_blank">BUY NOW</a></p></div>
 </div>
 </div>
-<p class="short">IMPORTANT NOTE:</p>
+<p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English and Greek speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>Due to COVID19 pandemic, all government's protocols are followed during the sessions.</p>

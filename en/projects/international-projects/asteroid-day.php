@@ -112,7 +112,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong>CELEBRATIONS IN CYPRUS 2022</strong></h2>
 <p class="short">#ASTEROIDDAY #AD2022</p>
 <h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="Call for Asteroid Day Cyprus 2022">Call for Asteroid Day Cyprus 2022</a></h2>
-<div class="blocks"><div class="row split"><div class="block media"><p><a href="https://www.youtube.com/watch?v=JDGfaJkzDVE" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="225" loading="lazy" src="/images/asteroid-day/esa-call-ad2022.jpg" width="400"/></a></p></div><div class="block"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank"><strong>ASTEROID DAY CYPRUS 30 JUNE 2022</strong></a></p><h3>ZOOM EVENT'S PROGRAM: THURSDAY 30TH JUNE 2022, TIME: 20:00</h3><p class="short">20:00 WELCOMING BY THE CYPRUS NC FOR ASTEROID DAY MR. GEORG TROULLIAS</p><p class="short">20:02 WHAT IS ASTEROID DAY? (GEORGE TROULLIAS)</p><p class="short">20:05 LATEST NEWS ON ASTEROIDS (GEORGE TROULLIAS)</p><p class="short">20:10 EXPLORATION OF TUNGUSKA EVENT (ALEXANDR PROKOPHIEV)</p><p class="short">20:15 SEARCHING FOR ASTEROIDS (VIDA MIRSHAMSI)</p><p>20:20 EXPLORATION OF ASTEROIDS (KATIE DEMETRIOU)</p><p>20:30 COMPUTER AIDED SIMULATION OF FIREBALL TRAJECTORIES BASED ON TESTIMONIES (MAKSIM VEREVKIN)</p><p>20:50 COMPUTER AIDED SIMULATION OF FIREBALL TRAJECTORIES BASED ON VIDEO DATA (DMITRY DUBISHKIN)</p><p>21:02 ANNOUNCEMENT OF NEW ASTEROID DISCOVERIES MADE BY THE KITION PLANETARIUM &amp; OBSERVATORY</p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><a href="https://www.youtube.com/watch?v=JDGfaJkzDVE" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="225" loading="lazy" src="/images/asteroid-day/esa-call-ad2022.jpg" width="400"/></a></p></div><div class="block"><div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank"><strong>ASTEROID DAY CYPRUS 30 JUNE 2022</strong></a></p></div><h3>ZOOM EVENT'S PROGRAM: THURSDAY 30TH JUNE 2022, TIME: 20:00</h3><p class="short">20:00 WELCOMING BY THE CYPRUS NC FOR ASTEROID DAY MR. GEORG TROULLIAS</p><p class="short">20:02 WHAT IS ASTEROID DAY? (GEORGE TROULLIAS)</p><p class="short">20:05 LATEST NEWS ON ASTEROIDS (GEORGE TROULLIAS)</p><p class="short">20:10 EXPLORATION OF TUNGUSKA EVENT (ALEXANDR PROKOPHIEV)</p><p class="short">20:15 SEARCHING FOR ASTEROIDS (VIDA MIRSHAMSI)</p><p>20:20 EXPLORATION OF ASTEROIDS (KATIE DEMETRIOU)</p><p>20:30 COMPUTER AIDED SIMULATION OF FIREBALL TRAJECTORIES BASED ON TESTIMONIES (MAKSIM VEREVKIN)</p><p>20:50 COMPUTER AIDED SIMULATION OF FIREBALL TRAJECTORIES BASED ON VIDEO DATA (DMITRY DUBISHKIN)</p><p>21:02 ANNOUNCEMENT OF NEW ASTEROID DISCOVERIES MADE BY THE KITION PLANETARIUM &amp; OBSERVATORY</p></div></div></div>
 
 
 
@@ -159,8 +159,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><p class="short">27 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><p class="short"> INTRODUCTION TO ASTEROID DAY BY <br/>
  CYPRUS REGIONAL COORDINATOR MR GEORGE TROULLIAS</p>
-<p class="short"> ASTEROID MISSIONS: LECTURE BY K. DEMETRIOU </p>
-<p class="short"> ASTEROID HUNTING: HRACHYA ZAKARYAN </p>
+<dl class="specs"><dt> ASTEROID MISSIONS</dt><dd> LECTURE BY K. DEMETRIOU </dd><dt> ASTEROID HUNTING</dt><dd> HRACHYA ZAKARYAN </dd></dl>
+
 <p class="short">OBSERVATIONS OF JUPITER AND SATURN</p>
 <p class="short"> (LECTURE THEATRE, SCIENCE BUILDING, ENGLISH SCHOOL, NICOSIA)</p></div>
 </div>
@@ -178,31 +178,21 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2018</strong></p>
 <p class="short">#ASTEROIDDAY #AD2018</p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="short">27 JUNE</p></div>
-<div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><br/>
-<br/><p class="short">(LECTURE THEATRE, SCIENCE BUILDING, ENGLISH SCHOOL, NICOSIA)</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">28 JUNE</p></div>
-<div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><br/>
-<br/><p class="short">OBSERVATIONS OF JUPITER</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">30 JUNE</p></div>
-<div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><br/>
-<br/><p class="short">“NEOShield-2 PROJECT” SPEAKER VANESSA ROMANELLO (GERMANY)</p></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col">27 JUNE</th><th scope="col">INTERNATIONAL ASTEROID DAY<br/>
+<br/>
+ (LECTURE THEATRE, SCIENCE BUILDING, ENGLISH SCHOOL, NICOSIA)</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">28 JUNE</th><th scope="col">INTERNATIONAL ASTEROID DAY<br/>
+<br/>
+ OBSERVATIONS OF JUPITER</th></tr><tr><td>30 JUNE</td><td>INTERNATIONAL ASTEROID DAY<br/>
+<br/>
+ “NEOShield-2 PROJECT” SPEAKER VANESSA ROMANELLO (GERMANY)</td></tr></table></div>
 <p class="short"><strong>2017</strong></p>
 <p class="short">#ASTEROIDDAY #AD2017</p>
 <div class="blocks">
 <div class="row">
 <div class="block"><p class="short">27 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><p class="short">INTRODUCTION TO ASTEROID DAY BY <br/>CYPRUS REGIONAL COORDINATOR MR GEORGE TROULLIAS</p>
-<p class="short">ASTEROID MISSIONS: LECTURE BY K. DEMETRIOU </p>
-<p class="short">ASTEROID HUNTING: HRACHYA ZAKARYAN </p>
+<dl class="specs"><dt>ASTEROID MISSIONS</dt><dd> LECTURE BY K. DEMETRIOU </dd><dt>ASTEROID HUNTING</dt><dd> HRACHYA ZAKARYAN </dd></dl>
+
 <p class="short">OBSERVATIONS OF JUPITER AND SATURN</p>
 <p class="short">(LECTURE THEATRE, SCIENCE BUILDING, ENGLISH SCHOOL, NICOSIA)</p></div>
 </div>
@@ -253,7 +243,7 @@ require SITE_ROOT . '/includes/header.php';
 <source src="/video/asteroids-size-comparison.mp4" type="video/mp4">
 </source></video>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p class="short">CYPRUS ASTEROID DAY FB PAGE <a href="https://www.facebook.com/asteroiddaycyprus/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/asteroiddaycyprus/</a></p>
 
 <p> INTERNATIONAL ASTEROID DAY <a href="https://asteroidday.org/" rel="noopener noreferrer" target="_blank">https://asteroidday.org/</a></p>

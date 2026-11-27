@@ -42,7 +42,7 @@ require SITE_ROOT . '/includes/header.php';
  B. Yuri Gagarin<br/>
  C. Vladimir Komarov<br/>
  D. Scott Kelly</p>
-<p class="short"><strong>2. The day on which the Sun’s direct rays cross the celestial equator is called:</strong></p>
+<p class="lead short"><strong>2. The day on which the Sun’s direct rays cross the celestial equator is called:</strong></p>
 <p class="short">A. the aphelion<br/>
  B. the equinox<br/>
  C. the ecliptic<br/>
@@ -71,7 +71,7 @@ require SITE_ROOT . '/includes/header.php';
 </p></div><div class="block"><p class="short"><strong>ANSWERS FOR THE QUIZ WILL BE POSTED HERE IN JUNE 2025</strong>
 </p><p class="short"><strong>(CHECK AT THE END OF THE PAGE)</strong>
 </p><h2>ANSWERS SHEET (PLEASE SEND IT TO US BY E-MAIL):</h2><h2>(* : ARE COMPULSORY)
- </h2><h2><strong>CONTACT DETAILS </strong></h2><p class="short">NAME * : ______________________ SURNAME * :_______________________</p><p class="short">ADDRESS: _______________________________________________________</p><p class="short">COUNTRY * : ___________________ POST CODE: _______________________</p><p class="short">E-MAIL * : _______________________________________________________</p><p class="short">MOBILE PHONE No (for future SMS): __________________ AGE : ____________</p><p class="short">INTERESTS / HOBBIES : _____________________________________________</p><p class="short">OTHER: _________________________________________________________</p></div></div></div>
+ </h2><h2><strong>CONTACT DETAILS </strong></h2><dl class="specs"><dt>NAME * </dt><dd> ______________________ SURNAME * :_______________________</dd><dt>ADDRESS</dt><dd> _______________________________________________________</dd><dt>COUNTRY * </dt><dd> ___________________ POST CODE: _______________________</dd><dt>E-MAIL * </dt><dd> _______________________________________________________</dd><dt>MOBILE PHONE No (for future SMS)</dt><dd> __________________ AGE : ____________</dd><dt>INTERESTS / HOBBIES </dt><dd> _____________________________________________</dd><dt>OTHER</dt><dd> _________________________________________________________</dd></dl></div></div></div>
 
 
 
@@ -82,17 +82,17 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <h2><strong>ANSWERS</strong>: </h2>
-<p class="short">ANSWER 1: ______________________________________________________</p>
-<p class="short">ANSWER 2: ______________________________________________________</p>
-<p class="short">ANSWER 3: ______________________________________________________</p>
-<p class="short">ANSWER 4: ______________________________________________________</p>
-<p class="short">ANSWER 5: ______________________________________________________</p>
+<dl class="specs"><dt>ANSWER 1</dt><dd> ______________________________________________________</dd><dt>ANSWER 2</dt><dd> ______________________________________________________</dd><dt>ANSWER 3</dt><dd> ______________________________________________________</dd><dt>ANSWER 4</dt><dd> ______________________________________________________</dd><dt>ANSWER 5</dt><dd> ______________________________________________________</dd></dl>
+
+
+
+
 </div>
 </div>
 </div>
 <h2><strong>ANSWERS FOR PREVIOUS QUIZ JUN 2024 - DEC 2024:</strong></h2>
-<p class="short"><strong> PRIZE: Scholarship for Educational Course for beginners, "READ THE SKY"</strong></p>
-<p class="short"> <strong>WINNER:</strong> Stavroulla Vassileiou</p>
+<dl class="specs"><dt><strong> PRIZE</strong></dt><dd> Scholarship for Educational Course for beginners, "READ THE SKY"</dd><dt> <strong>WINNER</strong></dt><dd> Stavroulla Vassileiou</dd></dl>
+
 <p class="short">Answers for the 5 questions </p>
 <p class="short">1. A - Uranus</p>
 <p class="short">2. A - Venus </p>

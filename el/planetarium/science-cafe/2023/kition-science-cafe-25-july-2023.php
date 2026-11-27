@@ -22,9 +22,9 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<p><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:00 Βροχή μετεώρων Περσείδων 2023 (Γιώργος Τρούλλιας - Εθνικό Σημείο Επαφής Κύπρου για την IMO)</strong></a></p>
-<p><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:35 Αποστολή 67 - Κωνσταντίνος Τρούλλιας - Κύπριος Αναλογικός Αστροναύτης</strong></a></p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="490" decoding="async" height="200" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/constantinos-troullias.png" width="200"/></p></div><div class="block"><p>Ο <strong>Κωνσταντίνος Τρούλλιας</strong> αποφοίτησε από την Αμερικανική Ακαδημία Λάρνακας, Κύπρος, με Υψηλή Ακαδημαϊκή Επίδοση, με ετήσιο μέσο όρο 95,83%.</p><p>Αυτή τη στιγμή είναι φοιτητής τρίτου έτους και σπουδάζει Βιολογικές Επιστήμες στο Πανεπιστήμιο του Λέστερ, Αγγλία.</p><p>Σχεδιάζει να κάνει μεταπτυχιακό στη Βιοτεχνολογία και την Αστροβιολογία.</p><p>Συμμετείχε στην Αποστολή 67 για να προσομοιώσει μια αποστολή στην επιφάνεια της Σελήνης και να πραγματοποιήσει πειράματα που διεξάγονται επίσης στο διάστημα, επί του Διεθνούς Διαστημικού Σταθμού.</p><p>ΣΥΜΜΕΤΕΧΕΤΕ ΔΙΑΔΙΚΤΥΑΚΑ...</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p><p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p><p class="short">Κωδικός πρόσβασης: kition</p></div></div></div>
+<ul class="link-list"><li><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:00 Βροχή μετεώρων Περσείδων 2023 (Γιώργος Τρούλλιας - Εθνικό Σημείο Επαφής Κύπρου για την IMO)</strong></a></li><li><a href="https://youtu.be/G59J1j_KHdM" rel="noopener noreferrer" target="_blank"><strong>20:35 Αποστολή 67 - Κωνσταντίνος Τρούλλιας - Κύπριος Αναλογικός Αστροναύτης</strong></a></li></ul>
+
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="490" decoding="async" height="200" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/constantinos-troullias.png" width="200"/></p></div><div class="block"><p>Ο <strong>Κωνσταντίνος Τρούλλιας</strong> αποφοίτησε από την Αμερικανική Ακαδημία Λάρνακας, Κύπρος, με Υψηλή Ακαδημαϊκή Επίδοση, με ετήσιο μέσο όρο 95,83%.</p><p>Αυτή τη στιγμή είναι φοιτητής τρίτου έτους και σπουδάζει Βιολογικές Επιστήμες στο Πανεπιστήμιο του Λέστερ, Αγγλία.</p><p>Σχεδιάζει να κάνει μεταπτυχιακό στη Βιοτεχνολογία και την Αστροβιολογία.</p><p>Συμμετείχε στην Αποστολή 67 για να προσομοιώσει μια αποστολή στην επιφάνεια της Σελήνης και να πραγματοποιήσει πειράματα που διεξάγονται επίσης στο διάστημα, επί του Διεθνούς Διαστημικού Σταθμού.</p><p>ΣΥΜΜΕΤΕΧΕΤΕ ΔΙΑΔΙΚΤΥΑΚΑ...</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p><dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl></div></div></div>
 
 
 
@@ -41,22 +41,22 @@ require SITE_ROOT . '/includes/header.php';
 
 <p><strong>Τα θραύσματα που εισέρχονται στην ατμόσφαιρα της Γης ονομάζονται μετέωρα.</strong></p>
 <h2><strong>ΤΙ ΕΙΝΑΙ ΕΝΑΣ ΑΝΑΛΟΓΙΚΟΣ ΑΣΤΡΟΝΑΥΤΗΣ;</strong></h2>
-<p><strong>Αναλογικός αστροναύτης είναι ένα άτομο που αποφάσισε να παίξει τον ρόλο του αστροναύτη κατά τη διάρκεια μιας προσομοιωμένης επανδρωμένης αποστολής.</strong></p>
+<p>Αναλογικός αστροναύτης είναι ένα άτομο που αποφάσισε να παίξει τον ρόλο του αστροναύτη κατά τη διάρκεια μιας προσομοιωμένης επανδρωμένης αποστολής.</p>
 <p><strong>Ανάλογα με τη μελέτη και το περιβάλλον, μπορεί να ισχύουν διαφορετικές απαιτήσεις για έναν υποψήφιο αναλογικό αστροναύτη</strong></p>
 <p>Ανυπομονούμε για τη συμμετοχή του ευρέος κοινού, με ερωτήσεις, προτάσεις και διάλογο.</p>
 
 <h2>Ελεύθερη είσοδος.</h2>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <p>Ελάτε στον διαστημικό μας περίπατο!</p>
 <p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
-<p>ΣΥΝΔΕΣΜΟΙ:</p>
+<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
-<p class="short">Αναγνωριστικό συνάντησης: 831 2336 2644</p>
-<p class="short">Κωδικός πρόσβασης: kition</p>
+<dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
+
 <h3>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
 </div>
 <div class="row">
 <div class="block"><p class="short">"</p></div>

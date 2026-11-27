@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">ΔΙΔΑΚΤΡΑ: €200 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/my-first-telescope/" rel="noopener noreferrer" target="_blank">ΑΓΟΡΑΣΤΕ ΤΩΡΑ</a></p></div>
 </div>
 </div>
-<p class="short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
+<p class="lead short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
 <p>Εφαρμόζεται η «Πολιτική αποκλειστικά με κράτηση».</p>
 <p>Απαιτείται κράτηση θέσης εκ των προτέρων καλώντας στο (+357) 99991111 (αγγλόφωνοι και ελληνόφωνοι) ή στο (+357) 99037440 (ρωσόφωνοι).</p>
 <p>Λόγω της πανδημίας COVID19, κατά τις συνεδρίες τηρούνται όλα τα πρωτόκολλα της κυβέρνησης.</p>

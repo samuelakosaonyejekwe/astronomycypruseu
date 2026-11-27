@@ -29,7 +29,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="blocks">
 <div class="row">
-<div class="block"><p class="short"><strong>ВАЖНОЕ ПРИМЕЧАНИЕ:</strong></p>
+<div class="block"><p class="lead short"><strong>ВАЖНОЕ ПРИМЕЧАНИЕ:</strong></p>
 <p>Мы работаем по «<strong>политике бронирования»</strong>.</p>
 <p>Необходимо заранее забронировать место по телефону (+357) 99991111 (для англоговорящих) или (+357) 99037440 (для русскоговорящих).</p>
 <p>Если Вы ищете особые или индивидуальные программы или услуги для себя, своих друзей или своей группы, <a href="/ru/contact-us.php">свяжитесь с нами</a>.</p>

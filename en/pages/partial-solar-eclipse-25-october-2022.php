@@ -34,9 +34,9 @@ require SITE_ROOT . '/includes/header.php';
 
 <p>Conditions of observations of the partial solar eclipse on 25 October 2022 in the KITION PLANETARIUM &amp; OBSERVATORY:</p>
 <p>Cyprus time</p>
-<p class="short">First contact 12:49:48 </p>
-<p class="short">Maximum 14:02:39 </p>
-<p>Fourth contact 15:15:28 </p>
+<dl class="specs"><dt>First contact 12</dt><dd>49:48 </dd><dt>Maximum 14</dt><dd>02:39 </dd><dt>Fourth contact 15</dt><dd>15:28 </dd></dl>
+
+
 <p><strong>NOTE. It is prohibited to look on solar disk during partial phases of an eclipse by unprotected eye! </strong></p>
 <p><strong>Special equipment is necessary to conduct safe observations.</strong></p>
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1439" decoding="async" height="338" loading="lazy" src="/images/partial-solar-eclipse-25-october-2022/partial-solar-eclipse-25-october-2022.jpg" width="600"/></p></div><div class="block"><p>The beginning of the eclipse will be on the western part of the solar disc (on the images zenith is to the top) for the Moon moves eastward  with respect to the fixed stars twelve times faster than the Sun, in case of Cyprus it will be top western side this time.</p><p> At maximum the Sun will be covered by the lunar disc almost till the middle. This stunning phase can be additionally observed as horned shadows  and patches of reflected light on the ground. The end of the eclipse (the fourth contact) will happen when the Moon will get off the solar disc on the eastern top side.</p><p>The KITION PLANETARIUM &amp; OBSERVATORY will hold a special international Science cafe for the Partial Solar Eclipse on 25 October 2022 at 20:00.</p><p><a href="https://www.timeanddate.com/eclipse/in/@146469" rel="noopener noreferrer" target="_blank">Detailed info and animation of the eclipse on timeanddate.com...</a></p></div></div></div>

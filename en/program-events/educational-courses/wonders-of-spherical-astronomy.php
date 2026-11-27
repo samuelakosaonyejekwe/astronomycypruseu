@@ -41,11 +41,11 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p></div>
 </div>
 </div>
-<p class="short"><a class="doc-link" href="/docs/educational-courses/wonders-of-spherical-astronomy/wonders-of-spherical-astronomy-en.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Download the proposed program in ENGLISH (PDF)</a></p>
-<p class="short"><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Download the proposed program in RUSSIAN (PDF)</a></p>
+<div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/wonders-of-spherical-astronomy/wonders-of-spherical-astronomy-en.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Download the proposed program in ENGLISH (PDF)</a></p><p class="short"><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Download the proposed program in RUSSIAN (PDF)</a></p></div>
+
 <div class="blocks">
 <div class="row">
-<div class="block"><p class="short">IMPORTANT NOTE:</p>
+<div class="block"><p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>

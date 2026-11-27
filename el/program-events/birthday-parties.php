@@ -39,41 +39,29 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <div class="blocks">
-<div class="row">
+<div class="row gallery captioned tiles">
 <div class="block">
 <p><a href="/images/gam2014/gam2014_03.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th03.jpg" width="283"/></a><br/> ΔΙΕΘΝΗ ΠΑΡΤΙ ΣΚΑΟΥΤ</p>
 </div>
 <div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><a href="/images/gam2014/gam2014_02.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th02.jpg" width="283"/></a></p><p class="short">ΠΑΓΚΟΣΜΙΟ ΠΑΡΤΙ ΑΣΤΡΩΝ ΣΤΟ ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p></div></div></div>
 </div>
-</div>
-<div class="row">
 <div class="block">
 <p><a href="/images/gam2014/gam2014_01.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th01.jpg" width="283"/></a>ΔΙΕΘΝΕΙΣ ΑΣΤΡΟΝΟΜΙΚΕΣ ΣΥΖΗΤΗΣΕΙΣ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_06.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th06.jpg" width="283"/></a></p>
-<p class="short">ΝΤΙΣΚΟ ΠΑΡΤΙ ΜΕ ΘΕΜΑ ΤΗΝ ΑΣΤΡΟΝΟΜΙΑ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_06.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th06.jpg" width="283"/></a></p>
+<p class="short">ΝΤΙΣΚΟ ΠΑΡΤΙ ΜΕ ΘΕΜΑ ΤΗΝ ΑΣΤΡΟΝΟΜΙΑ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_07.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th07.jpg" width="283"/></a></p>
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_08.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th08.jpg" width="283"/></a></p>
-<p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΠΛΑΝΗΤΩΝ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_08.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th08.jpg" width="283"/></a></p>
+<p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΠΛΑΝΗΤΩΝ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_09.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th09.jpg" width="283"/></a><br/> ΠΑΡΑΚΟΛΟΥΘΗΣΗ ΔΟΡΥΦΟΡΩΝ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_10.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th10.jpg" width="125"/></a><br/> ΠΑΡΑΤΗΡΗΣΕΙΣ ΒΡΟΧΩΝ ΜΕΤΕΩΡΙΤΩΝ</p></div>
-</div>
-<div class="row">
-<div class="block">
+</div><div class="block"><p><a href="/images/gam2014/gam2014_10.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th10.jpg" width="125"/></a><br/> ΠΑΡΑΤΗΡΗΣΕΙΣ ΒΡΟΧΩΝ ΜΕΤΕΩΡΙΤΩΝ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_11.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th11.jpg" width="283"/></a></p>
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΗΛΙΟΥ</p>
-</div>
-<div class="block"><p><a href="/images/gam2014/gam2014_12.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th12.jpg" width="125"/></a><br/> ΠΑΡΑΤΗΡΗΣΤΕ ΤΙΣ ΗΛΙΑΚΕΣ ΚΗΛΙΔΕΣ ΠΟΥ ΕΙΝΑΙ ΟΡΑΤΕΣ ΣΤΟΝ ΗΛΙΑΚΟ ΔΙΣΚΟ.</p></div>
-</div>
+</div><div class="block"><p><a href="/images/gam2014/gam2014_12.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th12.jpg" width="125"/></a><br/> ΠΑΡΑΤΗΡΗΣΤΕ ΤΙΣ ΗΛΙΑΚΕΣ ΚΗΛΙΔΕΣ ΠΟΥ ΕΙΝΑΙ ΟΡΑΤΕΣ ΣΤΟΝ ΗΛΙΑΚΟ ΔΙΣΚΟ.</p></div></div>
+
+
+
+
 </div>
 </div>
 </div>

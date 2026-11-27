@@ -29,7 +29,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 
-<h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></h2>
+<div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p></div>
 <h2>Αναγνωριστικό σύσκεψης: 831 2336 2644</h2>
 <h2>Κωδικός πρόσβασης: kition</h2>
 <h2>Συναντήσεις 2026 "KITION Online Science Café"</h2>
@@ -47,12 +47,12 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><strong>31 ΜΑΡΤΙΟΥ 2026</strong></div>
 <div class="block"><p><a href="/el/planetarium/science-cafe/2026/kition-science-cafe-31-march-2026.php"><strong>Η COVID-19 ΩΣ ΜΕΛΕΤΗ ΠΕΡΙΠΤΩΣΗΣ ΓΙΑ ΤΗΝ ΑΝΑΚΑΛΥΨΗ ΕΞΩΓΗΙΝΗΣ ΖΩΗΣ</strong></a></p>
-<p><strong>ΟΜΙΛΗΤΗΣ: <a href="https://www.linkedin.com/in/gbrown885/" rel="noopener noreferrer" target="_blank">ΓΕΩΡΓΙΑ Ε. ΜΠΡΑΟΥΝ</a> (Υποψήφιος Διδάκτορας - Υποψήφιος Διδάκτορας στη Διακυβέρνηση του Διαστήματος, την Αστροβιολογία και την Ηθική)</strong></p></div>
+<p>ΟΜΙΛΗΤΗΣ: <a href="https://www.linkedin.com/in/gbrown885/" rel="noopener noreferrer" target="_blank">ΓΕΩΡΓΙΑ Ε. ΜΠΡΑΟΥΝ</a> (Υποψήφιος Διδάκτορας - Υποψήφιος Διδάκτορας στη Διακυβέρνηση του Διαστήματος, την Αστροβιολογία και την Ηθική)</p></div>
 </div>
 <div class="row">
 <div class="block"><strong>28 ΑΠΡΙΛΙΟΥ 2026</strong></div>
-<div class="block"><p class="short"><a href="/el/planetarium/science-cafe/2026/kition-science-cafe-28-april-2026.php"><strong>SETI: ΑΝΑΖΗΤΗΣΗ ΕΞΩΓΗΙΝΗΣ ΝΟΗΜΟΣΥΝΗΣ</strong></a></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ (ΚΥΠΡΟΣ)) </strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/el/planetarium/science-cafe/2026/kition-science-cafe-28-april-2026.php"><strong>SETI</strong></a></dt><dd> ΑΝΑΖΗΤΗΣΗ ΕΞΩΓΗΙΝΗΣ ΝΟΗΜΟΣΥΝΗΣ</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ (ΚΥΠΡΟΣ)) </dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>26 ΜΑΪΟΥ 2026</strong></div>
@@ -66,8 +66,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>28 ΙΟΥΛΙΟΥ 2026</strong></div>
-<div class="block"><p class="short"><strong>ΘΕΜΑ: ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: </strong><strong>ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> <strong>ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>25 ΑΥΓΟΥΣΤΟΥ 2026</strong></div>
@@ -86,13 +86,13 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>24 ΝΟΕΜΒΡΙΟΥ 2026</strong></div>
-<div class="block"><p class="short"><strong>ΘΕΜΑ: ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: </strong><strong>ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> <strong>ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 ΔΕΚΕΜΒΡΙΟΥ 2026</strong></div>
-<div class="block"><p class="short"><strong>ΘΕΜΑ: ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: </strong><strong>ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> <strong>ΘΑ ΑΝΑΚΟΙΝΩΘΕΙ</strong></dd></dl>
+</div>
 </div>
 </div>
 <h2>Συναντήσεις 2025 "KITION Online Science Café"</h2>
@@ -114,54 +114,54 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>29 ΑΠΡΙΛΙΟΥ 2025</strong></div>
-<div class="block"><p><strong>ΘΕΜΑ: <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-29-april-2025.php">ΑΠΟΛΟΓΙΣΜΟΣ ΤΟΥ ΠΑΓΚΟΣΜΙΟΥ ΜΗΝΑ ΑΣΤΡΟΝΟΜΙΑΣ 2025 - GAM2025 GLOBAL LIVE - ΝΕΑ ΑΣΤΡΟΝΟΜΙΑΣ</a></strong></p>
-<p><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΟΥΣ ΑΣΤΡΟΝΟΜΟΥΣ ΧΩΡΙΣ ΣΥΝΟΡΑ (AWB))</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-29-april-2025.php">ΑΠΟΛΟΓΙΣΜΟΣ ΤΟΥ ΠΑΓΚΟΣΜΙΟΥ ΜΗΝΑ ΑΣΤΡΟΝΟΜΙΑΣ 2025 - GAM2025 GLOBAL LIVE - ΝΕΑ ΑΣΤΡΟΝΟΜΙΑΣ</a></dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΟΥΣ ΑΣΤΡΟΝΟΜΟΥΣ ΧΩΡΙΣ ΣΥΝΟΡΑ (AWB))</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>27 ΜΑΪΟΥ 2025</strong></div>
-<div class="block"><p class="short"><strong>ΘΕΜΑ: <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-27-may-2025.php">ΝΕΟΣ ΔΙΑΣΤΗΜΙΚΟΣ ΑΓΩΝΑΣ</a></strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΑΙΚΑΤΕΡΙΝΗ ΔΗΜΗΤΡΙΟΥ (ΕΠΙΣΤΗΜΟΝΑΣ ΤΟΥ ΔΙΑΣΤΗΜΑΤΟΣ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-27-may-2025.php">ΝΕΟΣ ΔΙΑΣΤΗΜΙΚΟΣ ΑΓΩΝΑΣ</a></dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΑΙΚΑΤΕΡΙΝΗ ΔΗΜΗΤΡΙΟΥ (ΕΠΙΣΤΗΜΟΝΑΣ ΤΟΥ ΔΙΑΣΤΗΜΑΤΟΣ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>24 ΙΟΥΝΙΟΥ 2025</strong></div>
-<div class="block"><p class="short"><strong>ΘΕΜΑ: <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-24-june-2025.php">ΑΝΑΚΑΛΥΨΕΙΣ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ ΤΟ ΚΙΤΙΟΝ - ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ 2025</a></strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ (ΑΣΤΡΟΦΥΣΙΚΟΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-24-june-2025.php">ΑΝΑΚΑΛΥΨΕΙΣ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ ΤΟ ΚΙΤΙΟΝ - ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ 2025</a></dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ (ΑΣΤΡΟΦΥΣΙΚΟΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ)</dd></dl>
+
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 ΙΟΥΛΙΟΥ 2025</strong></div>
-<div class="block"><p><strong>ΘΕΜΑ: <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-29-july-2025.php">ΚΒΑΝΤΙΚΗ ΦΩΤΟΝΙΚΗ</a></strong></p>
-<p><strong>ΟΜΙΛΗΤΗΣ: </strong><strong>ΙΒΗ ΑΦΞΕΝΤΗ (BSc Φυσική, MSc Φυσική (Λέιζερ Ελεύθερων Ηλεκτρονίων), Υποψήφια Διδάκτωρ (Κβαντική Φωτονική))</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-29-july-2025.php">ΚΒΑΝΤΙΚΗ ΦΩΤΟΝΙΚΗ</a></dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> <strong>ΙΒΗ ΑΦΞΕΝΤΗ (BSc Φυσική, MSc Φυσική (Λέιζερ Ελεύθερων Ηλεκτρονίων), Υποψήφια Διδάκτωρ (Κβαντική Φωτονική))</strong></dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>26 ΑΥΓΟΥΣΤΟΥ 2025</strong></div>
-<div class="block"><p class="short"><strong>ΘΕΜΑ 1: <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ΕΚΛΕΙΨΕΙΣ ΣΤΗΝ ΑΡΧΑΙΑ ΙΝΔΙΑ</a></strong></p>
-<p class="short"><strong>ΘΕΜΑ 2: <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ΔΙΕΘΝΗΣ ΟΛΥΜΠΙΑΔΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΑΙ ΑΣΤΡΟΦΥΣΙΚΗΣ 2025</a></strong></p>
-<p class="short"><strong>ΘΕΜΑ 3: <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ΝΕΑ ΑΣΤΡΟΝΟΜΙΑΣ - ΠΛΗΡΗΣ ΕΚΛΕΙΨΗ ΣΕΛΗΝΗΣ, 7 ΣΕΠΤΕΜΒΡΙΟΥ 2025</a></strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ 1: ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ (ΑΣΤΡΟΦΥΣΙΚΟΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ 2: ΜΑΤΒΕΙ ΝΤΟΥΜΠΙΣΚΙΝ (ΣΠΟΥΔΑΣΤΗΣ-ΕΡΕΥΝΗΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ 1</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ΕΚΛΕΙΨΕΙΣ ΣΤΗΝ ΑΡΧΑΙΑ ΙΝΔΙΑ</a></dd><dt><strong>ΘΕΜΑ 2</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ΔΙΕΘΝΗΣ ΟΛΥΜΠΙΑΔΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΑΙ ΑΣΤΡΟΦΥΣΙΚΗΣ 2025</a></dd><dt><strong>ΘΕΜΑ 3</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-26-august-2025.php">ΝΕΑ ΑΣΤΡΟΝΟΜΙΑΣ - ΠΛΗΡΗΣ ΕΚΛΕΙΨΗ ΣΕΛΗΝΗΣ, 7 ΣΕΠΤΕΜΒΡΙΟΥ 2025</a></dd><dt><strong>ΟΜΙΛΗΤΗΣ 1</strong></dt><dd> ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ (ΑΣΤΡΟΦΥΣΙΚΟΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd><dt><strong>ΟΜΙΛΗΤΗΣ 2</strong></dt><dd> ΜΑΤΒΕΙ ΝΤΟΥΜΠΙΣΚΙΝ (ΣΠΟΥΔΑΣΤΗΣ-ΕΡΕΥΝΗΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd></dl>
+
+
+
+
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 ΣΕΠΤΕΜΒΡΙΟΥ 2025</strong></div>
-<div class="block"><p><strong>ΘΕΜΑ: </strong><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2025 - ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ</strong></a></p>
-<p><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ (WSW))</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2025 - ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ</strong></a></dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ (WSW))</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>28 ΟΚΤΩΒΡΙΟΥ 2025</strong></div>
-<div class="block"><p class="short"><strong>ΘΕΜΑ:</strong><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-28-october-2025.php"><strong> ΑΣΤΡΟΝΟΜΙΚΑ ΝΕΑ - ΚΟΜΗΤΗΣ 3I / ATLAS</strong></a></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-28-october-2025.php"><strong> ΑΣΤΡΟΝΟΜΙΚΑ ΝΕΑ - ΚΟΜΗΤΗΣ 3I / ATLAS</strong></a></dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>25 ΝΟΕΜΒΡΙΟΥ 2025</strong></div>
-<div class="block"><p class="short"><strong>ΘΕΜΑ: <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-25-november-2025.php">ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ ΣΤΙΣ ΖΩΕΣ ΜΑΣ</a></strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: <a href="https://www.nup.ac.cy/faculty/zach-anthis/" rel="noopener noreferrer" target="_blank">ΖΑΚ ΑΝΘΗΣ</a> (ΠΑΝΕΠΙΣΤΗΜΙΟ ΝΕΑΠΟΛΙΣ ΠΑΦΟΥ, ΚΥΠΡΟΣ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong>ΘΕΜΑ</strong></dt><dd> <a href="/el/planetarium/science-cafe/2025/kition-science-cafe-25-november-2025.php">ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ ΣΤΙΣ ΖΩΕΣ ΜΑΣ</a></dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> <a href="https://www.nup.ac.cy/faculty/zach-anthis/" rel="noopener noreferrer" target="_blank">ΖΑΚ ΑΝΘΗΣ</a> (ΠΑΝΕΠΙΣΤΗΜΙΟ ΝΕΑΠΟΛΙΣ ΠΑΦΟΥ, ΚΥΠΡΟΣ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 ΔΕΚΕΜΒΡΙΟΥ 2025</strong></div>
-<div class="block"><p class="short"><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-december-2025.php"><strong>ΘΕΜΑ: ΕΥΧΕΣ ΤΩΝ ΕΟΡΤΩΝ, ΒΡΟΧΗ ΜΕΤΕΩΡΩΝ ΓΕΜΙΝΙΔΕΣ, ΟΛΙΚΗ ΕΚΛΕΙΨΗ ΗΛΙΟΥ 2026</strong></a></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ (ΑΣΤΡΟΦΥΣΙΚΟΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-december-2025.php"><strong>ΘΕΜΑ</strong></a></dt><dd> ΕΥΧΕΣ ΤΩΝ ΕΟΡΤΩΝ, ΒΡΟΧΗ ΜΕΤΕΩΡΩΝ ΓΕΜΙΝΙΔΕΣ, ΟΛΙΚΗ ΕΚΛΕΙΨΗ ΗΛΙΟΥ 2026</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ (ΑΣΤΡΟΦΥΣΙΚΟΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd></dl>
+
+</div>
 </div>
 </div>
 <h2>Συναντήσεις 2024 "KITION Online Science Café"</h2>
@@ -200,8 +200,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row">
 <div class="block"><strong>25 ΙΟΥΝΙΟΥ 2024</strong></div>
 <div class="block"><p class="short"><a href="/el/planetarium/science-cafe/2024/kition-science-cafe-25-june-2024.php"><strong> ΑΣΤΕΡΟΕΙΔΕΙΣ ΚΑΙ ΔΕΙΝΟΣΑΥΡΟΙ</strong></a></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p>
-<p class="short"><strong>ΠΡΟΣΚΕΚΛΗΜΕΝΟΣ ΟΜΙΛΗΤΗΣ: ΑΛΕΞΙΣ ΠΑΝΤΕΛΙΔΗΣ (ΠΑΛΑΙΟΝΤΟΛΟΓΟΣ)</strong></p></div>
+<dl class="specs"><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΔΙΕΥΘΥΝΤΗΣ, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd><dt><strong>ΠΡΟΣΚΕΚΛΗΜΕΝΟΣ ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΑΛΕΞΙΣ ΠΑΝΤΕΛΙΔΗΣ (ΠΑΛΑΙΟΝΤΟΛΟΓΟΣ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>30 ΙΟΥΛΙΟΥ 2024</strong></div>
@@ -227,13 +227,13 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>26 ΝΟΕΜΒΡΙΟΥ 2024</strong></div>
-<div class="block"><p><strong><a href="/el/planetarium/science-cafe/2024/kition-science-cafe-26-november-2024.php">ΕΠΙΣΤΗΜΗ ΤΗΣ ΣΥΜΠΕΡΙΦΟΡΑΣ &amp; Η ΑΠΟΚΑΛΥΨΗ ΤΗΣ ΣΤΗ ΒΟΗΘΕΙΑ ΠΡΟΣ ΤΟΥΣ ΑΝΘΡΩΠΟΥΣ ΓΙΑ ΝΑ ΚΑΤΑΝΟΗΣΟΥΝ ΕΝΑΝ ΠΡΑΓΜΑΤΙΚΟ ΤΡΟΠΟ ΖΩΗΣ! ΑΣ ΑΠΟΚΑΛΥΨΟΥΜΕ ΕΡΓΑΛΕΙΑ &amp; ΤΡΟΠΟΥΣ ΓΙΑ ΠΡΟΣΩΠΙΚΗ ΑΝΑΠΤΥΞΗ ΣΕ ΟΛΕΣ ΤΙΣ ΠΤΥΧΕΣ ΤΗΣ ΖΩΗΣ!</a></strong></p>
-<p><strong>ΟΜΙΛΗΤΗΣ: ΑΙΜΙΛΙΑ ΝΙΚΟΛΑΪΔΟΥ</strong> <strong>(BSc (Hons) Οπτομετρία &amp; Επιστήμη της Όρασης, MSc Ψυχολογία, Δίπλωμα Σύγχρονης Εφαρμοσμένης Ψυχολογίας, Διεθνώς Πιστοποιημένη Life Coach)</strong></p></div>
+<div class="block"><p><a href="/el/planetarium/science-cafe/2024/kition-science-cafe-26-november-2024.php">ΕΠΙΣΤΗΜΗ ΤΗΣ ΣΥΜΠΕΡΙΦΟΡΑΣ &amp; Η ΑΠΟΚΑΛΥΨΗ ΤΗΣ ΣΤΗ ΒΟΗΘΕΙΑ ΠΡΟΣ ΤΟΥΣ ΑΝΘΡΩΠΟΥΣ ΓΙΑ ΝΑ ΚΑΤΑΝΟΗΣΟΥΝ ΕΝΑΝ ΠΡΑΓΜΑΤΙΚΟ ΤΡΟΠΟ ΖΩΗΣ! ΑΣ ΑΠΟΚΑΛΥΨΟΥΜΕ ΕΡΓΑΛΕΙΑ &amp; ΤΡΟΠΟΥΣ ΓΙΑ ΠΡΟΣΩΠΙΚΗ ΑΝΑΠΤΥΞΗ ΣΕ ΟΛΕΣ ΤΙΣ ΠΤΥΧΕΣ ΤΗΣ ΖΩΗΣ!</a></p>
+<p>ΟΜΙΛΗΤΗΣ: ΑΙΜΙΛΙΑ ΝΙΚΟΛΑΪΔΟΥ (BSc (Hons) Οπτομετρία &amp; Επιστήμη της Όρασης, MSc Ψυχολογία, Δίπλωμα Σύγχρονης Εφαρμοσμένης Ψυχολογίας, Διεθνώς Πιστοποιημένη Life Coach)</p></div>
 </div>
 <div class="row">
 <div class="block"><strong>17 ΔΕΚΕΜΒΡΙΟΥ 2024</strong></div>
-<div class="block"><p class="short"><a href="/el/planetarium/science-cafe/2024/kition-science-cafe-17-december-2024.php"><strong>ΘΕΜΑ: ΚΛΙΜΑΤΙΚΗ ΑΛΛΑΓΗ, ΕΞΟΙΚΟΝΟΜΗΣΗ ΕΝΕΡΓΕΙΑΣ, ΦΩΤΟΡΥΠΑΝΣΗ, ΟΙΚΟΣΥΣΤΗΜΑ, ΒΙΟΠΟΙΚΙΛΟΤΗΤΑ</strong></a></p>
-<p class="short"><strong>ΟΜΙΛΗΤΗΣ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/el/planetarium/science-cafe/2024/kition-science-cafe-17-december-2024.php"><strong>ΘΕΜΑ</strong></a></dt><dd> ΚΛΙΜΑΤΙΚΗ ΑΛΛΑΓΗ, ΕΞΟΙΚΟΝΟΜΗΣΗ ΕΝΕΡΓΕΙΑΣ, ΦΩΤΟΡΥΠΑΝΣΗ, ΟΙΚΟΣΥΣΤΗΜΑ, ΒΙΟΠΟΙΚΙΛΟΤΗΤΑ</dd><dt><strong>ΟΜΙΛΗΤΗΣ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd></dl>
+</div>
 </div>
 </div>
 <h2>Συναντήσεις 2023 "KITION Online Science Café"</h2>
@@ -271,12 +271,12 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>25 ΙΟΥΛΙΟΥ 2023</strong></div>
-<div class="block"><p class="short"><strong><a href="/el/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php">ΒΡΟΧΗ ΜΕΤΕΩΡΩΝ ΠΕΡΣΕΙΔΕΣ 2023</a></strong></p>
-<p class="short"><a href="/el/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php"><strong>ΑΠΟΣΤΟΛΗ 67 / ΚΩΝΣΤΑΝΤΙΝΟΣ ΤΡΟΥΛΛΙΑΣ - Ο 1ΟΣ ΚΥΠΡΙΟΣ ΑΣΤΡΟΝΑΥΤΗΣ ΠΡΟΣΟΜΟΙΩΣΗΣ</strong></a></p></div>
+<div class="block"><ul class="link-list"><li><strong><a href="/el/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php">ΒΡΟΧΗ ΜΕΤΕΩΡΩΝ ΠΕΡΣΕΙΔΕΣ 2023</a></strong></li><li><a href="/el/planetarium/science-cafe/2023/kition-science-cafe-25-july-2023.php"><strong>ΑΠΟΣΤΟΛΗ 67 / ΚΩΝΣΤΑΝΤΙΝΟΣ ΤΡΟΥΛΛΙΑΣ - Ο 1ΟΣ ΚΥΠΡΙΟΣ ΑΣΤΡΟΝΑΥΤΗΣ ΠΡΟΣΟΜΟΙΩΣΗΣ</strong></a></li></ul>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>29 ΑΥΓΟΥΣΤΟΥ 2023</strong></div>
-<div class="block"><p class="short"><a href="/el/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php"><strong>ΜΠΛΕ ΥΠΕΡΣΕΛΗΝΗ ΚΑΙ ΑΝΤΙΘΕΣΗ ΤΟΥ ΚΡΟΝΟΥ</strong></a></p>
+<div class="block"><div class="link-row"><p class="short"><a href="/el/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php"><strong>ΜΠΛΕ ΥΠΕΡΣΕΛΗΝΗ ΚΑΙ ΑΝΤΙΘΕΣΗ ΤΟΥ ΚΡΟΝΟΥ</strong></a></p></div>
 <strong><a href="/el/planetarium/science-cafe/2023/kition-science-cafe-29-august-2023.php">
 <p class="short">ΠΕΡΣΕΙΔΕΣ ΚΑΙ ΠΥΡΙΝΕΣ ΣΦΑΙΡΕΣ</p>
 <p class="short">Η 1Η ΧΡΥΣΗ ΜΕΤΑΛΛΙΟ ΤΗΣ ΚΥΠΡΟΥ ΣΤΗΝ IOAA</p>
@@ -311,8 +311,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks">
 <div class="row">
 <div class="block"><strong>25 ΙΑΝΟΥΑΡΙΟΥ 2022</strong></div>
-<div class="block"><p class="short"><strong><a href="/el/planetarium/science-cafe.php">ΚΟΜΗΤΕΣ: ΑΠΟ ΤΗΝ ΑΝΑΚΑΛΥΨΗ ΩΣ ΤΗ ΦΩΤΟΓΡΑΦΙΣΗ</a></strong></p>
-<p class="short"><strong>ΠΑΡΟΥΣΙΑΖΕΙ: ΜΑΡΟΥΝ ΧΑΜΠΙΜΠ (ΛΙΒΑΝΟΣ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong><a href="/el/planetarium/science-cafe.php">ΚΟΜΗΤΕΣ</a></strong></dt><dd> ΑΠΟ ΤΗΝ ΑΝΑΚΑΛΥΨΗ ΩΣ ΤΗ ΦΩΤΟΓΡΑΦΙΣΗ</dd><dt><strong>ΠΑΡΟΥΣΙΑΖΕΙ</strong></dt><dd> ΜΑΡΟΥΝ ΧΑΜΠΙΜΠ (ΛΙΒΑΝΟΣ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>22 ΦΕΒΡΟΥΑΡΙΟΥ 2022</strong></div>
@@ -326,8 +326,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>26 ΑΠΡΙΛΙΟΥ 2022</strong></div>
-<div class="block"><p class="short"><strong><a href="/el/planetarium/science-cafe/2022/kition-science-cafe-26-april-2022.php">Ο ΓΝΩΜΟΝΑΣ ΚΑΙ ΟΙ ΣΚΙΕΣ ΤΟΥ ΣΤΑ ΗΛΙΟΣΤΑΣΙΑ: ΕΝΑ ΚΑΘΟΛΙΚΟ ΠΑΡΑΔΕΙΓΜΑ;</a></strong></p>
-<p class="short"><strong>ΠΑΡΟΥΣΙΑΖΕΙ: ΚΑΘ. ΡΑΟΥΛ ΠΕΡΕΘ ΕΝΡΙΚΕΘ (ΜΕΞΙΚΟ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><strong><a href="/el/planetarium/science-cafe/2022/kition-science-cafe-26-april-2022.php">Ο ΓΝΩΜΟΝΑΣ ΚΑΙ ΟΙ ΣΚΙΕΣ ΤΟΥ ΣΤΑ ΗΛΙΟΣΤΑΣΙΑ</a></strong></dt><dd> ΕΝΑ ΚΑΘΟΛΙΚΟ ΠΑΡΑΔΕΙΓΜΑ;</dd><dt><strong>ΠΑΡΟΥΣΙΑΖΕΙ</strong></dt><dd> ΚΑΘ. ΡΑΟΥΛ ΠΕΡΕΘ ΕΝΡΙΚΕΘ (ΜΕΞΙΚΟ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>31 ΜΑΪΟΥ 2022</strong></div>
@@ -351,8 +351,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>27 ΣΕΠΤΕΜΒΡΙΟΥ 2022</strong></div>
-<div class="block"><p class="short"><a href="/el/planetarium/science-cafe/2022/kition-science-cafe-27-september-2022.php"><strong>ΔΙΑΣΤΗΜΑ ΚΑΙ ΒΙΩΣΙΜΟΤΗΤΑ: ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ 2022</strong></a></p>
-<p class="short"><strong>ΠΑΡΟΥΣΙΑΖΕΙ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/el/planetarium/science-cafe/2022/kition-science-cafe-27-september-2022.php"><strong>ΔΙΑΣΤΗΜΑ ΚΑΙ ΒΙΩΣΙΜΟΤΗΤΑ</strong></a></dt><dd> ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ 2022</dd><dt><strong>ΠΑΡΟΥΣΙΑΖΕΙ</strong></dt><dd> ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong>25 ΟΚΤΩΒΡΙΟΥ 2022</strong></div>
@@ -388,8 +388,8 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row">
 <div class="block"><strong>16 ΦΕΒΡ</strong><strong>ΟΥΑΡΙΟΥ</strong><strong> 2021</strong></div>
-<div class="block"><p class="short"><a href="/el/planetarium/science-cafe/2021/kition-science-cafe-16-february-2021.php" title="KITION Science Café"><strong>ΕΞΕΡΕΥΝΩΝΤΑΣ ΤΗ ΣΕΛΗΝΗ: ΑΠΟ ΤΗ ΓΗ, ΑΠΟ ΤΟ ΔΙΑΣΤΗΜΑ ΚΑΙ ΑΠΟ ΤΗΝ ΕΠΙΦΑΝΕΙΑ ΤΗΣ ΣΕΛΗΝΗΣ</strong></a></p>
-<p class="short"><strong>ΠΑΡΟΥΣΙΑΖΕΙ: ΑΣΤΡΟΝΟΜΟΣ ΓΟΥΙΛΙΑΜ ΤΖΟΪΣ</strong></p></div>
+<div class="block"><dl class="specs"><dt><a href="/el/planetarium/science-cafe/2021/kition-science-cafe-16-february-2021.php" title="KITION Science Café"><strong>ΕΞΕΡΕΥΝΩΝΤΑΣ ΤΗ ΣΕΛΗΝΗ</strong></a></dt><dd> ΑΠΟ ΤΗ ΓΗ, ΑΠΟ ΤΟ ΔΙΑΣΤΗΜΑ ΚΑΙ ΑΠΟ ΤΗΝ ΕΠΙΦΑΝΕΙΑ ΤΗΣ ΣΕΛΗΝΗΣ</dd><dt><strong>ΠΑΡΟΥΣΙΑΖΕΙ</strong></dt><dd> ΑΣΤΡΟΝΟΜΟΣ ΓΟΥΙΛΙΑΜ ΤΖΟΪΣ</dd></dl>
+</div>
 </div>
 <div class="row">
 <div class="block"><strong> 02 ΜΑΡΤΙΟΥ</strong><strong> 2021</strong></div>
@@ -449,7 +449,7 @@ require SITE_ROOT . '/includes/header.php';
 </div><div class="row">
 <div class="block"><strong>28 ΣΕΠ</strong><strong> 2021</strong></div>
 <div class="block"><p><a href="/el/planetarium/science-cafe/2021/kition-science-cafe-28-september-2021.php" title="KITION Science Café"><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2021 - ΓΥΝΑΙΚΕΣ ΣΤΟ ΔΙΑΣΤΗΜΑ</strong></a></p>
-<p><strong>ΠΑΡΟΥΣΙΑΖΕΙ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΕ) ΚΑΙ ΚΑΤΙΑ ΔΗΜΗΤΡΙΟΥ (ΕΠΙΣΤΗΜΟΝΑΣ ΤΟΥ ΔΙΑΣΤΗΜΑΤΟΣ)</strong></p></div>
+<p>ΠΑΡΟΥΣΙΑΖΕΙ: ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ (ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΕ) ΚΑΙ ΚΑΤΙΑ ΔΗΜΗΤΡΙΟΥ (ΕΠΙΣΤΗΜΟΝΑΣ ΤΟΥ ΔΙΑΣΤΗΜΑΤΟΣ)</p></div>
 </div><div class="row">
 <div class="block"><strong>26 ΟΚΤ</strong><strong> 2021</strong></div>
 <div class="block"><p><a href="/el/planetarium/science-cafe/2021/kition-science-cafe-26-october-2021.php" title="KITION Science Café"><strong>ΤΙ ΣΥΜΒΑΙΝΕΙ ΜΕ ΤΟΝ ΜΠΕΤΕΛΓΚΕΖ;</strong></a></p>
@@ -484,28 +484,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h3>ΑΠΡΙΛΙΟΥ <strong>–</strong> ΠΑΓΚΟΣΜΙΟΣ ΜΗΝΑΣ ΑΣΤΡΟΝΟΜΙΑΣ 2016</h3>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>6 ΑΠΡΙΛΙΟΥ </strong></div>
-<div class="block"><strong>"Ο ΖΕΥΣ, Ο ΒΑΣΙΛΙΑΣ ΤΩΝ ΠΛΑΝΗΤΩΝ"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>13 ΑΠΡΙΛΙΟΥ</strong></div>
-<div class="block"><strong>“ΕΞΕΡΕΥΝΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ”<br/> </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>4 ΜΑΪΟΥ</strong></div>
-<div class="block"><strong>“ΣΥΜΠΑΝ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>11 ΜΑΪΟΥ</strong></div>
-<div class="block"><strong>“ΠΩΣ ΝΑ ΠΑΡΑΤΗΡΟΥΜΕ ΑΤΙΑ (UFO)”</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>25 ΜΑΪΟΥ</strong></div>
-<div class="block"><strong>“ΑΠΟΙΚΙΣΜΟΣ ΤΟΥ ΑΡΗ” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>6 ΑΠΡΙΛΙΟΥ </strong></th><th scope="col"><strong>"Ο ΖΕΥΣ, Ο ΒΑΣΙΛΙΑΣ ΤΩΝ ΠΛΑΝΗΤΩΝ"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>13 ΑΠΡΙΛΙΟΥ</strong></th><th scope="col"><strong>“ΕΞΕΡΕΥΝΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ”<br/> </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>4 ΜΑΪΟΥ</strong></th><th scope="col"><strong>“ΣΥΜΠΑΝ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>11 ΜΑΪΟΥ</strong></th><th scope="col"><strong>“ΠΩΣ ΝΑ ΠΑΡΑΤΗΡΟΥΜΕ ΑΤΙΑ (UFO)”</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>25 ΜΑΪΟΥ</strong></th><th scope="col"><strong>“ΑΠΟΙΚΙΣΜΟΣ ΤΟΥ ΑΡΗ” </strong></th></tr></table></div>
 <h2>2015 "KITION SCIENCE CAFE" ΔΙΕΘΝΕΣ ΕΤΟΣ ΦΩΤΟΣ ΚΑΙ ΤΕΧΝΟΛΟΓΙΩΝ ΒΑΣΙΣΜΕΝΩΝ ΣΤΟ ΦΩΣ</h2>
 <div class="blocks">
 <div class="row">
@@ -526,64 +505,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h3>ΑΠΡΙΛΙΟΥ <strong>–</strong> ΠΑΓΚΟΣΜΙΟΣ ΜΗΝΑΣ ΑΣΤΡΟΝΟΜΙΑΣ</h3>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>8 ΑΠΡΙΛΙΟΥ </strong></div>
-<div class="block"><strong>"Ο ΔΙΑΣΤΗΜΙΚΟΣ ΠΕΡΙΠΑΤΟΣ ΤΟΥ ΑΠΡΙΛΙΟΥ"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>15 ΑΠΡΙΛΙΟΥ </strong></div>
-<div class="block"><strong>"Η ΓΗ ΤΗ ΝΥΧΤΑ"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>22 ΑΠΡΙΛΙΟΥ</strong></div>
-<div class="block"><strong>“ΕΞΕΡΕΥΝΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ”<br/> </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>29 ΑΠΡΙΛΙΟΥ</strong></div>
-<div class="block"><strong>“ΕΞΕΡΕΥΝΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ”<br/> </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>13 ΜΑΪΟΥ</strong></div>
-<div class="block"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>27 ΜΑΪΟΥ</strong></div>
-<div class="block"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>14 ΟΚΤΩΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>28 ΟΚΤΩΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>18 ΝΟΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>“ΑΠΟΙΚΙΣΜΟΣ ΤΟΥ ΑΡΗ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>25 ΝΟΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>2 ΔΕΚΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>“ΤΑ ΠΟΛΥΤΙΜΑ ΤΟΥ ΕΝΑΣΤΡΟΥ ΟΥΡΑΝΟΥ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>9 ΔΕΚΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>“ΑΙΩΝΙΑ ΑΓΑΠΗ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>23 ΔΕΚΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>“ΠΩΣ ΝΑ ΠΑΡΑΤΗΡΟΥΜΕ ΑΤΙΑ (UFO)”</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>30 ΔΕΚΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>8 ΑΠΡΙΛΙΟΥ </strong></th><th scope="col"><strong>"Ο ΔΙΑΣΤΗΜΙΚΟΣ ΠΕΡΙΠΑΤΟΣ ΤΟΥ ΑΠΡΙΛΙΟΥ"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>15 ΑΠΡΙΛΙΟΥ </strong></th><th scope="col"><strong>"Η ΓΗ ΤΗ ΝΥΧΤΑ"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>22 ΑΠΡΙΛΙΟΥ</strong></th><th scope="col"><strong>“ΕΞΕΡΕΥΝΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ”<br/> </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>29 ΑΠΡΙΛΙΟΥ</strong></th><th scope="col"><strong>“ΕΞΕΡΕΥΝΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ”<br/> </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>13 ΜΑΪΟΥ</strong></th><th scope="col"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>27 ΜΑΪΟΥ</strong></th><th scope="col"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>14 ΟΚΤΩΒΡΙΟΥ</strong></th><th scope="col"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>28 ΟΚΤΩΒΡΙΟΥ</strong></th><th scope="col"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>18 ΝΟΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>“ΑΠΟΙΚΙΣΜΟΣ ΤΟΥ ΑΡΗ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>25 ΝΟΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>2 ΔΕΚΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>“ΤΑ ΠΟΛΥΤΙΜΑ ΤΟΥ ΕΝΑΣΤΡΟΥ ΟΥΡΑΝΟΥ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>9 ΔΕΚΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>“ΑΙΩΝΙΑ ΑΓΑΠΗ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>23 ΔΕΚΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>“ΠΩΣ ΝΑ ΠΑΡΑΤΗΡΟΥΜΕ ΑΤΙΑ (UFO)”</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>30 ΔΕΚΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>ΠΑΡΟΥΣΙΑΣΗ - ΣΥΖΗΤΗΣΗ “ΑΣΤΡΟΛΟΓΙΑ ΕΝΑΝΤΙ ΑΣΤΡΟΝΟΜΙΑΣ” </strong></th></tr></table></div>
 <h2>2014 "KITION Science Café"</h2>
 <div class="blocks">
 <div class="row">
@@ -684,28 +606,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>2013 "KITION Science Café"</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>10 ΑΠΡΙΛΙΟΥ</strong></div>
-<div class="block"><strong>ΔΙΑΛΕΞΗ “STARPEACE” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>22 ΣΕΠΤΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>“Η ΑΣΠΙΔΑ ΤΟΥ ΑΙΑΝΤΑ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>9 ΟΚΤΩΒΡΙΟΥ</strong></div>
-<div class="block"><strong>“ΕΞΕΡΕΥΝΩΝΤΑΣ ΤΟΝ ΑΡΗ, ΑΝΑΚΑΛΥΠΤΟΝΤΑΣ ΤΗ ΓΗ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>11 ΔΕΚΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΔΙΑΛΕΞΗ “ΔΙΑΣΤΗΜΙΚΗ ΕΡΕΥΝΑ ΣΤΑ ΝΟΜΙΣΜΑΤΑ” </strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>18 ΔΕΚΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΔΙΑΛΕΞΗ “ΟΙ ΚΟΜΗΤΕΣ ΤΟΥ ΜΗΝΑ” </strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>10 ΑΠΡΙΛΙΟΥ</strong></th><th scope="col"><strong>ΔΙΑΛΕΞΗ “STARPEACE” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>22 ΣΕΠΤΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>“Η ΑΣΠΙΔΑ ΤΟΥ ΑΙΑΝΤΑ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>9 ΟΚΤΩΒΡΙΟΥ</strong></th><th scope="col"><strong>“ΕΞΕΡΕΥΝΩΝΤΑΣ ΤΟΝ ΑΡΗ, ΑΝΑΚΑΛΥΠΤΟΝΤΑΣ ΤΗ ΓΗ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>11 ΔΕΚΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>ΔΙΑΛΕΞΗ “ΔΙΑΣΤΗΜΙΚΗ ΕΡΕΥΝΑ ΣΤΑ ΝΟΜΙΣΜΑΤΑ” </strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>18 ΔΕΚΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>ΔΙΑΛΕΞΗ “ΟΙ ΚΟΜΗΤΕΣ ΤΟΥ ΜΗΝΑ” </strong></th></tr></table></div>
 <h2>2012 "KITION Science Café"</h2>
 <div class="blocks">
 <div class="row">
@@ -729,35 +630,9 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>2009 "KITION Science Café" - ΔΙΕΘΝΕΣ ΕΤΟΣ ΑΣΤΡΟΝΟΜΙΑΣ</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>27 ΑΥΓΟΥΣΤΟΥ</strong></div>
-<div class="block"><strong>Η ΑΠΑΤΗ ΓΙΑ ΤΟΝ ΑΡΗ</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>6 ΟΚΤΩΒΡΙΟΥ</strong></div>
-<div class="block"><p class="short"><strong>"ΨΗΦΙΑΚΗ ΠΡΟΣΟΜΟΙΩΣΗ ΤΟΥ ΝΥΧΤΕΡΙΝΟΥ ΟΥΡΑΝΟΥ" ΟΜΙΛΗΤΗΣ: </strong> <strong>ΓΙΑΝΝΟΣ ΙΩΑΝΝΟΥ, ΑΣΤΡΟΝΟΜΟΣ</strong></p></div>
-</div>
-<div class="row">
-<div class="block"><strong>27 ΝΟΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΔΙΑΛΕΞΕΙΣ - ΣΥΖΗΤΗΣΕΙΣ “Ο ΔΙΑΣ ΚΑΙ Ο ΔΟΡΥΦΟΡΟΣ ΜΑΣ, Η ΣΕΛΗΝΗ"</strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>27 ΑΥΓΟΥΣΤΟΥ</strong></th><th scope="col"><strong>Η ΑΠΑΤΗ ΓΙΑ ΤΟΝ ΑΡΗ</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>6 ΟΚΤΩΒΡΙΟΥ</strong></th><th scope="col"><strong>"ΨΗΦΙΑΚΗ ΠΡΟΣΟΜΟΙΩΣΗ ΤΟΥ ΝΥΧΤΕΡΙΝΟΥ ΟΥΡΑΝΟΥ" ΟΜΙΛΗΤΗΣ: </strong> <strong>ΓΙΑΝΝΟΣ ΙΩΑΝΝΟΥ, ΑΣΤΡΟΝΟΜΟΣ</strong> </th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>27 ΝΟΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>ΔΙΑΛΕΞΕΙΣ - ΣΥΖΗΤΗΣΕΙΣ “Ο ΔΙΑΣ ΚΑΙ Ο ΔΟΡΥΦΟΡΟΣ ΜΑΣ, Η ΣΕΛΗΝΗ"</strong></th></tr></table></div>
 <h2>2008 "KITION Science Café"</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><strong>11 ΟΚΤΩΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΚΑΦΕΣ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΗ ΔΙΑΛΕΞΗ ΑΣΤΡΟΝΟΜΙΑΣ</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>14 ΝΟΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ "ΔΙΑΣΤΗΜΑ ΓΙΑ ΤΗΝ ΕΚΠΑΙΔΕΥΣΗ"</strong></div>
-</div>
-<div class="row">
-<div class="block"><strong>26 ΝΟΕΜΒΡΙΟΥ</strong></div>
-<div class="block"><strong>ΚΑΦΕΣ ΚΑΙ ΔΙΑΣΤΗΜΙΚΗ ΕΚΠΑΙΔΕΥΣΗ</strong></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col"><strong>11 ΟΚΤΩΒΡΙΟΥ</strong></th><th scope="col"><strong>ΚΑΦΕΣ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΗ ΔΙΑΛΕΞΗ ΑΣΤΡΟΝΟΜΙΑΣ</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>14 ΝΟΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ "ΔΙΑΣΤΗΜΑ ΓΙΑ ΤΗΝ ΕΚΠΑΙΔΕΥΣΗ"</strong></th></tr></table></div><div class="table-wrap"><table><tr><th scope="col"><strong>26 ΝΟΕΜΒΡΙΟΥ</strong></th><th scope="col"><strong>ΚΑΦΕΣ ΚΑΙ ΔΙΑΣΤΗΜΙΚΗ ΕΚΠΑΙΔΕΥΣΗ</strong></th></tr></table></div>
 <p>Για να παρακολουθήσετε μια συνάντηση "KITION Science Café" στις εγκαταστάσεις μας, πρέπει να κάνετε κράτηση εκ των προτέρων.</p>
 <p>Για να παρακολουθήσετε μια συνάντηση "KITION Science Café" διαδικτυακά, αρκεί να ακολουθήσετε τον σύνδεσμο που παρέχεται για τη συνάντηση.</p>
 <p>Μπορείτε να μοιραστείτε μαζί μας τις ιδέες σας ή τα θέματα που θα θέλατε να παρουσιαστούν σε μια συνάντηση "KITION Science Café" στο άμεσο μέλλον.</p>

@@ -28,8 +28,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>FREE ONLINE EVENT</strong></p>
 <p class="short"><strong>JOIN US ON ONLINE</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p>Passcode: kition</p>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+
 <p>This April we were privileged to observe the total solar eclipse with maximum duration in sunny Mexico.</p>
 <p>Totality is very impressive, it changes our perception of reality, at the same time it is rare phenomenon.</p>
 <p>These two important features of total solar eclipses most probably created the base of faith,  widely spread in human cultures all over the world. 
@@ -44,10 +44,10 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Records of previous Online Science Cafés are available at our <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">YouTube channel</a>.</p>
 <p>Join Our Spacewalk!</p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p>LINKS:</p>
+<p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p></div>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+</div>
 </div>
 </div>
 </article>

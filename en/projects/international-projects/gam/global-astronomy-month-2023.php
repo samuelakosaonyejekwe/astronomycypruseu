@@ -44,7 +44,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <h3>Global Astronomy Month 2024 </h3>
-<p><strong>Highlight Programs:</strong></p>
+<p class="lead"><strong>Highlight Programs:</strong></p>
 <p><strong><img alt="" data-nw="1366" decoding="async" height="281" loading="lazy" src="/images/gam/gam2024/gam-2024.jpg" width="500"/><br/>
 </strong>Global Star Party<br/>
 SunDay<br/>
@@ -61,7 +61,7 @@ Globe at Night Citizen Science Project<br/>
 Dark Skies Awareness Week<br/>
 April Sky Maps<br/>
 Astro Arts - Poetry and Visual Arts</p>
-<p><strong>Partners</strong>:</p>
+<p class="lead"><strong>Partners</strong>:</p>
 <p><a href="https://www.astroleague.org/" rel="noopener noreferrer" target="_blank">Astronomical League</a><br/>
 <a href="https://www.globeatnight.org/" rel="noopener noreferrer" target="_blank">Globe at Night</a><br/>
 <a href="http://iasc.cosmosearch.org/" rel="noopener noreferrer" target="_blank">International Astronomical Search Collaboration</a><br/>
@@ -77,7 +77,7 @@ Astro Arts - Poetry and Visual Arts</p>
 
 <h2><strong>#GAM2023 CELEBRATIONS IN CYPRUS</strong></h2>
 <h2><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/gam/gam2023/gam-2023-program.jpg" width="800"/></h2>
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="600" decoding="async" height="180" loading="lazy" src="/images/est2008LOGOweb.jpg" width="550"/></p></div><div class="block"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meetings</a></p><p class="short">Meeting ID: 831 2336 2644</p><p>Passcode: kition</p><p>Global Astronomy Month (GAM), in its 14th year, is organized by Astronomers Without Borders, and is the world's largest annual global celebration of astronomy.</p><p>Each GAM brings new cosmic ideas and new opportunities, and GAM 2023 is no exception, bringing night sky enthusiasts together worldwide to celebrate Astronomers Without Borders' motto</p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="600" decoding="async" height="180" loading="lazy" src="/images/est2008LOGOweb.jpg" width="550"/></p></div><div class="block"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meetings</a></p><dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl><p>Global Astronomy Month (GAM), in its 14th year, is organized by Astronomers Without Borders, and is the world's largest annual global celebration of astronomy.</p><p>Each GAM brings new cosmic ideas and new opportunities, and GAM 2023 is no exception, bringing night sky enthusiasts together worldwide to celebrate Astronomers Without Borders' motto</p></div></div></div>
 
 
 
@@ -102,7 +102,7 @@ Astro Arts - Poetry and Visual Arts</p>
 
 
 
-<h2><a class="doc-link" href="/docs/projects/international-projects/gam/GAM_2022-Cyprus-program.pdf" rel="noopener" target="_blank" title="CYPRUS GAM22 PROGRAM"> CYPRUS GAM 2022 PROGRAM HERE (PDF)</a></h2>
+<div class="link-row"><p class="short"><a class="doc-link" href="/docs/projects/international-projects/gam/GAM_2022-Cyprus-program.pdf" rel="noopener" target="_blank" title="CYPRUS GAM22 PROGRAM"> CYPRUS GAM 2022 PROGRAM HERE (PDF)</a></p></div>
 <p> This year, because of the measures taken by governments for the COVID19 pandemic, we promote online events for the safety of the people, but also a few events with physical presence where participants will get the chance to participate in international projects.</p>
 
 
@@ -138,7 +138,7 @@ Astro Arts - Poetry and Visual Arts</p>
 <br/>
  The AstroArts and AstroPoetry contests were open to both children and adults in both art and poetry competitions. The results were hundreds of entries differing in media used, rhyme or verse, pencil or color. They brought images of what planets looked like, or how man stepped on the moon, or how children saw themselves traveling through space in words and pictures.</p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
-<p><strong>LINKS:</strong></p>
+<p class="lead"><strong>LINKS:</strong></p>
 <h3><strong>ASTRONOMERS WITHOUT BORDERS</strong></h3>
 <p class="short"><a href="https://www.astronomerswithoutborders.org" rel="noopener noreferrer" target="_blank" title="www.astronomerswithoutborders.org">www.astronomerswithoutborders.org</a></p>
 <p class="short"><strong>GAM</strong></p>

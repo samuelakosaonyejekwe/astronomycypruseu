@@ -24,52 +24,13 @@ require SITE_ROOT . '/includes/header.php';
 <p>The International Year of Astronomy 2009 is a global effort initiated by the International Astronomical Union (IAU) and UNESCO to help the citizens of the world rediscover their place in the Universe through the day- and night-time sky, and thereby engage a personal sense of wonder and discovery. Visit the official site of <a href="https://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">the </a><a href="http://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">International Year of Astronomy 2009</a> for more details. </p>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY conducted events during the whole 2009 in Cyprus. </p>
 <p class="short">2009 </p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="short">27 NOVEMBER</p></div>
-<div class="block"><p class="short">ASTROPARTY KALO CHORIO, LARNACA</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">17 NOVEMBER</p></div>
-<div class="block"><p class="short">LEONIDS WATCH KALO CHORIO, LARNACA</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">20-22 OCTOBER</p></div>
-<div class="block"><a href="/en/projects/international-projects/archive/galilean-nights.php">GALILEAN NIGHTS</a><br/><p class="short">GALLERY TEHNIS DROMENA, NICOSIA, CYPRUS</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">6-10 OCTOBER</p></div>
-<div class="block"><p class="short">WORLD SPACE WEEK</p><br/><p class="short">PERIVOLIA AND DREAMLAND, LARNACA</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">3-4 OCTOBER</p></div>
-<div class="block"><p class="short">ASTROPARTY WITH CAMPING</p><br/><p class="short">TROODOS, CYPRUS</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">12 SEPTEMBER</p></div>
-<div class="block"><p class="short">CHARITY EVENT CHRISTINA A.APOSTOLOU FOUNDATION</p><br/><p class="short">LARNACA MUNICIPAL GARDENS</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">27 AUGUST</p></div>
-<div class="block"><p class="short">MARS HOAX - PHENOMENON IMPOSSIBLE!</p><br/><p class="short">PERIVOLIA, LARNACA</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">12 AUGUST</p></div>
-<div class="block"><p class="short">PERSEIDS METEOR SHOWER 2009</p><br/><p class="short">ASTRO-BEACH-PARTY</p><br/><p class="short">SOFTADES BEACH, LARNACA</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">28 MARCH</p></div>
-<div class="block"><p class="short">EARTH HOUR</p><br/><p class="short">PERIVOLIA, LARNACA</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">27 FEBRUARY</p></div>
-<div class="block"><p class="short">CARNIVAL PARTY</p><br/><p class="short">DREAMLAND, LARNACA</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">13 FEBRUARY</p></div>
-<div class="block"><p class="short">VALENTINE STAR PARTY</p><br/><p class="short">FAROS LIGHTHOUSE, LARNACA</p></div>
-</div>
-</div>
+<div class="table-wrap"><table><tr><th scope="col">27 NOVEMBER</th><th scope="col">ASTROPARTY KALO CHORIO, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">17 NOVEMBER</th><th scope="col">LEONIDS WATCH KALO CHORIO, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">20-22 OCTOBER</th><th scope="col"><a href="/en/projects/international-projects/archive/galilean-nights.php">GALILEAN NIGHTS</a><br/> GALLERY TEHNIS DROMENA, NICOSIA, CYPRUS</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">6-10 OCTOBER</th><th scope="col">WORLD SPACE WEEK<br/> 
+ PERIVOLIA AND DREAMLAND, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">3-4 OCTOBER</th><th scope="col">ASTROPARTY WITH CAMPING<br/> 
+ TROODOS, CYPRUS</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">12 SEPTEMBER</th><th scope="col">CHARITY EVENT CHRISTINA A.APOSTOLOU FOUNDATION
+<br/>LARNACA MUNICIPAL GARDENS</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">27 AUGUST</th><th scope="col">MARS HOAX - PHENOMENON IMPOSSIBLE!
+<br/>
+PERIVOLIA, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">12 AUGUST</th><th scope="col">PERSEIDS METEOR SHOWER 2009<br/>ASTRO-BEACH-PARTY
+<br/>SOFTADES BEACH, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">28 MARCH</th><th scope="col">EARTH HOUR<br/>PERIVOLIA, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">27 FEBRUARY</th><th scope="col">CARNIVAL PARTY<br/>DREAMLAND, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">13 FEBRUARY</th><th scope="col">VALENTINE STAR PARTY<br/>FAROS LIGHTHOUSE, LARNACA</th></tr></table></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

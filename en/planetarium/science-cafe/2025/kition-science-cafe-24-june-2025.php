@@ -23,8 +23,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong><strong>ONLINE SCIENCE CAFE</strong></strong></p>
 <p class="short"><strong>TUESDAY 24TH JUNE 2025 TIME:20:00 (UTC+3)</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Join Zoom Meeting</strong></a></p>
-<p class="short"><strong>Meeting ID: 831 2336 2644</strong></p>
-<p class="short"><strong>Passcode: kition</strong></p>
+<dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl>
+
 <p class="short"><strong>20:00 WELCOMING BY THE DIRECTOR (GEORGE TROULLIAS, DIRECTOR)</strong></p>
 <p class="short"><strong>20:05 ASTEROID DISCOVERIES MADE BY KITION (ALEXANDR PROKOFYEV, ASTROPHYSICIST)</strong></p>
 <p class="short"><strong>FIND OUT ABOUT THE 9 LATEST PROVISIONAL ASTEROID DISCOVERIES</strong></p>
@@ -32,8 +32,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>LEARN ABOUT THE CREATION OF THE MAIN ASTEROID BELT,</strong></p>
 <p class="short"><strong>THE ASTEROID FAMILIES AND IN WHICH OF THESE FAMILIES OUR ASTEROID DISCOVERIES BELONG TO.</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Join Zoom Meeting</strong></a></p>
-<p class="short"><strong>Meeting ID: 831 2336 2644</strong></p>
-<p><strong>Passcode: kition</strong></p>
+<dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl>
+
 <p><strong>Asteroid Search Campaigns help scientists</strong> <strong>to discover new asteroids </strong> <strong>and track them and possibly to prevent unwanted impacts with the Earth</strong> <strong>but also study their composition and the origins of our Solar System.</strong></p>
 
 
@@ -48,10 +48,10 @@ require SITE_ROOT . '/includes/header.php';
 <p><strong><br/>
  Records of previous Online Science Cafés are available at our <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">YouTube channel</a>.</strong></p>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> or call +357 9999 1111.</p>
-<p><strong>LINKS</strong>:</p>
+<p class="lead"><strong>LINKS</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<p class="short">Meeting ID: 831 2336 2644</p>
-<p class="short">Passcode: kition</p></div>
+<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+</div>
 </div>
 </div>
 </article>
