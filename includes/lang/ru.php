@@ -36,7 +36,6 @@ $STR = [
     'back_to_top'        => 'Наверх',
     'follow_us'          => 'Мы в соцсетях',
     'facebook'           => 'Facebook',
-    'fb_group'           => 'Группа в Facebook',
     'instagram'          => 'Instagram',
     'youtube'            => 'YouTube',
     'linkedin'           => 'LinkedIn',

@@ -72,8 +72,6 @@ require SITE_ROOT . '/includes/header.php';
 <p><a class="doc-link" href="/images/annular-eclipse-21-jun-2020/Annular%20Solar%20Eclipse%2021%20June%202020%20Ver1.pdf" rel="noopener" target="_blank" title="annular eclipse pdf">Download the Annular Eclipse Press Release in PDF format.</a></p>
 <p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
-<p class="short">VIEW THE PHOTOS ON OUR FB PAGE...</p>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
 </div>
 <p class="short">The KITION PLANETARIUM &amp; OBSERVATORY welcomes you<br/>
 Join our spacewalk</p>

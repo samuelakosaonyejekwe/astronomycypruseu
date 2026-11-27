@@ -57,8 +57,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead short">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-<h3>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΗ ΣΕΛΙΔΑ ΜΑΣ ΣΤΟ FACEBOOK...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
 <p class="short">Διεθνής Αστρονομική Ένωση (IAU)</p>
 <p class="short"><a href="https://www.iau.org/public/women-and-girls-in-astronomy/" rel="noopener noreferrer" target="_blank">https://www.iau.org/public/women-and-girls-in-astronomy/</a></p>
 <p class="short">ΕΠΙΣΗΜΑ ΕΓΓΕΓΡΑΜΜΕΝΗ ΕΚΔΗΛΩΣΗ ΤΗΣ IAU <a href="https://iau.org/public/oao-events/" rel="noopener noreferrer" target="_blank"> https://iau.org/public/oao-events/</a></p>

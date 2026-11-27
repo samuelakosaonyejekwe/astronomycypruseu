@@ -53,7 +53,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>Идентификатор встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
 <h3>Посетите нашу страницу в Facebook...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY</a></p>
+<p class="short"><a href="https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY" rel="noopener noreferrer" target="_blank" title="KITION Facebook">https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY</a></p>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас...<br/> Присоединяйтесь к нашему выходу в открытый космос</p>
 </article>

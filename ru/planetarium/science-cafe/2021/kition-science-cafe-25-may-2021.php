@@ -27,8 +27,6 @@ require SITE_ROOT . '/includes/header.php';
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
 <dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-25-may-2021.jpg" width="550"/></p></div><div class="block"><p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p><p class="lead">ССЫЛКИ:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p><dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl></div></div></div>
-<h3>ПОСЕТИТЕ НАШУ СТРАНИЦУ В FB...</h3>
-<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас...<br/> Присоединяйтесь к нашей космической прогулке</p>
 </article>

@@ -44,8 +44,6 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="427" decoding="async" height="141" loading="lazy" src="/images/science-cafe/john-fox-fras.jpg" width="100"/></p></div><div class="block"><p class="short">www.johnfoxphotos.com  www.wealdenastronomers.org</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl><p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p><p class="lead">LINKS:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl></div></div></div>
 <h3>John Fox Websites</h3>
 <p class="short">www.johnfoxphotos.com  www.wealdenastronomers.org</p>
-<p class="short">VISIT OUR FB PAGE...</p>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
 </div>
 <p class="short">The KITION PLANETARIUM &amp; OBSERVATORY invites you to...<br/>
 Join our spacewalk</p>

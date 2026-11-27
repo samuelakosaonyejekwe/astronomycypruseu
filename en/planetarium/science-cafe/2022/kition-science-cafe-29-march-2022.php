@@ -58,8 +58,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead short">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-<h3>VISIT OUR FB PAGE...</h3>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
 <p class="short">International Astronomical Union (IAU)</p>
 <p class="short"><a href="https://www.iau.org/public/women-and-girls-in-astronomy/" rel="noopener noreferrer" target="_blank">https://www.iau.org/public/women-and-girls-in-astronomy/</a></p>
 <p class="short">AN OFFICIALLY REGISTERED IAU EVENT <a href="https://iau.org/public/oao-events/" rel="noopener noreferrer" target="_blank"> https://iau.org/public/oao-events/</a></p>

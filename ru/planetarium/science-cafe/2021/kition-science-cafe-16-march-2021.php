@@ -42,8 +42,6 @@ require SITE_ROOT . '/includes/header.php';
 <dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
 <h3>Сайты Джона Фокса</h3>
 <p class="short">www.johnfoxphotos.com  www.wealdenastronomers.org</p>
-<p class="short">ПОСЕТИТЕ НАШУ СТРАНИЦУ В FB...</p>
-<p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас...<br/> Присоединяйтесь к нашей космической прогулке</p>
 </article>

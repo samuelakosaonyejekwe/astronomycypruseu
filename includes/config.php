@@ -26,7 +26,6 @@ define('DEFAULT_LANG', 'en');
 /* External links used in the header and footer (from the original site) */
 $LINKS = [
     'facebook'    => 'https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY',
-    'fb_group'    => 'https://www.facebook.com/groups/kition',
     'instagram'   => 'https://www.instagram.com/kpocyprus/',
     'youtube'     => 'https://www.youtube.com/@cyprusplanetarium',
     'linkedin'    => 'https://www.linkedin.com/in/kition-planetarium-and-observatory',

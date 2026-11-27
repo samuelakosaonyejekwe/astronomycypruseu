@@ -36,7 +36,6 @@ $STR = [
     'back_to_top'        => 'Back to top',
     'follow_us'          => 'Follow us',
     'facebook'           => 'Facebook',
-    'fb_group'           => 'Facebook Group',
     'instagram'          => 'Instagram',
     'youtube'            => 'YouTube',
     'linkedin'           => 'LinkedIn',
