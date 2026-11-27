@@ -18,9 +18,8 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <p class="short">ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ</p>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="2680" decoding="async" height="514" loading="lazy" src="/images/wsw/World%20Space%20Week%20Cyprus%201.png" width="400"/></p><h2>#wsw2022</h2><p class="short">Το 2022, η Παγκόσμια Εβδομάδα Διαστήματος γιορτάζει</p><h2>«<strong>Διάστημα και Βιωσιμότητα</strong>»</h2></div></div></div>
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="5728" decoding="async" height="706" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-poster.jpg" width="500"/></p></div><div class="block"><p><strong>ΕΟΡΤΑΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ ΣΤΗΝ ΚΥΠΡΟ</strong></p><p>Φέτος, λόγω των μέτρων που έλαβαν οι κυβερνήσεις για την πανδημία COVID19, προωθούμε διαδικτυακές εκδηλώσεις για την ασφάλεια των ανθρώπων.</p><p class="lead">ΠΡΟΓΡΑΜΜΑ ΤΗΣ ΕΚΔΗΛΩΣΗΣ:</p><p class="short"><a href="/el/planetarium/science-cafe/2022/kition-science-cafe-27-september-2022.php">ΤΡΙΤΗ 27 ΣΕΠΤΕΜΒΡΙΟΥ 2022 ΩΡΑ 20:00</a></p><p>ΥΠΟΔΟΧΗ ΑΠΟ ΤΟΝ ΕΘΝΙΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ, κ. ΓΙΩΡΓΟ ΤΡΟΥΛΛΙΑ.</p><p>ΕΝΗΜΕΡΩΤΙΚΗ ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΟΒΟΥΛΙΑ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ</p><p>ΚΑΙ</p><p class="short">ΔΙΑΣΤΗΜΑ ΚΑΙ ΒΙΩΣΙΜΟΤΗΤΑ.</p></div></div></div>
-<p><img alt="" data-nw="3240" decoding="async" height="267" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-1.png" width="800"/></p>
-
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="5728" decoding="async" height="706" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-poster.jpg" width="500"/></p><img alt="" data-nw="3240" decoding="async" height="267" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-1.png" width="800"/></div><div class="block"><p><strong>ΕΟΡΤΑΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ ΣΤΗΝ ΚΥΠΡΟ</strong></p><p>Φέτος, λόγω των μέτρων που έλαβαν οι κυβερνήσεις για την πανδημία COVID19, προωθούμε διαδικτυακές εκδηλώσεις για την ασφάλεια των ανθρώπων.</p><p class="lead">ΠΡΟΓΡΑΜΜΑ ΤΗΣ ΕΚΔΗΛΩΣΗΣ:</p><p class="short"><a href="/el/planetarium/science-cafe/2022/kition-science-cafe-27-september-2022.php">ΤΡΙΤΗ 27 ΣΕΠΤΕΜΒΡΙΟΥ 2022 ΩΡΑ 20:00</a></p><p>ΥΠΟΔΟΧΗ ΑΠΟ ΤΟΝ ΕΘΝΙΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ, κ. ΓΙΩΡΓΟ ΤΡΟΥΛΛΙΑ.</p><p>ΕΝΗΜΕΡΩΤΙΚΗ ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΟΒΟΥΛΙΑ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ</p><p>ΚΑΙ</p><p class="short">ΔΙΑΣΤΗΜΑ ΚΑΙ ΒΙΩΣΙΜΟΤΗΤΑ.</p></div></div></div>
+<div class="blocks">
 <p>Το <strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> είναι ο Εθνικός Συντονιστής της Κύπρου για την ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ.</p>
 <p>Η Παγκόσμια Εβδομάδα Διαστήματος είναι μια γιορτή του διαστήματος που κηρύχθηκε από τον ΟΗΕ και πραγματοποιείται ετησίως, από τις 4 έως τις 10 Οκτωβρίου. Είναι η μεγαλύτερη διαστημική εκδήλωση στη Γη. Το 2021 πραγματοποιήθηκαν περισσότερες από 6.418 εκδηλώσεις σε 96 χώρες, κάτι που αποτέλεσε ρεκόρ. Οι εκδηλώσεις αυτές διοργανώνονται από χιλιάδες οργανισμούς, συμπεριλαμβανομένων διαστημικών υπηρεσιών, αεροδιαστημικών εταιρειών, αστρονομικών συλλόγων και μουσείων.</p>
 <p>Το 2022, η Παγκόσμια Εβδομάδα Διαστήματος είναι αφιερωμένη στο «Διάστημα και Βιωσιμότητα.»</p>
@@ -43,15 +42,9 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Επίδειξη της δημόσιας στήριξης προς τα διαστημικά προγράμματα</p>
 <p class="short">Ενθουσιασμός των νέων για την επιστήμη, την τεχνολογία, τη μηχανική και τα μαθηματικά</p>
 <p class="short">Προώθηση της διεθνούς συνεργασίας στην ενημέρωση και εκπαίδευση για το διάστημα</p>
-<p><img alt="" data-nw="3240" decoding="async" height="267" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-2.png" width="800"/></p>
-<p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
-<p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
-<p>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
-<p>ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ https://www.worldspaceweek.org/events/event-list/</p>
-<p>Παγκόσμια Εβδομάδα Διαστήματος (βάση δεδομένων προηγούμενων ετών)</p>
-<h3><a href="/el/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">ΠΕΔ 2020</a></h3>
-<p class="short"><a href="/el/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021"><strong>ΠΕΔ 2021</strong></a></p>
-
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="3240" decoding="async" height="267" loading="lazy" src="/images/wsw/wsw2022/world-space-week-2022-2.png" width="800"/></p></div><div class="block"><p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p><p class="lead">ΣΥΝΔΕΣΜΟΙ:</p><p>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p><p>ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ https://www.worldspaceweek.org/events/event-list/</p><p>Παγκόσμια Εβδομάδα Διαστήματος (βάση δεδομένων προηγούμενων ετών)</p></div></div></div>
+<div class="link-row"><p class="short"><a href="/el/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">ΠΕΔ 2020</a></p><p class="short"><a href="/el/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021"><strong>ΠΕΔ 2021</strong></a></p></div>
+</div>
 <p class="short">Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί...<br/> Ελάτε στον διαστημικό μας περίπατο</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->

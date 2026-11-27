@@ -16,14 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">УЛИЧНЫЕ АСТРОНОМЫ</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="200" loading="lazy" src="/images/sidewalkAstronomers150.jpg" width="150"/><p class="short">УЛИЧНЫЕ АСТРОНОМЫ<br/>НА КИПРЕ</p>
-</div></div>
-</div>
-<p>«Уличные астрономы» — общественная ассоциация астрономов-любителей. ВСЕ мероприятия «Уличных астрономов» предназначены для публики. Мы выносим телескопы к людям: на уличные углы, в общественные парки, к книжным магазинам — везде, где собираются толпы людей.</p>
-<p>Начиная с 2007 года астрономы всего мира проводят Международную ночь уличных астрономов (<a href="http://www.sidewalkastronomers.us/id325.html" rel="noopener noreferrer" target="_blank">ISAN</a>). Официальный сайт <a href="http://www.sidewalkastronomers.us/" rel="noopener noreferrer" target="_blank">«Уличных астрономов»</a>.</p>
-<p>С 2008 года ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» как национальный координатор «Уличных астрономов» на <a href="/ru/projects/international-projects/archive/sidewalk-astronomers.php">Кипре</a> проводят и координируют мероприятия по всей стране.</p>
-<p>2017 </p>
+<p class="short">УЛИЧНЫЕ АСТРОНОМЫ</p><div class="blocks"><div class="row split wrap"><div class="block media"><img alt="" data-nw="150" decoding="async" height="200" loading="lazy" src="/images/sidewalkAstronomers150.jpg" width="150"/><p class="short">УЛИЧНЫЕ АСТРОНОМЫ<br/>НА КИПРЕ</p>
+</div><div class="block"><p>«Уличные астрономы» — общественная ассоциация астрономов-любителей. ВСЕ мероприятия «Уличных астрономов» предназначены для публики. Мы выносим телескопы к людям: на уличные углы, в общественные парки, к книжным магазинам — везде, где собираются толпы людей.</p><p>Начиная с 2007 года астрономы всего мира проводят Международную ночь уличных астрономов (<a href="http://www.sidewalkastronomers.us/id325.html" rel="noopener noreferrer" target="_blank">ISAN</a>). Официальный сайт <a href="http://www.sidewalkastronomers.us/" rel="noopener noreferrer" target="_blank">«Уличных астрономов»</a>.</p><p>С 2008 года ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» как национальный координатор «Уличных астрономов» на <a href="/ru/projects/international-projects/archive/sidewalk-astronomers.php">Кипре</a> проводят и координируют мероприятия по всей стране.</p><p>2017 </p></div></div></div>
 <div class="blocks">
 <div class="row keyval">
 <div class="block"><p class="short">23 АПРЕЛЯ</p></div>

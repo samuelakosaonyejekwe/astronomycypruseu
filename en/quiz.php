@@ -18,8 +18,8 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h2>QUIZ (Period: 1 January 2025 - 30 May 2025)</h2>
 <div class="blocks">
-<div class="row split">
-<div class="block media"><img alt="" data-nw="400" decoding="async" height="245" loading="lazy" src="/images/quiz-challenge-logo.jpg" width="200"/></div>
+<div class="row split wrap">
+<div class="block media"><img alt="" data-nw="400" decoding="async" height="245" loading="lazy" src="/images/quiz-challenge-logo.jpg" width="200"/><img alt="" data-nw="450" decoding="async" height="200" loading="lazy" src="/images/quiz-button.png" title="QUIZ ANSWER SHEET" width="200"/></div>
 <div class="block">
 <p class="short"><strong>Astronomy and sciences are fun.</strong></p>
 <p><strong>One of the best ways to learn or test your knowledge is by playing and taking quizzes.</strong></p>
@@ -30,35 +30,19 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 </div>
-<p><a class="doc-link" href="/docs/quiz-of-the-month-challenge.pdf" rel="noopener" target="_blank"><img alt="" data-nw="450" decoding="async" height="200" loading="lazy" src="/images/quiz-button.png" title="QUIZ ANSWER SHEET" width="200"/></a></p>
 <div class="blocks">
 <h2>Space Quiz</h2>
 <h2><strong>Questions:</strong></h2>
 <p class="short"><strong>1. Who was the first person to enter outer space twice?</strong></p>
-<p class="short">A. Christina Koch<br/>
- B. Yuri Gagarin<br/>
- C. Vladimir Komarov<br/>
- D. Scott Kelly</p>
+<ul class="options"><li>A. Christina Koch</li><li>B. Yuri Gagarin</li><li>C. Vladimir Komarov</li><li>D. Scott Kelly</li></ul>
 <p class="lead short"><strong>2. The day on which the Sun’s direct rays cross the celestial equator is called:</strong></p>
-<p class="short">A. the aphelion<br/>
- B. the equinox<br/>
- C. the ecliptic<br/>
- D. the solstice</p>
+<ul class="options"><li>A. the aphelion</li><li>B. the equinox</li><li>C. the ecliptic</li><li>D. the solstice</li></ul>
 <p class="short"><strong>3. What is the visible part of the Sun called?</strong></p>
-<p class="short">A. the atmosphere<br/>
- B. the lithosphere<br/>
- C. the photosphere<br/>
- D. the stratosphere</p>
+<ul class="options"><li>A. the atmosphere</li><li>B. the lithosphere</li><li>C. the photosphere</li><li>D. the stratosphere</li></ul>
 <p class="short"><strong>4. Who discovered dark matter?</strong></p>
-<p class="short">A. Fritz Zwicky<br/>
- B. Jan Oort<br/>
- C. Halton Arp<br/>
- D. Vera Rubin</p>
+<ul class="options"><li>A. Fritz Zwicky</li><li>B. Jan Oort</li><li>C. Halton Arp</li><li>D. Vera Rubin</li></ul>
 <p class="short"><strong> 5. What is the smallest planet in the solar system by mass?</strong></p>
-<p class="short">A. Mars<br/>
- B. Mercury<br/>
- C. Jupiter<br/>
- D. Earth</p>
+<ul class="options"><li>A. Mars</li><li>B. Mercury</li><li>C. Jupiter</li><li>D. Earth</li></ul>
 <h2>"Join our spacewalk…"</h2>
 <p> Future Spacewalks will be endless! In every single spacewalk astronauts apply science and explore for the betterment of humanity!</p>
 <p>So, join our spacewalk for an endless sharing of knowledge and experience… </p>

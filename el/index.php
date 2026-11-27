@@ -22,10 +22,7 @@ require SITE_ROOT . '/includes/home-top.php';
 <article class="content home-content">
 <div class="blocks">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><h2><strong>ΔΗΜΟΣΙΑ <span lang="ru">ΕΚΔΗΛΩΣΗ</span></strong></h2><p><a href="/el/planetarium/science-cafe/2026/kition-science-cafe-24-november-2026.php"><img alt="" data-nw="1920" decoding="async" height="675" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2026/science-cafe-24-november-2026.jpg" width="1200"/></a></p><h2><a href="/el/planetarium/science-cafe/2026/kition-science-cafe-24-november-2026.php"><strong>Πατήστε εδώ για περισσότερα...</strong></a></h2></div><div class="block"><p><a href="/el/program-events/public-events/december-2026/russian-science-festival-2026-nayka0+.php"><img alt="" data-nw="1254" decoding="async" height="1600" loading="lazy" src="/images/public-events/december-2026/science-0%2B-2026-poster.jpg" width="1200"/></a></p><h2><strong><a href="/el/program-events/public-events/december-2026/russian-science-festival-2026-nayka0+.php">Πατήστε εδώ για περισσότερα...</a></strong></h2></div><div class="block"><h2><a href="/el/program-events/private-programs.php"><strong>ΙΔΙΩΤΙΚΗ ΕΚΔΗΛΩΣΗ</strong></a></h2><p><a href="/el/program-events/private-programs.php"><img alt="" data-nw="1440" decoding="async" height="709" loading="lazy" src="/images/CustomizedProgramCall99991111.jpg" width="1260"/></a></p><h2><a href="/el/program-events/private-programs.php">Πατήστε εδώ για περισσότερα...</a></h2></div></div></div>
-<marquee>
-</marquee>
-<marquee>
-</marquee></div>
+</div>
 <div class="blocks">
 <p><a href="/el/kition-astronomer.php"><img alt="" data-nw="3300" decoding="async" height="286" loading="lazy" src="/images/kition-astronomer-index.jpg" width="1260"/></a></p>
 <p class="short"><strong><a href="/el/kition-astronomer.php">Γίνετε «ΑΣΤΡΟΝΟΜΟΣ ΤΟΥ KITION» και απολαύστε τα προνόμια. Μάθετε περισσότερα...</a></strong></p>
@@ -71,7 +68,7 @@ require SITE_ROOT . '/includes/home-top.php';
 </div>
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p><a href="/el/program-events/educational-courses/summer-school.php"><img alt="" data-nw="1582" decoding="async" height="360" loading="lazy" src="/images/summer-school-index.jpg" width="1582"/></a></p><h2><strong><a href="/el/program-events/educational-courses/summer-school.php">Πατήστε εδώ για περισσότερα...</a></strong></h2></div><div class="block"><h2><a href="/el/next-event.php"><strong>ΜΗΝΙΑΙΟ ΠΡΟΓΡΑΜΜΑ</strong></a></h2><p><a href="/el/next-event.php"><img alt="" data-nw="650" decoding="async" height="324" loading="lazy" src="/images/NextEventCall99991111.jpg" width="500"/></a></p><h2><a href="https://fireballs.imo.net/members/imo/report_intro" rel="noopener noreferrer" target="_blank">ΒΟΛΙΔΕΣ</a></h2></div></div></div>
 <div class="blocks">
-<div class="row split">
+<div class="row split wrap">
 <div class="block media"><a href="https://fireballs.imo.net/members/imo/report_intro" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="400" decoding="async" height="258" loading="lazy" src="/images/perseids/report-a-fireball.jpg" width="300"/></a></div>
 <div class="block"><p><strong>Το ΚΙΤΙΟΝ </strong>ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ είναι το επίσημο Εθνικό Σημείο Επαφής της Κύπρου για τη Διεθνή Οργάνωση Μετεώρων (IMO) για τις Βολίδες.</p>
 <p>Παρακαλούμε διαβάστε παρακάτω τι είναι οι βολίδες και στείλτε μας e-mail στο <a href="mailto:observatory@cytanet.com.cy">observatory@cytanet.com.cy</a> με βίντεο ή φωτογραφίες βολίδων που παρατηρήσατε και μια σύντομη περιγραφή της εμπειρίας σας, για περαιτέρω επιστημονική διερεύνηση και έρευνα.</p>

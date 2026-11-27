@@ -16,14 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">COSMIC LIGHT COMES TO CYPRUS 2016</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" decoding="async" height="202" loading="lazy" src="https://astronomycyprus.eu/images/CLRC2016_logo.jpg" width="200"/>
-</div></div>
-</div>
-<p class="short">IAU International Astronomical Union</p>
-<p>Project: Cosmic Light Comes to Cyprus 2016<br/> Country: Cyprus</p>
-<p>The KITION PLANETARIUM &amp; OBSERVATORY presents the project "Cosmic Light Comes to Cyprus 2016", which will be carried out by scientists, amateur astronomers and educators through activities, workshops, lectures, planetarium shows and telescope observations, with the aim of promoting the science of astronomy to kindergartens, primary, secondary and tertiary education, organized groups, the media, tourists and the wider public, using astronomy as a tool for development.</p>
-<dl class="specs"><dt>Mission</dt><dd> to raise awareness of our place in the Universe and to foster respect for and understanding of the importance of the Cosmic Light that reaches the Earth.</dd><dt>Vision</dt><dd> to strengthen awareness of the protection of the dark sky and to encourage locals to take part in light pollution measurements that will help to preserve the dark sky in Cyprus.</dd></dl>
+<p class="short">COSMIC LIGHT COMES TO CYPRUS 2016</p><div class="blocks"><div class="row split wrap"><div class="block media"><img alt="" decoding="async" height="202" loading="lazy" src="https://astronomycyprus.eu/images/CLRC2016_logo.jpg" width="200"/>
+</div><div class="block"><p class="short">IAU International Astronomical Union</p><p>Project: Cosmic Light Comes to Cyprus 2016<br/> Country: Cyprus</p><p>The KITION PLANETARIUM &amp; OBSERVATORY presents the project "Cosmic Light Comes to Cyprus 2016", which will be carried out by scientists, amateur astronomers and educators through activities, workshops, lectures, planetarium shows and telescope observations, with the aim of promoting the science of astronomy to kindergartens, primary, secondary and tertiary education, organized groups, the media, tourists and the wider public, using astronomy as a tool for development.</p><dl class="specs"><dt>Mission</dt><dd> to raise awareness of our place in the Universe and to foster respect for and understanding of the importance of the Cosmic Light that reaches the Earth.</dd><dt>Vision</dt><dd> to strengthen awareness of the protection of the dark sky and to encourage locals to take part in light pollution measurements that will help to preserve the dark sky in Cyprus.</dd></dl></div></div></div>
 <div class="blocks">
 <div class="table-wrap"><table><tr><td>30 JANUARY 19:00</td><td><strong>OPENING CEREMONY OF "COSMIC LIGHT COMES TO CYPRUS 2016"</strong> </td></tr><tr><td>6 FEBRUARY 19:00</td><td><strong>PLANETARIUM PROGRAM "ETERNAL LOVE" (RU)</strong></td></tr><tr><td>10 FEBRUARY 19:00</td><td><strong>DARWIN DAY – NATURAL SELECTION (EN)</strong></td></tr><tr><td>14 FEBRUARY 17:00</td><td>"KITION PLANETARIUM &amp; OBSERVATORY"<br/> 8TH ANNIVERSARY CELEBRATIONS</td></tr></table></div>
 <div class="row keyval">

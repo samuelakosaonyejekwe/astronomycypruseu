@@ -16,14 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">INTERNATIONAL OBSERVE THE MOON NIGHT</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="150" loading="lazy" src="/images/InOMN_150.jpg" width="150"/><p class="short">INTERNATIONAL OBSERVE THE MOON NIGHT<br/>IN CYPRUS</p>
-</div></div>
-</div>
-<p>International Observe the Moon Night (InOMN) is an annual worldwide public event that encourages observation, appreciation, and understanding of our Moon. </p>
-<p>Everyone on Earth is invited to join the celebration by hosting or attending an InOMN event — and uniting on one day each year to look at and learn about the Moon together. For more details visit the official site of the <a href="http://observethemoonnight.org/" rel="noopener noreferrer" target="_blank">International Observe the Moon Night</a>.</p>
-<p>Since 2010 the KITION PLANETARIUM &amp; OBSERVATORY promotes and organizes these observations in Cyprus. </p>
-<p>2017 </p>
+<p class="short">INTERNATIONAL OBSERVE THE MOON NIGHT</p><div class="blocks"><div class="row split wrap"><div class="block media"><img alt="" data-nw="150" decoding="async" height="150" loading="lazy" src="/images/InOMN_150.jpg" width="150"/><p class="short">INTERNATIONAL OBSERVE THE MOON NIGHT<br/>IN CYPRUS</p>
+</div><div class="block"><p>International Observe the Moon Night (InOMN) is an annual worldwide public event that encourages observation, appreciation, and understanding of our Moon. </p><p>Everyone on Earth is invited to join the celebration by hosting or attending an InOMN event — and uniting on one day each year to look at and learn about the Moon together. For more details visit the official site of the <a href="http://observethemoonnight.org/" rel="noopener noreferrer" target="_blank">International Observe the Moon Night</a>.</p><p>Since 2010 the KITION PLANETARIUM &amp; OBSERVATORY promotes and organizes these observations in Cyprus. </p><p>2017 </p></div></div></div>
 <div class="blocks">
 <div class="row">
 <div class="block"><p class="short">28 OCTOBER</p></div>

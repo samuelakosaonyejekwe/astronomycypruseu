@@ -17,14 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="190" loading="lazy" src="/images/logo-awb.jpg" width="150"/></div></div>
-</div>
-<p>Astronomers Without Borders (AWB) is a global astronomy community. Astronomers Without Borders promotes understanding and goodwill across national and cultural boundaries by building relationships through the universal appeal of astronomy.</p>
-<p>Astronomy enthusiasts, educators and others around the world take part in programs that create interaction and cooperation through shared interests in all aspects of astronomy. They are united under the motto "One People, One Sky", which stresses that while observing the starry sky all differences between people disappear in the darkness.</p>
-<p>Global Astronomy Month (GAM), organized every April by Astronomers Without Borders, is the largest worldwide celebration in the field of astronomy.</p>
-<p>You can see the events, programs and campaigns of Astronomers Without Borders on the website: <a href="http://www.astronomerswithoutborders.org" rel="noopener noreferrer" target="_blank">www.astronomerswithoutborders.org</a></p>
-<p>The KITION PLANETARIUM &amp; OBSERVATORY has been the National Coordinator in Cyprus for Astronomers Without Borders since 2009 and holds events across the whole island.</p>
+<div class="blocks"><div class="row split wrap"><div class="block media"><img alt="" data-nw="150" decoding="async" height="190" loading="lazy" src="/images/logo-awb.jpg" width="150"/></div><div class="block"><p>Astronomers Without Borders (AWB) is a global astronomy community. Astronomers Without Borders promotes understanding and goodwill across national and cultural boundaries by building relationships through the universal appeal of astronomy.</p><p>Astronomy enthusiasts, educators and others around the world take part in programs that create interaction and cooperation through shared interests in all aspects of astronomy. They are united under the motto "One People, One Sky", which stresses that while observing the starry sky all differences between people disappear in the darkness.</p><p>Global Astronomy Month (GAM), organized every April by Astronomers Without Borders, is the largest worldwide celebration in the field of astronomy.</p><p>You can see the events, programs and campaigns of Astronomers Without Borders on the website: <a href="http://www.astronomerswithoutborders.org" rel="noopener noreferrer" target="_blank">www.astronomerswithoutborders.org</a></p><p>The KITION PLANETARIUM &amp; OBSERVATORY has been the National Coordinator in Cyprus for Astronomers Without Borders since 2009 and holds events across the whole island.</p></div></div></div>
 <div class="blocks">
 <div class="row stack"><div class="block"><img alt="" data-nw="240" decoding="async" height="180" loading="lazy" src="/images/gam2014_800.png" width="180"/><h2>GLOBAL ASTRONOMY MONTH</h2></div></div>
 </div>

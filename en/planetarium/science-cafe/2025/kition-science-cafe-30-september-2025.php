@@ -16,6 +16,7 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
+<div class="blocks">
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-30-september-2025.jpg" width="960"/></p>
 <p class="short"><strong><strong>ONLINE SCIENCE CAFE</strong></strong></p>
 <p class="short"><strong>TUESDAY 30TH SEPTEMBER 2025 TIME:20:00 (UTC+3)</strong></p>
@@ -33,11 +34,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>Codes and info for the meeting are published <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">here</a>.</strong></p>
 <p class="short"><strong><br/>
  Records of previous Online Science Cafés are available at our <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">YouTube channel</a>.</strong></p>
-<p><img alt="" data-nw="5728" decoding="async" height="1138" loading="lazy" src="/images/wsw/wsw2025/wsw2025-poster-cyprus.jpg" width="800"/></p>
-<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
-<p class="lead"><strong>LINKS</strong>:</p>
-<p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
-<dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
+<div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="5728" decoding="async" height="1138" loading="lazy" src="/images/wsw/wsw2025/wsw2025-poster-cyprus.jpg" width="800"/></p><p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p><p><strong>LINKS</strong>:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p></div></div></div>
+</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

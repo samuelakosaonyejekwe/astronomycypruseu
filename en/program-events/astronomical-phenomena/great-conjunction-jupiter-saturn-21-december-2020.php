@@ -23,7 +23,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">PHOTOS OF GREAT CONJUNCTION OF JUPITER AND SATURN 21 DECEMBER 2020</p>
 <p class="short">Download the GREAT CONJUNCTION OF JUPITER AND SATURN 21 DECEMBER 2020 Report in PDF format</p>
 <p class="short">(Report and photos will be posted after the event.)</p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1200" decoding="async" height="367" loading="lazy" src="/images/great-conjunction-21-dec-2020/jupiter-and-saturn.jpg" width="550"/></p></div><div class="block"><ul>
+<div class="blocks"><div class="row split wrap"><div class="block media"><p><img alt="" data-nw="1200" decoding="async" height="367" loading="lazy" src="/images/great-conjunction-21-dec-2020/jupiter-and-saturn.jpg" width="550"/></p></div><div class="block"><ul>
 <li>On Monday the 21st of December we have the solstice. The December solstice occurs at 10:02 UTC.</li>
 <li>The South Pole of the earth will be tilted toward the Sun,</li>
 <li>which will have reached its southernmost position in the sky and will be</li>
@@ -31,7 +31,7 @@ require SITE_ROOT . '/includes/header.php';
 <li>This is the first day of winter (winter solstice) in the Northern Hemisphere and</li>
 <li>the first day of summer (summer solstice) in the Southern Hemisphere.</li>
 </ul><p>But this year, on Monday 21 December 2020 the close encounter of planets Jupiter and Saturn will light up the sky.</p></div></div></div>
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="550" decoding="async" height="550" loading="lazy" src="/images/great-conjunction-21-dec-2020/jupiter-saturn-close-encounter-naked-eye.jpg" width="550"/></p></div><div class="block"><p class="short">Great Conjunction of Jupiter and Saturn - Naked eye view</p><p class="short">(Image for Cyprus local time 17:40)</p><ul>
+<div class="blocks"><div class="row split reverse wrap"><div class="block media"><p><img alt="" data-nw="550" decoding="async" height="550" loading="lazy" src="/images/great-conjunction-21-dec-2020/jupiter-saturn-close-encounter-naked-eye.jpg" width="550"/></p></div><div class="block"><p class="short">Great Conjunction of Jupiter and Saturn - Naked eye view</p><p class="short">(Image for Cyprus local time 17:40)</p><ul>
 <li>This rare phenomenon of these two planets is known as a great conjunction,</li>
 <li>
 making these two outer planets appear close together in our night sky.

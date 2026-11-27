@@ -17,11 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<p><a href="/images/kition2014/KITION%202014_300.jpg"><img alt="" data-nw="3449" decoding="async" height="320" loading="lazy" src="/images/kition2014/KITION%202014_300.jpg" width="800"/></a></p>
-<h2><strong> CHARITY ASTRONOMY FESTIVAL “KITION 2014” </strong></h2>
-<p>This Festival was organized by the KITION PLANETARIUM &amp; OBSERVATORY in cooperation with <a href="/en/partners/heliostalagmaties-kindergarden.php">Kindergarten “HELIOSTALAGMATIES Doukanari and Pavlou”</a>,  the dancing school 'Mambo' and 'Cyprus Opera Organization' in the premises of Kiti community council.</p>
-<p>The festival presented very interesting connections of music and astronomy, of education and science. </p>
-<p>There was food collection for the charity to help local families in need, which was distributed by the church.</p>
+<div class="blocks"><div class="row split"><div class="block media"><p><a href="/images/kition2014/KITION%202014_300.jpg"><img alt="" data-nw="3449" decoding="async" height="320" loading="lazy" src="/images/kition2014/KITION%202014_300.jpg" width="800"/></a></p></div><div class="block"><h2><strong> CHARITY ASTRONOMY FESTIVAL “KITION 2014” </strong></h2><p>This Festival was organized by the KITION PLANETARIUM &amp; OBSERVATORY in cooperation with <a href="/en/partners/heliostalagmaties-kindergarden.php">Kindergarten “HELIOSTALAGMATIES Doukanari and Pavlou”</a>,  the dancing school 'Mambo' and 'Cyprus Opera Organization' in the premises of Kiti community council.</p><p>The festival presented very interesting connections of music and astronomy, of education and science. </p><p>There was food collection for the charity to help local families in need, which was distributed by the church.</p></div></div></div>
 <h2><strong>PHOTOS</strong></h2>
 <div class="blocks">
 <div class="row gallery captioned tiles">

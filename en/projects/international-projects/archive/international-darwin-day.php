@@ -16,14 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="540" decoding="async" height="97" loading="lazy" src="/images/DarwinDay.jpg" width="540"/>
-</div></div>
-</div>
-<p>The International Darwin Day started from Darwin's bicentennial birthday on February, 12<sup>th</sup>, 2009.</p>
-<p>The International Darwin Day inspires people throughout the globe to reflect and act on the principles of intellectual bravery, perpetual curiosity, scientific thinking, and hunger for truth as embodied in Charles Darwin. The official site of the <a href="http://darwinday.org/" rel="noopener noreferrer" target="_blank">International Darwin Day</a>. </p>
-<p>Since 2014 the KITION PLANETARIUM &amp; OBSERVATORY conducts events in Cyprus celebrating the scientific approach in origin of life on the Earth and exploration of extraterrastial life in Solar system and beyond.</p>
-<p>2017 </p>
+<div class="blocks"><div class="row split wrap"><div class="block media"><img alt="" data-nw="540" decoding="async" height="97" loading="lazy" src="/images/DarwinDay.jpg" width="540"/>
+</div><div class="block"><p>The International Darwin Day started from Darwin's bicentennial birthday on February, 12<sup>th</sup>, 2009.</p><p>The International Darwin Day inspires people throughout the globe to reflect and act on the principles of intellectual bravery, perpetual curiosity, scientific thinking, and hunger for truth as embodied in Charles Darwin. The official site of the <a href="http://darwinday.org/" rel="noopener noreferrer" target="_blank">International Darwin Day</a>. </p><p>Since 2014 the KITION PLANETARIUM &amp; OBSERVATORY conducts events in Cyprus celebrating the scientific approach in origin of life on the Earth and exploration of extraterrastial life in Solar system and beyond.</p><p>2017 </p></div></div></div>
 <div class="blocks">
 <div class="row keyval">
 <div class="block"><p class="short">9-20 FEBRUARY</p></div>

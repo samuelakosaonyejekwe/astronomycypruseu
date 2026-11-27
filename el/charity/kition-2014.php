@@ -17,11 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<p><a href="/images/kition2014/KITION%202014_300.jpg"><img alt="" data-nw="3449" decoding="async" height="320" loading="lazy" src="/images/kition2014/KITION%202014_300.jpg" width="800"/></a></p>
-<h2><strong> ΦΙΛΑΝΘΡΩΠΙΚΟ ΑΣΤΡΟΝΟΜΙΚΟ ΦΕΣΤΙΒΑΛ «KITION 2014» </strong></h2>
-<p>Το Φεστιβάλ αυτό διοργανώθηκε από το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σε συνεργασία με το <a href="/el/partners/heliostalagmaties-kindergarden.php">Νηπιαγωγείο «ΗΛΙΟΣΤΑΛΑΓΜΑΤΙΕΣ Δουκανάρη και Παύλου»</a>, τη σχολή χορού «Mambo» και την «Cyprus Opera Organization» στους χώρους του Κοινοτικού Συμβουλίου Κιτίου.</p>
-<p>Το φεστιβάλ παρουσίασε πολύ ενδιαφέρουσες συνδέσεις μουσικής και αστρονομίας, εκπαίδευσης και επιστήμης.</p>
-<p>Πραγματοποιήθηκε συγκέντρωση τροφίμων για φιλανθρωπικούς σκοπούς, για βοήθεια σε τοπικές οικογένειες σε ανάγκη, τα οποία διανεμήθηκαν από την εκκλησία.</p>
+<div class="blocks"><div class="row split wrap"><div class="block media"><p><a href="/images/kition2014/KITION%202014_300.jpg"><img alt="" data-nw="3449" decoding="async" height="320" loading="lazy" src="/images/kition2014/KITION%202014_300.jpg" width="800"/></a></p></div><div class="block"><h2><strong> ΦΙΛΑΝΘΡΩΠΙΚΟ ΑΣΤΡΟΝΟΜΙΚΟ ΦΕΣΤΙΒΑΛ «KITION 2014» </strong></h2><p>Το Φεστιβάλ αυτό διοργανώθηκε από το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σε συνεργασία με το <a href="/el/partners/heliostalagmaties-kindergarden.php">Νηπιαγωγείο «ΗΛΙΟΣΤΑΛΑΓΜΑΤΙΕΣ Δουκανάρη και Παύλου»</a>, τη σχολή χορού «Mambo» και την «Cyprus Opera Organization» στους χώρους του Κοινοτικού Συμβουλίου Κιτίου.</p><p>Το φεστιβάλ παρουσίασε πολύ ενδιαφέρουσες συνδέσεις μουσικής και αστρονομίας, εκπαίδευσης και επιστήμης.</p><p>Πραγματοποιήθηκε συγκέντρωση τροφίμων για φιλανθρωπικούς σκοπούς, για βοήθεια σε τοπικές οικογένειες σε ανάγκη, τα οποία διανεμήθηκαν από την εκκλησία.</p></div></div></div>
 <h2><strong>ΦΩΤΟΓΡΑΦΙΕΣ</strong></h2>
 <div class="blocks">
 <div class="row gallery captioned tiles">

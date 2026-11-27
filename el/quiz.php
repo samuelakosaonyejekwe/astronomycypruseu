@@ -18,8 +18,8 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h2>ΚΟΥΙΖ (Περίοδος: 1 Ιανουαρίου 2025 - 30 Μαΐου 2025)</h2>
 <div class="blocks">
-<div class="row split">
-<div class="block media"><img alt="" data-nw="400" decoding="async" height="245" loading="lazy" src="/images/quiz-challenge-logo.jpg" width="200"/></div>
+<div class="row split wrap">
+<div class="block media"><img alt="" data-nw="400" decoding="async" height="245" loading="lazy" src="/images/quiz-challenge-logo.jpg" width="200"/><img alt="" data-nw="450" decoding="async" height="200" loading="lazy" src="/images/quiz-button.png" title="QUIZ ANSWER SHEET" width="200"/></div>
 <div class="block">
 <p><strong>Η αστρονομία και οι επιστήμες είναι διασκέδαση.</strong></p>
 <p><strong>Ένας από τους καλύτερους τρόπους για να μάθετε ή να δοκιμάσετε τις γνώσεις σας είναι να παίζετε και να συμμετέχετε σε κουίζ.</strong></p>
@@ -30,20 +30,19 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 </div>
-<p><a class="doc-link" href="/docs/quiz-of-the-month-challenge.pdf" rel="noopener" target="_blank"><img alt="" data-nw="450" decoding="async" height="200" loading="lazy" src="/images/quiz-button.png" title="QUIZ ANSWER SHEET" width="200"/></a></p>
 <div class="blocks">
 <h2>Διαστημικό Κουίζ</h2>
 <h2><strong>Ερωτήσεις:</strong></h2>
 <p class="short"><strong>1. Ποιος ήταν ο πρώτος άνθρωπος που μπήκε στο διάστημα δύο φορές;</strong></p>
-<p>Α. Christina Koch<br/> Β. Γιούρι Γκαγκάριν<br/> Γ. Βλαντιμίρ Κομάροφ<br/> Δ. Scott Kelly</p>
+<ul class="options"><li>Α. Christina Koch</li><li>Β. Γιούρι Γκαγκάριν</li><li>Γ. Βλαντιμίρ Κομάροφ</li><li>Δ. Scott Kelly</li></ul>
 <p><strong>2. Η ημέρα κατά την οποία οι άμεσες ακτίνες του Ήλιου διασχίζουν τον ουράνιο ισημερινό ονομάζεται:</strong></p>
-<p>Α. το αφήλιο<br/> Β. η ισημερία<br/> Γ. η εκλειπτική<br/> Δ. το ηλιοστάσιο</p>
+<ul class="options"><li>Α. το αφήλιο</li><li>Β. η ισημερία</li><li>Γ. η εκλειπτική</li><li>Δ. το ηλιοστάσιο</li></ul>
 <p class="short"><strong>3. Πώς ονομάζεται το ορατό τμήμα του Ήλιου;</strong></p>
-<p class="short">Α. η ατμόσφαιρα<br/> Β. η λιθόσφαιρα<br/> Γ. η φωτόσφαιρα<br/> Δ. η στρατόσφαιρα</p>
+<ul class="options"><li>Α. η ατμόσφαιρα</li><li>Β. η λιθόσφαιρα</li><li>Γ. η φωτόσφαιρα</li><li>Δ. η στρατόσφαιρα</li></ul>
 <p class="short"><strong>4. Ποιος ανακάλυψε τη σκοτεινή ύλη;</strong></p>
-<p class="short">Α. Fritz Zwicky<br/> Β. Jan Oort<br/> Γ. Halton Arp<br/> Δ. Vera Rubin</p>
+<ul class="options"><li>Α. Fritz Zwicky</li><li>Β. Jan Oort</li><li>Γ. Halton Arp</li><li>Δ. Vera Rubin</li></ul>
 <p class="short"><strong> 5. Ποιος είναι ο μικρότερος πλανήτης του ηλιακού συστήματος σε μάζα;</strong></p>
-<p class="short">Α. ο Άρης<br/> Β. ο Ερμής<br/> Γ. ο Δίας<br/> Δ. η Γη</p>
+<ul class="options"><li>Α. ο Άρης</li><li>Β. ο Ερμής</li><li>Γ. ο Δίας</li><li>Δ. η Γη</li></ul>
 <h2>«Ελάτε στον διαστημικό μας περίπατο…»</h2>
 <p>Οι μελλοντικοί Διαστημικοί Περίπατοι θα είναι ατελείωτοι! Σε κάθε διαστημικό περίπατο οι αστροναύτες εφαρμόζουν την επιστήμη και εξερευνούν για το καλό της ανθρωπότητας!</p>
 <p>Ελάτε λοιπόν στον διαστημικό μας περίπατο για ένα ατελείωτο μοίρασμα γνώσεων και εμπειριών…</p>

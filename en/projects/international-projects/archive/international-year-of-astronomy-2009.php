@@ -16,14 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">INTERNATIONAL YEAR OF ASTRONOMY</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="1280" decoding="async" height="567" loading="lazy" src="/images/iau0702a.jpg" width="300"/>
-</div></div>
-</div>
-<p>In 2009 humanity celebrated 400 years since inventing of telescope by Galileo Galilei. This instrument, giving at the beginning just 3 times magnification, became a powerful tool in making philosophical and scientific revolution. The progress of understanding of the place of mankind in the Universe is continued till now. </p>
-<p>The International Year of Astronomy 2009 is a global effort initiated by the International Astronomical Union (IAU) and UNESCO to help the citizens of the world rediscover their place in the Universe through the day- and night-time sky, and thereby engage a personal sense of wonder and discovery. Visit the official site of <a href="https://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">the </a><a href="http://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">International Year of Astronomy 2009</a> for more details. </p>
-<p>The KITION PLANETARIUM &amp; OBSERVATORY conducted events during the whole 2009 in Cyprus. </p>
-<p class="short">2009 </p>
+<p class="short">INTERNATIONAL YEAR OF ASTRONOMY</p><div class="blocks"><div class="row split wrap"><div class="block media"><img alt="" data-nw="1280" decoding="async" height="567" loading="lazy" src="/images/iau0702a.jpg" width="300"/>
+</div><div class="block"><p>In 2009 humanity celebrated 400 years since inventing of telescope by Galileo Galilei. This instrument, giving at the beginning just 3 times magnification, became a powerful tool in making philosophical and scientific revolution. The progress of understanding of the place of mankind in the Universe is continued till now. </p><p>The International Year of Astronomy 2009 is a global effort initiated by the International Astronomical Union (IAU) and UNESCO to help the citizens of the world rediscover their place in the Universe through the day- and night-time sky, and thereby engage a personal sense of wonder and discovery. Visit the official site of <a href="https://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">the </a><a href="http://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">International Year of Astronomy 2009</a> for more details. </p><p>The KITION PLANETARIUM &amp; OBSERVATORY conducted events during the whole 2009 in Cyprus. </p><p class="short">2009 </p></div></div></div>
 <div class="table-wrap"><table><tr><td>27 NOVEMBER</td><td>ASTROPARTY KALO CHORIO, LARNACA</td></tr><tr><td>17 NOVEMBER</td><td>LEONIDS WATCH KALO CHORIO, LARNACA</td></tr><tr><td>20-22 OCTOBER</td><td><a href="/en/projects/international-projects/archive/galilean-nights.php">GALILEAN NIGHTS</a><br/> GALLERY TEHNIS DROMENA, NICOSIA, CYPRUS</td></tr><tr><td>6-10 OCTOBER</td><td>WORLD SPACE WEEK<br/> 
  PERIVOLIA AND DREAMLAND, LARNACA</td></tr><tr><td>3-4 OCTOBER</td><td>ASTROPARTY WITH CAMPING<br/> 
  TROODOS, CYPRUS</td></tr><tr><td>12 SEPTEMBER</td><td>CHARITY EVENT CHRISTINA A.APOSTOLOU FOUNDATION

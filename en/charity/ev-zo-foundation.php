@@ -17,12 +17,9 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="1374" decoding="async" height="1192" loading="lazy" src="/images/charity/ev-zo/ev-zo.jpg" width="800"/>
+<div class="blocks"><div class="row split"><div class="block media"><img alt="" data-nw="1374" decoding="async" height="1192" loading="lazy" src="/images/charity/ev-zo/ev-zo.jpg" width="800"/>
 <p class="short">Ev-Zo</p>
-</div></div>
-</div>
-<p><strong>The Ev-Zo Foundation supports patients suffering from neoplastic disease </strong> <strong>and is financially supported by donations, event revenues and subscriptions of its members.</strong></p>
+</div><div class="block"><p><strong>The Ev-Zo Foundation supports patients suffering from neoplastic disease </strong> <strong>and is financially supported by donations, event revenues and subscriptions of its members.</strong></p></div></div></div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

@@ -22,10 +22,7 @@ require SITE_ROOT . '/includes/home-top.php';
 <article class="content home-content">
 <div class="blocks">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><h2><strong><span lang="ru">ПУБЛИЧНОЕ МЕРОПРИЯТИЕ</span></strong></h2><p><a href="/ru/planetarium/science-cafe/2026/kition-science-cafe-24-november-2026.php"><img alt="" data-nw="1920" decoding="async" height="675" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2026/science-cafe-24-november-2026.jpg" width="1200"/></a></p><h2><a href="/ru/planetarium/science-cafe/2026/kition-science-cafe-24-november-2026.php"><strong>Нажмите здесь, чтобы узнать больше...</strong></a></h2></div><div class="block"><p><a href="/ru/program-events/public-events/december-2026/russian-science-festival-2026-nayka0+.php"><img alt="" data-nw="1254" decoding="async" height="1600" loading="lazy" src="/images/public-events/december-2026/science-0%2B-2026-poster.jpg" width="1200"/></a></p><h2><strong><a href="/ru/program-events/public-events/december-2026/russian-science-festival-2026-nayka0+.php">Нажмите здесь, чтобы узнать больше...</a></strong></h2></div><div class="block"><h2><a href="/ru/program-events/private-programs.php"><strong>ЧАСТНОЕ МЕРОПРИЯТИЕ</strong></a></h2><p><a href="/ru/program-events/private-programs.php"><img alt="" data-nw="1440" decoding="async" height="709" loading="lazy" src="/images/CustomizedProgramCall99991111.jpg" width="1260"/></a></p><h2><a href="/ru/program-events/private-programs.php">Нажмите здесь, чтобы узнать больше...</a></h2></div></div></div>
-<marquee>
-</marquee>
-<marquee>
-</marquee></div>
+</div>
 <div class="blocks">
 <p><a href="/ru/kition-astronomer.php"><img alt="" data-nw="3300" decoding="async" height="286" loading="lazy" src="/images/kition-astronomer-index.jpg" width="1260"/></a></p>
 <p class="short"><strong><a href="/ru/kition-astronomer.php">Станьте «АСТРОНОМОМ КИТИОНА» и пользуйтесь преимуществами. Узнать больше...</a></strong></p>
@@ -75,7 +72,7 @@ require SITE_ROOT . '/includes/home-top.php';
 </div>
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p><a href="/ru/program-events/educational-courses/summer-school.php"><img alt="" data-nw="1582" decoding="async" height="360" loading="lazy" src="/images/summer-school-index.jpg" width="1582"/></a></p><h2><strong><a href="/ru/program-events/educational-courses/summer-school.php">Нажмите здесь, чтобы узнать больше...</a></strong></h2></div><div class="block"><h2><a href="/ru/next-event.php"><strong>ЕЖЕМЕСЯЧНАЯ ПРОГРАММА</strong></a></h2><p><a href="/ru/next-event.php"><img alt="" data-nw="650" decoding="async" height="324" loading="lazy" src="/images/NextEventCall99991111.jpg" width="500"/></a></p><h2><a href="https://fireballs.imo.net/members/imo/report_intro" rel="noopener noreferrer" target="_blank">БОЛИДЫ</a></h2></div></div></div>
 <div class="blocks">
-<div class="row split">
+<div class="row split wrap">
 <div class="block media"><a href="https://fireballs.imo.net/members/imo/report_intro" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="400" decoding="async" height="258" loading="lazy" src="/images/perseids/report-a-fireball.jpg" width="300"/></a></div>
 <div class="block"><p><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» </strong>— официальный национальный координационный центр Кипра Международной метеорной организации (IMO) по болидам.</p>
 <p>Пожалуйста, прочитайте ниже, что такое болиды, и пришлите нам на адрес <a href="mailto:observatory@cytanet.com.cy">observatory@cytanet.com.cy</a> видео или фотографии болидов, которые Вы наблюдали, а также краткое описание Ваших впечатлений для дальнейших научных исследований.</p>

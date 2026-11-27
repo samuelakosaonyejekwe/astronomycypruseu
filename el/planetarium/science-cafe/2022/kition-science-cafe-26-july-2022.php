@@ -17,7 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <p><a href="https://astronomycyprus.eu/gift-shop/index.php/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p>
-
+<div class="blocks">
 <p>7<img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-26-july-2022.jpg" width="800"/></p>
 <p class="short">26 ΙΟΥΛΙΟΥ 2022</p>
 <p>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -38,9 +38,8 @@ require SITE_ROOT . '/includes/header.php';
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd><dt><a href="https://astronomycyprus.eu/gift-shop/index.php/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">ΔΩΡΕΑΝ ΕΓΓΡΑΦΗ</a></dt><dd> https://astronomycyprus.eu/gift-shop/index.php/product/kition-online-science-cafe/ </dd></dl>
 <p class="short">20:00 (UT+3:00) «<strong>Το διεισδυτικό βλέμμα του διαστημικού τηλεσκοπίου James Webb</strong>»</p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-<p><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-26-july-2022.jpg" width="800"/></p>
-<p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
-
+<div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-26-july-2022.jpg" width="800"/></p><p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο <a href="tel:+35799991111">+357 9999 1111</a>.</p></div></div></div>
+</div>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί να...<br/> Ελάτε στον διαστημικό μας περίπατο</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->

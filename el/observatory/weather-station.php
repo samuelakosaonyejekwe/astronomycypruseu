@@ -23,11 +23,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Τα δεδομένα που συλλέγονται χρησιμοποιούνται από τους επιστήμονές μας για τη δική τους πρόγνωση καιρού με βάση τον τοπικό εξοπλισμό.</p>
 <p>Τα εγκατεστημένα όργανα περιλαμβάνουν ένα θερμόμετρο, ένα βαρόμετρο, ένα <span lang="en">βροχόμετρο</span>, ένα <span lang="en">ανεμόμετρο</span> και ένα υγρόμετρο.</p>
 <p>Ο καιρός παρακολουθείται επίσης στο Αστεροσκοπείο από τον ίδιο εξοπλισμό.</p>
-<div class="row">
-<div class="block media"><img alt="" data-nw="972" decoding="async" height="462" loading="lazy" src="/images/weather-station.jpg" width="600"/></div>
-</div>
-<p>Επιπλέον, λαμβάνονται ζωντανά δεδομένα για την πρόγνωση καιρού του αστεροσκοπείου από <a href="https://zoom.earth/places/cyprus/" rel="noopener noreferrer" target="_blank">δορυφόρους</a> και τον ιστότοπο <a href="https://clearoutside.com/forecast/34.86/33.58" rel="noopener noreferrer" target="_blank">clearoutside.com</a>.</p>
-<p>Επιπλέον, το αστεροσκοπείο συνεργάζεται με το <a href="https://www.kitasweather.com/" rel="noopener noreferrer" target="_blank">Kitas Weather</a> και το <a href="https://www.moa.gov.cy/moa/dm/dm.nsf/home_en/home_en?openform" rel="noopener noreferrer" target="_blank">Τμήμα Μετεωρολογίας Κύπρου</a>.</p>
+<div class="blocks"><div class="row split"><div class="block media"><img alt="" data-nw="972" decoding="async" height="462" loading="lazy" src="/images/weather-station.jpg" width="600"/></div><div class="block"><p>Επιπλέον, λαμβάνονται ζωντανά δεδομένα για την πρόγνωση καιρού του αστεροσκοπείου από <a href="https://zoom.earth/places/cyprus/" rel="noopener noreferrer" target="_blank">δορυφόρους</a> και τον ιστότοπο <a href="https://clearoutside.com/forecast/34.86/33.58" rel="noopener noreferrer" target="_blank">clearoutside.com</a>.</p><p>Επιπλέον, το αστεροσκοπείο συνεργάζεται με το <a href="https://www.kitasweather.com/" rel="noopener noreferrer" target="_blank">Kitas Weather</a> και το <a href="https://www.moa.gov.cy/moa/dm/dm.nsf/home_en/home_en?openform" rel="noopener noreferrer" target="_blank">Τμήμα Μετεωρολογίας Κύπρου</a>.</p></div></div></div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
