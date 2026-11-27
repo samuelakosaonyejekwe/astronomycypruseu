@@ -21,7 +21,7 @@
   --shadow: 0 10px 30px rgba(0, 0, 0, .35);
   --wrap: 1240px;
   --font: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
-  --font-display: "Trebuchet MS", "Segoe UI", system-ui, sans-serif;
+  --font-display: "Segoe UI", system-ui, -apple-system, Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
   color-scheme: dark;
 }
 [data-theme="light"] {
@@ -404,3 +404,58 @@ dialog::backdrop { background: rgba(2, 4, 14, .7); backdrop-filter: blur(3px); }
 .block ul.items, .block ul.bullets { max-width: none; margin-left: 0; margin-right: 0; }
 .block dl.specs { margin-left: auto; margin-right: auto; }
 .content dl.specs dt { max-width: 18rem; }
+.table-wrap td > p, .table-wrap th > p, .table-wrap td > :first-child, .table-wrap th > :first-child { margin-top: 0; margin-bottom: 0; }
+.table-wrap td p + p { margin-top: .35em; }
+
+/* ---------- Uniform photo galleries ----------
+   Captioned picture sets: identical frames, whole picture visible (no cropping). */
+.row.gallery.captioned:not(.promo):not(.tiles) { display: grid !important; grid-template-columns: repeat(auto-fill, minmax(min(100%, 250px), 1fr)); gap: 1rem; align-items: stretch; }
+.row.gallery.captioned:not(.promo):not(.tiles) > .block { max-width: none !important; flex: none !important; display: flex; flex-direction: column; gap: .45rem; padding: .6rem; }
+.row.gallery.captioned:not(.promo):not(.tiles) img,
+.row.gallery.captioned:not(.promo):not(.tiles) video { display: block; width: 100% !important; max-width: 100% !important; height: 230px; object-fit: contain; background: #04060f; border-radius: 8px; }
+.row.gallery.captioned:not(.promo):not(.tiles) > .block > a:first-child { display: block; }
+/* a single picture with its caption: centred, same visual scale as the galleries */
+.row.stack { width: 100%; }
+.row.stack > .block { width: 100%; text-align: center; }
+.row.stack img { display: block; margin: 0 auto; width: auto; max-width: 100%; max-height: 340px; object-fit: contain; }
+.row.stack p, .row.stack h2, .row.stack h3 { text-align: center; margin-left: auto; margin-right: auto; }
+/* numbered notes (i), (ii), … */
+.content ol.notes { list-style: lower-roman; margin: .3rem auto 1.2rem; padding-left: 2.4rem; max-width: 78ch; }
+.content ol.notes > li { margin: .25rem 0; padding-left: .3rem; max-width: none; }
+.content ol.notes > li::marker { color: var(--accent); font-weight: 700; content: "(" counter(list-item, lower-roman) ")  "; }
+.block ol.notes { max-width: none; margin-left: 0; }
+
+/* ---------- Use the full content width, balanced picture/text rows ---------- */
+.content { font-size: 1.04rem; }
+.content p, .content li, .content ul, .content ol:not(.notes) { max-width: none; }
+.content ol.notes, .content dl.specs { max-width: min(100%, 60rem); }
+.row.split { align-items: flex-start; }
+.row.split > .block:not(.media) { align-self: center; }
+.row.split > .block.media img { max-height: 440px; object-fit: contain; }
+/* several pictures in one picture column: side by side, not a tall stack */
+.row.split > .block.media:has(> :nth-child(2)) { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .5rem; align-content: start; flex-basis: 48%; max-width: 48%; }
+.row.split > .block.media:has(> :nth-child(2)) > * { margin: 0; }
+.row.split > .block.media:has(> :nth-child(2)) img { width: 100%; height: 220px; object-fit: cover; }
+@media (max-width: 760px) { .row.split > .block.media:has(> :nth-child(2)) { flex-basis: 100%; max-width: 100%; } }
+/* label + details rows (dates, times, names) */
+.row.keyval { flex-wrap: nowrap; gap: 1.2rem; align-items: baseline; padding: .55rem 0; border-bottom: 1px solid var(--border); }
+.row.keyval > .block:first-child { flex: 0 0 13rem; text-align: right; font-weight: 700; color: var(--accent); }
+.row.keyval > .block:last-child { flex: 1 1 auto; }
+.row.keyval > .block > :first-child { margin-top: 0; }
+.row.keyval > .block > :last-child { margin-bottom: 0; }
+.blocks:has(> .row.keyval) { gap: 0; }
+@media (max-width: 640px) { .row.keyval { flex-wrap: wrap; gap: .3rem; } .row.keyval > .block:first-child { flex-basis: 100%; text-align: left; } }
+
+/* typography: one clean family; headings by weight and size, not by a different face */
+.content h2, .content h3, .content h4, .page-title, .home-section-title, .section-index h2 { font-family: var(--font-display); font-weight: 700; letter-spacing: .01em; }
+.content h2 { letter-spacing: .02em; }
+.content p, .content li, .content dd { font-weight: 400; }
+.row.split > .block:not(.media) > h2:first-child { margin-top: 0; text-align: left; }
+/* letter + signature (Director's message) */
+.row.split.letter { align-items: flex-start; }
+.row.split.letter > .block.media { position: sticky; top: 76px; }
+.row.split.letter > .block.media img { border-radius: 50%; max-width: 260px; box-shadow: 0 0 0 4px var(--surface-2), var(--shadow); }
+.row.split.letter > .block:not(.media) { align-self: flex-start; }
+.signature { margin: 1.4rem 0; padding: 1rem 1.2rem; border-left: 4px solid var(--accent); background: color-mix(in srgb, var(--surface-2) 60%, transparent); border-radius: 0 12px 12px 0; }
+.signature .signature-name { font-size: 1.15rem; font-weight: 700; color: var(--accent); margin: 0 0 .5rem; }
+.signature ul.bullets { margin: 0; font-size: .95rem; }

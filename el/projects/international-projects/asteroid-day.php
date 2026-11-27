@@ -17,13 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="275" loading="lazy" src="/images/asteroid-day/AD_LOGO.jpg" width="550"/></p></div><div class="block"><h2><strong>ΕΟΡΤΑΣΜΟΙ ΣΤΗΝ ΚΥΠΡΟ 2026</strong></h2><p class="short"><strong>#asteroidday #AD2026 #kpocyprus #cyprus</strong></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/asteroid-day-2026-cyprus/" rel="noopener noreferrer" target="_blank"><strong>ΠΑΡΤΕ ΤΑ ΕΙΣΙΤΗΡΙΑ ΣΑΣ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ ΚΥΠΡΟΥ 30 ΙΟΥΝΙΟΥ 2026 - ΠΑΤΗΣΤΕ ΕΔΩ</strong></a></p><p>Γιορτάστε μαζί με το Κίτιον Πλανητάριο &amp; Αστεροσκοπείο τη Διεθνή Ημέρα Αστεροειδών.</p><p><strong>Η επίσημη εκδήλωση της Κύπρου θα πραγματοποιηθεί στις εγκαταστάσεις του Κίτιον Πλανηταρίου &amp; Αστεροσκοπείου στο Κίτι</strong></p><p><strong>ΜΟΝΟ ΜΕ ΚΡΑΤΗΣΗ</strong></p><p class="short"><strong>Για πληροφορίες ΚΑΛΕΣΤΕ 99991111</strong></p></div></div></div>
-
-
-
-
-
-
-
 <h3>ΤΡΙΤΗ 30 ΙΟΥΝΙΟΥ 2026, ΩΡΑ: 19:30 (UT+3)</h3>
 <h3>ΤΟΠΟΣ: ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ (ΚΙΤΙ, ΚΥΠΡΟΣ)</h3>
 <h4><strong>ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ 2026 – ΚΥΠΡΟΣ</strong></h4>
@@ -46,18 +39,12 @@ require SITE_ROOT . '/includes/header.php';
 <source src="/video/asteroidday.mp4" type="video/mp4">
 </source></video>
 <div class="blocks">
-<div class="row">
-<div class="block"><p><strong>Η ΙΣΤΟΡΙΑ ΠΙΣΩ ΑΠΟ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</strong></p>
+<p><strong>Η ΙΣΤΟΡΙΑ ΠΙΣΩ ΑΠΟ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</strong></p>
 <p>Η Ημέρα Αστεροειδών είναι ένα δυναμικό πρόγραμμα ενημέρωσης και εκπαίδευσης που στόχο έχει να εμπνεύσει τον κόσμο για τους αστεροειδείς – τον ρόλο τους στο σχηματισμό του ηλιακού μας συστήματος, πώς μπορούμε να αξιοποιήσουμε τους πόρους τους, πώς οι αστεροειδείς μπορούν να ανοίξουν τον δρόμο για τη μελλοντική εξερεύνηση και, τέλος, πώς μπορούμε να προστατεύσουμε τον πλανήτη μας από πτώσεις αστεροειδών. Οι εκδηλώσεις της Ημέρας Αστεροειδών πραγματοποιούνται στις 30 Ιουνίου κάθε χρόνο, για να σηματοδοτηθεί η επέτειος του πλήγματος της Τουνγκούσκα το 1908. Οι εκδηλώσεις της Ημέρας Αστεροειδών οργανώνονται κατά κύριο λόγο ανεξάρτητα σε όλο τον κόσμο για ανθρώπους κάθε ηλικίας και είναι ως επί το πλείστον δωρεάν. Η Ημέρα Αστεροειδών είναι πρόγραμμα του Ιδρύματος Αστεροειδών (Asteroid Foundation), ενός μη κερδοσκοπικού οργανισμού του Λουξεμβούργου.</p>
 <p>Η Ημέρα Αστεροειδών συνιδρύθηκε το 2014 από τον Δρ Μπράιαν Μέι, αστροφυσικό και κιθαρίστα των QUEEN, μαζί με την Ντανίκα Ρέμι, Πρόεδρο του Ιδρύματος B612, τον Ράστι Σβάικαρτ, αστροναύτη του Apollo 9, και τον κινηματογραφιστή Γκριγκ Ρίχτερς. Το 2016 τα Ηνωμένα Έθνη όρισαν επίσημα την Ημέρα Αστεροειδών ως τη διεθνή ημέρα ενημέρωσης και εκπαίδευσης για τους αστεροειδείς. Μαζί με τα Ηνωμένα Έθνη, διαστημικές υπηρεσίες, σχολεία και πανεπιστήμια, η Ημέρα Αστεροειδών οργανώνεται από δίκτυα υποστηρικτών που φιλοξενούν εκδηλώσεις παγκοσμίως στις 30 Ιουνίου και οποιαδήποτε άλλη ημέρα του χρόνου αποφασίσουν οι ανεξάρτητες ομάδες.</p>
 <p>Για την αρχική έναρξη των εκπαιδευτικών προγραμμάτων της Ημέρας Αστεροειδών το 2014, μέλη της κοινότητας των αστεροειδών συνέταξαν και δημοσίευσαν μια αναφορά για να συγκεντρώσουν τη δημόσια υποστήριξη για την εκπαίδευση σχετικά με τους αστεροειδείς και κάλεσαν τις κυβερνήσεις να επιταχύνουν τη χρηματοδότηση προγραμμάτων ανακάλυψης αστεροειδών. Σήμερα, η αναφορά αυτή, η Διακήρυξη 100X για τους Αστεροειδείς, έχει υπογραφεί από εκατοντάδες εξέχουσες προσωπικότητες σε όλο τον κόσμο, μεταξύ των οποίων ηγέτες της επιστήμης, της τεχνολογίας και των επιχειρήσεων, καθώς και περισσότεροι από 125 αστροναύτες.</p>
 <p>Χάρη στους εταίρους και τους υποστηρικτές της, και ιδιαίτερα στην Κυβέρνηση του Λουξεμβούργου, όπου εδρεύει το Ίδρυμα, η Ημέρα Αστεροειδών έχει σημειώσει σημαντική πρόοδο στην ενημέρωση του κόσμου για τους αστεροειδείς. Μέσα από το έργο μας μοιραζόμαστε πληροφορίες και διδάσκουμε για την επιστήμη, τις ευκαιρίες και τους κινδύνους των αστεροειδών. Από τις πρώτες εκδηλώσεις το 2015, το κίνημα έχει αναπτυχθεί εκθετικά. Μέσω της Ημέρας Αστεροειδών συνεχίζουμε να εμπνέουμε ανθρώπους και νεαρά μυαλά να κοιτάζουν ψηλά στον ουρανό και να ενθουσιάζονται με το Ηλιακό μας Σύστημα.</p>
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="1203" decoding="async" height="411" loading="lazy" src="/images/asteroid-day/asteroidday_title.jpg" width="550"/></p></div><div class="block"><p class="short"><strong>Η ΑΠΟΣΤΟΛΗ ΤΗΣ ΗΜΕΡΑΣ ΑΣΤΕΡΟΕΙΔΩΝ</strong></p><p>Η Ημέρα Αστεροειδών πραγματοποιείται κάθε χρόνο στις 30 Ιουνίου.</p><p>Πρόκειται για μια παγκόσμια εκστρατεία ευαισθητοποίησης, όπου άνθρωποι από όλο τον κόσμο συγκεντρώνονται για να μάθουν για τους αστεροειδείς, τον κίνδυνο πρόσκρουσης που ενδέχεται να συνιστούν και τι μπορούμε να κάνουμε για να προστατεύσουμε τον πλανήτη μας, τις οικογένειές μας, τις κοινότητές μας και τις μελλοντικές γενιές από μελλοντικές πτώσεις αστεροειδών.</p><p>Η Ημέρα Αστεροειδών πραγματοποιείται κάθε χρόνο την επέτειο του μεγαλύτερου πλήγματος της πρόσφατης ιστορίας, του συμβάντος της Τουνγκούσκα του 1908 στη Σιβηρία. Ένας σχετικά μικρός αστεροειδής, διαμέτρου περίπου 40 μέτρων, δηλαδή στο μέγεθος ενός μέτριου κτιρίου γραφείων, κατέστρεψε μια ακατοίκητη περιοχή στο μέγεθος μιας μεγάλης μητροπολιτικής πόλης.</p><p>Μεγάλες και μικρές εκδηλώσεις που οργανώνονται σε περιφερειακό επίπεδο πραγματοποιούνται την Ημέρα Αστεροειδών και κυμαίνονται από διαλέξεις και άλλα εκπαιδευτικά προγράμματα έως ζωντανές συναυλίες και ευρύτερες κοινοτικές εκδηλώσεις, με στόχο την ευαισθητοποίηση του κοινού για την ανάγκη αυξημένης ανίχνευσης και παρακολούθησης αστεροειδών.</p></div></div></div>
-
-
-
-
-
 <video controls="" preload="metadata">
 <source src="/video/Tim%20Peake%20for%20Asteroid%20Day.mp4" type="video/mp4">
 </source></video>
@@ -99,29 +86,11 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">20:45 ΠΑΡΑΤΗΡΗΣΕΙΣ ΜΕ ΤΗΛΕΣΚΟΠΙΑ</p>
 <p class="short"><strong>ΕΛΑΤΕ ΜΑΖΙ ΜΑΣ ΣΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ... </strong></p>
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="/el/planetarium/science-cafe/2024/kition-science-cafe-25-june-2024.php"><img alt="" data-nw="960" decoding="async" height="309" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-25-june-2024.jpg" width="550"/></a></p><h2><strong>ΕΟΡΤΑΣΜΟΙ ΣΤΗΝ ΚΥΠΡΟ 2023</strong></h2><p class="short">#ASTEROIDDAY #AD2023</p><p class="short"><a href="https://youtu.be/7ex862HqM0c" rel="noopener noreferrer" target="_blank">ΠΡΟΓΡΑΜΜΑ ΗΜΕΡΑΣ ΑΣΤΕΡΟΕΙΔΩΝ ΚΥΠΡΟΥ 2023</a></p></div></div></div>
-
-
-
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><a href="https://youtu.be/7ex862HqM0c" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1920" decoding="async" height="338" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/science-cafe-27-june-2023.jpg" width="600"/></a></p></div><div class="block"><h3>ΤΡΙΤΗ 27 ΙΟΥΝΙΟΥ 2023, ΩΡΑ: 20:00</h3><p>20:00 ΧΑΙΡΕΤΙΣΜΟΣ ΑΠΟ ΤΟΝ ΕΘΝΙΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ, ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ</p><p>20:05 ΤΙ ΕΙΝΑΙ Η ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ; (ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ)</p><p class="short">20:15 ΠΡΑΚΤΙΚΕΣ ΠΛΕΥΡΕΣ ΤΗΣ <em><strong><a href="https://youtu.be/7ex862HqM0c" rel="noopener noreferrer" target="_blank">ΠΡΟΣΟΜΟΙΩΣΗΣ ΤΡΟΧΙΑΣ ΠΥΡΙΝΗΣ ΣΦΑΙΡΑΣ </a></strong></em> (ΜΑΞΙΜ ΒΕΡΕΒΚΙΝ)</p></div></div></div>
-
-
-
-
 <h2><strong>ΕΟΡΤΑΣΜΟΙ ΣΤΗΝ ΚΥΠΡΟ 2022</strong></h2>
 <p class="short">#ASTEROIDDAY #AD2022</p>
 <h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="Call for Asteroid Day Cyprus 2022">Πρόσκληση για την Ημέρα Αστεροειδών Κύπρου 2022</a></h2>
 <div class="blocks"><div class="row split"><div class="block media"><p><a href="https://www.youtube.com/watch?v=JDGfaJkzDVE" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="225" loading="lazy" src="/images/asteroid-day/esa-call-ad2022.jpg" width="400"/></a></p></div><div class="block"><div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank"><strong>ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ ΚΥΠΡΟΣ 30 ΙΟΥΝΙΟΥ 2022</strong></a></p></div><h3>ΠΡΟΓΡΑΜΜΑ ΕΚΔΗΛΩΣΗΣ ΣΤΟ ZOOM: ΠΕΜΠΤΗ 30 ΙΟΥΝΙΟΥ 2022, ΩΡΑ: 20:00</h3><p>20:00 ΧΑΙΡΕΤΙΣΜΟΣ ΑΠΟ ΤΟΝ ΕΘΝΙΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ, ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ</p><p>20:02 ΤΙ ΕΙΝΑΙ Η ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ; (ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ)</p><p class="short">20:05 ΤΕΛΕΥΤΑΙΑ ΝΕΑ ΓΙΑ ΤΟΥΣ ΑΣΤΕΡΟΕΙΔΕΙΣ (ΓΕΩΡΓΙΟΣ ΤΡΟΥΛΛΙΑΣ)</p><p class="short">20:10 ΕΡΕΥΝΑ ΤΟΥ ΣΥΜΒΑΝΤΟΣ ΤΗΣ ΤΟΥΝΓΚΟΥΣΚΑ (ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ)</p><p class="short">20:15 ΑΝΑΖΗΤΗΣΗ ΑΣΤΕΡΟΕΙΔΩΝ (ΒΙΝΤΑ ΜΙΡΣΑΜΣΙ)</p><p>20:20 ΕΞΕΡΕΥΝΗΣΗ ΑΣΤΕΡΟΕΙΔΩΝ (ΚΑΤΙΑ ΔΗΜΗΤΡΙΟΥ)</p><p>20:30 ΠΡΟΣΟΜΟΙΩΣΗ ΜΕ ΤΗ ΒΟΗΘΕΙΑ ΥΠΟΛΟΓΙΣΤΗ ΤΩΝ ΤΡΟΧΙΩΝ ΠΥΡΙΝΩΝ ΣΦΑΙΡΩΝ ΜΕ ΒΑΣΗ ΜΑΡΤΥΡΙΕΣ (ΜΑΞΙΜ ΒΕΡΕΒΚΙΝ)</p><p>20:50 ΠΡΟΣΟΜΟΙΩΣΗ ΜΕ ΤΗ ΒΟΗΘΕΙΑ ΥΠΟΛΟΓΙΣΤΗ ΤΩΝ ΤΡΟΧΙΩΝ ΠΥΡΙΝΩΝ ΣΦΑΙΡΩΝ ΜΕ ΒΑΣΗ ΔΕΔΟΜΕΝΑ ΒΙΝΤΕΟ (ΝΤΜΙΤΡΙ ΝΤΟΥΜΠΙΣΚΙΝ)</p><p>21:02 ΑΝΑΚΟΙΝΩΣΗ ΝΕΩΝ ΑΝΑΚΑΛΥΨΕΩΝ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p></div></div></div>
-
-
-
-
-
-
-
-
-
-
-
 <h2><strong>ΕΟΡΤΑΣΜΟΙ ΣΤΗΝ ΚΥΠΡΟ 2021</strong></h2>
 <p class="short">#ASTEROIDDAY #AD2021</p>
 <p class="short"><strong>ΜΕΤΕΩΡΙΤΕΣ 25 ΜΑΪΟΥ 2021</strong></p>
@@ -140,7 +109,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>2020</strong></p>
 <p class="short">#ASTEROIDDAY #AD2020</p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">30 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><a href="https://youtu.be/L4PNAO0rdrU" rel="noopener noreferrer" target="_blank">live event </a>
 <p>ΧΑΙΡΕΤΙΣΜΟΣ ΑΠΟ ΤΟΝ ΠΕΡΙΦΕΡΕΙΑΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ.</p>
@@ -152,20 +121,19 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>2019</strong></p>
 <p class="short">#ASTEROIDDAY #AD2019</p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">27 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p>ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ <br/> ΤΟΝ ΠΕΡΙΦΕΡΕΙΑΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ</p>
 <dl class="specs"><dt>ΑΠΟΣΤΟΛΕΣ ΑΣΤΕΡΟΕΙΔΩΝ</dt><dd> ΔΙΑΛΕΞΗ ΑΠΟ ΤΗΝ Κ. ΔΗΜΗΤΡΙΟΥ</dd><dt>ΚΥΝΗΓΙ ΑΣΤΕΡΟΕΙΔΩΝ</dt><dd> ΧΡΑΤΣΙΑ ΖΑΚΑΡΙΑΝ</dd></dl>
-
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ ΚΑΙ ΤΟΥ ΚΡΟΝΟΥ</p>
 <p class="short">(ΑΜΦΙΘΕΑΤΡΟ, ΚΤΙΡΙΟ ΕΠΙΣΤΗΜΩΝ, ΑΓΓΛΙΚΗ ΣΧΟΛΗ, ΛΕΥΚΩΣΙΑ)</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">28 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p class="short">ΤΑΙΝΙΑ ΠΛΑΝΗΤΑΡΙΟΥ 51 ΜΟΙΡΕΣ ΒΟΡΕΙΑ (EN) (ΓΚΡΙΓΚΟΡΙΙ ΡΙΧΤΕΡΣ)</p>
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">30 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p class="short">ΣΥΖΗΤΗΣΗ ΜΕ ΕΝΑΝ ΑΣΤΡΟΝΑΥΤΗ</p>
 <p class="short">“ΚΙΝΔΥΝΟΣ ΑΠΟ ΤΟΝ ΟΥΡΑΝΟ” ΟΜΙΛΗΤΗΣ ΤΑΚΗΣ ΘΕΟΔΟΣΙΟΥ (ΕΛΛΑΔΑ)</p>
@@ -174,24 +142,23 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2018</strong></p>
 <p class="short">#ASTEROIDDAY #AD2018</p>
-<div class="table-wrap"><table><tr><th scope="col">27 ΙΟΥΝΙΟΥ</th><th scope="col">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> (ΑΜΦΙΘΕΑΤΡΟ, ΚΤΙΡΙΟ ΕΠΙΣΤΗΜΩΝ, ΑΓΓΛΙΚΗ ΣΧΟΛΗ, ΛΕΥΚΩΣΙΑ)</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">28 ΙΟΥΝΙΟΥ</th><th scope="col">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ</th></tr><tr><td>30 ΙΟΥΝΙΟΥ</td><td>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> “ΕΡΓΟ NEOShield-2” ΟΜΙΛΗΤΡΙΑ ΒΑΝΕΣΣΑ ΡΟΜΑΝΕΛΟ (ΓΕΡΜΑΝΙΑ)</td></tr></table></div>
+<div class="table-wrap"><table><tr><td>27 ΙΟΥΝΙΟΥ</td><td>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> (ΑΜΦΙΘΕΑΤΡΟ, ΚΤΙΡΙΟ ΕΠΙΣΤΗΜΩΝ, ΑΓΓΛΙΚΗ ΣΧΟΛΗ, ΛΕΥΚΩΣΙΑ)</td></tr><tr><td>28 ΙΟΥΝΙΟΥ</td><td>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ</td></tr><tr><td>30 ΙΟΥΝΙΟΥ</td><td>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ<br/> <br/> “ΕΡΓΟ NEOShield-2” ΟΜΙΛΗΤΡΙΑ ΒΑΝΕΣΣΑ ΡΟΜΑΝΕΛΟ (ΓΕΡΜΑΝΙΑ)</td></tr></table></div>
 <p class="short"><strong>2017</strong></p>
 <p class="short">#ASTEROIDDAY #AD2017</p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">27 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p>ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ <br/>ΤΟΝ ΠΕΡΙΦΕΡΕΙΑΚΟ ΣΥΝΤΟΝΙΣΤΗ ΤΗΣ ΚΥΠΡΟΥ ΚΥΡΙΟ ΓΕΩΡΓΙΟ ΤΡΟΥΛΛΙΑ</p>
 <dl class="specs"><dt>ΑΠΟΣΤΟΛΕΣ ΑΣΤΕΡΟΕΙΔΩΝ</dt><dd> ΔΙΑΛΕΞΗ ΑΠΟ ΤΗΝ Κ. ΔΗΜΗΤΡΙΟΥ</dd><dt>ΚΥΝΗΓΙ ΑΣΤΕΡΟΕΙΔΩΝ</dt><dd> ΧΡΑΤΣΙΑ ΖΑΚΑΡΙΑΝ</dd></dl>
-
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ ΚΑΙ ΤΟΥ ΚΡΟΝΟΥ</p>
 <p class="short">(ΑΜΦΙΘΕΑΤΡΟ, ΚΤΙΡΙΟ ΕΠΙΣΤΗΜΩΝ, ΑΓΓΛΙΚΗ ΣΧΟΛΗ, ΛΕΥΚΩΣΙΑ)</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">28 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p class="short">ΤΑΙΝΙΑ ΠΛΑΝΗΤΑΡΙΟΥ 51 ΜΟΙΡΕΣ ΒΟΡΕΙΑ (EN) (ΓΚΡΙΓΚΟΡΙΙ ΡΙΧΤΕΡΣ)</p>
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">30 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p class="short">ΣΥΖΗΤΗΣΗ ΜΕ ΕΝΑΝ ΑΣΤΡΟΝΑΥΤΗ</p>
 <p class="short">“ΚΙΝΔΥΝΟΣ ΑΠΟ ΤΟΝ ΟΥΡΑΝΟ” ΟΜΙΛΗΤΗΣ ΤΑΚΗΣ ΘΕΟΔΟΣΙΟΥ (ΕΛΛΑΔΑ)</p>
@@ -201,7 +168,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>2016</strong></p>
 <p class="short">#ASTEROIDDAY #AD2016</p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">30 ΙΟΥΝΙΟΥ</p></div>
 <div class="block"><p class="short">ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ</p><p class="short">SCIENCE CAFE “<strong>ΚΙΝΔΥΝΟΣ ΑΠΟ ΤΟΝ ΟΥΡΑΝΟ</strong>”</p>
 <p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ</p></div>
@@ -209,45 +176,36 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p><a href="/images/2016-06-30.jpg"><img alt="" data-nw="1440" decoding="async" height="309" loading="lazy" src="/images/2016-06-30.jpg" width="550"/></a> </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 ΣΕΠΤΕΜΒΡΙΟΥ 23:48</p></div>
 <div class="block"><p class="short">ΠΥΡΙΝΗ ΣΦΑΙΡΑ ΠΑΝΩ ΑΠΟ ΤΗΝ ΚΥΠΡΟ.</p><p>ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ ΣΥΛΛΕΞΕ ΒΙΝΤΕΟ ΚΑΙ ΜΑΡΤΥΡΙΕΣ ΑΠΟ ΠΑΡΑΤΗΡΗΤΕΣ.</p>
 <p>ΤΑ ΑΠΟΤΕΛΕΣΜΑΤΑ ΔΗΜΟΣΙΕΥΤΗΚΑΝ ΚΑΙ ΥΠΟΒΛΗΘΗΚΑΝ ΣΤΟΝ ΔΙΕΘΝΗ ΟΡΓΑΝΙΣΜΟ ΜΕΤΕΩΡΩΝ, ΣΤΗ <a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank">ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ</a></p>
 <p><a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="540" decoding="async" height="313" loading="lazy" src="/images/imo_20160908.jpg" width="470"/></a></p>
 </div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΟΚΤΩΒΡΙΟΥ</p></div>
 <div class="block"><p class="short">ΜΑΘΗΜΑ ΑΣΤΡΟΝΟΜΙΑΣ "ΟΥΡΑΝΟΣ ΖΩΝΤΑΝΟΣ".</p><p class="short">ΜΙΑ ΣΥΝΕΔΡΙΑ ΤΟΥ ΜΑΘΗΜΑΤΟΣ ΕΙΝΑΙ ΑΦΙΕΡΩΜΕΝΗ ΣΤΙΣ ΑΠΟΚΡΥΨΕΙΣ ΑΣΤΕΡΟΕΙΔΩΝ.</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">10 ΟΚΤΩΒΡΙΟΥ 06:33</p></div>
 <div class="block"><p class="short">ΠΥΡΙΝΗ ΣΦΑΙΡΑ ΠΑΝΩ ΑΠΟ ΤΗΝ ΚΥΠΡΟ.</p><p>ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ ΣΥΛΛΕΞΕ ΒΙΝΤΕΟ ΚΑΙ ΜΑΡΤΥΡΙΕΣ ΑΠΟ ΠΑΡΑΤΗΡΗΤΕΣ.</p>
 <p>ΤΑ ΑΠΟΤΕΛΕΣΜΑΤΑ ΔΗΜΟΣΙΕΥΤΗΚΑΝ ΚΑΙ ΥΠΟΒΛΗΘΗΚΑΝ ΣΤΟΝ ΔΙΕΘΝΗ ΟΡΓΑΝΙΣΜΟ ΜΕΤΕΩΡΩΝ, ΣΤΗ <a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank">ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ</a></p></div>
 </div>
 </div>
 <p>Το Κίτιον Πλανητάριο &amp; Αστεροσκοπείο σας προσκαλεί να συμμετάσχετε στη Διεθνή Ημέρα Αστεροειδών!</p>
-
 <video controls="" preload="metadata">
 <source src="/video/asteroids-size-comparison.mp4" type="video/mp4">
 </source></video>
 <p>Εάν έχετε οποιεσδήποτε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> ηλεκτρονικού ταχυδρομείου</a> ή τηλεφωνήστε στο +357 9999 1111.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short">ΣΕΛΙΔΑ ΤΗΣ ΗΜΕΡΑΣ ΑΣΤΕΡΟΕΙΔΩΝ ΚΥΠΡΟΥ ΣΤΟ FB <a href="https://www.facebook.com/asteroiddaycyprus/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/asteroiddaycyprus/</a></p>
-
 <p>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ <a href="https://asteroidday.org/" rel="noopener noreferrer" target="_blank">https://asteroidday.org/</a></p>
-
 <p>ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ <a href="https://asteroidday.org/events/?tribe_eventcategory=2&amp;tribe_event_display=past" rel="noopener noreferrer" target="_blank">https://asteroidday.org/events/?tribe_eventcategory=2&amp;tribe_event_display=past</a></p>
-
 <p>ΣΕΛΙΔΑ ΤΗΣ ΗΜΕΡΑΣ ΑΣΤΕΡΟΕΙΔΩΝ ΣΤΟ FB <a href="https://www.facebook.com/asteroidday" rel="noopener noreferrer" target="_blank">https://www.facebook.com/asteroidday</a></p>
-
 <p class="short">ΣΕΛΙΔΑ ΤΗΣ ΗΜΕΡΑΣ ΑΣΤΕΡΟΕΙΔΩΝ ΣΤΟ INSTAGRAM <a href="https://www.instagram.com/asteroidday/" rel="noopener noreferrer" target="_blank">https://www.instagram.com/asteroidday/</a></p>
-
 <p class="short">ΣΕΛΙΔΑ TWITTER ΤΗΣ ΔΙΕΘΝΟΥΣ ΗΜΕΡΑΣ ΦΩΤΟΣ ΤΗΣ UNESCO <a href="https://twitter.com/asteroidday" rel="noopener noreferrer" target="_blank">https://twitter.com/asteroidday</a></p>
-
 <p class="short">ΣΕΛΙΔΑ ΤΗΣ ΗΜΕΡΑΣ ΑΣΤΕΡΟΕΙΔΩΝ ΣΤΟ YOUTUBE <a href="https://www.youtube.com/asteroidday" rel="noopener noreferrer" target="_blank">http://www.youtube.com/asteroidday</a></p>
-</div>
-</div>
 </div>
 <p class="short">Το Κίτιον Πλανητάριο &amp; Αστεροσκοπείο σας καλωσορίζει<br/> Ελάτε στον διαστημικό μας περίπατο</p>
 </article>

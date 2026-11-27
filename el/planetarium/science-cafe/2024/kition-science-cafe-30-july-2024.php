@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p>#meteors @kpocyprus #persides #kpocyprus #science #astronomy #paleontology #cafe #online #cyprus</p>
 <h2><img alt="" data-nw="2000" decoding="async" height="456" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-30-july-2024.jpg" width="800"/></h2>
 <p class="short"><strong>ΤΡΙΤΗ 30 ΙΟΥΛΙΟΥ 2024, ΩΡΑ: 20:00 (UT+3)</strong></p>
@@ -29,13 +26,11 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>ΣΥΜΜΕΤΕΧΕΤΕ ΔΙΑΔΙΚΤΥΑΚΑ</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-
 <p class="short">Μάθετε για τη Βροχή Μετεώρων των Περσείδων 2024 και πώς να την παρατηρήσετε.</p>
 <p class="short">Μάθετε για τις 2 δημόσιες εκδηλώσεις μας που σχετίζονται με τις βροχές μετεώρων.</p>
 <p class="short">Ελάτε στην ομάδα μας για επιστημονικές παρατηρήσεις της βροχής μετεώρων.</p>
 <p>Η κα Σταυρούλλα Βασιλείου (Παλαιοντολόγος) θα μιλήσει για τη Φυσική Ιστορία της Κύπρου.</p>
 <p>Μάθετε για τη Γεωλογική Εξέλιξη της Κύπρου, τη Σημασία της Κύπρου στη Γεωλογία, τα Προϊστορικά Θηλαστικά της Κύπρου, τα Ενδημικά Είδη της Κύπρου και πολλά ακόμη...</p>
-
 <p>Μην χάσετε αυτή τη μοναδική παρουσίαση.</p>
 <p class="short"><a href="https://www.facebook.com/vassilioustavroula" rel="noopener noreferrer" target="_blank">Σταυρούλλα Βασιλείου</a></p>
 <p class="short"><a class="doc-link" href="/docs/science-cafe/curriculum-vitae-stavroulla-vasileiou-2024.pdf" rel="noopener" target="_blank" title="Curriculum Vitae">Βιογραφικό Σημείωμα</a></p>
@@ -50,9 +45,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

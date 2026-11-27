@@ -75,7 +75,7 @@ return array (
       'el' => 'Αποστολή & Όραμα',
       'ru' => 'Миссия и видение',
     ),
-    'img' => '/images/vision.jpg',
+    'img' => '/images/mission.jpg',
     'group' => '',
     'sort' => ' mission-vision',
   ),

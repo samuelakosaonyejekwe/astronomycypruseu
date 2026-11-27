@@ -17,7 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row"><div class="block">
 <h2><strong>GABBRO</strong></h2>
 <div class="blocks">
 <div class="row split">
@@ -33,7 +32,7 @@ require SITE_ROOT . '/includes/header.php';
 <marquee>
 </marquee>
 <marquee>
-</marquee></div></div></div>
+</marquee></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

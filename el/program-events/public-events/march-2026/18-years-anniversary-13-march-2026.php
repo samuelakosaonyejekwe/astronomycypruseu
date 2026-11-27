@@ -17,11 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
-<div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><img alt="" data-nw="283" decoding="async" height="165" loading="lazy" src="/images/Logo_JPG.jpg" width="272"/><img alt="" data-nw="3150" decoding="async" height="169" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="536"/></p></div><div class="block"><p><img alt="" data-nw="1536" decoding="async" height="600" loading="lazy" src="/images/public-events/march-2026/18-years-anniversary-friday-13-march-2026.jpg" width="900"/></p><p class="short"><strong>ΠΑΡΑΣΚΕΥΗ 13 ΜΑΡΤΙΟΥ 2026</strong></p></div></div></div>
-
-
+<div class="blocks"><div class="row gallery captioned promo"><div class="block media"><img alt="" data-nw="283" decoding="async" height="165" loading="lazy" src="/images/Logo_JPG.jpg" width="272"/><img alt="" data-nw="3150" decoding="async" height="169" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="536"/></div><div class="block"><p><img alt="" data-nw="1536" decoding="async" height="600" loading="lazy" src="/images/public-events/march-2026/18-years-anniversary-friday-13-march-2026.jpg" width="900"/></p><p class="short"><strong>ΠΑΡΑΣΚΕΥΗ 13 ΜΑΡΤΙΟΥ 2026</strong></p></div></div></div>
 <p class="short"><strong>ΩΡΑ: 19:00 (UTC+2)</strong></p>
 <p class="short">ΕΟΡΤΑΣΜΟΙ ΓΙΑ ΤΗΝ 18Η ΕΠΕΤΕΙΟ</p>
 <p class="short"><strong>(ΑΓΓΛΙΚΗ ΣΥΝΕΔΡΙΑ)</strong></p>
@@ -44,8 +40,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>19:20 ΤΕΛΕΥΤΑΙΑ – ΝΕΑ – ΕΠΙΤΕΥΓΜΑΤΑ – ΑΝΑΚΑΛΥΨΕΙΣ</strong></p>
 <p class="short"><strong> 19:30 ΤΟΥΡΤΑ ΓΕΝΕΘΛΙΩΝ </strong></p>
 <p><strong>19:45 ΠΑΡΑΤΗΡΗΣΕΙΣ ΜΕ ΤΗΛΕΣΚΟΠΙΑ</strong> ΤΟΥ ΜΕΓΑΛΟΥ ΝΕΦΕΛΩΜΑΤΟΣ ΤΟΥ ΩΡΙΩΝΑ ΚΑΙ ΤΟΥ ΠΛΑΝΗΤΗ ΔΙΑ</p>
-<p><strong>Εάν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να τηλεφωνήσετε στο +357 9999 1111.</strong></p></div>
-</div>
+<p><strong>Εάν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να τηλεφωνήσετε στο +357 9999 1111.</strong></p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

@@ -17,8 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks">
 <div class="row">
 <div class="block media"><img alt="" data-nw="960" decoding="async" height="414" loading="lazy" src="/images/charity/aspida-tou-aianta/aspidatouaianta.jpg" width="960"/></div>
@@ -28,8 +26,6 @@ require SITE_ROOT . '/includes/header.php';
 <p><span lang="en">(http://www.larnaka.org.cy/el/news/aspida-tou-aianta-1#.WYdYbLZLcdU) </span></p>
 <p><span lang="en">Она была создана в память о юном Аянте Лоизу, который потерял жизнь в возрасте пяти лет</span>.</p>
 <p>С 2013 года ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» участвует в мероприятиях «Аспида ту Аянта» по сбору средств, внося свой вклад в непосредственную помощь организации.</p>
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

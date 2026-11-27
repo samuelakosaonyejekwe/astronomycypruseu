@@ -17,8 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks">
 <div class="row stack"><div class="block"><img alt="" data-nw="281" decoding="async" height="144" loading="lazy" src="/images/charity/anticancer-society/anticancer.jpg" width="281"/><p class="short">ΣΥΝΔΕΣΜΟΣ ΚΑΤΑ ΤΟΥ ΚΑΡΚΙΝΟΥ</p>
 </div></div>
@@ -27,8 +25,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Επισκεφθείτε τον επίσημο ιστότοπο του <strong>Κυπριακού Συνδέσμου Κατά του Καρκίνου</strong>.</p>
 <p>Από το 2008 το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ συμμετέχει στις εκδηλώσεις συγκέντρωσης κεφαλαίων του Κυπριακού Συνδέσμου Κατά του Καρκίνου, προσφέροντας τη δική του συμβολή στην άμεση βοήθεια προς τον σύνδεσμο.</p>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σάς προσκαλεί να <br/> συμμετάσχετε στις εκδηλώσεις συγκέντρωσης κεφαλαίων του Κυπριακού Συνδέσμου Κατά του Καρκίνου!</p>
-<p>Εάν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να τηλεφωνήσετε στο +357 9999 1111.</p></div>
-</div>
+<p>Εάν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να τηλεφωνήσετε στο +357 9999 1111.</p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

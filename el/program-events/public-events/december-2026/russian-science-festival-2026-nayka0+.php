@@ -16,9 +16,7 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block"><p><img alt="" data-nw="1254" decoding="async" height="1672" loading="lazy" src="/images/public-events/december-2026/science-0%2B-2026-poster.jpg" width="1254"/></p>
+<p><img alt="" data-nw="1254" decoding="async" height="1672" loading="lazy" src="/images/public-events/december-2026/science-0%2B-2026-poster.jpg" width="1254"/></p>
 <h2><strong>ΕΙΣΙΤΗΡΙΑ ΔΙΑΔΙΚΤΥΑΚΑ</strong></h2>
 <p class="short"><strong>(Πατήστε στον σύνδεσμο της επιλεγμένης προβολής για να κλείσετε εισιτήρια)</strong></p>
 <h2><strong>ΕΠΙΣΤΗΜΗ 0+ ΣΤΗΝ ΚΥΠΡΟ 2026 </strong></h2>
@@ -29,29 +27,17 @@ require SITE_ROOT . '/includes/header.php';
 <p>Κινηματογραφικές βραδιές για το διάστημα. ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ, οδός Αμμοχώστου 9, Κίτι, 7550.</p>
 <p>Στο πλαίσιο του προγράμματος «Προβολές επιστημονικών ταινιών» του φεστιβάλ «Επιστήμη 0+»</p>
 <p>σας προσκαλούμε στο ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σε προβολές τεσσάρων ντοκιμαντέρ του τηλεοπτικού καναλιού «Наука» (Επιστήμη).</p>
-
 <h2>Οι προβολές των ταινιών γίνονται με αγγλικούς υπότιτλους.</h2>
 <p>Μετά από κάθε προβολή, όσοι επιθυμούν θα μπορούν να συνεχίσουν τη γνωριμία τους με το διάστημα:</p>
 <ul class="items"><li>να παρατηρήσουν τον ουρανό του Δεκεμβρίου με τα τηλεσκόπια του αστεροσκοπείου·</li><li>να επισκεφθούν τη διαστημική έκθεση του πλανηταρίου·</li><li>να δουν αληθινούς μετεωρίτες, δείγματα διαστημικής τροφής και μοντέλα διαστημικών οχημάτων.</li></ul>
-
-
 <h2><strong><br/> <br/> 5 ΔΕΚΕΜΒΡΙΟΥ </strong></h2>
 <ul class="link-list"><li><strong><a href="https://astronomycyprus.eu/gift-shop/product/a-year-in-orbit/" rel="noopener noreferrer" target="_blank">17:00 ΤΑΙΝΙΑ «ΕΝΑΣ ΧΡΟΝΟΣ ΣΕ ΤΡΟΧΙΑ»</a></strong></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-1800/" rel="noopener noreferrer" target="_blank"><strong>18:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/survival-in-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ΤΑΙΝΙΑ «ΕΠΙΒΙΩΣΗ ΣΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-5-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></li></ul>
-
-
-
 <h2><strong><br/> <br/> 12 ΔΕΚΕΜΒΡΙΟΥ </strong></h2>
 <ul class="link-list"><li><a href="https://astronomycyprus.eu/gift-shop/product/back-to-the-moon/" rel="noopener noreferrer" target="_blank"><strong>17:00 ΤΑΙΝΙΑ «ΕΠΙΣΤΡΟΦΗ ΣΤΗ ΣΕΛΗΝΗ»</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-1800/" rel="noopener noreferrer" target="_blank">18:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/open-space/" rel="noopener noreferrer" target="_blank"><strong>19:00 ΤΑΙΝΙΑ «ΑΝΟΙΧΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></li><li><a href="https://astronomycyprus.eu/gift-shop/product/exhibition-observations-12-12-2026-2000/" rel="noopener noreferrer" target="_blank"><strong>20:00 ΕΚΘΕΣΗ ΚΑΙ ΠΑΡΑΤΗΡΗΣΕΙΣ εφόσον ο καιρός το επιτρέπει</strong></a></li></ul>
-
-
-
 <h2><strong>ΚΟΣΤΟΣ ΚΑΙ ΟΡΟΙ ΣΥΜΜΕΤΟΧΗΣ</strong></h2>
 <ul class="items"><li>Οι επιστημονικές προβολές ταινιών στις 5 και 12 Δεκεμβρίου — δωρεάν.</li><li>Παρατηρήσεις με τηλεσκόπια και επίσκεψη στη διαστημική έκθεση — 7 €.</li></ul>
-
 <p><strong>Ελάτε με όλη την οικογένεια!</strong> Σας περιμένει γνωριμία με τις διαστημικές τεχνολογίες και ένα ταξίδι στο Σύμπαν μέσα από το επιστημονικό σινεμά.</p>
-<p>Θα ανακαλύψουμε την επιστήμη μαζί!</p></div>
-</div>
-</div>
+<p>Θα ανακαλύψουμε την επιστήμη μαζί!</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

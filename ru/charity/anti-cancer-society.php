@@ -17,8 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks">
 <div class="row stack"><div class="block"><img alt="" data-nw="281" decoding="async" height="144" loading="lazy" src="/images/charity/anticancer-society/anticancer.jpg" width="281"/><p class="short">ПРОТИВОРАКОВОЕ ОБЩЕСТВО</p>
 </div></div>
@@ -27,8 +25,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Посетите официальный сайт <strong>Кипрского противоракового общества</strong>.</p>
 <p>С 2008 года ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» участвует в мероприятиях Кипрского противоракового общества по сбору средств, внося свой вклад в непосредственную помощь организации.</p>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас <br/> принять участие в мероприятиях Кипрского противоракового общества по сбору средств!</p>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p></div>
-</div>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

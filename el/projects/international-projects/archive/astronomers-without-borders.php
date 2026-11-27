@@ -17,9 +17,8 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <p class="short">ΑΣΤΡΟΝΟΜΟΙ ΧΩΡΙΣ ΣΥΝΟΡΑ</p><div class="blocks">
-<div class="row">
-<div class="block"><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="190" loading="lazy" src="/images/logo-awb.jpg" width="150"/><h2>ΑΣΤΡΟΝΟΜΟΙ ΧΩΡΙΣ ΣΥΝΟΡΑ</h2></div></div>
+<div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="190" loading="lazy" src="/images/logo-awb.jpg" width="150"/></div></div>
 </div>
 <p>Οι Αστρονόμοι Χωρίς Σύνορα (AWB) είναι μια παγκόσμια κοινότητα αστρονομίας. Οι Αστρονόμοι Χωρίς Σύνορα προάγουν την κατανόηση και καλή θέληση πέρα από τα εθνικά και πολιτιστικά σύνορα με τη δημιουργία σχέσεων με την καθολική έκκληση της αστρονομίας.</p>
 <p>Λάτρεις της αστρονομίας, εκπαιδευτικοί και άλλοι σε όλο τον κόσμο συμμετέχουν σε προγράμματα που δημιουργούν αλληλεπίδραση και συνεργασία μέσω των κοινών ενδιαφερόντων σε όλες τις πτυχές της αστρονομίας. Eνωμένοι κάτω από το σύνθημα «Ένας Λαός, Ένας Ουρανός» που τονίζει ότι κατά τη διάρκεια της παρατηρήσης του έναστρου ουρανού όλες οι διαφορές μεταξύ των ανθρώπων εξαφανίζονται στο σκοτάδι. </p>
@@ -54,24 +53,12 @@ require SITE_ROOT . '/includes/header.php';
 <p><a href="/images/gam2014/gam2014_11.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th11.jpg" width="283"/></a>«Η ΜΕΡΑ ΤΟΥ ΗΛΙΟΥ» <br/>ΗΤΑΝ Η ΩΡΑ ΓΙΑ ΤΙΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΗΛΙΟΥ</p>
 </div><div class="block"><p><a href="/images/gam2014/gam2014_12.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th12.jpg" width="125"/></a><br/>
  Ο ΗΛΙΟΣ ΗΤΑΝ ΠΟΛΥ ΔΡΑΣΤΗΡΙΟΣ ΤΗΝ ΚΥΡΙΑΚΗ. ΥΠΗΡΧΑΝ ΜΕΧΡΙ ΚΑΙ 50 ΗΛΙΑΚΕΣ ΚΗΛΙΔΕΣ ΟΡΑΤΕΣ ΣΤΟΝ ΗΛΙΑΚΟ ΔΙΣΚΟ</p></div></div>
-
-
-
-
-
 </div>
 <div class="blocks"><div class="row split"><div class="block media"><p><a href="https://astronomycyprus.eu/images/gam2014/gam2014_13.jpg" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" loading="lazy" src="https://astronomycyprus.eu/images/gam2014/gam2014_th13.jpg"/></a></p></div><div class="block"><p class="short">Ο ΑΠΡΙΛΙΟΣ ΕΙΝΑΙ Ο ΚΑΛΥΤΕΡΟΣ ΜΗΝΑΣ ΤΟΥ ΕΤΟΥΣ. ΕΙΝΑΙ Ο ΠΑΓΚΟΣΜΙΟΣ ΜΗΝΑΣ ΑΣΤΡΟΝΟΜΙΑΣ!</p><p class="short">ΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ<br/>
 <a href="https://astronomycyprus.eu/docs/April2014Events_KPO.pdf" rel="noopener noreferrer" target="_blank" title="April2014Events_KPO.pdf">ΤΟΥ ΠΑΓΚΟΣΜΙΟΥ ΜΗΝΑ ΑΣΤΡΟΝΟΜΙΑΣ 2014 (PDF FILE)</a></p><p class="short">ΛΗΨΗ ΠΡΟΓΡΑΜΜΑΤΟΣ<br/>
 <a href="https://astronomycyprus.eu/docs/April2015Events_KPO.pdf" rel="noopener noreferrer" target="_blank" title="April2014Events_KPO.pdf">ΤΟΥ ΠΑΓΚΟΣΜΙΟΥ ΜΗΝΑ ΑΣΤΡΟΝΟΜΙΑΣ 2015 (PDF FILE)</a></p><p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί <br/>
  να συμμετάσχετε στην GAM 2016!</p><p>ΛΗΨΗ <a href="https://astronomycyprus.eu/docs/GAM2016_PRESS_RELEASE_GR.pdf" rel="noopener noreferrer" target="_blank" title="2014-09SeptemberEvents_KPO.pdf">ΔΕΛΤΙΟ ΤΥΠΟΥ (PDF FILE ΕΛΛΗΝΙΚΑ)</a> ΚΑΙ ΠΡΟΓΡΑΜΜΑΤΟΣ<br/>
 <a href="https://astronomycyprus.eu/docs/April2016Events_KPO.pdf" rel="noopener noreferrer" target="_blank" title="April2014Events_KPO.pdf">ΤΟΥ ΠΑΓΚΟΣΜΙΟΥ ΜΗΝΑ ΑΣΤΡΟΝΟΜΙΑΣ 2016 (PDF FILE)</a></p></div></div></div>
-
-
-
-
-
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

@@ -18,10 +18,6 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <div class="link-row"><p class="short"><strong><a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">UNITED NATIONS WORLD SPACE WEEK</a></strong></p></div>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="2680" decoding="async" height="257" loading="lazy" src="/images/wsw/World%20Space%20Week%20Cyprus%201.png" width="200"/></p><h2>#WSW2027 #WSW2026 #WorldSpaceWeek #RocketRevolution #kpocyprus</h2><h2><em><strong>World Space Week 2027 Theme</strong> to be announced soon...</em></h2><h3><a class="doc-link" href="/docs/press-release/press-release-wsw2026-cyprus.pdf" rel="noopener" target="_blank">WSW2026 PRESS RELEASE (Press here...)</a></h3><h2><strong>The 2026, UN World Space Week was succesfully celebrated in Cyprus.</strong></h2></div></div></div>
-
-
-
-
 <h2><strong>The theme was </strong>“Rocket Revolution”.</h2>
 <h2>Events were designed to promote the importance of rocket science, </h2>
 <h2>but also included a lot of activities and lectures related to space science, space exploration, astronomy and astrophysics.</h2>
@@ -31,9 +27,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><em>THE CYPRUS NATIONAL COORDINATOR FOR UN WORLD SPACE WEEK, MR. GEORGE TROULLIAS.</em></p>
 <p class="short"><em>WAS PRESENT IN ALMOST ALL EVENTS, SHARING THE AWARENESS RELATED TO THE GLOBAL INITIATIVE </em></p>
 <p class="short"><em>FOR THE UNITED NATIONS WORLD SPACE WEEK</em> <em>AND TALKED ABOUT "<strong>ROCKET REVOLUTION</strong>".</em></p>
-<div class="blocks">
-<div class="row">
-<div class="block"><h3>Each year, the World Space Week Association (WSWA) selects a theme for the upcoming World Space Week (WSW) to provide a focus of the activities and events that take a place throughout the world, during 4-10 October. </h3>
+
+<h3>Each year, the World Space Week Association (WSWA) selects a theme for the upcoming World Space Week (WSW) to provide a focus of the activities and events that take a place throughout the world, during 4-10 October. </h3>
 <h2><strong>Rocket Revolution – World Space Week 2026 Theme</strong></h2>
 <p>Each year, World Space Week Association (WSWA) selects a theme that reflects a defining moment in humanity's relationship with space. For World Space Week 2026, celebrated globally from October 4 to 10, the theme is "Rocket Revolution."</p>
 <p> Rocket Revolution focuses on the rapid transformation of space launch. Once limited to a small number of government programs, access to space is now expanding through commercial launch providers, reusable rockets, university teams, startups, and new national space actors. This shift is changing who can reach space, how often launches happen, and what space is used for.</p>
@@ -66,29 +61,13 @@ require SITE_ROOT . '/includes/header.php';
 <li>Excite young people about science, technology, engineering, and math</li>
 <li>Foster international cooperation in space outreach and education</li>
 </ul>
-<h2>What are the goals of World Space Week?</h2>
 <ul class="items"><li>Provide unique leverage in space outreach and education</li><li>Educate people around the world about the benefits that they receive from space</li><li>Encourage greater use of space for sustainable economic development</li><li>Demonstrate public support for space programs</li><li>Excite young people about science, technology, engineering, and math</li><li>Foster international cooperation in space outreach and education</li></ul>
-
-
-
-
-
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
 <p class="lead"><strong>LINKS:</strong></p>
 <p><strong>UN WORLD SPACE WEEK</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
-
 <p><strong>INTERNATIONAL EVENTS FOR THE UN WORLD SPACE WEEK</strong> https://www.worldspaceweek.org/nation/Cyprus/</p>
-
 <h2><strong>World Space Week (previous years database)</strong></h2>
 <div class="link-row"><p class="short"><strong><a href="/en/projects/international-projects/wsw/world-space-week-2026.php">WSW 2026</a></strong></p><p class="short"><strong><a href="/en/projects/international-projects/wsw/world-space-week-2025.php">WSW 2025</a></strong></p><p class="short"><strong><a href="/en/projects/international-projects/wsw/world-space-week-2024.php">WSW 2024</a></strong></p><p class="short"><strong><a href="/en/projects/international-projects/wsw/world-space-week-2023.php">WSW 2023</a></strong> </p><p class="short"><strong><a href="/en/projects/international-projects/wsw/world-space-week-2022.php">WSW 2022</a></strong></p><p class="short"><strong><a href="/en/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021">WSW 2021</a></strong></p><p class="short"><strong><a href="/en/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">WSW 2020</a></strong></p></div>
-
-
-
-
-
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

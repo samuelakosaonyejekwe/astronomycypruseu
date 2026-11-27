@@ -16,8 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">КОНСУЛЬТАТИВНЫЙ СОВЕТ «ПОКОЛЕНИЕ КОСМОСА» НА КИПРЕ</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="146" decoding="async" height="146" loading="lazy" src="/images/logo_sgac.png" width="146"/><p class="short">КОНСУЛЬТАТИВНЫЙ СОВЕТ «ПОКОЛЕНИЕ КОСМОСА» <br/>НА КИПРЕ</p>
+<div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="146" decoding="async" height="146" loading="lazy" src="/images/logo_sgac.png" width="146"/>
 </div></div>
 </div>
 <p><strong>Консультативный совет «Поколение космоса»</strong> — глобальная неправительственная некоммерческая организация и сеть, цель которой — представлять студентов университетов и молодых специалистов космической отрасли перед Организацией Объединённых Наций, космическими агентствами, промышленностью и научным сообществом.</p>

@@ -16,15 +16,11 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2026/science-cafe-29-september-2026.jpg" width="960"/></p>
 <h2><strong><strong>ONLINE SCIENCE CAFE</strong></strong></h2>
 <h2><strong>TUESDAY 29TH SEPTEMBER 2026 TIME:19:00 (UTC+3)</strong></h2>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Join Zoom Meeting</strong></a></p>
 <dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl>
-
 <p><strong>19:00 WELCOMING BY THE DIRECTOR (GEORGE TROULLIAS)</strong></p>
 <p><strong>19:05 UN WORLD SPACE WEEK 2026</strong> (GEORGE TROULLIAS, CYPRUS'S NATIONAL COORDINATOR FOR UN WSW)</p>
 <p><strong>19:10 NASA SPACE APPS CHALLENGE LIMASSOL </strong>(ALEXANDR PROKOPHIEV, LIMASSSOL'S NASA SPACE APPS CHALLENGE LEAD)</p>
@@ -32,7 +28,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Join us to learn more...</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Join Zoom Meeting</strong></a></p>
 <dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl>
-
 <p class="short"><strong>All meetings of Science Café sessions are <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">free</a> of charge and everyone can join. </strong></p>
 <p class="short"><strong>Codes and info for the meeting are published <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">here</a>.</strong></p>
 <p><strong><br/>
@@ -42,9 +37,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead"><strong>LINKS</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

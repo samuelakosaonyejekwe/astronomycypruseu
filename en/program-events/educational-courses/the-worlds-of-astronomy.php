@@ -16,18 +16,15 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<h2>THE WORLDS OF ASTRONOMY</h2>
 <p><img alt="" data-nw="1920" decoding="async" height="309" loading="lazy" src="/images/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy.jpg" width="550"/>
 </p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p>Astronomy is the oldest science and it has its own language and methods.</p>
+
+<p>Astronomy is the oldest science and it has its own language and methods.</p>
 <p>It is always interesting to find out how astronomers understand each other, despite of different places and times. </p>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to a special developed course for Gymnasium students, as part of the KITION ASTRONOMY ACADEMY. </p>
 <p>"THE WORLDS OF ASTRONOMY" starts in October.</p>
 <p>Each session consists of theoretical knowledge and practical skills. </p>
 <p>They include reading the star maps, understanding of eclipses and movement of celestial bodies, nature of stars and expanding of the Universe, and practical observations of the sky with telescopes. </p>
-
 <p>The course will be delivered by the Astrophysicist Alexander Prokofyev. </p>
 <p>Alexander Prokofyev graduated with honor the Department of Physics at Moscow State University (Lomonosov University). His scientific work is connected to “Cosmic Strings in Expanded Theories of Gravitation”. Nowadays he conducts research in archeoastronomy, organizes and participates in observations of total solar eclipses, meteor showers and asteroid occultations. He has publications in scientific and popular editions, and makes reports in both national and International conferences, from Cyprus to the USA. He is known for his pedagogical skills. For example, the students he prepared for the competitions of the International Olympiad in Astronomy and Astrophysics achieved an ‘honorable mention’ level, entering the top half of the talented students on the planet. It is the highest ever award that Cypriot participants have achieved.</p>
 <p>On completion of the course a participation certificate will be awarded.</p>
@@ -42,9 +39,6 @@ require SITE_ROOT . '/includes/header.php';
 <p>Maximum 10 persons per session for these programs.</p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
 <p>Click here to <a href="/en/contact-us.php"> find us</a>.</p>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

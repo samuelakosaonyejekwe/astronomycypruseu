@@ -16,7 +16,7 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">ΜΕΤΕΩΡΙΚΟ ΡΕΥΜΑ ΠΕΡΣΕΙΔΩΝ</p><p class="short">ΜΕΤΕΩΡΙΚΟ ΡΕΥΜΑ ΠΕΡΣΕΙΔΩΝ</p>
+<p class="short">ΜΕΤΕΩΡΙΚΟ ΡΕΥΜΑ ΠΕΡΣΕΙΔΩΝ</p>
 <p><img alt="" data-nw="1080" decoding="async" height="530" loading="lazy" src="/images/perseids/PPattichis4.jpg" width="800"/></p>
 <p class="short"><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p>
 <p class="short"><strong>ΜΕΤΕΩΡΙΚΟ ΡΕΥΜΑ ΠΕΡΣΕΙΔΩΝ 2020</strong></p>
@@ -29,101 +29,18 @@ require SITE_ROOT . '/includes/header.php';
 <p>Τα χρόνια χωρίς σεληνόφως, οι παρατηρητές μπορούν να παρατηρήσουν υψηλότερους ρυθμούς μετεώρων ανά ώρα.</p>
 <p>Τα χρόνια έξαρσης ο ρυθμός μπορεί να είναι μεταξύ 150-200 μετεώρων την ώρα.</p>
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1080" decoding="async" height="449" loading="lazy" src="/images/perseids/PPattichis6.jpg" width="600"/></p></div><div class="block"><p><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p><p>Για να δείτε καλύτερα τις Περσείδες, πηγαίνετε στο πιο σκοτεινό δυνατό σημείο και ξαπλώστε πίσω για να παρατηρήσετε όσο το δυνατόν μεγαλύτερο τμήμα του ουρανού ακριβώς πάνω από εσάς.</p><p><strong>Η καλύτερη ώρα για να αναζητήσετε μετέωρα είναι οι ώρες πριν την αυγή.</strong></p><p><strong>Θα πρέπει να μπορείτε να παρατηρήσετε ένα εντυπωσιακό θέαμα μετεωρικού ρεύματος οποιαδήποτε νύχτα μεταξύ 11 και 13 Αυγούστου, </strong> <strong>αλλά από τα μεσάνυχτα μέχρι την αυγή οποιοδήποτε πρωί την εβδομάδα πριν ή μετά θα πρέπει να δώσει μερικά μετέωρα. </strong></p></div></div></div>
-
-
-
-
-
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="1080" decoding="async" height="514" loading="lazy" src="/images/perseids/PPattichis7.jpg" width="600"/></p></div><div class="block"><p class="short"><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p><p>Τα μετέωρα ή «πεφταστέρια», όπως τα αποκαλούν πολλοί, προέρχονται από κομήτες.</p><p>Τα περισσότερα από τα ετήσια μετεωρικά ρεύματα που παρατηρούμε συμβαίνουν όταν η Γη διέρχεται από ίχνη θραυσμάτων που αφήνουν πίσω τους ενεργοί κομήτες που κινούνται σε τροχιά γύρω από τον Ήλιο, αποβάλλοντας μικρά κομμάτια σκονισμένων υπολειμμάτων στις μακριές ουρές τους.</p><p>Οι Περσείδες προέρχονται από έναν κομήτη που ονομάζεται Swift-Tuttle, ο οποίος κινείται σε τροχιά γύρω από τον Ήλιο κάθε 133 χρόνια.</p><p>Πήραν το όνομά τους από τον αστερισμό του Περσέα, καθώς φαίνεται να ακτινοβολούν από ένα σημείο ψηλά στον βορρά, που ονομάζεται «ακτινοβόλο σημείο» στον αστερισμό του Περσέα.</p><p>Για να παρατηρήσετε το ρεύμα, αρκεί να στραφείτε γενικά προς τον βορρά και να κοιτάξετε ψηλά.</p></div></div></div>
-
-
-
-
-
-
-
-
 <p><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/perseids/radiant.jpg" width="800"/></p>
 <div class="blocks">
-<div class="row">
-<div class="block"><p class="short"><strong>ΜΕΤΕΩΡΙΚΟ ΡΕΥΜΑ ΠΕΡΣΕΙΔΩΝ ΓΙΑ ΤΟ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ ΚΙΤΙΟΝ</strong></p>
-<p class="short">(Νύχτα μεταξύ 12 και 13 Αυγούστου)</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Ώρα</p></div>
-<div class="block"><p class="short">Αζιμούθιο/Κατεύθυνση</p></div>
-<div class="block"><p class="short">Ύψος</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Τετ 8:00 μ.μ.</p></div>
-<div class="block"><p class="short">11° Βόρεια</p></div>
-<div class="block"><p class="short">4.9°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Τετ 9:00 μ.μ.</p></div>
-<div class="block"><p class="short">19° Βορειοβορειοανατολικά</p></div>
-<div class="block"><p class="short">8.0°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Τετ 10:00 μ.μ.</p></div>
-<div class="block"><p class="short">25° Βορειοβορειοανατολικά</p></div>
-<div class="block"><p class="short">12.6°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Τετ 11:00 μ.μ.</p></div>
-<div class="block"><p class="short">31° Βορειοβορειοανατολικά</p></div>
-<div class="block"><p class="short">18.3°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Πέμ 12:00 τα μεσάνυχτα</p></div>
-<div class="block"><p class="short">35° Βορειοανατολικά</p></div>
-<div class="block"><p class="short">25.0°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Πέμ 1:00 π.μ.</p></div>
-<div class="block"><p class="short">38° Βορειοανατολικά</p></div>
-<div class="block"><p class="short">32.4°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Πέμ 2:00 π.μ.</p></div>
-<div class="block"><p class="short">40° Βορειοανατολικά</p></div>
-<div class="block"><p class="short">40.2°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Πέμ 3:00 π.μ.</p></div>
-<div class="block"><p class="short">39° Βορειοανατολικά</p></div>
-<div class="block"><p class="short">48.0°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Πέμ 4:00 π.μ.</p></div>
-<div class="block"><p class="short">35° Βορειοανατολικά</p></div>
-<div class="block"><p class="short">55.5°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Πέμ 5:00 π.μ.</p></div>
-<div class="block"><p class="short">27° Βορειοβορειοανατολικά</p></div>
-<div class="block"><p class="short">62.0°</p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">Πέμ 6:00 π.μ.</p></div>
-<div class="block"><p class="short">11° Βόρεια</p></div>
-<div class="block"><p class="short">66.0°</p></div>
-</div>
+<p class="short"><strong>ΜΕΤΕΩΡΙΚΟ ΡΕΥΜΑ ΠΕΡΣΕΙΔΩΝ ΓΙΑ ΤΟ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ ΚΙΤΙΟΝ</strong></p>
+<p class="short">(Νύχτα μεταξύ 12 και 13 Αυγούστου)</p>
+<div class="table-wrap"><table><tr><td>Ώρα</td><td>Αζιμούθιο/Κατεύθυνση</td><td>Ύψος</td></tr><tr><td>Τετ 8:00 μ.μ.</td><td>11° Βόρεια</td><td>4.9°</td></tr><tr><td>Τετ 9:00 μ.μ.</td><td>19° Βορειοβορειοανατολικά</td><td>8.0°</td></tr><tr><td>Τετ 10:00 μ.μ.</td><td>25° Βορειοβορειοανατολικά</td><td>12.6°</td></tr><tr><td>Τετ 11:00 μ.μ.</td><td>31° Βορειοβορειοανατολικά</td><td>18.3°</td></tr><tr><td>Πέμ 12:00 τα μεσάνυχτα</td><td>35° Βορειοανατολικά</td><td>25.0°</td></tr><tr><td>Πέμ 1:00 π.μ.</td><td>38° Βορειοανατολικά</td><td>32.4°</td></tr><tr><td>Πέμ 2:00 π.μ.</td><td>40° Βορειοανατολικά</td><td>40.2°</td></tr><tr><td>Πέμ 3:00 π.μ.</td><td>39° Βορειοανατολικά</td><td>48.0°</td></tr><tr><td>Πέμ 4:00 π.μ.</td><td>35° Βορειοανατολικά</td><td>55.5°</td></tr><tr><td>Πέμ 5:00 π.μ.</td><td>27° Βορειοβορειοανατολικά</td><td>62.0°</td></tr><tr><td>Πέμ 6:00 π.μ.</td><td>11° Βόρεια</td><td>66.0°</td></tr></table></div>
 </div>
 <p><img alt="" data-nw="960" decoding="async" height="398" loading="lazy" src="/images/perseids/PPattichis5.jpg" width="600"/></p>
 <div class="link-row"><p class="short"><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p></div>
 <div class="blocks">
-<div class="row">
-<div class="block">
 <h2>Βολίδες</h2>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1080" decoding="async" height="501" loading="lazy" src="/images/perseids/PPattichis2.jpg" width="600"/></p></div><div class="block"><div class="link-row"><p class="short"><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p></div><h2>Βολίδες</h2><h4><strong>Το </strong>ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ ΚΙΤΙΟΝ είναι το επίσημο Εθνικό Σημείο Επαφής της Κύπρου</h4><h4>για τον IMO (Διεθνής Οργανισμός Μετεώρων) για τις Βολίδες.</h4><h4>Παρακαλούμε διαβάστε παρακάτω τι είναι οι βολίδες και στείλτε μας e-mail στο <a href="mailto:observatory@cytanet.com.cy">observatory@cytanet.com.cy</a> με βίντεο ή φωτογραφίες βολίδων που παρατηρήσατε</h4><h4>και μια σύντομη περιγραφή της εμπειρίας σας για περαιτέρω επιστημονική διερεύνηση και έρευνα.</h4><p>Οι βολίδες είναι μετέωρα που εμφανίζονται λαμπρότερα του κανονικού. Η συντριπτική πλειονότητα της ύλης που κινείται σε τροχιά στο διάστημα είναι μικροσκοπικά κομμάτια πέτρας, πάγου ή μετάλλου, ή συνδυασμού αυτών των υλικών, μεγέθους μικρότερου του χιλιοστού. Αυτά είναι γνωστά ως μικρομετεωροειδή ή απλά κοσμική σκόνη. Τα μικροσκοπικά αυτά θραύσματα δεν μπορούν να παράγουν αρκετό φως ώστε να είναι ορατά όταν συναντούν την ατμόσφαιρα, ωστόσο προσθέτουν πολλούς τόνους υλικού στο βάρος της Γης κάθε χρόνο. Καθώς το μέγεθος αυτών των αντικειμένων πλησιάζει το χιλιοστό, αρχίζουν να παράγουν αρκετό φως ώστε να είναι ορατά κατά την είσοδό τους στην ανώτερη ατμόσφαιρα ως συνηθισμένα μετέωρα. Λόγω της ταχύτητας με την οποία προσκρούουν στην ατμόσφαιρα της Γης, τα θραύσματα μεγαλύτερα από 1 χιλιοστό μπορούν να παράγουν έντονη λάμψη καθώς διασχίζουν τον ουρανό. Αυτά τα λαμπρά μετέωρα είναι αυτά που ονομάζουμε βολίδες και συχνά προκαλούν φόβο και δέος σε όσους τα παρατηρούν.</p></div></div></div>
-
-
-
-
-
-
-
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1080" decoding="async" height="501" loading="lazy" src="/images/perseids/PPattichis2.jpg" width="600"/></p></div><div class="block"><div class="link-row"><p class="short"><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p></div><h2>Βολίδες</h2><h4><strong>Το </strong>ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ ΚΙΤΙΟΝ είναι το επίσημο Εθνικό Σημείο Επαφής της Κύπρου</h4><h4>για τον IMO (Διεθνής Οργανισμός Μετεώρων) για τις Βολίδες.</h4><p>Παρακαλούμε διαβάστε παρακάτω τι είναι οι βολίδες και στείλτε μας e-mail στο <a href="mailto:observatory@cytanet.com.cy">observatory@cytanet.com.cy</a> με βίντεο ή φωτογραφίες βολίδων που παρατηρήσατε</p><h4>και μια σύντομη περιγραφή της εμπειρίας σας για περαιτέρω επιστημονική διερεύνηση και έρευνα.</h4><p>Οι βολίδες είναι μετέωρα που εμφανίζονται λαμπρότερα του κανονικού. Η συντριπτική πλειονότητα της ύλης που κινείται σε τροχιά στο διάστημα είναι μικροσκοπικά κομμάτια πέτρας, πάγου ή μετάλλου, ή συνδυασμού αυτών των υλικών, μεγέθους μικρότερου του χιλιοστού. Αυτά είναι γνωστά ως μικρομετεωροειδή ή απλά κοσμική σκόνη. Τα μικροσκοπικά αυτά θραύσματα δεν μπορούν να παράγουν αρκετό φως ώστε να είναι ορατά όταν συναντούν την ατμόσφαιρα, ωστόσο προσθέτουν πολλούς τόνους υλικού στο βάρος της Γης κάθε χρόνο. Καθώς το μέγεθος αυτών των αντικειμένων πλησιάζει το χιλιοστό, αρχίζουν να παράγουν αρκετό φως ώστε να είναι ορατά κατά την είσοδό τους στην ανώτερη ατμόσφαιρα ως συνηθισμένα μετέωρα. Λόγω της ταχύτητας με την οποία προσκρούουν στην ατμόσφαιρα της Γης, τα θραύσματα μεγαλύτερα από 1 χιλιοστό μπορούν να παράγουν έντονη λάμψη καθώς διασχίζουν τον ουρανό. Αυτά τα λαμπρά μετέωρα είναι αυτά που ονομάζουμε βολίδες και συχνά προκαλούν φόβο και δέος σε όσους τα παρατηρούν.</p></div></div></div>
 <p>Οι βολίδες στην πραγματικότητα εμφανίζονται κάθε μέρα σε όλη τη Γη. Για το άτομο όμως, είναι ένα σπάνιο θέαμα που παρατηρείται ελάχιστες φορές στη διάρκεια μιας ζωής. Πρέπει να θυμόμαστε ότι οι βολίδες εμφανίζονται και την ημέρα ή μια συννεφιασμένη νύχτα. Εμφανίζονται επίσης πάνω από τον ωκεανό ή πάνω από ακατοίκητες περιοχές της ξηράς. Ακόμη και αν μια βολίδα εμφανιστεί πάνω από την περιοχή σας, πρέπει να βρίσκεστε έξω και να κοιτάτε προς τη σωστή κατεύθυνση, διαφορετικά θα την χάσετε. Γι' αυτό ο Διεθνής Οργανισμός Μετεώρων ενδιαφέρεται έντονα για αυτές τις παρατηρήσεις, με την ελπίδα ότι θα προσδιοριστεί η προέλευσή τους και ότι ίσως ανακτηθούν μετεωρίτες.</p>
 <p>Μόνο οι πραγματικές βολίδες έχουν τη δυνατότητα να επιβιώσουν μέχρι την επιφάνεια της Γης. Επομένως πρέπει να περιορίζουμε τις αναφορές μόνο σε πραγματικές βολίδες και όχι σε συνηθισμένα μετέωρα. Ο ευκολότερος τρόπος για να προσδιορίσετε αν ένα μετέωρο ήταν βολίδα ή όχι, είναι να εκτιμήσετε τη λαμπρότητά του. Αν το αντικείμενο που είδατε είναι λαμπρότερο από οποιοδήποτε αντικείμενο στον ουρανό εκτός από τον Ήλιο και τη Σελήνη, τότε είναι βολίδα. Ένας άλλος σημαντικός παράγοντας είναι η διάρκεια μιας βολίδας. Αν και είναι μεγαλύτερες από σχεδόν όλα τα άλλα μετέωρα που εισέρχονται στην ατμόσφαιρα, εξακολουθούν να κινούνται με τεράστιες ταχύτητες. Όπως τα συνηθισμένα μετέωρα, υφίστανται αποσύνθεση και επιβραδύνονται στο σημείο όπου δεν παράγουν πλέον φως. Αυτό συνήθως διαρκεί μόνο λίγα δευτερόλεπτα. Σπάνια μια πολύ μεγάλη βολίδα διαρκεί 5-10 δευτερόλεπτα πριν σβήσει. Αν το αντικείμενό σας διαρκεί περισσότερο από 10 δευτερόλεπτα, πιθανότατα πρόκειται για δορυφόρο ή κάποιο είδος αεροσκάφους και όχι για βολίδα.</p>
 <p>Αν είστε βέβαιοι ότι το αντικείμενό σας πληροί τα κριτήρια βολίδας, τότε υπάρχουν κάποιες σημαντικές πληροφορίες που πρέπει να θυμάστε για το γεγονός. Πρώτα απ' όλα χρειαζόμαστε την ημερομηνία και την ώρα (όσο το δυνατόν πιο ακριβείς!). Η γεωγραφική σας θέση είναι επίσης πολύ σημαντική, ώστε να προσδιορίσουμε τη σωστή τροχιά του αντικειμένου. Σημαντικό είναι επίσης το μήκος και η κατεύθυνση προς την οποία κινούνταν η βολίδα. Τα σημεία έναρξης και λήξης είναι επίσης χρήσιμα, ειδικά αν μπορείτε να δώσετε αναφορές σε άστρα και αστερισμούς. Οι κατευθύνσεις πυξίδας και το ύψος πάνω από τον ορίζοντα θα βοηθήσουν επίσης.</p>
@@ -139,28 +56,20 @@ require SITE_ROOT . '/includes/header.php';
 <p>Οι λεγόμενες ραδιοβολίδες είναι μετέωρα που καταγράφονται από δέκτη με τη μέθοδο της εμπρόσθιας σκέδασης και των οποίων η διάρκεια ηχούς είναι μεγαλύτερη από 10 δευτερόλεπτα. Λόγω των πολύ περίπλοκων φυσικών σχέσεων, δεν είναι δυνατή μια απλή μετατροπή της διάρκειας ηχούς σε οπτικό μέγεθος.</p>
 <p><a href="https://fireballs.imo.net/members/imo/report_intro" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="400" decoding="async" height="344" loading="lazy" src="/images/perseids/report-a-fireball.jpg" width="400"/></a></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 ΣΕΠΤΕΜΒΡΙΟΥ 23:48</p></div>
 <div class="block"><p class="short">ΒΟΛΙΔΑ ΠΑΝΩ ΑΠΟ ΤΗΝ ΚΥΠΡΟ.</p><p>ΤΟ ΠΛΑΝΗΤΑΡΙΟ ΚΙΤΙΟΝ ΣΥΛΛΕΞΕ ΒΙΝΤΕΟ ΚΑΙ ΜΑΡΤΥΡΙΕΣ ΑΠΟ ΠΑΡΑΤΗΡΗΤΕΣ.</p>
 <p>ΤΑ ΑΠΟΤΕΛΕΣΜΑΤΑ ΔΗΜΟΣΙΕΥΤΗΚΑΝ ΚΑΙ ΥΠΟΒΛΗΘΗΚΑΝ ΣΤΗ <a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank">ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ</a> ΤΟΥ ΔΙΕΘΝΟΥΣ ΟΡΓΑΝΙΣΜΟΥ ΜΕΤΕΩΡΩΝ</p>
 <p><a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="540" decoding="async" height="313" loading="lazy" src="/images/imo_20160908.jpg" width="470"/></a></p>
 </div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">10 ΟΚΤΩΒΡΙΟΥ 06:33</p></div>
 <div class="block"><p class="short">ΒΟΛΙΔΑ ΠΑΝΩ ΑΠΟ ΤΗΝ ΚΥΠΡΟ.</p><p>ΤΟ ΠΛΑΝΗΤΑΡΙΟ ΚΙΤΙΟΝ ΣΥΛΛΕΞΕ ΒΙΝΤΕΟ ΚΑΙ ΜΑΡΤΥΡΙΕΣ ΑΠΟ ΠΑΡΑΤΗΡΗΤΕΣ.</p>
 <p>ΤΑ ΑΠΟΤΕΛΕΣΜΑΤΑ ΔΗΜΟΣΙΕΥΤΗΚΑΝ ΚΑΙ ΥΠΟΒΛΗΘΗΚΑΝ ΣΤΗ <a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank">ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ</a> ΤΟΥ ΔΙΕΘΝΟΥΣ ΟΡΓΑΝΙΣΜΟΥ ΜΕΤΕΩΡΩΝ</p></div>
 </div>
 </div>
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="641" decoding="async" height="599" loading="lazy" src="/images/perseids/PPattichis1.jpg" width="400"/></p></div><div class="block"><p><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p><p>Αν έχετε οποιαδήποτε απορία ή πρόταση, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p><p class="lead">ΣΥΝΔΕΣΜΟΙ:</p><p class="short">ΣΕΛΙΔΑ FB ΤΟΥ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ ΚΙΤΙΟΝ <a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank">https://www.facebook.com/groups/kition</a></p><p class="short">ΔΙΕΘΝΗΣ ΟΡΓΑΝΙΣΜΟΣ ΜΕΤΕΩΡΩΝ <a href="https://www.imo.net/" rel="noopener noreferrer" target="_blank">https://www.imo.net/</a></p></div></div></div>
-
-
-
-
-
-
-</div>
-</div>
 </div>
 <p class="short">Συμπορευθείτε στον διαστημικό μας περίπατο...</p>
 </article>

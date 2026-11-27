@@ -17,9 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="table-wrap"><table>
-<div class="row">
-<div class="block"><p><strong>ΑΓΓΛΙΚΟ ΠΡΟΓΡΑΜΜΑ<br/> Ώρα: 19:00 (UTC+2)</strong></p> </div>
-</div>
+<p><strong>ΑΓΓΛΙΚΟ ΠΡΟΓΡΑΜΜΑ<br/> Ώρα: 19:00 (UTC+2)</strong></p>
 </table></div>
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/public-events/december-2025/supermoon-4-december-2025.jpg" width="960"/></p>
 <p class="short"><strong>ΚΟΜΗΤΗΣ 3I/ATLAS ΚΑΙ ΥΠΕΡΠΑΝΣΕΛΗΝΟΣ 4 ΔΕΚΕΜΒΡΙΟΥ 2025</strong></p>
@@ -40,9 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><strong>ΜΟΝΟ ΜΕ ΚΡΑΤΗΣΗ</strong></p>
 <p>Το εισιτήριο κοστίζει 10 ευρώ. Οι θέσεις είναι περιορισμένες και τα εισιτήρια διατίθενται μόνο διαδικτυακά.</p>
 <div class="table-wrap"><table>
-<div class="row">
-<div class="block"><p><strong>ΑΓΓΛΙΚΟ ΠΡΟΓΡΑΜΜΑ<br/> Ώρα: 19:00 (UTC+2)</strong></p></div>
-</div>
+<p><strong>ΑΓΓΛΙΚΟ ΠΡΟΓΡΑΜΜΑ<br/> Ώρα: 19:00 (UTC+2)</strong></p>
 </table></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

@@ -16,12 +16,10 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<h2>ASTRONOMY PRINCIPLES</h2>
 <p><img alt="" data-nw="1920" decoding="async" height="450" loading="lazy" src="/images/educational-courses/astronomy-principles/astronomy-principles.jpg" width="800"/>
 </p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p>The people of Cyprus were renowned for having excellent astronomical knowledge. </p>
+
+<p>The people of Cyprus were renowned for having excellent astronomical knowledge. </p>
 <p>Throughout the centuries seafarers used their celestial navigation skills to travel to Cyprus and beyond.</p>
 <p>Astronomy has developed even further, and the young mind is always curious about the nature of celestial bodies and the deep connections between them and the Earth. </p>
 <p>Now the KITION PLANETARIUM &amp; OBSERVATORY feeds this students’ curiosity. </p>
@@ -40,9 +38,6 @@ require SITE_ROOT . '/includes/header.php';
 <p>Maximum 10 persons per session for these programs.</p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
 <p>Click here to <a href="/en/contact-us.php">find us</a>.</p>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

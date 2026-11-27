@@ -17,8 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks">
 <div class="row">
 <div class="block media"><img alt="" data-nw="960" decoding="async" height="414" loading="lazy" src="/images/charity/aspida-tou-aianta/aspidatouaianta.jpg" width="960"/></div>
@@ -28,8 +26,6 @@ require SITE_ROOT . '/includes/header.php';
 <p><span lang="en">(http://www.larnaka.org.cy/el/news/aspida-tou-aianta-1#.WYdYbLZLcdU) </span></p>
 <p><span lang="en">Ιδρύθηκε στη μνήμη του νεαρού Αίαντα Λοΐζου, που έχασε τη ζωή του σε ηλικία πέντε ετών</span>.</p>
 <p>Από το 2013 το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ συμμετέχει στις εκδηλώσεις συγκέντρωσης κεφαλαίων της «Ασπίδας του Αίαντα», προσφέροντας τη δική του συμβολή στην άμεση βοήθεια προς τον οργανισμό.</p>
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

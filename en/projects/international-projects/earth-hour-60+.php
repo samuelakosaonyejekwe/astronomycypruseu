@@ -29,10 +29,6 @@ require SITE_ROOT . '/includes/header.php';
 <h2>something - anything - positive for our planet.</h2>
 <h2>Over 385,284 people from 175 countries and territories are pledging to give:</h2>
 <ul class="items"><li>33,627 hours Reconnecting with our planet </li><li>26,147 hours Restoring our planet </li><li>320,892 hours Learning more about our planet </li><li>1,555 hours Inspiring others to take care for our planet </li><li>3,063 hours Finding other ways to make an impact</li></ul>
-
-
-
-
 </div>
 </div>
 </div>
@@ -46,36 +42,27 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p><strong>EARTH HOUR 60 2026 - CELEBRATIONS IN CYPRUS BY THE KITION PLANETARIUM &amp; OBSERVATORY</strong> </p>
 <p> This year the KITOIN PLANETARIUM &amp; OBSERVATORY will host an event at its premises in Kiti on <strong>Saturday 28th March, at 20:00 Cyprus local time</strong>.</p>
-
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1257" decoding="async" height="542" loading="lazy" src="/images/earth-hour-60%2B/earth-hour-60%2B.png" width="505"/></p></div><div class="block"><h2>EVENT'S PROGRAM: SATURDAY 28TH MARCH 2026, TIME: 20:00</h2><p class="short">WELCOMING BY THE KITION PLANETARIUM &amp; OBSERVATORY, DIRECTOR, MR. GEORGE TROULLIAS.</p><p>"<strong>UNITING FOR PEOPLE AND OUR PLANET</strong>" (PRESENTATION WITH VIDEO)</p><p>AWARENESS INTRODUCTION TO THE GLOBAL INITIATIVE FOR "EARTH HOUR 60" AND THE ROLE IT PLAYS IN OUR LIVES.</p><p> TELESCOPE OBSERVATIONS (WEATHER PERMITTING)</p></div></div></div>
-
-
-
-
-
 <h3>*BUY YOUR TICKETS HERE - TICKETS AVAILABLE ONLINE ONLY*</h3>
 <p>
 <video controls="" preload="metadata"><source src="/images/earth-hour-60%2B/earth-hour-2023.mp4" type="video/mp4"/></video>
 </p>
-<h4>Since our beginnings in 2007, Earth Hour has been known for the “lights off” moment, with individuals from around the globe switching off their </h4>
+<p>Since our beginnings in 2007, Earth Hour has been known for the “lights off” moment, with individuals from around the globe switching off their </p>
 <h4>lights to show symbolic support for the planet and to raise awareness of the environmental issues affecting it.</h4>
-<h4>More than 15 years later, we are now at a tipping point with our climate and nature crises, putting at risk the fate of our one home and all our futures. </h4>
-<h4>We are on course to breach by 2030 the 1.5°C global temperature increase limit set by the Paris Climate Agreement, and nature - the source of </h4>
+<p>More than 15 years later, we are now at a tipping point with our climate and nature crises, putting at risk the fate of our one home and all our futures. </p>
+<p>We are on course to breach by 2030 the 1.5°C global temperature increase limit set by the Paris Climate Agreement, and nature - the source of </p>
 <h4>our very livelihoods and one of our biggest allies against the climate crisis - is also under severe threat,</h4>
 <h4>facing alarming and unprecedented rates of loss globally. </h4>
-<h4>The next 7 years are therefore crucial to all our futures - we have to stay under the 1.5°C climate threshold to avoid irreversible damage to our planet, </h4>
-<h4>and we need to reverse nature loss by 2030, ending the decade with more nature and biodiversity than we started, not less. </h4>
-<h4>To make this happen, individuals, communities, businesses, and governments must all urgently step up their efforts to protect and restore our one home.</h4>
-<h4> With this 2030 goal in mind, we too must step things up. So this year, we’re breathing new life into Earth Hour - our brand, our work, our message, </h4>
-<h4>and our mission - creating the Biggest Hour for Earth. How? By calling on our supporters across the globe to switch off their lights </h4>
+<p>The next 7 years are therefore crucial to all our futures - we have to stay under the 1.5°C climate threshold to avoid irreversible damage to our planet,  and we need to reverse nature loss by 2030, ending the decade with more nature and biodiversity than we started, not less. </p>
+<p>To make this happen, individuals, communities, businesses, and governments must all urgently step up their efforts to protect and restore our one home.</p>
+<p> With this 2030 goal in mind, we too must step things up. So this year, we’re breathing new life into Earth Hour - our brand, our work, our message,  and our mission - creating the Biggest Hour for Earth. How? By calling on our supporters across the globe to switch off their lights </p>
 <h4>and give an hour for Earth, spending 60 minutes doing something - anything - positive for our planet. </h4>
 <h4>With our presence in over 190 countries and territories, we can use the power of the people to turn a single Earth Hour</h4>
-<h4> into thousands and millions of hours of action and awareness, creating a domino effect of impact that continues well beyond the 60 minutes.</h4>
+<p> into thousands and millions of hours of action and awareness, creating a domino effect of impact that continues well beyond the 60 minutes.</p>
 <h4> Amidst our increasingly divided and polarized societies, the Biggest Hour for Earth becomes a precious moment of unity,</h4>
-<h4> reminding the world that our one shared home needs our help and that we all can - and must - play a part in protecting it.</h4>
+<p> reminding the world that our one shared home needs our help and that we all can - and must - play a part in protecting it.</p>
 <div class="blocks">
-<div class="row">
-<div class="block"><p><strong>THE STORY BEHIND EARTH HOUR 60+</strong></p>
+<p><strong>THE STORY BEHIND EARTH HOUR 60+</strong></p>
 <p>Started by WWF and partners as a symbolic lights-out event in Sydney in 2007, Earth Hour is now one of the world's largest grassroots movements for the environment. Held every year on the last Saturday of March, Earth Hour engages millions of people in more than 180 countries and territories, switching off their lights to show support for our planet.</p>
 <p>But Earth Hour goes far beyond the symbolic action of switching off - it has become a catalyst for positive environmental impact, driving major legislative changes by harnessing the power of the people and collective action.</p>
 <p>Earth Hour is open-source and we welcome everyone, anyone, to take part and help amplify our mission to unite people to protect our planet.</p>
@@ -92,7 +79,7 @@ require SITE_ROOT . '/includes/header.php';
  </strong></strong></p>
 <p class="short"><strong>2026</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">SAT 28 MARCH 20:00 </p>
 </div>
@@ -105,7 +92,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2025</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">SAT 29 MARCH 20:15 </p>
 </div>
@@ -117,7 +104,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2024</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">SAT 30 MARCH 20:15 </p>
 </div>
@@ -129,7 +116,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2023</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">SAT 25 MARCH 20:15 </p>
 </div>
@@ -141,7 +128,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2022</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">SAT 26 MARCH 20:30 </p>
 </div>
@@ -152,7 +139,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2021</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">SAT 27 MARCH 20:30 </p>
 </div>
@@ -164,7 +151,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2020</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ 2020 CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -174,7 +161,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2019</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -184,7 +171,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2018</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -194,7 +181,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2017</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -204,7 +191,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2016</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -214,7 +201,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2015</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -224,7 +211,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2014</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -234,7 +221,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2013</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -244,7 +231,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2012</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -254,7 +241,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2011</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -264,7 +251,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2010</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -274,7 +261,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2009</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -284,7 +271,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2008</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">MARCH 19:00</p></div>
 <div class="block"><p class="short">EARTH HOUR 60+ CELEBRATIONS</p>
 <p class="short">EVENT AT THE KITION PLANETARIUM &amp; OBSERVATORY PREMISES</p>
@@ -294,22 +281,14 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to 
  participate in the events for EARTH HOUR 60+</p>
-
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
 <p class="lead">LINKS:</p>
 <p class="short"> EARTH HOUR 60+ <a href="https://www.earthhour.org/" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/</a></p>
-
 <p class="short">INTERNATIONAL EVENTS FOR EARTH HOUR 60+ <a href="https://www.earthhour.org/take-part/events" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/take-part/events</a></p>
-
 <p class="short">EARTH HOUR FB PAGE <a href="https://www.facebook.com/earthhour/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/earthhour/</a></p>
-
 <p class="short">EARTH HOUR INSTAGRAM PAGE <a href="https://www.instagram.com/earthhourofficial/" rel="noopener noreferrer" target="_blank">https://www.instagram.com/earthhourofficial/</a></p>
-
 <p class="short">EARTH HOUR TWITTER PAGE <a href="https://twitter.com/earthhour" rel="noopener noreferrer" target="_blank">https://twitter.com/earthhour</a></p>
-
 <p class="short">EARTH HOUR YOUTUBE PAGE <a href="https://www.youtube.com/channel/UCyhQYJYlOGyUHhQLHlpNb8g" rel="noopener noreferrer" target="_blank">https://www.youtube.com/channel/UCyhQYJYlOGyUHhQLHlpNb8g</a></p>
-</div>
-</div>
 </div>
 <h2>Join our spacewalk</h2>
 </article>

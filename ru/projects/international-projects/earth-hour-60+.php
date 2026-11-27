@@ -29,10 +29,6 @@ require SITE_ROOT . '/includes/header.php';
 <h2>что-нибудь — всё что угодно — полезное для нашей планеты.</h2>
 <h2>Более 385,284 человек из 175 стран и территорий обещают подарить:</h2>
 <ul class="items"><li>33,627 часов на воссоединение с нашей планетой</li><li>26,147 часов на восстановление нашей планеты</li><li>320,892 часов на то, чтобы больше узнать о нашей планете</li><li>1,555 часов на то, чтобы вдохновить других заботиться о нашей планете</li><li>3,063 часов на поиск других способов повлиять на ситуацию</li></ul>
-
-
-
-
 </div>
 </div>
 </div>
@@ -46,36 +42,26 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p><strong>ЧАС ЗЕМЛИ 60 2026 — ПРАЗДНОВАНИЕ НА КИПРЕ ОТ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong></p>
 <p>В этом году ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» проведёт мероприятие на своей территории в Кити в <strong>субботу 28 марта в 20:00 по местному времени Кипра</strong>.</p>
-
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1257" decoding="async" height="542" loading="lazy" src="/images/earth-hour-60%2B/earth-hour-60%2B.png" width="505"/></p></div><div class="block"><h2>ПРОГРАММА МЕРОПРИЯТИЯ: СУББОТА, 28 МАРТА 2026 ГОДА, ВРЕМЯ: 20:00</h2><p>ПРИВЕТСТВЕННОЕ СЛОВО ДИРЕКТОРА ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН», ГОСПОДИНА ГЕОРГИЯ ТРУЛЛИАСА.</p><p>«<strong>ОБЪЕДИНЯЯСЬ РАДИ ЛЮДЕЙ И НАШЕЙ ПЛАНЕТЫ</strong>» (ПРЕЗЕНТАЦИЯ С ВИДЕО)</p><p class="short">ЗНАКОМСТВО С ГЛОБАЛЬНОЙ ИНИЦИАТИВОЙ «ЧАС ЗЕМЛИ 60» И ЕЁ РОЛЬЮ В НАШЕЙ ЖИЗНИ.</p><p class="short">НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ (ПРИ ХОРОШЕЙ ПОГОДЕ)</p></div></div></div>
-
-
-
-
-
 <h3>*КУПИТЕ БИЛЕТЫ ЗДЕСЬ — БИЛЕТЫ ДОСТУПНЫ ТОЛЬКО ОНЛАЙН*</h3>
 <p>
 <video controls="" preload="metadata"><source src="/images/earth-hour-60%2B/earth-hour-2023.mp4" type="video/mp4"/></video>
 </p>
-<h4>С момента своего основания в 2007 году «Час Земли» известен моментом «выключения света», когда люди по всему миру выключают</h4>
+<p>С момента своего основания в 2007 году «Час Земли» известен моментом «выключения света», когда люди по всему миру выключают</p>
 <h4>свет, чтобы символически поддержать планету и привлечь внимание к экологическим проблемам, которые на неё влияют.</h4>
-<h4>Более 15 лет спустя мы оказались в переломной точке климатического и природного кризисов, которая ставит под угрозу судьбу нашего единственного дома и всё наше будущее.</h4>
-<h4>Мы движемся к превышению к 2030 году предела повышения глобальной температуры на 1,5°C, установленного Парижским соглашением по климату, а природа — источник</h4>
-<h4>самих наших средств к существованию и один из наших главных союзников в борьбе с климатическим кризисом — также находится под серьёзной угрозой,</h4>
+<p>Более 15 лет спустя мы оказались в переломной точке климатического и природного кризисов, которая ставит под угрозу судьбу нашего единственного дома и всё наше будущее.</p>
+<p>Мы движемся к превышению к 2030 году предела повышения глобальной температуры на 1,5°C, установленного Парижским соглашением по климату, а природа — источник самих наших средств к существованию и один из наших главных союзников в борьбе с климатическим кризисом — также находится под серьёзной угрозой,</p>
 <h4>сталкиваясь с тревожными и беспрецедентными темпами утрат по всему миру.</h4>
-<h4>Поэтому ближайшие 7 лет решающи для нашего будущего: мы должны остаться ниже климатического порога в 1,5°C, чтобы избежать необратимого ущерба для нашей планеты,</h4>
-<h4>и мы должны обратить вспять утрату природы к 2030 году, закончив десятилетие с большим, а не меньшим количеством природы и биоразнообразия, чем в его начале.</h4>
-<h4>Чтобы это произошло, отдельные люди, сообщества, предприятия и правительства должны срочно активизировать свои усилия по защите и восстановлению нашего единственного дома.</h4>
-<h4>С учётом цели 2030 года мы тоже должны действовать активнее. Поэтому в этом году мы вдыхаем новую жизнь в «Час Земли» — в наш бренд, нашу работу, наше послание</h4>
+<p>Поэтому ближайшие 7 лет решающи для нашего будущего: мы должны остаться ниже климатического порога в 1,5°C, чтобы избежать необратимого ущерба для нашей планеты, и мы должны обратить вспять утрату природы к 2030 году, закончив десятилетие с большим, а не меньшим количеством природы и биоразнообразия, чем в его начале.</p>
+<p>Чтобы это произошло, отдельные люди, сообщества, предприятия и правительства должны срочно активизировать свои усилия по защите и восстановлению нашего единственного дома.</p>
+<p>С учётом цели 2030 года мы тоже должны действовать активнее. Поэтому в этом году мы вдыхаем новую жизнь в «Час Земли» — в наш бренд, нашу работу, наше послание</p>
 <h4>и нашу миссию — создавая Самый большой час для Земли. Как? Призывая наших сторонников по всему миру выключить свет</h4>
 <h4>и подарить час Земле, проведя 60 минут, делая что-нибудь — всё что угодно — полезное для нашей планеты.</h4>
-<h4>Благодаря нашему присутствию более чем в 190 странах и территориях мы можем использовать силу людей, чтобы превратить один «Час Земли»</h4>
-<h4>в тысячи и миллионы часов действий и информирования, создав эффект домино, воздействие которого продолжается намного дольше этих 60 минут.</h4>
-<h4>На фоне всё более разобщённых и поляризованных обществ Самый большой час для Земли становится драгоценным моментом единства,</h4>
-<h4>напоминая миру, что наш единый общий дом нуждается в нашей помощи и что каждый из нас может — и должен — внести свой вклад в его защиту.</h4>
+<p>Благодаря нашему присутствию более чем в 190 странах и территориях мы можем использовать силу людей, чтобы превратить один «Час Земли»</p>
+<p>в тысячи и миллионы часов действий и информирования, создав эффект домино, воздействие которого продолжается намного дольше этих 60 минут.</p>
+<p>На фоне всё более разобщённых и поляризованных обществ Самый большой час для Земли становится драгоценным моментом единства, напоминая миру, что наш единый общий дом нуждается в нашей помощи и что каждый из нас может — и должен — внести свой вклад в его защиту.</p>
 <div class="blocks">
-<div class="row">
-<div class="block"><p><strong>ИСТОРИЯ «ЧАСА ЗЕМЛИ 60+»</strong></p>
+<p><strong>ИСТОРИЯ «ЧАСА ЗЕМЛИ 60+»</strong></p>
 <p>«Час Земли», начатый WWF и партнёрами в 2007 году в Сиднее как символическая акция выключения света, сегодня является одним из крупнейших массовых движений в мире в защиту окружающей среды. Он проводится каждый год в последнюю субботу марта и вовлекает миллионы людей более чем в 180 странах и территориях, которые выключают свет, чтобы выразить поддержку нашей планете.</p>
 <p>Но «Час Земли» выходит далеко за рамки символического действия выключения света: он стал катализатором положительного воздействия на окружающую среду, приводя к значительным изменениям в законодательстве благодаря силе людей и коллективным действиям.</p>
 <p>«Час Земли» — проект с открытым исходным кодом, и мы приветствуем всех и каждого, кто хочет принять участие и помочь усилить нашу миссию — объединять людей ради защиты нашей планеты.</p>
@@ -90,7 +76,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong><strong> ПРОШЕДШИЕ МЕРОПРИЯТИЯ «ЧАСА ЗЕМЛИ 60» НА КИПРЕ </strong></strong></p>
 <p class="short"><strong>2026</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">СБ 28 МАРТА 20:00</p>
 </div>
@@ -103,7 +89,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2025</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">СБ 29 МАРТА 20:15</p>
 </div>
@@ -115,7 +101,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2024</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">СБ 30 МАРТА 20:15</p>
 </div>
@@ -127,7 +113,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2023</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">СБ 25 МАРТА 20:15</p>
 </div>
@@ -139,7 +125,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2022</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">СБ 26 МАРТА 20:30</p>
 </div>
@@ -150,7 +136,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2021</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">СБ 27 МАРТА 20:30</p>
 </div>
@@ -162,7 +148,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2020</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+» 2020</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -172,7 +158,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2019</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -182,7 +168,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2018</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -192,7 +178,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2017</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -202,7 +188,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2016</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -212,7 +198,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2015</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -222,7 +208,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2014</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -232,7 +218,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2013</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -242,7 +228,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2012</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -252,7 +238,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2011</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -262,7 +248,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2010</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -272,7 +258,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2009</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -282,7 +268,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2008</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
@@ -291,7 +277,6 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас принять участие в мероприятиях «ЧАСА ЗЕМЛИ 60+»</p>
-
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> или позвонить по телефону +357 9999 1111.</p>
 <p class="lead">ССЫЛКИ:</p>
 <p class="short">«ЧАС ЗЕМЛИ 60+»</p>
@@ -299,14 +284,9 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">МЕЖДУНАРОДНЫЕ МЕРОПРИЯТИЯ «ЧАСА ЗЕМЛИ 60+»</p>
 <p class="short"><a href="https://www.earthhour.org/take-part/events" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/take-part/events</a></p>
 <p class="short">СТРАНИЦА «ЧАСА ЗЕМЛИ» В FACEBOOK <a href="https://www.facebook.com/earthhour/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/earthhour/</a></p>
-
 <p class="short">СТРАНИЦА «ЧАСА ЗЕМЛИ» В INSTAGRAM <a href="https://www.instagram.com/earthhourofficial/" rel="noopener noreferrer" target="_blank">https://www.instagram.com/earthhourofficial/</a></p>
-
 <p class="short">СТРАНИЦА «ЧАСА ЗЕМЛИ» В TWITTER <a href="https://twitter.com/earthhour" rel="noopener noreferrer" target="_blank">https://twitter.com/earthhour</a></p>
-
 <p class="short">СТРАНИЦА «ЧАСА ЗЕМЛИ» НА YOUTUBE <a href="https://www.youtube.com/channel/UCyhQYJYlOGyUHhQLHlpNb8g" rel="noopener noreferrer" target="_blank">https://www.youtube.com/channel/UCyhQYJYlOGyUHhQLHlpNb8g</a></p>
-</div>
-</div>
 </div>
 <h2>Присоединяйтесь к нашему выходу в открытый космос</h2>
 </article>

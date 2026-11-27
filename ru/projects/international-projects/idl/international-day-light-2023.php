@@ -17,13 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p class="short">Международный день света 16 мая 2023 — Кипр</p><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" decoding="async" height="203" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/IDL_logo.jpg" width="375"/></p><p class="short"><strong>МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2023 — КИПР</strong></p></div></div></div></div><div class="block"><p class="short"><strong>#dayoflight2023 #LightDay2023 #IDL2023 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT</strong></p><p><a href="https://youtu.be/dd82jaztFIo" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" height="601" loading="lazy" src="https://astronomycyprus.eu/images/cosmic-light-cyprus.jpg" width="750"/></a></p><p class="short"><strong>ПРАЗДНИЧНЫЕ МЕРОПРИЯТИЯ НА КИПРЕ</strong></p></div></div></div>
-
-
-
-
-
 <p>Официальное мероприятие на Кипре пройдёт в помещениях ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» в Кити во вторник, 16 мая, в 20:00 по местному времени Кипра.</p>
-
 <p>Только по предварительной записи — звоните 99991111</p>
 <h3>Вторник, 16 мая 2022 г., время: 20:00 (UTC+3)</h3>
 <h3>Место: ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» (Кити, Кипр)</h3>
@@ -33,12 +27,9 @@ require SITE_ROOT . '/includes/header.php';
 <p>Георгиос Труллиас (директор — ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» (Кипр)).</p>
 <p>Информирование о глобальной инициативе по неослабевающему вниманию к свету и его роли в жизни.</p>
 <dl class="specs"><dt>Технологии на основе света</dt><dd> примеры.</dd><dt>Осведомлённость о световом загрязнении</dt><dd> влияние на планету и способы защиты ночного неба.</dd><dt>МАС</dt><dd> месяц тёмного и спокойного неба</dd></dl>
-
-
 <p class="short">Измерения светового загрязнения</p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> является национальным узлом Кипра Международного дня света ЮНЕСКО.</p>
+
+<p><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> является национальным узлом Кипра Международного дня света ЮНЕСКО.</p>
 <p>Международный день света — это глобальная инициатива, которая ежегодно привлекает внимание к неослабевающей оценке света и его роли в науке, культуре и искусстве, образовании и устойчивом развитии, а также в таких разных областях, как медицина, связь и энергетика. Широкая тема света позволяет самым разным секторам общества по всему миру принять участие в мероприятиях, демонстрирующих, как наука, технологии, искусство и культура могут помочь в достижении целей ЮНЕСКО — образования, равенства и мира.</p><p><img alt="" decoding="async" height="377" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-statistics.jpg" width="800"/></p>
 <p><a href="http://www.light2015.org/" rel="noopener noreferrer" target="_blank">Международный год света и световых технологий 2015</a> (IYL 2015) был мероприятием Организации Объединённых Наций, которое привлекло внимание мирового сообщества к достижениям науки о свете и её применению, а также к их значению для человечества. Под руководством <a href="http://www.unesco.org/" rel="noopener noreferrer" target="_blank">ЮНЕСКО</a> было проведено более 13 000 мероприятий в 147 странах, которые охватили аудиторию, оцениваемую более чем в 100 миллионов человек. Дополнительную информацию см. в итоговом отчёте IYL 2015.</p>
 <p><img alt="" decoding="async" height="425" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-photo-winner-1.jpg" width="800"/></p>
@@ -59,19 +50,12 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2020</a></p>
 <p class="lead short">Ссылки:</p>
 <p class="short">Страница Международного дня света на Кипре в Facebook <a href="https://www.facebook.com/idlcy/" rel="noopener noreferrer" target="_blank" title="CYPRUS INTERNATIONAL DAY OF LIGHT FB PAGE">https://www.facebook.com/idlcy/</a></p>
-
 <p class="short">Международный день света ЮНЕСКО <a href="https://www.lightday.org/" rel="noopener noreferrer" target="_blank" title="UNESCO IDL">https://www.lightday.org/</a></p>
-
 <p>Международные мероприятия Дня света <a href="https://www.lightday.org/events" rel="noopener noreferrer" target="_blank" title="IDL INTERNATIONAL EVENTS">https://www.lightday.org/events</a></p>
-
 <p>Страница Международного дня света ЮНЕСКО в Facebook <a href="https://www.facebook.com/DayOfLight2020" rel="noopener noreferrer" target="_blank" title="UNESCO IDL FB PAGE">https://www.facebook.com/DayOfLight2023</a></p>
-
 <p>Страница Международного дня света ЮНЕСКО в Instagram <a href="https://www.instagram.com/idl2020/" rel="noopener noreferrer" target="_blank" title="UNESCO INTERNATIONAL DAY OF LIGHT INSTAGRAM PAGE">https://www.instagram.com/idl2023/</a></p>
-
 <p class="short">Страница Международного дня света ЮНЕСКО в Twitter <a href="https://twitter.com/IDLOfficial" rel="noopener noreferrer" target="_blank" title="UNESCO INTERNATIONAL DAY OF LIGHT TWITTER PAGE">https://twitter.com/IDLOfficial</a></p>
-</div>
-</div>
-</div>
+
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приветствует Вас<br/> Присоединяйтесь к нашему выходу в открытый космос</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->

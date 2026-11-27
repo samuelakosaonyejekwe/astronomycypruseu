@@ -17,8 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row"><div class="block">
-<h2><strong>Габбро</strong></h2>
+
 <div class="blocks">
 <div class="row split">
 <div class="block media"><img alt="" data-nw="1280" decoding="async" height="387" loading="lazy" src="/images/exhibitions/cyprus-geology/gabbro.jpg" width="500"/></div>
@@ -33,7 +32,7 @@ require SITE_ROOT . '/includes/header.php';
 <marquee>
 </marquee>
 <marquee>
-</marquee></div></div></div>
+</marquee></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

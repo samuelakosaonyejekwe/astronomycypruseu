@@ -25,16 +25,16 @@ require SITE_ROOT . '/includes/header.php';
 <p>Since 2008 the KITION PLANETARIUM &amp; OBSERVATORY as the National coordinator for Sidewalk Astronomers in <a href="/en/projects/international-projects/archive/sidewalk-astronomers.php">Cyprus</a> conducts and coordinates events nationwide. </p>
 <p>2017 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">23 APRIL</p></div>
-<div class="block"><strong>�SunDay�
+<div class="block"><strong>“SunDay”
 SOLAR OBSERVATIONS
 </strong></div>
 </div>
 </div>
 <p class="short">2016 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 SEPTEMBER</p></div>
 <div class="block"><p class="short">SIDEWALK ASTRONOMERS IN ENGLISH SCHOOL, NICOSIA</p></div>
 </div>

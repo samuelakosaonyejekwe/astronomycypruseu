@@ -17,15 +17,10 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><p class="short">KITION PLANETARIUM &amp; OBSERVATORY</p>
+<p class="short">KITION PLANETARIUM &amp; OBSERVATORY</p>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></p><h2>LOGO</h2><p>DARK SKY BLUE : DOME REPRESENTING THE SKY WITH 3 STARS AND A TELESCOPE REPRESENTING ASTRONOMY</p><p>RED : OUR MOTTO. A WARM WELCOMING FOR PEOPLE TO "JOIN OUR SPACEWALK"</p></div></div></div>
-
-
-
 <div class="blocks">
-<div class="row">
-<div class="block"><p class="short">The <strong>KITION PLANETARIUM &amp; OBSERVATORY</strong> was founded on February 14, 2008.</p>
+<p class="short">The <strong>KITION PLANETARIUM &amp; OBSERVATORY</strong> was founded on February 14, 2008.</p>
 <p>The organization was ascribed the name <strong>KITION PLANETARIUM &amp; OBSERVATORY</strong>.</p>
 <p>It is named after the ancient city of KITION which was found in the area where nowadays, the town of Larnaca, Cyprus, is located.</p>
 <p>For this reason it is considered an honorary act on behalf of the local authorities to grant us the permission to utilize the name of this significant landmark as a prefix to the name of our organization.</p>
@@ -51,19 +46,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>During the Classical period, large-scale construction work was commissioned in the city of Kition, such as monumental public buildings which formed part of an ambitious public works project. Part of this project was also the draining of the marshland in the quarter of Pampoula, the creation of a sanitary system, and the construction of two harbours, one for commercial purposes and one for military use. Only the military one has been excavated so far. The ramps used to tow the ships into the harbor for repair or for safe keeping, still exist.</p>
 <p class="lead"><strong>Credits</strong>:</p>
 <p>CYPRUS DEPARTMENT OF ANTIQUITIES <a href="http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument" rel="noopener noreferrer" target="_blank" title="KITION - CYPRUS DEPT OF ANTIQUITIES">http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument</a></p>
-
 <p class="lead"><strong>Links</strong>: </p>
 <p>VISIT ANCIENT KITION https://www.visitcyprus.com/index.php/en/discovercyprus/culture-religion/sites-monuments/item/177-kition-archaeological-site</p>
-
 <p>KITION (WIKIPEDIA)</p>
 <p class="short"><a href="https://en.wikipedia.org/wiki/Kition" rel="noopener noreferrer" target="_blank" title="KITION (WIKIPEDIA)">https://en.wikipedia.org/wiki/Kition</a></p>
 <p class="short">LIVIUS.ORG (KITION BRONZE AGE - ROMAN AGE)</p>
 <p class="short"><a href="https://www.livius.org/articles/place/kition/" rel="noopener noreferrer" target="_blank" title="LIVIUS.ORG (KITION)">https://www.livius.org/articles/place/kition/</a></p>
 <p class="short">Larnaca 4000 years of history by Andreas Michaelides (in Greek)</p>
-<p class="short">http://www.larnaka.org.cy/en/file/15tYyDUYmaOhGYAsl9Rd6A</p></div>
-</div>
-</div>
-</div>
+<p class="short">http://www.larnaka.org.cy/en/file/15tYyDUYmaOhGYAsl9Rd6A</p>
 </div>
 </div>
 </article>

@@ -18,9 +18,7 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <p>
 <img alt="" data-nw="960" decoding="async" height="338" loading="lazy" src="/docs/the-sky-is-alive/SkyIsAlivePoster_FullText.jpg" width="600"/></p>
-<div class="blocks">
-<div class="row">
-<div class="block">
+
 <p>Αγαπητέ φίλε/μέλος/ερασιτέχνη αστρονόμε,</p>
 <p>Μας φαίνεται σαν ο ουρανός να μην αλλάζει ποτέ. Για να το τονίσουν αυτό, στην αρχαιότητα οι φιλόσοφοι και οι επιστήμονες εισήγαγαν τη Σφαίρα των Απλανών Αστέρων. Παρά την ιδέα αυτή, υπάρχουν πολλά αστρονομικά φαινόμενα που διαρκούν μόνο για μικρό χρονικό διάστημα. Χρειάζεται μόλις μία ημέρα για να παρατηρήσουμε ότι η Σελήνη αλλάζει θέση και φάση. Πολλοί αστέρες αλλάζουν τη λαμπρότητά τους. Παρατηρούμε επικαλύψεις, όπου ένα ουράνιο σώμα κρύβει από τον παρατηρητή ένα άλλο σώμα. Τα μετέωρα είναι ένα από τα πιο εντυπωσιακά θεάματα του ουρανού.</p>
 <p>Ποια φαινόμενα του ουρανού έχουν μικρή χρονική διάρκεια; Τι να περιμένουμε και πότε συμβαίνουν; Πώς να τα παρατηρήσουμε; Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ ετοίμασε για εσάς ένα ειδικό μάθημα με τις απαντήσεις σε αυτές τις ερωτήσεις…</p>
@@ -35,9 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>ΕΝΗΛΙΚΕΣ €70 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-adult-gift-ticket/" rel="noopener noreferrer" target="_blank">ΑΓΟΡΑΣΤΕ ΤΩΡΑ</a></strong></p>
 <p class="short"><strong> ΦΟΙΤΗΤΕΣ €50 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/the-sky-is-alive-student-ticket/" rel="noopener noreferrer" target="_blank">ΑΓΟΡΑΣΤΕ ΤΩΡΑ</a></strong></p>
 <p class="short"><a class="doc-link" href="/docs/the-sky-is-alive/ENGLISH/THE%20SKY%20IS%20ALIVE%20EN%20INV.pdf" rel="noopener" target="_blank">Κατεβάστε το Πρόγραμμα Σπουδών και τις λεπτομέρειες του μαθήματος (PDF)</a></p>
-</div>
-</div>
-</div>
+
 <p class="lead short"><strong>ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</strong></p>
 <p>Λειτουργούμε με «Πολιτική Κρατήσεων Μόνο».</p>
 <p>Απαιτείται κράτηση εκ των προτέρων, καλώντας στο (+357) 99991111 (αγγλόφωνοι) ή στο (+357) 99037440 (ρωσόφωνοι).</p>

@@ -20,15 +20,11 @@ require SITE_ROOT . '/includes/header.php';
 <img alt="" data-nw="1920" decoding="async" height="450" loading="lazy" src="/images/educational-courses/mathematical-induction-quest/mathematical-induction-quest.jpg" width="800"/>
 </p></div></div></div>
 
-
-<div class="blocks">
-<div class="row">
-<div class="block"><p>Dear friend/member/amateur astronomer, </p>
+<p>Dear friend/member/amateur astronomer, </p>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY announces a special course for lyceum students for this Summer.</p>
 <p>The course consists of 4 sessions. </p>
 <p>It discusses the method of mathematical induction in school.</p>
 <p>It touches the widely known tasks of sequences and concentrates on skills to put it in practice in different areas, such as graph theory, chain fractions and tasks on golden ratio. </p>
-
 <p>The final session pays special attention in paradoxes of the mathematical induction.</p>
 <p>Well-planned and well-designed homework can help students consolidate their knowledge and practise their skills and to expand the mathematical vision of students.</p>
 <p> The course will be delivered by the Astrophysicist Alexander Prokofyev. </p>
@@ -37,7 +33,6 @@ require SITE_ROOT . '/includes/header.php';
 <p>Nowadays he conducts research in archeoastronomy, organizes and participates in observations of total solar eclipses, meteor showers and asteroid occultations. </p>
 <p>He has publications in scientific and popular editions, and makes reports in both national and International conferences, from Cyprus to the USA. </p>
 <p>He is known for his pedagogical skills. The students he prepared for the competitions of the International Olympiad in Astronomy and Astrophysics achieved 3 times an ‘honorable mention’ level as well as brought 1 medal, being amongst the top the talented students on the planet.</p>
-
 <p>These are the highest ever awards that Cypriot participants have achieved.</p>
 <p>On completion of the course a participation certificate will be awarded. Booking in advance is obligatory. </p>
 <h3>Registration has already begun. </h3>
@@ -49,18 +44,14 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Join our spacewalk…</p>
 <p class="short">Best regards, </p>
 <h3><em>George Troullias </em></h3>
-<p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p></div>
-</div>
-</div>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="lead short">IMPORTANT NOTE:</p>
+<p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p>
+
+
+<p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
-<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p></div>
-</div>
-</div>
+<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

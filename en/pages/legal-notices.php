@@ -16,10 +16,9 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">LEGAL NOTICES</p><h2><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></h2>
+<h2><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></h2>
 <div class="blocks">
-<div class="row">
-<div class="block"><h2><strong>LEGAL NOTICES</strong></h2>
+<h2><strong>LEGAL NOTICES</strong></h2>
 <p class="short">For your information, this website is hosted on GoDaddy.com</p>
 <h3><strong>Online Privacy Policy</strong></h3>
 <p> The KITION PLANETARIUM &amp; OBSERVATORY located at 9 Ammochostou, Kiti, 7550, Larnaca, Cyprus, is committed to protecting individual privacy and securing the personal information of its online visitors, made available to us when you visit astronomycyprus.eu, as well KITION PLANETARIUM &amp; OBSERVATORY pages on other sites (such as official KITION PLANETARIUM &amp; OBSERVATORY profiles on social networks).</p>
@@ -114,17 +113,12 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>Larnaca, Cyprus</strong></p>
 <h3><strong>Further information and requests</strong></h3>
 <p>In accordance with the European Union (EU)’s General Data Protection Regulation (GDPR),  the Data Controller is the KITION PLANETARIUM &amp; OBSERVATORY. </p>
-
 <p>EU citizens can contact Kition Planetarium &amp; Observatory Data Protection Officer (<a href="mailto:planetarium@cytanet.com.cy">planetarium@cytanet.com.cy</a>)</p>
 <p> with any questions or requests about your personal data.</p>
 <h3><strong>KITION PLANETARIUM &amp; OBSERVATORY Policy Changes</strong></h3>
 <p>Occasional changes may be made to this page as new services and content are added to our site  or to reflect changes in the KITION PLANETARIUM &amp; OBSERVATORY policies. </p>
-
 <p>Visitors to the KITION PLANETARIUM &amp; OBSERVATORY website are encouraged to check this page periodically  to stay informed of current KITION PLANETARIUM &amp; OBSERVATORY privacy guidelines.</p>
-
 <p> This policy was last updated September 2, 2025.</p>
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

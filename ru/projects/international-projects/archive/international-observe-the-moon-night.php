@@ -32,21 +32,21 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short">2016 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 ОКТЯБРЯ</p></div>
 <div class="block"><p class="short"><a href="http://www.lpi.usra.edu/inomn_wordpress/globe.cfm" rel="noopener noreferrer" target="_blank">InOMN</a> <strong>ДЕТСКИЙ САД «ИЛИОСТАЛАГМАТИЕС», ЛАРНАКА</strong></p></div>
 </div>
 </div>
 <p class="short">2015 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">19 СЕНТЯБРЯ</p></div>
 <div class="block"><a href="http://www.lpi.usra.edu/observe_the_moon_night/past-future-events/" rel="noopener noreferrer" target="_blank">InOMN</a> <strong>ГОРОДСКОЙ САД ЛАРНАКИ</strong></div>
 </div>
 </div>
 <p class="short">2014 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 СЕНТЯБРЯ</p></div>
 <div class="block"><ul>
 <li><a href="http://www.lpi.usra.edu/observe_the_moon_night/past-future-events/" rel="noopener noreferrer" target="_blank">InOMN</a> МАЯК ФАРОС</li>

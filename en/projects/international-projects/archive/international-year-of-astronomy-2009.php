@@ -17,20 +17,20 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <p class="short">INTERNATIONAL YEAR OF ASTRONOMY</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="1280" decoding="async" height="567" loading="lazy" src="/images/iau0702a.jpg" width="300"/><p class="short">INTERNATIONAL YEAR OF ASTRONOMY</p>
+<div class="row stack"><div class="block"><img alt="" data-nw="1280" decoding="async" height="567" loading="lazy" src="/images/iau0702a.jpg" width="300"/>
 </div></div>
 </div>
 <p>In 2009 humanity celebrated 400 years since inventing of telescope by Galileo Galilei. This instrument, giving at the beginning just 3 times magnification, became a powerful tool in making philosophical and scientific revolution. The progress of understanding of the place of mankind in the Universe is continued till now. </p>
 <p>The International Year of Astronomy 2009 is a global effort initiated by the International Astronomical Union (IAU) and UNESCO to help the citizens of the world rediscover their place in the Universe through the day- and night-time sky, and thereby engage a personal sense of wonder and discovery. Visit the official site of <a href="https://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">the </a><a href="http://www.astronomy2009.org/" rel="noopener noreferrer" target="_blank">International Year of Astronomy 2009</a> for more details. </p>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY conducted events during the whole 2009 in Cyprus. </p>
 <p class="short">2009 </p>
-<div class="table-wrap"><table><tr><th scope="col">27 NOVEMBER</th><th scope="col">ASTROPARTY KALO CHORIO, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">17 NOVEMBER</th><th scope="col">LEONIDS WATCH KALO CHORIO, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">20-22 OCTOBER</th><th scope="col"><a href="/en/projects/international-projects/archive/galilean-nights.php">GALILEAN NIGHTS</a><br/> GALLERY TEHNIS DROMENA, NICOSIA, CYPRUS</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">6-10 OCTOBER</th><th scope="col">WORLD SPACE WEEK<br/> 
- PERIVOLIA AND DREAMLAND, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">3-4 OCTOBER</th><th scope="col">ASTROPARTY WITH CAMPING<br/> 
- TROODOS, CYPRUS</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">12 SEPTEMBER</th><th scope="col">CHARITY EVENT CHRISTINA A.APOSTOLOU FOUNDATION
-<br/>LARNACA MUNICIPAL GARDENS</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">27 AUGUST</th><th scope="col">MARS HOAX - PHENOMENON IMPOSSIBLE!
+<div class="table-wrap"><table><tr><td>27 NOVEMBER</td><td>ASTROPARTY KALO CHORIO, LARNACA</td></tr><tr><td>17 NOVEMBER</td><td>LEONIDS WATCH KALO CHORIO, LARNACA</td></tr><tr><td>20-22 OCTOBER</td><td><a href="/en/projects/international-projects/archive/galilean-nights.php">GALILEAN NIGHTS</a><br/> GALLERY TEHNIS DROMENA, NICOSIA, CYPRUS</td></tr><tr><td>6-10 OCTOBER</td><td>WORLD SPACE WEEK<br/> 
+ PERIVOLIA AND DREAMLAND, LARNACA</td></tr><tr><td>3-4 OCTOBER</td><td>ASTROPARTY WITH CAMPING<br/> 
+ TROODOS, CYPRUS</td></tr><tr><td>12 SEPTEMBER</td><td>CHARITY EVENT CHRISTINA A.APOSTOLOU FOUNDATION
+<br/>LARNACA MUNICIPAL GARDENS</td></tr><tr><td>27 AUGUST</td><td>MARS HOAX - PHENOMENON IMPOSSIBLE!
 <br/>
-PERIVOLIA, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">12 AUGUST</th><th scope="col">PERSEIDS METEOR SHOWER 2009<br/>ASTRO-BEACH-PARTY
-<br/>SOFTADES BEACH, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">28 MARCH</th><th scope="col">EARTH HOUR<br/>PERIVOLIA, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">27 FEBRUARY</th><th scope="col">CARNIVAL PARTY<br/>DREAMLAND, LARNACA</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">13 FEBRUARY</th><th scope="col">VALENTINE STAR PARTY<br/>FAROS LIGHTHOUSE, LARNACA</th></tr></table></div>
+PERIVOLIA, LARNACA</td></tr><tr><td>12 AUGUST</td><td>PERSEIDS METEOR SHOWER 2009<br/>ASTRO-BEACH-PARTY
+<br/>SOFTADES BEACH, LARNACA</td></tr><tr><td>28 MARCH</td><td>EARTH HOUR<br/>PERIVOLIA, LARNACA</td></tr><tr><td>27 FEBRUARY</td><td>CARNIVAL PARTY<br/>DREAMLAND, LARNACA</td></tr><tr><td>13 FEBRUARY</td><td>VALENTINE STAR PARTY<br/>FAROS LIGHTHOUSE, LARNACA</td></tr></table></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

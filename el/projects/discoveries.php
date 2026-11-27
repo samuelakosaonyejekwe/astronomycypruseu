@@ -21,42 +21,42 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong>ΑΝΑΚΑΛΥΦΘΗΚΑΝ ΑΠΟ ΤΙΣ ΟΜΑΔΕΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ</strong></h2>
 <div class="table-wrap"><table>
 <div class="row">
-<div class="block"><p>1.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2019 AN16</strong></div>
 </div>
 <div class="row">
-<div class="block"><p>2.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2020 JW8</strong></div>
 </div>
 <div class="row">
-<div class="block"><p>3.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2020 PG26</strong></div>
 </div>
 <div class="row">
-<div class="block"><p>4.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2020 KN13</strong></div>
 </div>
 <div class="row">
-<div class="block"><p>5.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2021 CQ27 (734827)</strong></div>
 </div>
 <div class="row">
-<div class="block"><p>6.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2021 PF72</strong></div>
 </div>
 <div class="row">
-<div class="block"><p>7.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2021 CJ48</strong></div>
 </div>
 <div class="row">
-<div class="block"><p>8.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2021 PZ188</strong></div>
 </div>
 <div class="row">
-<div class="block"><p>9.</p></div>
+<div class="block"></div>
 <div class="block"><strong>Αστεροειδής 2021 UH123</strong></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p>10.</p></div>
 <div class="block"><strong>Αστεροειδής 2024 RT48</strong></div>
 </div>

@@ -17,8 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><h2><strong>Exhibitions</strong></h2>
+
 <h2>Geology and Fossils</h2>
 <h3>Cyprus Geology and Fossils</h3>
 <p>This exhibition is dedicated to the natural history of Cyprus.</p>
@@ -52,13 +51,6 @@ require SITE_ROOT . '/includes/header.php';
 <h3>Rocket</h3>
 <p class="short">Take photos with our model rocket.</p>
 <div class="blocks"><div class="row split"><div class="block media"><p><strong><img alt="" data-nw="600" decoding="async" height="399" loading="lazy" src="/images/exhibition.jpg" width="600"/></strong></p></div><div class="block"><p class="lead short">Notes:</p><ul class="items"><li>Some topics of our <a href="/en/program-events/educational-courses.php"> educational programs</a> and <a href="/en/program-events/educational-courses/summer-school.php">summer school </a>are conducted at the exhibitions. </li><li>Volunteers are welcomed to classify and to work with the exhibits.</li><li>Special educational and enternainment programs (private or in organized groups) are available upon request.</li><li>Look out for our "Night at the Museum".</li></ul><p>Book your event by calling tel.: +357 99991111 or <a href="mailto:planetarium@cytanet.com.cy">Contact us </a>via email for further information.</p></div></div></div>
-
-
-
-
-
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

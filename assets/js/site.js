@@ -214,7 +214,7 @@
       if (nw) m.style.maxWidth = nw + 'px';
     });
   }
-  $$('.row.gallery:not(.tiles)').forEach(justify);
+  $$('.row.gallery:not(.tiles)').filter(function (r) { return !r.classList.contains('captioned') || r.classList.contains('promo'); }).forEach(justify);
 
   /* ---------- Image viewer for content images that are not links ---------- */
   var lb = $('#lightbox');

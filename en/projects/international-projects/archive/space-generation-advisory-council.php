@@ -16,8 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">SPACE GENERATION ADVISORY COUNCIL IN CYPRUS</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="146" decoding="async" height="146" loading="lazy" src="/images/logo_sgac.png" width="146"/><p class="short">SPACE GENERATION ADVISORY COUNCIL <br/>IN CYPRUS</p>
+<div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="146" decoding="async" height="146" loading="lazy" src="/images/logo_sgac.png" width="146"/>
 </div></div>
 </div>
 <p>The <strong>Space Generation Advisory Council</strong> is a global non-governmental, non-profit organisation and network which aims to represent university students and young space professionals to the United Nations, space agencies, industry, and academia.</p>

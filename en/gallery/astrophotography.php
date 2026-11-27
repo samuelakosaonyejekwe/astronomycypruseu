@@ -16,7 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<h2>ASTROPHOTOGRAPHY</h2>
 <h2>MILKY WAY</h2>
 <h2>SUN</h2>
 <div class="blocks">
@@ -25,10 +24,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Next will occure on 19 August 2030 and be visible from Mars.</p></div><div class="block"><img alt="" data-nw="498" decoding="async" height="382" loading="lazy" src="/images/astrophotography/sun/sunspot-AR12192.jpg" width="400"/><p class="short">Huge sunspot AR12192 on 22 October 2014. </p>
 <p class="short">For some days it was visible by naked eye.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Transit of Mercury</p></div><div class="block"><img alt="" data-nw="976" decoding="async" height="391" loading="lazy" src="/images/astrophotography/sun/coronado-h-a.jpg" width="400"/><p class="short">Sun's chromosphere.</p>
 <p class="short">Prominences, filaments, granules, sunspots.</p></div><div class="block"><img alt="" data-nw="1440" decoding="async" height="250" loading="lazy" src="/images/astrophotography/sun/sunspot-AR12192-in-clouds.jpg" width="400"/><p class="short">Sunspot-AR12192 behind clouds</p></div></div>
-
-
-
-
 </div>
 <h2>MOON</h2>
 <h2>PLANETS</h2>
@@ -36,7 +31,6 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row gallery captioned"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Transit of Venus 6 June 2012.</p>
 <p class="short">KITION PLANETARIUM &amp; OBSERVATORY. </p>
 <p class="short">Next will occure on 19 August 2030 and be visible from Mars.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Transit of Mercury</p></div></div>
-
 </div>
 <h2>NEBULAE</h2>
 <h2>NOVAS AND SUPERNOVAS</h2>

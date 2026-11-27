@@ -21,21 +21,10 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong> SATURDAY 21ST OCTOBER 2023</strong></h2>
 <h2><strong>TIME: 19:00 - 20:00</strong></h2>
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><h2>PLACE: KITION PLANETARIUM &amp; OBSERVATORY</h2><p><img alt="" data-nw="720" decoding="async" height="405" loading="lazy" src="/images/inomn/observe-the-Moon-around-the-world-2023.gif" width="720"/></p></div><div class="block media"><p><img alt="" data-nw="2092" decoding="async" height="402" loading="lazy" src="/images/inomn/InOMN-cyprus-2023.jpg" width="800"/></p></div><div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="3600" decoding="async" height="600" loading="lazy" src="/images/inomn/ObserveMoonPoster.jpg" width="400"/></p><p>International Observe the Moon Night is a time to come together with fellow Moon enthusiasts and curious people worldwide.</p></div></div></div></div></div></div>
-
-
-
-
 <p>Everyone on Earth is invited to learn about lunar science and exploration, take part in celestial observations, and honor cultural and personal connections to the Moon. Note that we encourage you to <a href="https://moon.nasa.gov/observe-the-moon-night/participate/10-ways-to-observe-the-moon/" rel="noopener noreferrer" target="_blank">interpret “observe” broadly</a>.</p>
-
 <p>International Observe the Moon Night occurs annually in September or October, when the Moon is around first quarter ― a great phase for evening observing.</p>
-
 <p>Furthermore, a first-quarter Moon offers excellent viewing opportunities along the terminator (the line between night and day), where shadows enhance the Moon’s cratered landscape.</p>
-
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1041" decoding="async" height="314" loading="lazy" src="/images/apollo-16-s-ivb-impact-site-seen-by-lro.jpg" width="500"/></p></div><div class="block"><h2>LRO Finds Apollo 16 Booster Rocket Impact Site</h2><p>After decades of uncertainty, an Apollo 16 upper rocket stage impact site has been identified on the moon's surface, thanks to high resolution imagery from NASA's Lunar Reconnaissance Orbiter.</p><p><em><strong>Image credit: NASA/Goddard/Arizona State University</strong></em></p></div></div></div>
-
-
-
-
 <p><img alt="" data-nw="1200" decoding="async" height="480" loading="lazy" src="/images/inomn/InOMN-2023.png" width="800"/></p>
 <p class="short">You can join International Observe the Moon Night from wherever you are.</p>
 <p class="short"> <a href="https://moon.nasa.gov/observe-the-moon-night/participate/find-an-event/" rel="noopener noreferrer" target="_blank">Attend</a> or <a href="https://moon.nasa.gov/observe-the-moon-night/how-to-host/the-basics/" rel="noopener noreferrer" target="_blank">host</a> a virtual or in-person event, or observe the Moon from <a href="https://moon.nasa.gov/observe-the-moon-night/register/individual-participation/" rel="noopener noreferrer" target="_blank">home</a>.</p>
@@ -44,7 +33,6 @@ require SITE_ROOT . '/includes/header.php';
 <p>Outdoors, at home, online, or wherever you may be, we’re glad to have you with us.</p>
 <p class="short">However you choose to observe, please follow local guidelines on health and safety. </p>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="730" decoding="async" height="730" loading="lazy" src="/images/inomn/moon.6999.jpg" width="730"/></p><h2>Goals of International Observe the Moon Night:</h2></div></div></div>
-
 <ol>
 <li>
 <h2>1. Unite people across the globe in a celebration of lunar observation, science, and exploration.</h2>

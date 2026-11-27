@@ -17,16 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks"><div class="row split"><div class="block media"><p><a href="https://astronomycyprus.eu/gift-shop/index.php/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p></div><div class="block"><p class="short">25 ОКТЯБРЯ 2022</p><p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p><p class="short">20:00 «СОЛНЕЧНОЕ ЗАТМЕНИЕ НАД СТАРЫМ СВЕТОМ» ОНЛАЙН SCIENCE CAFÉ</p><p class="short">Докладчик: Александр Прокофьев (ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p><dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl></div></div></div>
-
-
-
-
-
-
-
 <p><img alt="" data-nw="1920" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-25-october-2022.png" width="800"/></p>
 <p class="short">Это специальное мероприятие посвящено ЧАСТНОМУ СОЛНЕЧНОМУ ЗАТМЕНИЮ 25 октября 2022 года.</p>
 <p class="short">Отчёт о наблюдениях и археоастрономия, связанная с солнечным затмением.</p>
@@ -36,18 +27,12 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Присоединяйтесь к нашей космической прогулке!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
 <p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-
 <h3>ПОСЕТИТЕ НАШУ СТРАНИЦУ В FACEBOOK...</h3>
-<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">"</p></div>
-</div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас...<br/> Присоединяйтесь к нашей космической прогулке</p>
 </article>

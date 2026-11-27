@@ -17,13 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="275" loading="lazy" src="/images/asteroid-day/AD_LOGO.jpg" width="550"/></p></div><div class="block"><h2><strong>CELEBRATIONS IN CYPRUS 2026</strong> </h2><p class="short"><strong>#asteroidday #AD2026 #kpocyprus #cyprus</strong></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/asteroid-day-2026-cyprus/" rel="noopener noreferrer" target="_blank"><strong>GET YOUR TICKETS FOR ASTEROID DAY CYPRUS 30 JUNE 2026 - PRESS HERE</strong></a></p><p class="short">Join the KITION PLANETARIUM &amp; OBSERVATORY in celebrating the International Asteroid Day.</p><p class="short"><strong>The Cyprus official event will be held at KITON PLANETARIUM &amp; OBSERVATORY premises in Kiti</strong></p><p class="short"><strong>RESERVATIONS ONLY</strong></p><p class="short"><strong>For info CALL 99991111</strong></p></div></div></div>
-
-
-
-
-
-
-
 <h3>TUESDAY 30TH JUNE 2026, TIME: 19:30 (UT+3)</h3>
 <h3>PLACE: KITION PLANETARIUM &amp; OBSERVATORY (KITI, CYPRUS)</h3>
 <h4><strong>ASTEROID DAY 2026 – CYPRUS</strong></h4>
@@ -46,18 +39,12 @@ require SITE_ROOT . '/includes/header.php';
 <source src="/video/asteroidday.mp4" type="video/mp4">
 </source></video>
 <div class="blocks">
-<div class="row">
-<div class="block"><p><strong>THE STORY BEHIND ASTEROID DAY</strong></p>
+<p><strong>THE STORY BEHIND ASTEROID DAY</strong></p>
 <p>Asteroid Day is a dynamic awareness and educational program to inspire the world about asteroids – their role in the formation of our solar system, how we can use their resources, how asteroids can pave the way for future exploration and finally how we can protect our planet from asteroid impacts. Asteroid Day events are held on 30 June each year to mark the anniversary of the 1908 Tunguska impact. Asteroid Day events are largely independently organized around the world for people of all ages and are mostly free-of-charge. Asteroid Day is a program run by the Asteroid Foundation, a Luxembourg nonprofit organization.</p>
 <p>Asteroid Day was co-founded in 2014, by Dr. Brian May, astrophysicist and lead guitarist of QUEEN, together with Danica Remy, President of B612 Foundation, Rusty Schweickart, Apollo 9 Astronaut, and filmmaker Grig Richters. In 2016, the United Nations officially designated Asteroid Day as the international day of awareness and education about asteroids. Together with the United Nations, space agencies, schools and universities Asteroid Day is organized by networks of supporters who host events worldwide on 30, June and any other day of the year that the independent groups determine.</p>
 <p>To initially launch the Asteroid Day education programs in 2014, members of the asteroid community drafted and released a petition to gather public support for asteroid education and called on governments to accelerate the funding of asteroid discovery programs. Today, this petition, the 100X Asteroid Declaration, has been signed by hundreds of prominent individuals around the world, including leaders in science, technology, and business, and more than 125 astronauts.</p>
 <p>Thanks to its partners and supporters, and particularly to the Government of Luxembourg, where the Foundation is headquartered, Asteroid Day has made significant strides educating the world about asteroids. Through our work we share information and teach about the science, opportunities, and risks of asteroids. Since the first events in 2015, the movement has grown exponentially. Through Asteroid Day, we continue to inspire people and young minds to look up into the sky and to be excited about our Solar System.</p>
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="1203" decoding="async" height="411" loading="lazy" src="/images/asteroid-day/asteroidday_title.jpg" width="550"/></p></div><div class="block"><p class="short"><strong>ASTEROID DAY MISSION</strong></p><p>Asteroid Day takes place annually on June 30.</p><p>It is a global awareness campaign where people from around the world come together to learn about asteroids, the impact hazard they may pose, and what we can do to protect our planet, families, communities, and future generations from future asteroid impacts.</p><p>Asteroid Day is held each year on the anniversary of the largest impact in recent history, the 1908 Tunguska event in Siberia. A relatively small asteroid, about 40 meters across or the size of a modest office building, devastated an unpopulated area about the size of a major metropolitan city.</p><p>Regionally organised large and small events are held on Asteroid Day, and range from lectures and other educational programmes to live concerts and broader community events, to raise public awareness of the need for increased detection and tracking of asteroids.</p></div></div></div>
-
-
-
-
-
 <video controls="" preload="metadata">
 <source src="/video/Tim%20Peake%20for%20Asteroid%20Day.mp4" type="video/mp4">
 </source></video>
@@ -101,29 +88,11 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">20:45 TELESCOPE OBSERVATIONS</p>
 <p class="short"><strong>JOIN US ON ASTEROID DAY... </strong></p>
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="/en/planetarium/science-cafe/2024/kition-science-cafe-25-june-2024.php"><img alt="" data-nw="960" decoding="async" height="309" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-25-june-2024.jpg" width="550"/></a></p><h2><strong>CELEBRATIONS IN CYPRUS 2023</strong></h2><p class="short">#ASTEROIDDAY #AD2023</p><p class="short"><a href="https://youtu.be/7ex862HqM0c" rel="noopener noreferrer" target="_blank">CYPRUS ASTEROID DAY PROGRAM 2023</a></p></div></div></div>
-
-
-
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><a href="https://youtu.be/7ex862HqM0c" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1920" decoding="async" height="338" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2023/science-cafe-27-june-2023.jpg" width="600"/></a></p></div><div class="block"><h3>TUESDAY 27TH JUNE 2023, TIME: 20:00</h3><p class="short">20:00 WELCOMING BY THE CYPRUS NC FOR ASTEROID DAY MR. GEORG TROULLIAS</p><p class="short">20:05 WHAT IS ASTEROID DAY? (GEORGE TROULLIAS)</p><p class="short">20:15 PRACTICAL ASPECTS OF <em><strong><a href="https://youtu.be/7ex862HqM0c" rel="noopener noreferrer" target="_blank">FIREBALL TRAJECTORY SIMULATION </a></strong></em> (MAKSIM VEREVKIN)</p></div></div></div>
-
-
-
-
 <h2><strong>CELEBRATIONS IN CYPRUS 2022</strong></h2>
 <p class="short">#ASTEROIDDAY #AD2022</p>
 <h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="Call for Asteroid Day Cyprus 2022">Call for Asteroid Day Cyprus 2022</a></h2>
 <div class="blocks"><div class="row split"><div class="block media"><p><a href="https://www.youtube.com/watch?v=JDGfaJkzDVE" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1366" decoding="async" height="225" loading="lazy" src="/images/asteroid-day/esa-call-ad2022.jpg" width="400"/></a></p></div><div class="block"><div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank"><strong>ASTEROID DAY CYPRUS 30 JUNE 2022</strong></a></p></div><h3>ZOOM EVENT'S PROGRAM: THURSDAY 30TH JUNE 2022, TIME: 20:00</h3><p class="short">20:00 WELCOMING BY THE CYPRUS NC FOR ASTEROID DAY MR. GEORG TROULLIAS</p><p class="short">20:02 WHAT IS ASTEROID DAY? (GEORGE TROULLIAS)</p><p class="short">20:05 LATEST NEWS ON ASTEROIDS (GEORGE TROULLIAS)</p><p class="short">20:10 EXPLORATION OF TUNGUSKA EVENT (ALEXANDR PROKOPHIEV)</p><p class="short">20:15 SEARCHING FOR ASTEROIDS (VIDA MIRSHAMSI)</p><p>20:20 EXPLORATION OF ASTEROIDS (KATIE DEMETRIOU)</p><p>20:30 COMPUTER AIDED SIMULATION OF FIREBALL TRAJECTORIES BASED ON TESTIMONIES (MAKSIM VEREVKIN)</p><p>20:50 COMPUTER AIDED SIMULATION OF FIREBALL TRAJECTORIES BASED ON VIDEO DATA (DMITRY DUBISHKIN)</p><p>21:02 ANNOUNCEMENT OF NEW ASTEROID DISCOVERIES MADE BY THE KITION PLANETARIUM &amp; OBSERVATORY</p></div></div></div>
-
-
-
-
-
-
-
-
-
-
-
 <h2><strong>CELEBRATIONS IN CYPRUS 2021</strong></h2>
 <p class="short">#ASTEROIDDAY #AD2021</p>
 <p class="short"><strong>METEORITES 25TH MAY 2021</strong></p>
@@ -142,7 +111,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>2020</strong></p>
 <p class="short">#ASTEROIDDAY #AD2020</p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">30 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><a href="https://youtu.be/L4PNAO0rdrU" rel="noopener noreferrer" target="_blank">live event </a>
 <p> WELCOMING BY THE CYPRUS REGIONAL COORDINATOR
@@ -155,21 +124,20 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>2019</strong></p>
 <p class="short">#ASTEROIDDAY #AD2019</p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">27 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><p class="short"> INTRODUCTION TO ASTEROID DAY BY <br/>
  CYPRUS REGIONAL COORDINATOR MR GEORGE TROULLIAS</p>
 <dl class="specs"><dt> ASTEROID MISSIONS</dt><dd> LECTURE BY K. DEMETRIOU </dd><dt> ASTEROID HUNTING</dt><dd> HRACHYA ZAKARYAN </dd></dl>
-
 <p class="short">OBSERVATIONS OF JUPITER AND SATURN</p>
 <p class="short"> (LECTURE THEATRE, SCIENCE BUILDING, ENGLISH SCHOOL, NICOSIA)</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">28 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><p class="short"> PLANETARIUM MOVIE 51 DEGREES NORTH (EN) (GRIGORIJ RICHTERS)</p>
 <p class="short"> OBSERVATIONS OF JUPITER</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">30 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><p class="short"> TALK WITH AN ASTRONAUT</p>
 <p class="short">“DANGER FROM THE SKY” SPEAKER TAKIS THEODOSIOU (GREECE)</p>
@@ -178,30 +146,29 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2018</strong></p>
 <p class="short">#ASTEROIDDAY #AD2018</p>
-<div class="table-wrap"><table><tr><th scope="col">27 JUNE</th><th scope="col">INTERNATIONAL ASTEROID DAY<br/>
+<div class="table-wrap"><table><tr><td>27 JUNE</td><td>INTERNATIONAL ASTEROID DAY<br/>
 <br/>
- (LECTURE THEATRE, SCIENCE BUILDING, ENGLISH SCHOOL, NICOSIA)</th></tr></table></div><div class="table-wrap"><table><tr><th scope="col">28 JUNE</th><th scope="col">INTERNATIONAL ASTEROID DAY<br/>
+ (LECTURE THEATRE, SCIENCE BUILDING, ENGLISH SCHOOL, NICOSIA)</td></tr><tr><td>28 JUNE</td><td>INTERNATIONAL ASTEROID DAY<br/>
 <br/>
- OBSERVATIONS OF JUPITER</th></tr><tr><td>30 JUNE</td><td>INTERNATIONAL ASTEROID DAY<br/>
+ OBSERVATIONS OF JUPITER</td></tr><tr><td>30 JUNE</td><td>INTERNATIONAL ASTEROID DAY<br/>
 <br/>
  “NEOShield-2 PROJECT” SPEAKER VANESSA ROMANELLO (GERMANY)</td></tr></table></div>
 <p class="short"><strong>2017</strong></p>
 <p class="short">#ASTEROIDDAY #AD2017</p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">27 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><p class="short">INTRODUCTION TO ASTEROID DAY BY <br/>CYPRUS REGIONAL COORDINATOR MR GEORGE TROULLIAS</p>
 <dl class="specs"><dt>ASTEROID MISSIONS</dt><dd> LECTURE BY K. DEMETRIOU </dd><dt>ASTEROID HUNTING</dt><dd> HRACHYA ZAKARYAN </dd></dl>
-
 <p class="short">OBSERVATIONS OF JUPITER AND SATURN</p>
 <p class="short">(LECTURE THEATRE, SCIENCE BUILDING, ENGLISH SCHOOL, NICOSIA)</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">28 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><p class="short"> PLANETARIUM MOVIE 51 DEGREES NORTH (EN) (GRIGORIJ RICHTERS)</p>
 <p class="short"> OBSERVATIONS OF JUPITER</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">30 JUNE</p></div>
 <div class="block"><p class="short">INTERNATIONAL ASTEROID DAY</p><p class="short">TALK WITH AN ASTRONAUT</p>
 <p class="short">“DANGER FROM THE SKY” SPEAKER TAKIS THEODOSIOU (GREECE)</p>
@@ -211,7 +178,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>2016</strong></p>
 <p class="short">#ASTEROIDDAY #AD2016</p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">30 JUNE</p></div>
 <div class="block"><p class="short">ASTEROID DAY</p><p class="short"> SCIENCE CAFÉ “<strong>DANGER FROM THE SKY</strong>”</p>
 <p class="short"> OBSERVATIONS OF JUPITER</p></div>
@@ -219,18 +186,18 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p><a href="/images/2016-06-30.jpg"><img alt="" data-nw="1440" decoding="async" height="309" loading="lazy" src="/images/2016-06-30.jpg" width="550"/></a> </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 SEPTEMBER 23:48</p></div>
 <div class="block"><p class="short">FIREBALL OVER CYPRUS.</p><p class="short">THE KITION PLANETARIUM COLLECTED VIDEOS AND TESTIMONIES FROM OBSERVERS.</p>
 <p class="short">THE RESULTS WERE PUBLISHES AND SUBMITED TO THE INTERNATIONAL METEOR ORGANIZATION <a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank">DATABASE</a></p>
 <p><a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="540" decoding="async" height="313" loading="lazy" src="/images/imo_20160908.jpg" width="470"/></a></p>
 </div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">OCTOBER</p></div>
 <div class="block"><p class="short">ASTRONOMY COURSE "THE SKY IS ALIVE".</p><p class="short">ONE SESSION OF THE COURSE IS DEDICATED TO ASTEROID OCCULTATIONS.</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">10 OCTOBER 06:33</p></div>
 <div class="block"><p class="short">FIREBALL OVER CYPRUS.</p><p class="short">THE KITION PLANETARIUM COLLECTED VIDEOS AND TESTIMONIES FROM OBSERVERS.</p>
 <p class="short">THE RESULTS WERE PUBLISHES AND SUBMITED TO THE INTERNATIONAL METEOR ORGANIZATION <a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank">DATABASE</a></p></div>
@@ -238,27 +205,18 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to 
  participate in the International Asteroid Day!</p>
-
 <video controls="" preload="metadata">
 <source src="/video/asteroids-size-comparison.mp4" type="video/mp4">
 </source></video>
 <p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
 <p class="lead">LINKS:</p>
 <p class="short">CYPRUS ASTEROID DAY FB PAGE <a href="https://www.facebook.com/asteroiddaycyprus/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/asteroiddaycyprus/</a></p>
-
 <p> INTERNATIONAL ASTEROID DAY <a href="https://asteroidday.org/" rel="noopener noreferrer" target="_blank">https://asteroidday.org/</a></p>
-
 <p>INTERNATIONAL EVENTS FOR ASTEROID DAY <a href="https://asteroidday.org/events/?tribe_eventcategory=2&amp;tribe_event_display=past" rel="noopener noreferrer" target="_blank">https://asteroidday.org/events/?tribe_eventcategory=2&amp;tribe_event_display=past</a></p>
-
 <p>ASTEROID DAY FB PAGE <a href="https://www.facebook.com/asteroidday" rel="noopener noreferrer" target="_blank">https://www.facebook.com/asteroidday</a></p>
-
 <p class="short">ASTEROID DAY INSTAGRAM PAGE <a href="https://www.instagram.com/asteroidday/" rel="noopener noreferrer" target="_blank">https://www.instagram.com/asteroidday/</a></p>
-
 <p class="short">UNESCO INTERNATIONAL DAY OF LIGHT TWITTER PAGE <a href="https://twitter.com/asteroidday" rel="noopener noreferrer" target="_blank">https://twitter.com/asteroidday</a></p>
-
 <p class="short">ASTEROID DAY YOUTUBE PAGE <a href="https://www.youtube.com/asteroidday" rel="noopener noreferrer" target="_blank">http://www.youtube.com/asteroidday</a></p>
-</div>
-</div>
 </div>
 <p class="short">The KITION PLANETARIUM &amp; OBSERVATORY welcomes you<br/>
 Join our spacewalk</p>

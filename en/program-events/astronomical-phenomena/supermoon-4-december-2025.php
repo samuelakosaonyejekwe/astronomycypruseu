@@ -17,10 +17,8 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="table-wrap"><table>
-<div class="row">
-<div class="block"><p><strong>ENGLISH PROGRAM<br/>
- Time: 19:00 (UTC+2)</strong></p> </div>
-</div>
+<p><strong>ENGLISH PROGRAM<br/>
+ Time: 19:00 (UTC+2)</strong></p>
 </table></div>
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/public-events/december-2025/supermoon-4-december-2025.jpg" width="960"/></p>
 <p class="short"><strong>COMET 3I/ATLAS AND SUPERMOON 4TH DECEMBER 2025</strong></p>
@@ -41,10 +39,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>RESERVATIONS ONLY</strong></p>
 <p class="short">The ticket costs 10 euros. Seats are limited and tickets are available online only. </p>
 <div class="table-wrap"><table>
-<div class="row">
-<div class="block"><p><strong>ENGLISH PROGRAM<br/>
- Time: 19:00 (UTC+2)</strong></p></div>
-</div>
+<p><strong>ENGLISH PROGRAM<br/>
+ Time: 19:00 (UTC+2)</strong></p>
 </table></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

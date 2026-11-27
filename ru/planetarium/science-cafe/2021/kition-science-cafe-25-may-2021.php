@@ -18,31 +18,17 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <p><a href="https://astronomycyprus.eu/gift-shop/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p>
 <div class="blocks">
-<div class="row">
-<div class="block"><div class="blocks"><div class="row gallery captioned promo"><div class="block media"><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-25-may-2021.jpg" width="550"/></div><div class="block media"><p><img alt="" data-nw="300" decoding="async" height="150" loading="lazy" src="/images/science-cafe/imca-vice-president.jpg" width="300"/></p></div><div class="block media"><p><img alt="" data-nw="1264" decoding="async" height="563" loading="lazy" src="/images/science-cafe/meteorites-book.jpg" width="400"/></p></div><div class="block"><p><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/science-cafe/iron-meteorite.jpg" width="300"/></p><p class="short">25 МАЯ 2021</p></div></div></div>
-
-
-
-
+<div class="blocks"><div class="row gallery captioned promo"><div class="block media"><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-25-may-2021.jpg" width="550"/></div><div class="block media"><p><img alt="" data-nw="300" decoding="async" height="150" loading="lazy" src="/images/science-cafe/imca-vice-president.jpg" width="300"/></p></div><div class="block media"><p><img alt="" data-nw="1264" decoding="async" height="563" loading="lazy" src="/images/science-cafe/meteorites-book.jpg" width="400"/></p></div><div class="block"><p><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/science-cafe/iron-meteorite.jpg" width="300"/></p><p class="short">25 МАЯ 2021</p></div></div></div>
 <p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ КИТИОНА</p>
 <p class="short">19:00 «МЕТЕОРИТЫ» ОНЛАЙН НАУЧНОЕ КАФЕ</p>
 <p>Такис Теодоссиу, специалист по метеоритам (Коллекция аэролитов Теодоссиу, Греция)</p>
 <p>С самого своего основания ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ КИТИОНА проводит научные кафе, на которых все присутствующие свободно обмениваются мнениями. В 2021 году оно проходит онлайн.</p>
-
 <p>С января посетители из разных частей планеты учувствуют в обсуждении наблюдений, последних новостей в астрономии и своих достижений.</p>
-
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
 <dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="412" loading="lazy" src="/images/science-cafe/science-cafe-25-may-2021.jpg" width="550"/></p></div><div class="block"><p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p><p class="lead">ССЫЛКИ:</p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p><dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl></div></div></div>
-
-
-
-
-
 <h3>ПОСЕТИТЕ НАШУ СТРАНИЦУ В FB...</h3>
-<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div></div>
-</div>
+<div class="link-row"><p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p></div>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас...<br/> Присоединяйтесь к нашей космической прогулке</p>
 </article>

@@ -17,18 +17,14 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <h2><img alt="" data-nw="650" decoding="async" height="389" loading="lazy" src="/images/NextEventCall99991111.jpg" width="600"/></h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><h2><strong>ПУБЛИЧНЫЕ НАБЛЮДЕНИЯ</strong></h2>
+
+<h2><strong>ПУБЛИЧНЫЕ НАБЛЮДЕНИЯ</strong></h2>
 <p>В течение года обсерватория объявляет мероприятия для широкой публики, позволяющие наблюдать интересные небесные тела и явления (например, затмения, суперлуние, противостояния планет, метеорные потоки, яркие кометы, туманности и галактики).</p>
 <p>Подпишитесь на нашу <a href="mailto:planetarium@cytanet.com.cy">новостную рассылку</a> прямо сейчас, чтобы не пропустить будущие мероприятия.</p>
 <p>Все мероприятия с наблюдениями в телескопы сочетаются с программами планетария и/или информационными лекциями и презентациями.</p>
 <p>Наблюдения также доступны всем, кто записывается на наши образовательные курсы и программы в <a href="/ru/program-events/educational-courses/kition-astronomy-academy.php">АСТРОНОМИЧЕСКОЙ АКАДЕМИИ «КИТИОН»</a>.</p>
 <p><a href="/ru/program-events/private-programs.php"> Частные программы</a> для школ, организованных групп и туристов также включают наблюдения в телескоп.</p>
-<p><img alt="" data-nw="600" decoding="async" height="399" loading="lazy" src="/images/observatory_show.jpg" width="600"/></p></div>
-</div>
-<div class="row">
-<div class="block">
+<p><img alt="" data-nw="600" decoding="async" height="399" loading="lazy" src="/images/observatory_show.jpg" width="600"/></p>
 <h2><strong>ВИДЫ НАБЛЮДЕНИЙ</strong></h2>
 <h2><em>Оптический диапазон</em></h2>
 <p class="short">Оптические телескопы доступны днём и ночью.</p>
@@ -37,9 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><em>Радиодиапазон</em></h2>
 <p>С помощью радиотелескопа можно наблюдать солнечные или юпитерианские всплески и метеоры.</p>
 <p><strong>Можно заказать индивидуальные образовательные/развлекательные частные/групповые наблюдения в соответствии с Вашими потребностями. </strong></p>
-<p><strong>Забронируйте мероприятие по тел. +357 99991111 или <a href="/ru/contact-us.php">свяжитесь с нами </a>для получения дополнительной информации.</strong></p></div>
-</div>
-</div>
+<p><strong>Забронируйте мероприятие по тел. +357 99991111 или <a href="/ru/contact-us.php">свяжитесь с нами </a>для получения дополнительной информации.</strong></p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

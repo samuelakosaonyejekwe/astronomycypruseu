@@ -16,8 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">YURI'S NIGHT</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="752" decoding="async" height="234" loading="lazy" src="/images/yurisnight-752x440.jpg" width="400"/><p class="short">YURI'S NIGHT</p>
+<div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="752" decoding="async" height="234" loading="lazy" src="/images/yurisnight-752x440.jpg" width="400"/>
 </div></div>
 </div>
 <p>The FIRST manned space flight happened on April, 12th, 1961. It was the beginning of the space exploration by Human. The first cosmonaut was Yuri Gagarin. Later, he said:</p>
@@ -33,21 +33,21 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short">2016 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">9 APRIL</p></div>
 <div class="block"><p class="short"><strong>YURI GAGARIN – 55 YEARS OF FLIGHT</strong></p></div>
 </div>
 </div>
 <p class="short">2015 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">5-6 APRIL</p></div>
 <div class="block"><a href="https://yurisnight.net/events/yuris-night-party-spaceapps-limassol/" rel="noopener noreferrer" target="_blank">Yuri's Night </a><p class="short">Party</p></div>
 </div>
 </div>
 <p class="short">2014 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">12 APRIL</p></div>
 <div class="block"><ul>
 <li><strong>YURI’S DISCO NIGHT</strong></li>

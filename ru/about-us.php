@@ -17,15 +17,10 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></p><h2>ЛОГОТИП</h2><p>ТЁМНО-СИНИЙ: КУПОЛ, ПРЕДСТАВЛЯЮЩИЙ НЕБО С 3 ЗВЁЗДАМИ, И ТЕЛЕСКОП, ПРЕДСТАВЛЯЮЩИЙ АСТРОНОМИЮ</p><p>КРАСНЫЙ: НАШ ДЕВИЗ. ТЁПЛОЕ ПРИГЛАШЕНИЕ ДЛЯ ВСЕХ «ПРИСОЕДИНИТЬСЯ К НАШЕМУ ВЫХОДУ В КОСМОС»</p></div></div></div>
-
-
-
 <div class="blocks">
-<div class="row">
-<div class="block"><p class="short"><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> был основан 14 февраля 2008 года.</p>
+<p class="short"><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> был основан 14 февраля 2008 года.</p>
 <p>Организация получила название <strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong>.</p>
 <p>Он назван в честь древнего города КИТИОН, который находился на месте, где сегодня расположен город Ларнака на Кипре.</p>
 <p>По этой причине предоставление нам местными властями разрешения использовать название этой значимой достопримечательности в качестве части названия нашей организации считается почётным жестом.</p>
@@ -51,19 +46,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>В классический период в городе Китион были заказаны крупномасштабные строительные работы, такие как монументальные общественные здания, входившие в амбициозный проект общественных работ. Частью этого проекта были также осушение болотистой местности в квартале Пампула, создание санитарной системы и строительство двух гаваней: одной для коммерческих целей и одной для военных. Пока раскопана только военная. Пандусы, использовавшиеся для буксировки кораблей в гавань для ремонта или безопасного хранения, существуют до сих пор.</p>
 <p class="lead"><strong>Источники</strong>:</p>
 <p>ДЕПАРТАМЕНТ ДРЕВНОСТЕЙ КИПРА <a href="http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument" rel="noopener noreferrer" target="_blank" title="KITION - CYPRUS DEPT OF ANTIQUITIES">http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument</a></p>
-
 <p class="lead"><strong>Ссылки</strong>:</p>
 <p>ПОСЕТИТЕ ДРЕВНИЙ КИТИОН https://www.visitcyprus.com/index.php/en/discovercyprus/culture-religion/sites-monuments/item/177-kition-archaeological-site</p>
-
 <p>КИТИОН (ВИКИПЕДИЯ)</p>
 <p class="short"><a href="https://en.wikipedia.org/wiki/Kition" rel="noopener noreferrer" target="_blank" title="KITION (WIKIPEDIA)">https://en.wikipedia.org/wiki/Kition</a></p>
 <p class="short">LIVIUS.ORG (КИТИОН: БРОНЗОВЫЙ ВЕК - РИМСКАЯ ЭПОХА)</p>
 <p class="short"><a href="https://www.livius.org/articles/place/kition/" rel="noopener noreferrer" target="_blank" title="LIVIUS.ORG (KITION)">https://www.livius.org/articles/place/kition/</a></p>
 <p class="short">Ларнака: 4000 лет истории, Андреас Михаилидис (на греческом языке)</p>
-<p class="short">http://www.larnaka.org.cy/en/file/15tYyDUYmaOhGYAsl9Rd6A</p></div>
-</div>
-</div>
-</div>
+<p class="short">http://www.larnaka.org.cy/en/file/15tYyDUYmaOhGYAsl9Rd6A</p>
 </div>
 </div>
 </article>

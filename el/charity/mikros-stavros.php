@@ -37,12 +37,6 @@ require SITE_ROOT . '/includes/header.php';
 </div><div class="block media"><img alt="" data-nw="3648" decoding="async" height="375" loading="lazy" src="/images/charity/mikros-stavros/mikros-stavros-7.jpg" width="500"/></div><div class="block media">
 <p><img alt="" data-nw="3648" decoding="async" height="375" loading="lazy" src="/images/charity/mikros-stavros/mikros-stavros-8.jpg" width="500"/></p>
 </div><div class="block media"><img alt="" data-nw="3648" decoding="async" height="375" loading="lazy" src="/images/charity/mikros-stavros/mikros-stavros-9.jpg" width="500"/></div><div class="block media"><img alt="" data-nw="3648" decoding="async" height="375" loading="lazy" src="/images/charity/mikros-stavros/mikros-stavros-10.jpg" width="500"/></div><div class="block media"><img alt="" data-nw="2283" decoding="async" height="683" loading="lazy" src="/images/charity/mikros-stavros/mikros-stavros-11.jpg" width="500"/></div><div class="block media"><img alt="" data-nw="2515" decoding="async" height="725" loading="lazy" src="/images/charity/mikros-stavros/mikros-stavros-12.jpg" width="500"/></div></div>
-
-
-
-
-
-
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

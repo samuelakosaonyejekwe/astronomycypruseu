@@ -32,7 +32,6 @@ require SITE_ROOT . '/includes/header.php';
 <p><strong>RESERVATIONS ONLY</strong></p>
 <p><img alt="" data-nw="1002" decoding="async" height="969" loading="lazy" src="/images/public-events/february-2026/planetary-conjunction-27-february-2026/planetary-conjunction-27-february-2026.jpg" width="1000"/></p>
 <p>If you could hover above our solar system and look down on it on Friday, February 27, 2026,  this is where you would d find the planets and the Moon.</p>
-
 <p>While 6 planets will be arrayed across in our evening sky, only 4 planets are visible with the naked eye and 2 of them not.</p>
 <p>The planets won't make a line in three-dimensional space, going outward from the sun! Not even close!</p>
 <p>Join our event to learn about these planets and get the opportunity to observe them through professional telescopes. </p>

@@ -16,14 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block"><div class="blocks">
-<div class="row">
-<div class="block">
 <h2><strong>ΕΡΕΥΝΗΤΙΚΑ ΕΡΓΑ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ</strong></h2>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ επενδύει στην επιστημονική έρευνα και ενθαρρύνει επίσης τους μαθητές και το ευρύ κοινό να εμπλακούν σε έργα πολιτών-επιστημόνων.</p>
-
 <h2>ΑΝΑΖΗΤΗΣΗ ΑΣΤΕΡΟΕΙΔΩΝ</h2>
 <h2>ΑΝΤΙΚΕΙΜΕΝΑ ΚΟΝΤΑ ΣΤΗ ΓΗ</h2>
 <h2>ΒΡΟΧΕΣ ΜΕΤΕΩΡΩΝ</h2>
@@ -32,11 +26,6 @@ require SITE_ROOT . '/includes/header.php';
 <h2>ΡΑΔΙΟΑΣΤΡΟΝΟΜΙΑ: ΠΡΟΓΡΑΜΜΑ NASA RADIO JOVE</h2>
 <p class="short">ΑΡΧΑΙΟΑΣΤΡΟΝΟΜΙΑ</p>
 <p class="short">ΜΕΤΡΗΣΕΙΣ ΦΩΤΟΡΥΠΑΝΣΗΣ</p>
-</div>
-</div>
-</div></div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

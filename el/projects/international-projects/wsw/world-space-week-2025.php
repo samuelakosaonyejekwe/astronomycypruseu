@@ -18,78 +18,23 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h2><strong><a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ</a></strong></h2>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="2680" decoding="async" height="257" loading="lazy" src="/images/wsw/World%20Space%20Week%20Cyprus%201.png" width="200"/></p><h2>#wsw2025</h2><h3>ΔΕΛΤΙΟ ΤΥΠΟΥ</h3><h2><strong>Το θέμα της Παγκόσμιας Εβδομάδας Διαστήματος του ΟΗΕ για το 2025 είναι</strong></h2><h2>«<strong>Ζωή στο Διάστημα</strong>»</h2></div></div></div>
-
-
-
-
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="5728" decoding="async" height="854" loading="lazy" src="/images/wsw/wsw2025/wsw2025-poster-cyprus.jpg" width="600"/></p></div><div class="block"><p class="lead short">Οι δράσεις της ΠΕΔ στην <strong>Κύπρο</strong> περιλαμβάνουν:</p><p class="short"><strong>● ΤΡΙΤΗ 30 ΣΕΠΤΕΜΒΡΙΟΥ 2025 ΩΡΑ: 20:00 (UTC+3) </strong></p><p class="short"><strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> (ΜΕΣΩ ZOOM)</p><p><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><strong>20:00 ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2025 - ONLINE SCIENCE CAFÉ «ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ»</strong></a></p><p><strong>Ομιλητής: Γιώργος Τρούλλιας (Εθνικός Συντονιστής της Κύπρου για την Παγκόσμια Εβδομάδα Διαστήματος του ΟΗΕ)</strong></p><p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη σύσκεψη Zoom</strong></a></p><dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl></div></div></div>
-
-
-
-
-
-
-
-
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php"><img alt="" data-nw="960" decoding="async" height="394" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-30-september-2025.jpg" width="700"/></a></p><p class="short"><a href="/el/planetarium/science-cafe/2025/kition-science-cafe-30-september-2025.php">Για περισσότερες πληροφορίες πατήστε εδώ...</a></p><p class="short"><strong>● ΣΑΒΒΑΤΟ 4 ΟΚΤΩΒΡΙΟΥ 2025 ΩΡΑ: 17:30</strong></p><p class="short"><strong> ΕΠΙΣΗΜΗ ΕΝΑΡΚΤΗΡΙΑ ΕΚΔΗΛΩΣΗ ΠΕΔ 2025 ΚΥΠΡΟΥ «ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ»</strong></p><p class="short"><strong>ΔΗΜΟΤΙΚΟΙ ΚΗΠΟΙ ΛΑΡΝΑΚΑΣ</strong></p></div></div></div>
-
-
-
-
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p class="short"><strong>ΤΗΛΕΣΚΟΠΙΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ</strong></p><p><img alt="" data-nw="1899" decoding="async" height="292" loading="lazy" src="/images/wsw/wsw2025/wsw2025-cyprus-living-in-space.jpg" width="700"/></p><p class="short"><strong>● ΣΑΒΒΑΤΟ 4 ΟΚΤΩΒΡΙΟΥ 2025 ΩΡΑ: 19:30</strong></p></div><div class="block"><p class="short"><strong> ΔΙΕΘΝΗΣ ΝΥΧΤΑ ΠΑΡΑΤΗΡΗΣΗΣ ΤΗΣ ΣΕΛΗΝΗΣ ΤΗΣ NASA (InnOMN)</strong></p><div class="blocks"><div class="row stack"><div class="block"><p><a href="https://moon.nasa.gov/observe-the-moon-night/" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1920" decoding="async" height="467" loading="lazy" src="/images/wsw/wsw2025/InOMN2025-english.png" width="700"/></a></p><p class="short"><a href="https://moon.nasa.gov/observe-the-moon-night/" rel="noopener noreferrer" target="_blank">Για περισσότερες πληροφορίες πατήστε εδώ...</a></p></div></div></div></div></div></div>
-
-
-
-
-
 <p class="short"><strong>● ΣΑΒΒΑΤΟ 4 ΟΚΤΩΒΡΙΟΥ 2025 ΩΡΑ: 17:30</strong> - 23:30</p>
 <p class="short"><strong> ΙΔΡΥΜΑ ΧΡΙΣΤΙΝΑΣ ΑΠΟΣΤΟΛΟΥ</strong></p>
 <p class="short">ΠΕΔ 2025 - ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ</p>
 <p class="short">ΤΗΛΕΣΚΟΠΙΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ ΚΑΙ ΤΟΥ ΚΡΟΝΟΥ</p>
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="https://www.facebook.com/ChrAFoundation" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1280" decoding="async" height="875" loading="lazy" src="/images/wsw/wsw2025/christina-apostolou-2025.jpg" width="700"/></a></p><p class="short"><a href="https://www.facebook.com/ChrAFoundation" rel="noopener noreferrer" target="_blank">Για περισσότερες πληροφορίες πατήστε εδώ...</a></p><p class="short"><strong>● ΣΑΒΒΑΤΟ 4 - ΚΥΡΙΑΚΗ 5 ΟΚΤΩΒΡΙΟΥ 2025 ΩΡΑ 08:00 (ΔΙΑΔΙΚΤΥΑΚΑ)</strong></p><p class="short">NASA SPACE APPS (ΜΕΛΒΟΥΡΝΗ)</p></div></div></div>
-
-
-
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/2024-local-events/limassol/" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="902" decoding="async" height="386" loading="lazy" src="/images/nasa-space-apps-logo.jpg" width="600"/></a></p><p class="short"><strong>● ΔΕΥΤΕΡΑ 6 ΟΚΤΩΒΡΙΟΥ 2025 ΩΡΑ 17:00 - 20:00</strong></p><p class="short"><a href="https://fb.me/e/51VlXQoEo" rel="noopener noreferrer" target="_blank"> TEACHMEET (PASCAL ENGLISH SCHOOL ΛΑΡΝΑΚΑ)</a></p><p class="short">ΚΑΙΝΟΤΟΜΟΙ ΤΡΟΠΟΙ ΔΙΔΑΣΚΑΛΙΑΣ STEAM</p><p class="short">ΠΕΔ 2025 - ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ</p><p class="short">ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ</p></div></div></div>
-
-
-
-
-
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="https://fb.me/e/51VlXQoEo" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1320" decoding="async" height="1042" loading="lazy" src="/images/wsw/wsw2025/555421622_122269534886197622_2290714883348821677_n.jpg" width="700"/></a></p><p class="short"><a href="https://fb.me/e/51VlXQoEo" rel="noopener noreferrer" target="_blank">Για περισσότερες πληροφορίες πατήστε εδώ...</a></p><p class="short"><strong>● ΤΡΙΤΗ 7 ΟΚΤΩΒΡΙΟΥ 2025 </strong></p><p class="short"><strong> ΠΕΔ 2025 «ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ» </strong></p><p class="short"><strong>ΥΠΕΡΣΕΛΗΝΗ</strong></p><p class="short"><strong>ΤΗΛΕΣΚΟΠΙΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ</strong></p></div></div></div>
-
-
-
-
-
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="960" decoding="async" height="394" loading="lazy" src="/images/wsw/wsw2025/wsw2025-supermoon-7-october-2025.jpg" width="700"/></p><p class="short"><strong>● ΤΕΤΑΡΤΗ 8 ΟΚΤΩΒΡΙΟΥ 2025 </strong>ΩΡΑ: 20:00 (UTC+3)</p><p class="short">ΔΙΑΔΙΚΤΥΑΚΗ ΣΥΝΑΝΤΗΣΗ ZOOM</p><p class="short"><strong>ΠΕΔ 2025 «ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ» </strong></p><p class="short"><strong>ΦΑΣΜΑΤΟΣΚΟΠΙΚΟ ΑΣΤΕΡΟΣΚΟΠΕΙΟ HUGGINS ΗΒ</strong></p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη σύσκεψη Zoom</strong></a></p><p class="short"><strong>Meeting ID: 831 2336 2644</strong></p><p class="short"><strong>Passcode: kition</strong></p></div></div></div>
-
-
-
-
-
-
-
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="692" decoding="async" height="463" loading="lazy" src="/images/wsw/wsw2025/huggins-spectroscopic-observatory-uk.JPG" width="692"/></p><p class="short"><strong>● ΠΕΜΠΤΗ 9 ΟΚΤΩΒΡΙΟΥ 2025, ΩΡΑ: 18:00</strong></p><p class="short"><strong> ΠΕΔ 2025 «ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ» </strong></p><p class="short"><strong>PODCAST</strong></p></div></div></div>
-
-
-
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="https://www.podcastics.com/podcast/pod-and-com/series/kaphes-me-philous/" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="960" decoding="async" height="394" loading="lazy" src="/images/wsw/wsw2025/wsw2025-podcast.JPG" width="700"/></a></p><p class="short"><strong>● ΠΑΡΑΣΚΕΥΗ 10 ΟΚΤΩΒΡΙΟΥ 2025 ΩΡΑ: 19:00 - 20:15</strong></p><p class="short"><strong> ΕΠΙΣΗΜΗ ΤΕΛΙΚΗ ΕΚΔΗΛΩΣΗ ΠΕΔ 2025 ΚΥΠΡΟΥ «ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ»</strong></p><p class="short"><strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong></p><p class="short"><strong>ΤΗΛΕΣΚΟΠΙΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΚΡΟΝΟΥ</strong></p></div></div></div>
-
-
-
-
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="960" decoding="async" height="394" loading="lazy" src="/images/wsw/wsw2025/wsw2025-saturn-10-october-2025.jpg" width="700"/></p></div><div class="block"><p><strong>ΠΑΤΗΣΤΕ ΕΔΩ ΓΙΑ ΕΙΣΙΤΗΡΙΑ</strong></p><p>Πλήρης κατάλογος των προγραμματισμένων δράσεων βρίσκεται στη διεύθυνση http://www.worldspaceweek.org/nations/cyprus</p><p><em>Ο ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ, Κ. ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ,</em></p><p><em>ΘΑ ΕΙΝΑΙ ΠΑΡΩΝ ΣΕ ΟΛΕΣ ΤΙΣ ΕΚΔΗΛΩΣΕΙΣ, ΜΟΙΡΑΖΟΜΕΝΟΣ ΤΗΝ ΕΥΑΙΣΘΗΤΟΠΟΙΗΣΗ ΓΙΑ ΤΗ ΣΥΓΚΕΚΡΙΜΕΝΗ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΟΒΟΥΛΙΑ </em></p><p><em>ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ</em></p><p class="short"><em>ΚΑΙ ΜΙΛΩΝΤΑΣ ΓΙΑ ΤΗ «<strong>ΖΩΗ ΣΤΟ ΔΙΑΣΤΗΜΑ</strong>».</em></p></div></div></div>
-
-
-
-
-
-
 <p><img alt="" data-nw="1080" decoding="async" height="875" loading="lazy" src="/images/wsw/wsw2025/wsw2025-global.png" width="700"/></p>
-<div class="blocks">
-<div class="row">
-<div class="block"><h3>Κάθε χρόνο, ο Οργανισμός Παγκόσμιας Εβδομάδας Διαστήματος (WSWA) επιλέγει ένα θέμα για την επερχόμενη Παγκόσμια Εβδομάδα Διαστήματος (ΠΕΔ), ώστε να δοθεί εστίαση στις δράσεις και εκδηλώσεις που πραγματοποιούνται σε όλο τον κόσμο στις 4-10 Οκτωβρίου.</h3>
+
+<h3>Κάθε χρόνο, ο Οργανισμός Παγκόσμιας Εβδομάδας Διαστήματος (WSWA) επιλέγει ένα θέμα για την επερχόμενη Παγκόσμια Εβδομάδα Διαστήματος (ΠΕΔ), ώστε να δοθεί εστίαση στις δράσεις και εκδηλώσεις που πραγματοποιούνται σε όλο τον κόσμο στις 4-10 Οκτωβρίου.</h3>
 <h2><strong>Ζωή στο Διάστημα – Θέμα της Παγκόσμιας Εβδομάδας Διαστήματος 2025</strong></h2>
 <p>Ως ετήσια παράδοση, το Διοικητικό Συμβούλιο του Οργανισμού Παγκόσμιας Εβδομάδας Διαστήματος (WSWA) επιλέγει ένα θέμα που συνοψίζει την ουσία και τους στόχους της επερχόμενης Παγκόσμιας Εβδομάδας Διαστήματος (ΠΕΔ), που εορτάζεται παγκοσμίως από τις 4 έως τις 10 Οκτωβρίου. Για την Παγκόσμια Εβδομάδα Διαστήματος (ΠΕΔ) 2025, το επιλεγμένο θέμα είναι «Ζωή στο Διάστημα». Το θέμα αυτό διερευνά το ταξίδι της ανθρωπότητας προς τη μετατροπή του διαστήματος σε κατοικήσιμο χώρο, τονίζοντας τις καινοτόμες τεχνολογίες, τις προκλήσεις και τις συλλογικές προσπάθειες που καθιστούν αυτό το όραμα πραγματικότητα.</p>
 <p><strong>Μια Εβδομάδα Ανακάλυψης και Δράσης</strong></p>
@@ -109,11 +54,9 @@ require SITE_ROOT . '/includes/header.php';
 <p>* 10 Οκτωβρίου 1967: Υπογραφή της Συνθήκης για τις Αρχές που Διέπουν τις Δραστηριότητες των Κρατών στην Εξερεύνηση και Χρήση του Διαστήματος, συμπεριλαμβανομένης της Σελήνης και των Λοιπών Ουρανίων Σωμάτων, για ειρηνικούς σκοπούς.</p>
 <p>Η Παγκόσμια Εβδομάδα Διαστήματος αποτελείται από εκπαιδευτικές εκδηλώσεις και εκδηλώσεις ενημέρωσης για το διάστημα, που διοργανώνονται από διαστημικές υπηρεσίες, αεροδιαστημικές εταιρείες, σχολεία, πλανητάρια, μουσεία και αστρονομικούς συλλόγους σε όλο τον κόσμο, σε κοινό χρονικό πλαίσιο. Αυτές οι συγχρονισμένες διαστημικές εκδηλώσεις προσελκύουν μεγαλύτερο ενδιαφέρον από το κοινό και τα μέσα ενημέρωσης. Η Παγκόσμια Εβδομάδα Διαστήματος 2023 σημείωσε ρεκόρ κλίμακας:</p>
 <ul class="items"><li>περισσότερες από 16.000 εκδηλώσεις</li><li>Εκδηλώσεις σε 80 χώρες</li></ul>
-
 <h3>Η Παγκόσμια Εβδομάδα Διαστήματος συντονίζεται από τα Ηνωμένα Έθνη με την υποστήριξη του Οργανισμού Παγκόσμιας Εβδομάδας Διαστήματος (WSWA). Ο WSWA ηγείται μιας παγκόσμιας ομάδας Εθνικών Συντονιστών, οι οποίοι προωθούν τον εορτασμό της Παγκόσμιας Εβδομάδας Διαστήματος στις χώρες τους.</h3>
 <h2>Συνολικό κοινό από το 2007:</h2>
 <ul class="items"><li>Πάνω από 2.000.000 συμμετέχοντες</li><li>Σχεδόν 500.000.000 εμφανίσεις στα μέσα ενημέρωσης</li></ul>
-
 <p>Η Παγκόσμια Εβδομάδα Διαστήματος συντονίζεται από τα Ηνωμένα Έθνη με την υποστήριξη του Οργανισμού Παγκόσμιας Εβδομάδας Διαστήματος (WSWA).</p>
 <p>Ο WSWA ηγείται μιας παγκόσμιας ομάδας Εθνικών Συντονιστών, οι οποίοι προωθούν τον εορτασμό της Παγκόσμιας Εβδομάδας Διαστήματος στις χώρες τους.</p>
 <h2>Ποιοι είναι οι στόχοι της Παγκόσμιας Εβδομάδας Διαστήματος;</h2>
@@ -126,17 +69,13 @@ require SITE_ROOT . '/includes/header.php';
 <p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
 <p class="lead"><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
 <p><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
-
 <p><strong>ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ</strong> https://www.worldspaceweek.org/events/event-list/</p>
-
 <p><strong>Παγκόσμια Εβδομάδα Διαστήματος (βάση δεδομένων προηγούμενων ετών)</strong></p>
 <h3><strong><a href="/el/projects/international-projects/wsw/world-space-week-2024.php">ΠΕΔ 2024</a></strong></h3>
 <h3><strong><a href="/el/projects/international-projects/wsw/world-space-week-2023.php">ΠΕΔ 2023</a></strong></h3>
 <h3><strong><a href="/el/projects/international-projects/wsw/world-space-week-2022.php">ΠΕΔ 2022</a></strong></h3>
 <p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021">ΠΕΔ 2021</a></strong></p>
-<p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">ΠΕΔ 2020</a></strong></p></div>
-</div>
-</div>
+<p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">ΠΕΔ 2020</a></strong></p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

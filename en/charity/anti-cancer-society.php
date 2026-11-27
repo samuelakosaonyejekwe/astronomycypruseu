@@ -17,8 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks">
 <div class="row stack"><div class="block"><img alt="" data-nw="281" decoding="async" height="144" loading="lazy" src="/images/charity/anticancer-society/anticancer.jpg" width="281"/><p class="short">ANTICANCER SOCIETY</p>
 </div></div>
@@ -28,8 +26,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Since 2008 the KITION PLANETARIUM &amp; OBSERVATORY participates in the Cyprus Anti-Cancer Society fundraising events, making its own contribution in direct help for the association.</p>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to <br/>
  participate in the Cyprus Anti-Cancer Society fundraising events!</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p></div>
-</div>
+<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

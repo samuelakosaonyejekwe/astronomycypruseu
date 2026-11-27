@@ -23,186 +23,114 @@ require SITE_ROOT . '/includes/header.php';
 <p>В 2015 году отмечается «Международный год Света и световых технологий». Официальное открытие состоится в январе на большой церемонии в Париже, в штаб-квартире "ЮНЕСКО", где будут присутствовать многие известные физики и лауреаты Нобелевской премии.</p>
 <p>Инициатива предпринята ООН для повышения осведомлённости граждан мира о важности света в их жизни, для улучшения общественного понимания того, как оптические технологии содействуют устойчивому развитию и обеспечивают решение проблем в области энергетики, образования, сельского хозяйства, связи и здравоохранения и для укрепления международного сотрудничества. В проекте участвуют более чем 100 партнёров из более чем 85 стран.</p>
 <p class="lead">2015 год является юбилейным для ряда важных вех в истории науки о свете:</p>
-<p> - написание в 1015 году работ по оптике Ибн аль-Хайсамом (Альхазеном);<br/>
- - введение в 1815 году Огюстеном Френелем понятия световой волны;<br/>
- - появление в 1865 году электромагнитной теории распространения света, созданной Джеймсом Максвеллом;<br/>
- - появление в 1905 году теории фотоэлектрического эффекта, предложенной Альбертом Эйнштейном;<br/>
- - введение в 1915 году в космологию понятия света благодаря общей теории относительности;<br/>
- - открытие в 1965 году Арно Пензиасом и Робертом Вильсоном космического микроволнового фонового излучения;<br/>
- - успехи, достигнутые в 1965 году Чарльзом Као в области волоконно-оптической связи на основе передачи света.</p>
+<ul class="bullets"><li> - написание в 1015 году работ по оптике Ибн аль-Хайсамом (Альхазеном);</li><li>
+ - введение в 1815 году Огюстеном Френелем понятия световой волны;</li><li>
+ - появление в 1865 году электромагнитной теории распространения света, созданной Джеймсом Максвеллом;</li><li>
+ - появление в 1905 году теории фотоэлектрического эффекта, предложенной Альбертом Эйнштейном;</li><li>
+ - введение в 1915 году в космологию понятия света благодаря общей теории относительности;</li><li>
+ - открытие в 1965 году Арно Пензиасом и Робертом Вильсоном космического микроволнового фонового излучения;</li><li>
+ - успехи, достигнутые в 1965 году Чарльзом Као в области волоконно-оптической связи на основе передачи света.</li></ul>
 <p>Международный год Света включает в себя сотни мероприятий по всему миру, в которых примут участие ученые (от астрономов и физиков до врачей и биологов) инженеры и художники, подчеркивающие важность света и оптических технологий для общества.</p>
 <p>Полный календарь планируемых событий по всему миру находится на сайте Международного года Света и Световых Технологий: <a href="http://www.light2015.org" rel="noopener noreferrer" target="_blank">http://www.light2015.org</a></p>
 <p>ПЛАНЕТАРИЙ и ОБСЕРВАТОРИЯ КИТИОНА признан национальным координатором Международного года Света и световых технологий на Кипре и проводит мероприятия на национальном уровне. </p>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" decoding="async" loading="lazy" src="https://astronomycyprus.eu/images/IYL_OPENNING_poster.jpg" width="600"/></p><p class="short">ОСНОВНЫЕ МЕРОПРИЯТИЯ МЕЖДУНАРОДНОГО ГОДА СВЕТА 2015 НА КИПРЕ</p></div></div></div>
-
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">16 МАРТА 20:00</p></div>
 <div class="block"><strong>ЦЕРЕМОНИЯ ОТКРЫТИЯ МЕЖДУНАРОДНОГО ГОДА СВЕТА 2015 НА КИПРЕ. МУНИЦИПАЛЬНЫЙ ТЕАТР, ЛАРНАКА</strong></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">14 МАРТА 19:00</p></div>
 <div class="block"><strong>π-ДЕНЬ. ДЕНЬ РОЖДЕНИЯ ЭЙНШТЕЙНА. «ЧУДЕСА ВСЕЛЕННОЙ» (АНГ.) ПЛАНЕТАРИЙ и ОБСЕРВАТОРИЯ КИТИОНА, КИТИ, ЛАРНАКА</strong></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">20 МАРТА 10:00</p></div>
 <div class="block"><p class="short">ПРЕЗЕНТАЦИЯ <strong>«</strong>СОЛНЕЧНЫЕ ЗАТМЕНИЯ В КУЛЬТУРЕ<strong>»</strong><br/>
  НАБЛЮДЕНИЯ ПОЛНОГО СОЛНЕЧНОГО ЗАТМЕНИЯ</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">28 МАРТА 20:00</p></div>
 <div class="block"><p>ПРЕЗЕНТАЦИЯ <strong>«</strong>СВЕТ И НАШЕ ЗДОРОВЬЕ<strong>»</strong><br/>
 <strong>ISAN 8: МЕЖДУНАРОДНАЯ НОЧЬ ТРОТУАРНОЙ АСТРОНОМИИ: </strong>НАБЛЮДЕНИЯ СВЕТА КОСМОСА</p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">2 АПРЕЛЯ 21:15</p></div>
 <div class="block"><p class="short"><strong>«ТЕНИ ВОКРУГ ЮПИТЕРА»</strong><br/>
 <strong>КАЛЛИСТО ПОКРЫВАЕТ ГАННИМЕДА</strong><br/>
 <strong>УДАЛЁННЫЕ НАБЛЮДЕНИЯ ЮПИТЕРА</strong></p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">4 АПРЕЛЯ 12:45</p></div>
 <div class="block"><p class="short"><strong>ПОЛНОЕ ЛУННОЕ ЗАТМЕНИЕ</strong><br/>
 <strong>УДАЛЁННЫЕ НАБЛЮДЕНИЯ ЗАТМЕНИЯ</strong></p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">15 АПРЕЛЯ 19:00</p></div>
 <div class="block"><p><strong>«ЗЕМНОЙ ШАР НОЧЬЮ»</strong><br/>
 <strong>«ВСЕМИРНАЯ НЕДЕЛЯ ТЁМНОГО НЕБА»</strong><br/>
 <strong>АСТРОНОМИЧЕСКИЕ НАБЛЮДЕНИЯ<br/>(МАЯК ФАРОС, ПЕРВОЛИЯ)</strong></p></div>
 </div>
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">19 АПРЕЛЯ 10:00</p></div>
 <div class="block"><p>«ДЕНЬСОЛНЦА»<br/>
 «МЕНЯЮ МОЁ ОТНОШЕНИЕ, УЧАСТВУЮ В ЭКОЛОГИЧЕСКОЙ АКЦИИ»<br/>
 «СВЕТ – ВОЗОБНОВЛЯЕМЫЕ ИСТОЧНИКИ ЭНЕРГИИ»<br/>
 НАБЛЮДЕНИЯ СОЛНЦА<br/>(«ГЕЛИОСТАЛАГМАТИЕС», ЛАРНАКА)</p></div>
 </div>
-<div class="row">
-<div class="block"><p class="short">26 АПРЕЛЯ 17:00</p></div>
-<div class="block"><p class="short"><strong>ВСЕМИРНАЯ ЗВЁЗДНАЯ ВЕЧЕРИНКА<br/>(ПАФОС)</strong></p></div>
-</div>
-<div class="row">
-<div class="block"><p class="short">6 МАЯ 19:00</p></div>
-<div class="block"><p class="short"><strong>ПРОГРАММА ПЛАНЕТАРИЯ «КОСМИЧЕСКАЯ ПРОГУЛКА В МАЕ»</strong></p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">9 МАЯ 19:00<br/>
- 19:45</p>
-</div>
-<div class="block"><p class="short">НАБЛЮДЕНИЯ СОЛНЦА<br/> 
- «СОЛНЦЕ – НАША ЗВЕЗДА» </p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">16 МАЯ 19:00<br/>
- 19:45</p>
-</div>
-<div class="block"><p class="short">НАБЛЮДЕНИЯ СОЛНЦА<br/> 
- «СОЛНЦЕ – НАША ЗВЕЗДА» </p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">23 МАЯ 19:00<br/>
- 19:45</p>
-</div>
-<div class="block"><p class="short">НАБЛЮДЕНИЯ СОЛНЦА<br/> 
- «КОСМИЧЕСКОЕ ПУТЕШЕСТВИЕ» </p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">30 МАЯ 19:00<br/>
- 19:45</p>
-</div>
-<div class="block"><p class="short">НАБЛЮДЕНИЯ СОЛНЦА<br/> 
- «СОЛНЦЕ – НАША ЗВЕЗДА» </p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">14 ИЮЛЯ 14:30</p>
-</div>
-<div class="block"><p class="short">ПРОЛЁТ «НОВЫХ ГОРИЗОНТОВ» ВОЗЛЕ ПЛУТОНА </p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">12 АВГУСТА 20:00</p>
-</div>
-<div class="block"><p class="short">«ПЕРСЕИДЫ 2015» - МЕТЕОРНЫЙ ПОТОК<br/> 
- (ПЛЯЖ СОФТАДЕС, ЛАРНАКА)</p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">19 СЕНТЯБРЯ 18:00<br/>
- 23:00</p>
-</div>
-<div class="block"><p class="short"><strong>InOMN 2015 –МЕЖДУНАРОДНАЯ НОЧЬ НАБЛЮДЕНИЯ ЛУНЫ</strong><strong><br/>
- (ГОРОДСКОЙ САД ЛАРНАКИ)</strong></p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">20 СЕНТЯБРЯ 11:00<br/>
-13:00</p>
-</div>
-<div class="block"><p class="short">ОСЕННЕЕ РАВНОДЕНСТВИЕ <strong>–</strong><strong>НАБЛЮДЕНИЯ СОЛНЦА </strong><br/>
- (<strong>ПЛЯЖ КАЙТМЕД, СОФТАДЕС, ЛАРНАКА</strong>)</p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">27 СЕНТЯБРЯ 18:30<br/>
-22:00</p>
-</div>
-<div class="block"><p class="short">"<strong>СУПЕРЛУНИЕ</strong>"<strong> –</strong><strong>ТЕЛЕСКОПИЧЕСКИЕ НАБЛЮДЕНИЯ</strong><br/>
- (<strong>СЦЕНА ПЛЯЖА ФИНИКУДЕС, ЛАРНАКА</strong>)</p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">26 – 29 ОКТЯБРЯ</p>
-</div>
-<div class="block"><p class="short">MWP2015 - МЕЖДУНАРОДНОЕ ТЕМАТИЧЕСКОЕ СОВЕЩАНИЕ ПО МИКРОВОЛНОВОЙ ФОТОНИКЕ
- (<strong>ПАФОС</strong>)</p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">14 НОЯБРЯ 18:00 <br/>18:45</p>
-</div>
-<div class="block"><p class="short">«ЗАГАДКИ МАРСА»<br/>
- НАБЛЮДЕНИЯ ЛУНЫ</p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">18 НОЯБРЯ 19:00</p>
-</div>
-<div class="block"><p class="short"><strong>НАУЧНОЕ КАФЕ</strong>
-<strong>«КОЛОНИЗАЦИЯ МАРСА» </strong></p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">25 НОЯБРЯ 19:00</p>
-</div>
-<div class="block"><p class="short"><strong>ПРЕЗЕНТАЦИЯ – ДЕБАТЫ </strong>
-<strong>«АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ»</strong></p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">10 <strong>ДЕКАБРЯ</strong> 20:00</p>
-</div>
-<div class="block"><p class="short"><strong>ТЕЛЕМОСТ С ГОРОДОМ БЕНД, ОРЕГОН, США</strong><br/>
-<strong>«ГЕМИНИДЫ – МЕТЕОРНЫЙ ПОТОК ГОДА»<br/></strong></p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">23 <strong>ДЕКАБРЯ</strong> 19:00</p>
-</div>
-<div class="block"><p class="short"><strong>ЗИМНЕЕ СОЛНЦЕСТОЯНИЕ<br/>«КАК НАБЛЮДАТЬ НЛО» </strong></p></div>
-</div>
-<div class="row">
-<div class="block">
-<p class="short">30 <strong>ДЕКАБРЯ</strong> 19:00</p>
-</div>
-<div class="block"><p class="short"><strong>ПРЕЗЕНТАЦИЯ – ДЕБАТЫ </strong> <strong>«АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ»</strong></p></div>
-</div>
-<div class="row">
+<div class="table-wrap"><table><tr><td> 26 АПРЕЛЯ 17:00</td><td><strong>ВСЕМИРНАЯ ЗВЁЗДНАЯ ВЕЧЕРИНКА<br/>(ПАФОС)</strong> </td></tr><tr><td> 6 МАЯ 19:00</td><td><strong>ПРОГРАММА ПЛАНЕТАРИЯ «КОСМИЧЕСКАЯ ПРОГУЛКА В МАЕ»</strong> </td></tr><tr><td>
+9 МАЯ 19:00<br/>
+ 19:45 
+</td><td>НАБЛЮДЕНИЯ СОЛНЦА<br/> 
+ «СОЛНЦЕ – НАША ЗВЕЗДА»  </td></tr><tr><td>
+16 МАЯ 19:00<br/>
+ 19:45 
+</td><td>НАБЛЮДЕНИЯ СОЛНЦА<br/> 
+ «СОЛНЦЕ – НАША ЗВЕЗДА»  </td></tr><tr><td>
+23 МАЯ 19:00<br/>
+ 19:45 
+</td><td>НАБЛЮДЕНИЯ СОЛНЦА<br/> 
+ «КОСМИЧЕСКОЕ ПУТЕШЕСТВИЕ»  </td></tr><tr><td>
+30 МАЯ 19:00<br/>
+ 19:45 
+</td><td>НАБЛЮДЕНИЯ СОЛНЦА<br/> 
+ «СОЛНЦЕ – НАША ЗВЕЗДА»  </td></tr><tr><td>
+14 ИЮЛЯ 14:30 
+</td><td>ПРОЛЁТ «НОВЫХ ГОРИЗОНТОВ» ВОЗЛЕ ПЛУТОНА  </td></tr><tr><td>
+12 АВГУСТА 20:00 
+</td><td>«ПЕРСЕИДЫ 2015» - МЕТЕОРНЫЙ ПОТОК<br/> 
+ (ПЛЯЖ СОФТАДЕС, ЛАРНАКА) </td></tr><tr><td>
+19 СЕНТЯБРЯ 18:00<br/>
+ 23:00 
+</td><td><strong>InOMN 2015 –МЕЖДУНАРОДНАЯ НОЧЬ НАБЛЮДЕНИЯ ЛУНЫ</strong><strong><br/>
+ (ГОРОДСКОЙ САД ЛАРНАКИ)</strong> </td></tr><tr><td>
+20 СЕНТЯБРЯ 11:00<br/>
+13:00 
+</td><td>ОСЕННЕЕ РАВНОДЕНСТВИЕ <strong>–</strong><strong>НАБЛЮДЕНИЯ СОЛНЦА </strong><br/>
+ (<strong>ПЛЯЖ КАЙТМЕД, СОФТАДЕС, ЛАРНАКА</strong>) </td></tr><tr><td>
+27 СЕНТЯБРЯ 18:30<br/>
+22:00 
+</td><td>"<strong>СУПЕРЛУНИЕ</strong>"<strong> –</strong><strong>ТЕЛЕСКОПИЧЕСКИЕ НАБЛЮДЕНИЯ</strong><br/>
+ (<strong>СЦЕНА ПЛЯЖА ФИНИКУДЕС, ЛАРНАКА</strong>) </td></tr><tr><td>
+26 – 29 ОКТЯБРЯ 
+</td><td>MWP2015 - МЕЖДУНАРОДНОЕ ТЕМАТИЧЕСКОЕ СОВЕЩАНИЕ ПО МИКРОВОЛНОВОЙ ФОТОНИКЕ
+ (<strong>ПАФОС</strong>) </td></tr><tr><td>
+14 НОЯБРЯ 18:00 <br/>18:45 
+</td><td>«ЗАГАДКИ МАРСА»<br/>
+ НАБЛЮДЕНИЯ ЛУНЫ </td></tr><tr><td>
+18 НОЯБРЯ 19:00 
+</td><td><strong>НАУЧНОЕ КАФЕ</strong>
+<strong>«КОЛОНИЗАЦИЯ МАРСА» </strong> </td></tr><tr><td>
+25 НОЯБРЯ 19:00 
+</td><td><strong>ПРЕЗЕНТАЦИЯ – ДЕБАТЫ </strong>
+<strong>«АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ»</strong> </td></tr><tr><td>
+10 <strong>ДЕКАБРЯ</strong> 20:00 
+</td><td><strong>ТЕЛЕМОСТ С ГОРОДОМ БЕНД, ОРЕГОН, США</strong><br/>
+<strong>«ГЕМИНИДЫ – МЕТЕОРНЫЙ ПОТОК ГОДА»<br/></strong> </td></tr><tr><td>
+23 <strong>ДЕКАБРЯ</strong> 19:00 
+</td><td><strong>ЗИМНЕЕ СОЛНЦЕСТОЯНИЕ<br/>«КАК НАБЛЮДАТЬ НЛО» </strong> </td></tr><tr><td>
+30 <strong>ДЕКАБРЯ</strong> 19:00 
+</td><td><strong>ПРЕЗЕНТАЦИЯ – ДЕБАТЫ </strong> <strong>«АСТРОЛОГИЯ ПРОТИВ АСТРОНОМИИ»</strong> </td></tr></table></div>
+<div class="row keyval">
 <div class="block">
 <p class="short">30 ЯНВАРЯ 9:30</p>
 <p class="short"> 19:00 </p>

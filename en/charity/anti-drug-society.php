@@ -17,8 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><div class="blocks">
+<div class="blocks">
 <div class="row stack"><div class="block"><img alt="" data-nw="305" decoding="async" height="305" loading="lazy" src="/images/charity/sykana/SYKANA.jpg" width="305"/><p class="short">LARNACA ANTI-DRUG ASSOCIATION</p>
 </div></div>
 </div>
@@ -27,8 +26,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>The Association holds annually in September the <span lang="en">All-Cypriot</span> event 'I exercise against addictions'. It is a large program with many sport and other activities.</p>
 <p>Since 2012 the KITION PLANETARIUM &amp; OBSERVATORY participates in the <span lang="en">All-Cypriot</span> event 'I exercise against addictions', making its own contribution in direct help for the association.</p>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to <br/>
- participate in the All-Cypriot event 'I exercise against addictions'!</p> </div>
-</div>
+ participate in the All-Cypriot event 'I exercise against addictions'!</p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

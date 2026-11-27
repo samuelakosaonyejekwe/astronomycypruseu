@@ -16,8 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">VIRTUAL�TELESCOPE PROJECT</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="500" decoding="async" height="250" loading="lazy" src="/images/virtualtelescope.gif" width="250"/><p class="short">VIRTUAL�TELESCOPE PROJECT</p>
+<p class="short">VIRTUAL TELESCOPE PROJECT</p><div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="500" decoding="async" height="250" loading="lazy" src="/images/virtualtelescope.gif" width="250"/>
 </div></div>
 </div>
 <p>The Virtual Telescope Project is a very powerful set of real, robotic telescopes, <strong>remotely accessible online, through the Internet. It was established in 2006 and works for astronomers, participating in different international projects, as well as for public. It make many discoveries. Its contribution to Astronomers Without Borderes is a cornestone part of </strong><strong>the Global Astronomy Month, celebrated worldwidely.</strong></p>

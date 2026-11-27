@@ -16,10 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
-<h2>JOIN OUR SPACEWALK!</h2>
 <p>Looking back in time, on March 18, 1965, cosmonauts Alexei Leonov and Pavel Belyayev lifted off in Vaskhod 2 spacecraft (Sunrise 2), from which the 30-year old Alexei Leonov would exit to become the first person in history to step into the vacuum of space.</p>
 <p> "A sailor must be able to swim in the sea. Likewise, a cosmonaut must be able to swim in outer space." With these words, the head of the Soviet space program, Sergei Korolev, initiated the crew of the first spacewalk mission. The objective of the mission was very simple; get into orbit, do the spacewalk, and go home. Voskhod 2 spacecraft circled the Earth between 167 km and 475 km. </p>
 <p>Watch the video about the legendary spacewalk which lasted for 12 minutes and 9 seconds. (Original footage in Russian language):</p>
@@ -35,14 +31,6 @@ require SITE_ROOT . '/includes/header.php';
 <p>Just send us an <a href="mailto:spacewalk@cytanet.com.cy" title="SPACEWALKER NEWLETTER">e-mail</a> with your details for a FREE subscription to our monthly newsletter. We will keep you informed about our public activities and important news and discoveries. (The frequency of e-mails is approximately 10 per year).</p>
 <h4>Please include in your e-mail the following info: ( *complulsory)</h4>
 <dl class="specs"><dt>NAME *</dt><dd> ______________________ SURNAME *:_______________________</dd><dt>ADDRESS</dt><dd> _______________________________________________________</dd><dt>COUNTRY</dt><dd> ___________________ POST CODE: _______________________</dd><dt>E-MAIL *</dt><dd> _______________________________________________________</dd><dt>MOBILE PHONE No (for future SMS)</dt><dd> __________________ AGE : ____________</dd><dt>INTERESTS / HOBBIES </dt><dd> _____________________________________________</dd><dt>OTHER</dt><dd> _________________________________________________________</dd></dl>
-
-
-
-
-
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

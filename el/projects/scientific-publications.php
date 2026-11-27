@@ -17,22 +17,11 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><div class="blocks">
-<div class="row">
-<div class="block">
+<div class="blocks">
 <h2><strong>ΕΠΙΣΤΗΜΟΝΙΚΕΣ ΔΗΜΟΣΙΕΥΣΕΙΣ</strong></h2>
-</div>
-</div>
-<div class="row">
-<div class="block"><h3>ΕΡΓΑΣΙΕΣ - ΟΜΙΛΙΕΣ - ΠΑΡΟΥΣΙΑΣΕΙΣ ΣΕ ΣΥΝΕΔΡΙΑ</h3></div>
-</div>
-<div class="row">
-<div class="block">
+<h3>ΕΡΓΑΣΙΕΣ - ΟΜΙΛΙΕΣ - ΠΑΡΟΥΣΙΑΣΕΙΣ ΣΕ ΣΥΝΕΔΡΙΑ</h3>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ δημοσιεύει <strong>ΕΠΙΣΤΗΜΟΝΙΚΕΣ ΕΡΓΑΣΙΕΣ</strong> σχετικά με την έρευνα που διεξάγει η ομάδα του στο κέντρο επιστήμης.</p>
 <p>Η ομάδα του ΠΡΑΓΜΑΤΟΠΟΙΕΙ <strong>ΕΠΙΣΤΗΜΟΝΙΚΕΣ ΟΜΙΛΙΕΣ</strong> και συμμετέχει σε <strong>ΠΑΡΟΥΣΙΑΣΕΙΣ ΣΕ ΣΥΝΕΔΡΙΑ</strong> στην Κύπρο και στο εξωτερικό.</p>
-</div>
-</div>
 <div class="block"><h2>ΕΡΓΑΣΙΕΣ</h2></div>
 <div class="row split">
 <div class="block media"><img alt="" data-nw="437" decoding="async" height="485" loading="lazy" src="/images/scientific-publications/papers/Solar-Eclipses-in-the-Cult-of-St-George.jpg" width="340"/></div>
@@ -42,11 +31,6 @@ require SITE_ROOT . '/includes/header.php';
 <h4>CPT 2017 - Λάρνακα, Κύπρος, 9 Μαΐου 2017</h4>
 <div class="link-row"><p class="short"><a href="/docs/scientific-publications/papers/CPT2017.pdf" rel="noopener" target="_blank" title="CPT2017 - ISBN 978-5-88835-049-2">CPT2017 - ISBN 978-5-88835-049-2</a></p></div>
 <div class="blocks"><div class="row split"><div class="block media"><p><a class="doc-link" href="/docs/scientific-publications/papers/CPT2017.pdf" rel="noopener" target="_blank"><img alt="" data-nw="424" decoding="async" height="300" loading="lazy" src="/images/scientific-publications/papers/CPT2017.jpg" width="210"/></a></p></div><div class="block"><p>ΠΕΡΙΛΗΨΗ: Στην παρούσα ερευνητική εργασία αρχαιοαστρονομίας καταδεικνύεται ότι η λατρεία του Αγίου Γεωργίου διαθέτει πολλά χαρακτηριστικά περιγραφής ηλιακής έκλειψης. Εξετάζεται το ότι η λατρεία αντιπροσωπεύει τη μετασχηματισμένη μορφή του βασικού μύθου της πάλης του θεού του Ήλιου με ένα φίδι.</p><p>Ο Aymen M. Ibrahem απέδειξε ότι οι παρατηρήσεις ολικών ηλιακών εκλείψεων περιγράφονταν από αυτόν τον μύθο. Με βάση βιβλιογραφικές πηγές καθώς και εικονογραφικό υλικό από διάφορες χριστιανικές πολιτισμικές παραδόσεις, καταδεικνύεται ότι, παρά τη μακρά αλυσίδα μετασχηματισμών: θεός του Ήλιου → θεός της Βροντής → Άγιος Γεώργιος, πολλά χαρακτηριστικά της κοσμοθεωρίας, που μπορούν να εξηγηθούν μόνο στο πλαίσιο των ηλιακών εκλείψεων, παρουσιάζονταν στη λατρεία του Αγίου Γεωργίου.</p><p>Η έρευνα αυτή βασίζεται στη μελέτη των ηλιακών εκλείψεων στην κοσμοθεωρία και τον πολιτισμό των Ινδοευρωπαίων. Δημοσιεύθηκε στο «Ηλιακές εκλείψεις στην κοσμοθεωρία των Σλάβων», στο οποίο εξετάστηκαν μέθοδοι μελέτης της αρχαίας πολιτισμικής κληρονομιάς.</p><p class="lead">ΣΥΝΔΕΣΜΟΙ:</p><p class="short"><a href="https://www.academia.edu/66724070/Solar_Eclipses_in_the_Cult_of_St_George" rel="noopener noreferrer" target="_blank" title="ACADEMIA.EDU">ACADEMIA.EDU</a></p></div></div></div>
-
-
-
-
-
 </div>
 </div>
 <div class="row split">
@@ -55,10 +39,6 @@ require SITE_ROOT . '/includes/header.php';
 <h4><a href="https://ieeexplore.ieee.org/abstract/document/8420124" rel="noopener noreferrer" target="_blank" title="Kition Planetarium and Observatory (Cyprus) in International Research Programs Concerning NEOs">Το Πλανητάριο και Αστεροσκοπείο Κίτιον (Κύπρος) στο</a></h4>
 <h4><a href="https://www.academia.edu/66032142/Kition_Planetarium_and_Observatory_Cyprus_in_International_Research_Programs_Concerning_NEOs" rel="noopener noreferrer" target="_blank" title="Kition Planetarium and Observatory (Cyprus) in"> Διεθνή ερευνητικά προγράμματα για τα κοντινά στη Γη αντικείμενα (NEOs)</a></h4>
 <dl class="specs"><dt><strong>Δημοσιεύθηκε στο</strong></dt><dd> <a href="https://ieeexplore.ieee.org/xpl/conhome/8419341/proceeding" rel="noopener noreferrer" target="_blank" title="2018 International Conference on Engineering Technologies and Computer Science (EnT)">2018 International Conference on Engineering Technologies and Computer Science (EnT)</a></dd><dt><strong>Ημερομηνία συνεδρίου</strong></dt><dd> 20-21 March 2018</dd><dt><strong>Ημερομηνία προσθήκης στο IEEE <em>Xplore</em></strong></dt><dd> 26 July 2018</dd><dt><strong>Αριθμός πρόσβασης INSPEC</strong></dt><dd> 17957062</dd><dt><strong>DOI</strong></dt><dd> <a href="https://doi.org/10.1109/EnT.2018.00028" rel="noopener noreferrer" target="_blank" title="DOI 10.1109/EnT.2018.00028">10.1109/EnT.2018.00028</a></dd></dl>
-
-
-
-
 <h4>Εκδότης: IEEE</h4>
 <h4><strong>Τόπος διεξαγωγής συνεδρίου: </strong>Μόσχα, Ρωσία</h4>
 <h4>Πληροφορίες ISBN:</h4>
@@ -91,7 +71,6 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block media"><a class="doc-link" href="/images/scientific-publications/conference-presentations/UCLAN.pdf" rel="noopener" target="_blank"><img alt="POSTER: DISC DYNAMICS &amp; PLANET FORMATION " data-nw="7014" decoding="async" height="481" loading="lazy" src="/images/discs2015poster.jpg" title="DISC DYNAMICS &amp; PLANET FORMATION " width="340"/></a></div>
 <div class="block">
 <div class="link-row"><p class="short"><a href="http://www.star.uclan.ac.uk/discs2015/Home.html" rel="noopener noreferrer" target="_blank" title="DISC DYNAMICS &amp; PLANET FORMATION">ΔΥΝΑΜΙΚΗ ΔΙΣΚΩΝ ΚΑΙ ΔΗΜΙΟΥΡΓΙΑ ΠΛΑΝΗΤΩΝ </a></p><p class="short"><a href="http://www.star.uclan.ac.uk/discs2015/Home.html" rel="noopener noreferrer" target="_blank">ΔΙΕΘΝΕΣ ΣΥΝΕΔΡΙΟ ΑΣΤΡΟΦΥΣΙΚΗΣ</a></p></div>
-
 <h4>(ΜΕΛΟΣ ΤΗΣ ΟΡΓΑΝΩΤΙΚΗΣ ΕΠΙΤΡΟΠΗΣ)</h4>
 <p>Συνέδριο «Δυναμική δίσκων και δημιουργία πλανητών», 29/6-3/7, στην πανεπιστημιούπολη του UCLan Cyprus</p>
 <p>Η σύνδεση μεταξύ του σχηματισμού άστρων, των πρωτοαστρικών δίσκων και των πλανητικών συστημάτων είναι αδιαμφισβήτητη, όμως ο δρόμος από τα άστρα στους πλανήτες παραμένει εξαιρετικά αβέβαιος. Οι πρόσφατες ανακαλύψεις με διαστημικά τηλεσκόπια (Spitzer, CoRoT, Kepler) και επίγειες εγκαταστάσεις (VLT, Gemini, ALMA) έδωσαν νέα ώθηση στην αναζήτηση εξωπλανητικών συστημάτων και των ιδιοτήτων των μητρικών τους δίσκων.</p>
@@ -122,16 +101,9 @@ require SITE_ROOT . '/includes/header.php';
 <h4>23 Οκτ. 2013, Κίεβο, Ουκρανία</h4>
 <h4><a class="doc-link" href="/docs/scientific-publications/conference-presentations/meteor-conference-2013-10-23.pdf" rel="noopener" target="_blank">Πρόγραμμα</a></h4>
 </div></div>
-
-
-<div class="row">
-<div class="block">
 <h2>ΟΜΙΛΙΕΣ</h2>
-</div>
-</div>
 <div class="row stack"><div class="block"><img alt="" data-nw="7014" decoding="async" height="99" loading="lazy" src="/images/discs2015poster.jpg" width="70"/>
 <h4>ΤΙΤΛΟΣ</h4>
-</div></div>
 </div></div>
 </div>
 </div>

@@ -17,11 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
-<div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><img alt="" data-nw="283" decoding="async" height="165" loading="lazy" src="/images/Logo_JPG.jpg" width="272"/><img alt="" data-nw="3150" decoding="async" height="169" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="536"/></p></div><div class="block"><p><img alt="" data-nw="1536" decoding="async" height="600" loading="lazy" src="/images/public-events/march-2026/18-years-anniversary-friday-13-march-2026.jpg" width="900"/></p><p class="short"><strong>ПЯТНИЦА, 13 МАРТА 2026 ГОДА</strong></p></div></div></div>
-
-
+<div class="blocks"><div class="row gallery captioned promo"><div class="block media"><img alt="" data-nw="283" decoding="async" height="165" loading="lazy" src="/images/Logo_JPG.jpg" width="272"/><img alt="" data-nw="3150" decoding="async" height="169" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="536"/></div><div class="block"><p><img alt="" data-nw="1536" decoding="async" height="600" loading="lazy" src="/images/public-events/march-2026/18-years-anniversary-friday-13-march-2026.jpg" width="900"/></p><p class="short"><strong>ПЯТНИЦА, 13 МАРТА 2026 ГОДА</strong></p></div></div></div>
 <p class="short"><strong>ВРЕМЯ: 19:00 (UTC+2)</strong></p>
 <p class="short">ПРАЗДНОВАНИЕ 18-ЛЕТИЯ</p>
 <p class="short"><strong>(СЕССИЯ НА АНГЛИЙСКОМ ЯЗЫКЕ)</strong></p>
@@ -44,8 +40,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>19:20 ПОСЛЕДНИЕ НОВОСТИ – ДОСТИЖЕНИЯ – ОТКРЫТИЯ</strong></p>
 <p class="short"><strong> 19:30 ТОРТ ПО СЛУЧАЮ ДНЯ РОЖДЕНИЯ </strong></p>
 <p><strong>19:45 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</strong> БОЛЬШОЙ ТУМАННОСТИ ОРИОНА И ПЛАНЕТЫ ЮПИТЕР</p>
-<p><strong>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</strong></p></div>
-</div>
+<p><strong>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</strong></p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

@@ -18,9 +18,7 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <p>
 <img alt="" data-nw="960" decoding="async" height="338" loading="lazy" src="/docs/the-sky-is-alive/SkyIsAlivePoster_FullText.jpg" width="600"/></p>
-<div class="blocks">
-<div class="row">
-<div class="block">
+
 <p>Уважаемый друг / член клуба / астроном-любитель!</p>
 <p>Нам кажется, что небо никогда не меняется. Чтобы подчеркнуть это, в древности философы и учёные ввели понятие сферы неподвижных звёзд. Несмотря на эту идею, существует много астрономических явлений, которые длятся лишь короткое время. Достаточно одних суток, чтобы заметить, что Луна меняет своё положение и фазу. Многие звёзды меняют свой блеск. Мы наблюдаем покрытия, когда одно небесное тело скрывает от наблюдателя другое. Метеоры — одно из самых захватывающих зрелищ на небе.</p>
 <p>Какие явления на небе непродолжительны по времени? Чего ожидать и когда они происходят? Как их наблюдать? ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» подготовил для Вас специальный курс с ответами на эти вопросы…</p>
@@ -35,9 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>ВЗРОСЛЫЕ €70 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-adult-gift-ticket/" rel="noopener noreferrer" target="_blank">КУПИТЬ СЕЙЧАС</a></strong></p>
 <p class="short"><strong> СТУДЕНТЫ €50 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/the-sky-is-alive-student-ticket/" rel="noopener noreferrer" target="_blank">КУПИТЬ СЕЙЧАС</a></strong></p>
 <p class="short"><a class="doc-link" href="/docs/the-sky-is-alive/ENGLISH/THE%20SKY%20IS%20ALIVE%20EN%20INV.pdf" rel="noopener" target="_blank">Скачать учебный план курса и подробную информацию (PDF)</a></p>
-</div>
-</div>
-</div>
+
 <p class="lead short"><strong>ВАЖНОЕ ЗАМЕЧАНИЕ:</strong></p>
 <p>Мы работаем по «политике предварительной записи».</p>
 <p>Необходимо записаться заранее по телефону (+357) 99991111 (на английском) или (+357) 99037440 (на русском).</p>

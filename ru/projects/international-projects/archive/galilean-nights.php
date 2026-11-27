@@ -16,8 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">ГАЛИЛЕЕВЫ НОЧИ</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="86" loading="lazy" src="/images/galilean_nights.jpg" width="150"/><p class="short">ГАЛИЛЕЕВЫ НОЧИ</p>
+<div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="86" loading="lazy" src="/images/galilean_nights.jpg" width="150"/>
 </div></div>
 </div>
 <p>«Галилеевы ночи» — один из ключевых проектов <a href="/ru/projects/international-projects/archive/international-year-of-astronomy-2009.php">Международного года астрономии 2009</a>. 22–24 октября 2009 года астрономы-любители и профессионалы, энтузиасты и публика вышли на улицы по всему миру и направили свои телескопы на чудеса, которые итальянский астроном Галилей наблюдал 400 лет назад.</p>
@@ -25,7 +25,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» провели на Кипре мероприятия, посвящённые этому достижению и прогрессу человечества за последующие 4 столетия.</p>
 <p>2009 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">20–22 ОКТЯБРЯ</p></div>
 <div class="block"><a href="https://www.galileannights.org/events/event_country_cyprus.html" rel="noopener noreferrer" target="_blank">ГАЛИЛЕЕВЫ НОЧИ</a><br/><p class="short">ГАЛЕРЕЯ «ТЕХНИС ДРОМЕНА», НИКОСИЯ, КИПР</p></div>
 </div>

@@ -17,15 +17,10 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
+<p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></p></div><div class="block"><h2>ΛΟΓΟΤΥΠΟ</h2><dl class="specs"><dt>ΣΚΟΥΡΟ ΜΠΛΕ ΤΟΥ ΟΥΡΑΝΟΥ</dt><dd> ΘΟΛΟΣ ΠΟΥ ΑΝΤΙΠΡΟΣΩΠΕΥΕΙ ΤΟΝ ΟΥΡΑΝΟ ΜΕ 3 ΑΣΤΕΡΙΑ ΚΑΙ ΕΝΑ ΤΗΛΕΣΚΟΠΙΟ ΠΟΥ ΑΝΤΙΠΡΟΣΩΠΕΥΕΙ ΤΗΝ ΑΣΤΡΟΝΟΜΙΑ</dd><dt>ΚΟΚΚΙΝΟ</dt><dd> ΤΟ ΜΟΤΟ ΜΑΣ. ΜΙΑ ΘΕΡΜΗ ΠΡΟΣΚΛΗΣΗ ΣΤΟΥΣ ΑΝΘΡΩΠΟΥΣ ΝΑ «ΕΛΘΟΥΝ ΣΤΟΝ ΔΙΑΣΤΗΜΙΚΟ ΜΑΣ ΠΕΡΙΠΑΤΟ»</dd></dl></div></div></div>
-
-
-
 <div class="blocks">
-<div class="row">
-<div class="block"><p class="short">Το <strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> ιδρύθηκε στις 14 Φεβρουαρίου 2008.</p>
+<p class="short">Το <strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> ιδρύθηκε στις 14 Φεβρουαρίου 2008.</p>
 <p>Ο οργανισμός έλαβε την ονομασία <strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong>.</p>
 <p>Πήρε το όνομά του από την αρχαία πόλη ΚΙΤΙΟΝ, η οποία βρισκόταν στην περιοχή όπου σήμερα βρίσκεται η πόλη της Λάρνακας, στην Κύπρο.</p>
 <p>Γι' αυτόν τον λόγο θεωρείται τιμητική πράξη εκ μέρους των τοπικών αρχών το ότι μας έδωσαν την άδεια να χρησιμοποιήσουμε το όνομα αυτού του σημαντικού μνημείου ως πρόθεμα στο όνομα του οργανισμού μας.</p>
@@ -51,19 +46,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>Κατά την Κλασική περίοδο, στην πόλη του Κιτίου ανατέθηκαν εκτεταμένες κατασκευαστικές εργασίες, όπως μνημειώδη δημόσια κτίρια που αποτελούσαν μέρος ενός φιλόδοξου προγράμματος δημόσιων έργων. Μέρος αυτού του προγράμματος ήταν επίσης η αποξήρανση του ελώδους εδάφους στη συνοικία της Πάμπουλας, η δημιουργία συστήματος αποχέτευσης και η κατασκευή δύο λιμανιών, ενός για εμπορικούς σκοπούς και ενός για στρατιωτική χρήση. Μόνο το στρατιωτικό έχει ανασκαφεί μέχρι σήμερα. Οι ράμπες που χρησιμοποιούνταν για να ρυμουλκούνται τα πλοία στο λιμάνι για επισκευή ή για ασφαλή φύλαξη υπάρχουν ακόμη.</p>
 <p class="lead"><strong>Πηγές</strong>:</p>
 <p>ΤΜΗΜΑ ΑΡΧΑΙΟΤΗΤΩΝ ΚΥΠΡΟΥ <a href="http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument" rel="noopener noreferrer" target="_blank" title="KITION - CYPRUS DEPT OF ANTIQUITIES">http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/7A7351CF22898DFEC22571A4002CA21C?OpenDocument</a></p>
-
 <p class="lead"><strong>Σύνδεσμοι</strong>:</p>
 <p>ΕΠΙΣΚΕΦΘΕΙΤΕ ΤΟ ΑΡΧΑΙΟ ΚΙΤΙΟ https://www.visitcyprus.com/index.php/en/discovercyprus/culture-religion/sites-monuments/item/177-kition-archaeological-site</p>
-
 <p>ΚΙΤΙΟ (ΒΙΚΙΠΑΙΔΕΙΑ)</p>
 <p class="short"><a href="https://en.wikipedia.org/wiki/Kition" rel="noopener noreferrer" target="_blank" title="KITION (WIKIPEDIA)">https://en.wikipedia.org/wiki/Kition</a></p>
 <p class="short">LIVIUS.ORG (ΚΙΤΙΟ ΕΠΟΧΗ ΤΟΥ ΧΑΛΚΟΥ - ΡΩΜΑΪΚΗ ΕΠΟΧΗ)</p>
 <p class="short"><a href="https://www.livius.org/articles/place/kition/" rel="noopener noreferrer" target="_blank" title="LIVIUS.ORG (KITION)">https://www.livius.org/articles/place/kition/</a></p>
 <p class="short">Λάρνακα 4000 χρόνια ιστορίας του Ανδρέα Μιχαηλίδη (στα ελληνικά)</p>
-<p class="short">http://www.larnaka.org.cy/en/file/15tYyDUYmaOhGYAsl9Rd6A</p></div>
-</div>
-</div>
-</div>
+<p class="short">http://www.larnaka.org.cy/en/file/15tYyDUYmaOhGYAsl9Rd6A</p>
 </div>
 </div>
 </article>

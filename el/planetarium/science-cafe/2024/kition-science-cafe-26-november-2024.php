@@ -17,50 +17,20 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p><img alt="" data-nw="2000" decoding="async" height="600" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-26-november-2024.jpg" width="800"/></p><p class="short"><strong>ΜΕ ΤΗ ΧΟΡΗΓΙΑ</strong>:</p></div><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="128" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/optimizin-logo.png" width="450"/></p></div><div class="block"><p><img alt="" data-nw="3676" decoding="async" height="146" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/ultravision.png" width="450"/></p><p class="short"><strong><strong>ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</strong></strong></p></div></div></div>
-
-
-
-
 <p><strong>ΤΡΙΤΗ 26 ΝΟΕΜΒΡΙΟΥ 2024 ΩΡΑ: 20:00 (UT+2)</strong></p>
 <p><strong>20:00 Η ΕΠΙΣΤΗΜΗ ΤΗΣ ΣΥΜΠΕΡΙΦΟΡΑΣ ΚΑΙ Η ΑΠΟΚΑΛΥΨΗ ΤΗΣ ΣΤΗ ΒΟΗΘΕΙΑ ΤΩΝ ΑΝΘΡΩΠΩΝ ΝΑ ΚΑΤΑΝΟΗΣΟΥΝ ΕΝΑΝ ΠΡΑΓΜΑΤΙΚΟ ΤΡΟΠΟ ΖΩΗΣ!</strong></p>
 <p><strong>ΑΣ ΑΠΟΚΑΛΥΨΟΥΜΕ ΕΡΓΑΛΕΙΑ ΚΑΙ ΤΡΟΠΟΥΣ ΠΡΟΣΩΠΙΚΗΣ ΑΝΑΠΤΥΞΗΣ ΣΕ ΟΛΟΥΣ ΤΟΥΣ ΤΟΜΕΙΣ ΤΗΣ ΖΩΗΣ!</strong></p>
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p class="short"><strong>20:45 ΝΕΑ ΚΑΙ ΕΠΟΧΙΑΚΕΣ ΕΚΔΗΛΩΣΕΙΣ (ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ)</strong></p><p><a href="https://emiliais.me/" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1369" decoding="async" height="300" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-logo.jpg" width="300"/></a></p><p class="short"><strong>Προσκεκλημένη ομιλήτρια: <a href="https://emiliais.me/" rel="noopener noreferrer" target="_blank">Αιμιλία Νικολαΐδου</a></strong></p></div><div class="block"><p><strong>(BSc (Hons) Οπτομετρία &amp; Επιστήμη της Όρασης, MSc Ψυχολογία, Δίπλωμα Σύγχρονης Εφαρμοσμένης Ψυχολογίας, Διεθνώς Διαπιστευμένη Life Coach)</strong></p><p><strong><img alt="" data-nw="1080" decoding="async" height="352" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-2.jpg" width="250"/></strong></p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p></div></div></div>
-
-
-
-
-
 <dl class="specs"><dt><strong>Αναγνωριστικό συνάντησης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>
-
 <h2><strong><a href="https://emiliais.me/" rel="noopener noreferrer" target="_blank">ΑΙΜΙΛΙΑ ΝΙΚΟΛΑΪΔΟΥ</a></strong><br/> BSc (Hons) Οπτομετρία &amp; Επιστήμη της Όρασης<br/> MSc Ψυχολογία<br/> Δίπλωμα Σύγχρονης Εφαρμοσμένης Ψυχολογίας<br/> Διεθνώς Διαπιστευμένη Life Coach<br/> Οπτομέτρης / Κλινική Σύμβουλος Οπτικών / Μέντορας Προσωπικής Ανάπτυξης<br/> Διευθύντρια &amp; Ιδρύτρια του Optimizing op-tions &amp; emiliais.me</h2>
 <div class="link-row"><p class="short"><a class="doc-link" href="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-en.pdf" rel="noopener" target="_blank">Βιογραφικό στα αγγλικά</a> | <a class="doc-link" href="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-gr.pdf" rel="noopener" target="_blank">Βιογραφικό στα ελληνικά</a></p></div>
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1200" decoding="async" height="467" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-1.jpg" width="350"/></p></div><div class="block"><p>Με 24 χρόνια εμπειρίας στην Οπτομετρία &amp; ως Κλινική Σύμβουλος Οπτικών, τοπική διανομέας καινοτόμων προϊόντων στον κλάδο της Οπτικής, και με πάθος να αποκαλύψει την αλήθεια πίσω από την ανθρώπινη φύση και συμπεριφορά, η Αιμιλία έκανε το όραμά της πραγματικότητα.</p><p>Αυτή είναι η αφοσίωσή της στο να βοηθά τους ανθρώπους γύρω της να ΒΛΕΠΟΥΝ ΚΑΘΑΡΑ μέσω του επαγγέλματός της ως οπτομέτρης, μέσω της εκπαίδευσης συναδέλφων στη χρήση καινοτόμων λύσεων και προϊόντων που βοηθούν τους ασθενείς να βιώσουν βελτιωμένη όραση, και μέσω των συνεδριών coaching της ως μέντορας προσωπικής &amp; επαγγελματικής ανάπτυξης.</p><p>Κατάφερε, με τον ακάματο τρόπο που μεταδίδει την αλήθεια, να διαβεβαιώσει τους πελάτες, τους συνεργάτες και τους συναδέλφους της ότι υπάρχει πάντοτε ένας πιο καθαρός τρόπος να βλέπουμε τον κόσμο.</p><p>Η αλλαγή είναι το μόνο σταθερό πράγμα στη ζωή και η επιστήμη είναι το μόνο σταθερό μέρος της που καταγράφεται συνεχώς, αναλύεται, κατανοείται μέσα από γεγονότα και αποδεικνύεται μέσα από την εμπειρία.</p><p>Οι προσωπικότητες μπορούν να διαμορφωθούν εκ νέου· οι συμπεριφορές μπορούν να βελτιωθούν για καλύτερα αποτελέσματα στη ζωή και για μια ζωή με νόημα.</p><p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p><dl class="specs"><dt><strong>Αναγνωριστικό συνάντησης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl><p class="short">Μην χάσετε αυτή τη μοναδική παρουσίαση.</p><p class="short"><strong>Όλες οι συναντήσεις του Science Café είναι <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">δωρεάν</a> και μπορεί να συμμετάσχει οποιοσδήποτε. </strong></p><p class="short"><strong>Οι κωδικοί και οι πληροφορίες για τη συνάντηση δημοσιεύονται <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">εδώ</a>.</strong></p></div></div></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p><strong><br/> Οι καταγραφές των προηγούμενων Διαδικτυακών Science Café είναι διαθέσιμες στο <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">κανάλι μας στο YouTube</a>.</strong></p>
 <p>Εάν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

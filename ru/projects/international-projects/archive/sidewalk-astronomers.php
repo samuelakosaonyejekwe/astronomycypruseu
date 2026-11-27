@@ -25,14 +25,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>С 2008 года ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» как национальный координатор «Уличных астрономов» на <a href="/ru/projects/international-projects/archive/sidewalk-astronomers.php">Кипре</a> проводят и координируют мероприятия по всей стране.</p>
 <p>2017 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">23 АПРЕЛЯ</p></div>
 <div class="block"><strong>«ДЕНЬ СОЛНЦА»: НАБЛЮДЕНИЯ СОЛНЦА</strong></div>
 </div>
 </div>
 <p class="short">2016 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 СЕНТЯБРЯ</p></div>
 <div class="block"><p class="short">УЛИЧНЫЕ АСТРОНОМЫ В АНГЛИЙСКОЙ ШКОЛЕ, НИКОСИЯ</p></div>
 </div>

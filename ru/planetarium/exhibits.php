@@ -17,8 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><h2><strong>Экспозиции</strong></h2>
+<h2><strong>Экспозиции</strong></h2>
 <h2>Геология и ископаемые</h2>
 <h3>Геология и ископаемые Кипра</h3>
 <p>Эта экспозиция посвящена естественной истории Кипра.</p>
@@ -52,13 +51,6 @@ require SITE_ROOT . '/includes/header.php';
 <h3>Ракета</h3>
 <p class="short">Сфотографируйтесь с нашей моделью ракеты.</p>
 <div class="blocks"><div class="row split"><div class="block media"><p><strong><img alt="" data-nw="600" decoding="async" height="399" loading="lazy" src="/images/exhibition.jpg" width="600"/></strong></p></div><div class="block"><p class="lead short">Примечания:</p><ul class="items"><li>Некоторые темы наших <a href="/ru/program-events/educational-courses.php"> образовательных программ</a> и <a href="/ru/program-events/educational-courses/summer-school.php">летней школы </a>проводятся в экспозициях.</li><li>Волонтёры могут помогать с классификацией и работой с экспонатами.</li><li>Специальные образовательные и развлекательные программы (частные или для организованных групп) предоставляются по запросу.</li><li>Следите за нашей «Ночью в музее».</li></ul><p>Забронируйте мероприятие по тел.: +357 99991111 или <a href="mailto:planetarium@cytanet.com.cy">свяжитесь с нами </a>по электронной почте для получения дополнительной информации.</p></div></div></div>
-
-
-
-
-
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

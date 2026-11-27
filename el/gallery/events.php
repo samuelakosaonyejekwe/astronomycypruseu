@@ -19,7 +19,6 @@ require SITE_ROOT . '/includes/header.php';
 <h2>ΑΝΑΜΝΗΣΕΙΣ ΑΠΟ ΕΚΔΗΛΩΣΕΙΣ</h2>
 <h2>ΟΝΟΜΑ ΕΚΔΗΛΩΣΗΣ</h2>
 <h2>ΟΝΟΜΑ ΕΚΔΗΛΩΣΗΣ</h2>
-<h2>ΟΝΟΜΑ ΕΚΔΗΛΩΣΗΣ</h2>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

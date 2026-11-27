@@ -17,10 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" decoding="async" height="217" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/IDL_logo.jpg" width="400"/></p><p class="short"><strong>МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2025 — КИПР</strong></p></div></div></div></div><div class="block"><p class="short"><strong>#dayoflight2025 #LightDay2025 #IDL2025 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT</strong></p><p><img alt="" decoding="async" height="401" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-may-16-2025-instagram.jpg" width="400"/></p><p class="short"><a href="https://youtu.be/acelisSU6Nw?si=bsSS96iOpOLk1c-3" rel="noopener noreferrer" target="_blank" title="International Day of Light 16 May Official Video">ОФИЦИАЛЬНЫЙ ВИДЕОТРЕЙЛЕР</a></p></div></div></div>
-
-
-
-
 <p class="short"><strong>ПРИОБРЕТИТЕ ЗДЕСЬ БИЛЕТ НА ЛЕКЦИЮ И НАБЛЮДЕНИЯ МАРСА В ТЕЛЕСКОП</strong></p>
 <p><strong>ПРАЗДНИЧНЫЕ МЕРОПРИЯТИЯ НА КИПРЕ</strong></p>
 <p><strong>Официальное мероприятие на Кипре пройдёт в помещениях ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» в Кити</strong></p>
@@ -31,24 +27,16 @@ require SITE_ROOT . '/includes/header.php';
 <p>Приветственное слово национального узла Международного дня света ЮНЕСКО на Кипре, Георгиос Труллиас (директор — ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» (Кипр)).</p>
 <p>Информирование о глобальной инициативе по неослабевающему вниманию к свету и его роли в жизни.</p>
 <dl class="specs"><dt>Технологии на основе света</dt><dd> примеры.</dd><dt>Осведомлённость о световом загрязнении</dt><dd> влияние на планету и способы защиты ночного неба.</dd></dl>
-
 <p class="short">Наблюдения Марса в телескоп</p>
 <p class="short"><strong>ПРИОБРЕТИТЕ БИЛЕТЫ ЗДЕСЬ</strong></p>
-<div class="blocks">
-<div class="row">
-<div class="block"><div class="blocks">
-<div class="row">
-<div class="block">
+
+
 <p><strong>Уважаемые сторонники Международного дня света,</strong></p>
 <p>Приближается конец 2023 года, и сейчас самое подходящее время кратко рассказать Вам о Международном дне света 2024 (IDL 2024). <br/> <br/> Мы, конечно, всё ещё празднуем замечательный успех IDL 2023, включая <a href="https://mcusercontent.com/c8c821e196c8c97b05e919d36/files/40412b8c-8464-e009-e3ba-82dd993e6045/385368eng.pdf" rel="noopener noreferrer" target="_blank">вдохновляющее обращение</a> Генерального директора ЮНЕСКО и 400 мероприятий, состоявшихся по всему миру. В глобальных мероприятиях и крупных фестивалях приняли участие 550 000 человек, а в местных и национальных мероприятиях — 60 000. Наша <a href="https://107e577e-c982-4aeb-a3d0-a8beecf09f4b.filesusr.com/ugd/3b6030_c37d3fa5ce52497bbba6baae321c4dc6.pdf" rel="noopener noreferrer" target="_blank">сводная инфографика</a> содержит все ключевые факты и цифры. Вас также может заинтересовать сводка основной информации за все шесть лет празднования Международного дня света. Эта информация была собрана для недавней встречи партнёров на Всемирном конгрессе фотоники в Мюнхене, о которой рассказано в одном из материалов ниже. <br/> <br/> Мы также рады сообщить о некоторых интересных событиях 2024 года, включая объявление премии VELUX для студентов-архитекторов, объявление Международного десятилетия наук об устойчивом развитии Организации Объединённых Наций, а также выбор темы Международного дня света в 2024 году — <strong>«Свет в нашей жизни».</strong> <br/> <br/> И помните: планируя 2024 год, Вы можете опираться на богатство ресурсов и информации за шесть выпусков IDL. Мы архивируем всё, включая списки <a href="https://www.lightday.org/previous-years" rel="noopener noreferrer" target="_blank">прошедших мероприятий</a> и наши <a href="https://www.lightday.org/newsletter-archive" rel="noopener noreferrer" target="_blank">регулярные рассылки</a>, и они подсказывают множество идей. Как правило, нет никаких проблем с тем, чтобы из года в год повторно использовать удачные мероприятия и презентации, поскольку опыт показывает, что в большинстве случаев каждое новое празднование Международного дня привлекает новую аудиторию! <br/> <br/> Начинать планирование никогда не рано, и не стесняйтесь обращаться к нам с идеями и вопросами. Мы здесь, чтобы помочь! <br/> <br/> <strong>Джон Дадли и Джозеф Нимела</strong><br/> Сопредседатели руководящего комитета IDL 2024</p>
-</div>
-</div>
-</div></div>
-</div>
-</div>
-<div class="blocks">
-<div class="row">
-<div class="block"><p><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> является национальным узлом Кипра Международного дня света ЮНЕСКО.</p>
+
+
+
+<p><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> является национальным узлом Кипра Международного дня света ЮНЕСКО.</p>
 <p>Международный день света — это глобальная инициатива, которая ежегодно привлекает внимание к неослабевающей оценке света и его роли в науке, культуре и искусстве, образовании и устойчивом развитии, а также в таких разных областях, как медицина, связь и энергетика. Широкая тема света позволяет самым разным секторам общества по всему миру принять участие в мероприятиях, демонстрирующих, как наука, технологии, искусство и культура могут помочь в достижении целей ЮНЕСКО — образования, равенства и мира.</p>
 <p><img alt="" decoding="async" height="382" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-statistics.jpg" width="800"/></p>
 <p><a href="http://www.light2015.org/" rel="noopener noreferrer" target="_blank">Международный год света и световых технологий 2015</a> (IYL 2015) был мероприятием Организации Объединённых Наций, которое привлекло внимание мирового сообщества к достижениям науки о свете и её применению, а также к их значению для человечества. Под руководством <a href="http://www.unesco.org/" rel="noopener noreferrer" target="_blank">ЮНЕСКО</a> было проведено более 13 000 мероприятий в 147 странах, которые охватили аудиторию, оцениваемую более чем в 100 миллионов человек. Дополнительную информацию см. в итоговом отчёте IYL 2015.</p>
@@ -72,21 +60,13 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2020</a></p>
 <p class="lead short"><strong>ССЫЛКИ:</strong></p>
 <p class="short"><strong>СТРАНИЦА МЕЖДУНАРОДНОГО ДНЯ СВЕТА НА КИПРЕ В FACEBOOK</strong> <a href="https://www.facebook.com/idlcy/" rel="noopener noreferrer" target="_blank" title="CYPRUS INTERNATIONAL DAY OF LIGHT FB PAGE">https://www.facebook.com/idlcy/</a></p>
-
 <p class="short"><strong>МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА ЮНЕСКО</strong> <a href="https://www.lightday.org/" rel="noopener noreferrer" target="_blank" title="UNESCO IDL">https://www.lightday.org/</a></p>
-
 <p><strong>МЕЖДУНАРОДНЫЕ МЕРОПРИЯТИЯ ДНЯ СВЕТА</strong> <a href="https://www.lightday.org/events" rel="noopener noreferrer" target="_blank" title="IDL INTERNATIONAL EVENTS">https://www.lightday.org/events</a></p>
-
 <p><strong>СТРАНИЦА МЕЖДУНАРОДНОГО ДНЯ СВЕТА ЮНЕСКО В FACEBOOK</strong> <a href="https://www.facebook.com/InternationalDayOfLight" rel="noopener noreferrer" target="_blank">https://www.facebook.com/InternationalDayOfLight</a></p>
-
 <p><strong>СТРАНИЦА МЕЖДУНАРОДНОГО ДНЯ СВЕТА ЮНЕСКО В INSTAGRAM</strong> <a href="https://www.instagram.com/internationaldayoflight/" rel="noopener noreferrer" target="_blank">https://www.instagram.com/internationaldayoflight/</a></p>
-
 <p><strong>СТРАНИЦА МЕЖДУНАРОДНОГО ДНЯ СВЕТА ЮНЕСКО В X (TWITTER)</strong></p>
 <p><a href="https://www.twitter.com/IDLOfficial" rel="noopener noreferrer" target="_blank">http://www.twitter.com/IDLOfficial</a></p>
 <p><strong>СТРАНИЦА МЕЖДУНАРОДНОГО ДНЯ СВЕТА ЮНЕСКО В LINKEDIN</strong> <a href="https://www.linkedin.com/company/65806223/" rel="noopener noreferrer" target="_blank">https://www.linkedin.com/company/65806223/</a></p>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

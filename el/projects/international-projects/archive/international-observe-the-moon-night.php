@@ -32,14 +32,14 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short">2016 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 ΟΚΤΩΒΡΙΟΥ</p></div>
 <div class="block"><p class="short"><a href="http://www.lpi.usra.edu/inomn_wordpress/globe.cfm" rel="noopener noreferrer" target="_blank">InOMN</a> <strong>ΝΗΠΙΑΓΩΓΕΙΟ ΗΛΙΟΣΤΑΛΑΓΜΑΤΙΕΣ, ΛΑΡΝΑΚΑ</strong></p></div>
 </div>
 </div>
 <p class="short">2015 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">19 ΣΕΠΤΕΜΒΡΙΟΥ</p></div>
 <div class="block"><a href="http://www.lpi.usra.edu/observe_the_moon_night/past-future-events/" rel="noopener noreferrer" target="_blank">InOMN</a> <strong>ΔΗΜΟΤΙΚΟΙ ΚΗΠΟΙ ΛΑΡΝΑΚΑΣ</strong></div>
 </div>

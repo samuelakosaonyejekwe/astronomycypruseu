@@ -16,7 +16,7 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">H</p><h2>ΚΟΥΙΖ (Περίοδος: 1 Ιανουαρίου 2025 - 30 Μαΐου 2025)</h2>
+<h2>ΚΟΥΙΖ (Περίοδος: 1 Ιανουαρίου 2025 - 30 Μαΐου 2025)</h2>
 <div class="blocks">
 <div class="row split">
 <div class="block media"><img alt="" data-nw="400" decoding="async" height="245" loading="lazy" src="/images/quiz-challenge-logo.jpg" width="200"/></div>
@@ -25,17 +25,14 @@ require SITE_ROOT . '/includes/header.php';
 <p><strong>Ένας από τους καλύτερους τρόπους για να μάθετε ή να δοκιμάσετε τις γνώσεις σας είναι να παίζετε και να συμμετέχετε σε κουίζ.</strong></p>
 <p><strong>Ο οργανισμός μας θα αναρτά κουίζ σε αυτές τις σελίδες σε διάφορες περιόδους, για να δοκιμάζετε τον εαυτό σας.</strong></p>
 <p><strong>ΚΑΝΟΝΑΣ 1. Στείλτε μας ένα e-mail με τις απαντήσεις σας και θα συμμετάσχετε αυτόματα στην κλήρωση για μια <em>υποτροφία</em></strong> <strong>για ένα από τα Εκπαιδευτικά Μαθήματά μας για αρχάριους, «ΔΙΑΒΑΣΤΕ ΤΟΝ ΟΥΡΑΝΟ».</strong></p>
-
 <p><strong>ΚΑΝΟΝΑΣ 2. Αν δώσετε όλες τις σωστές απαντήσεις και εγγραφείτε στο ενημερωτικό μας δελτίο,</strong> <strong>τότε θα λάβετε <em>έκπτωση €10</em> για οποιαδήποτε κράτηση <a href="/el/program-events/private-programs.php">ιδιωτικής εκδήλωσης</a>.</strong></p>
-
 <h2><strong>E-mail: spacewalk@cytanet.com.cy</strong></h2>
 </div>
 </div>
 </div>
 <p><a class="doc-link" href="/docs/quiz-of-the-month-challenge.pdf" rel="noopener" target="_blank"><img alt="" data-nw="450" decoding="async" height="200" loading="lazy" src="/images/quiz-button.png" title="QUIZ ANSWER SHEET" width="200"/></a></p>
 <div class="blocks">
-<div class="row">
-<div class="block"><h2>Διαστημικό Κουίζ</h2>
+<h2>Διαστημικό Κουίζ</h2>
 <h2><strong>Ερωτήσεις:</strong></h2>
 <p class="short"><strong>1. Ποιος ήταν ο πρώτος άνθρωπος που μπήκε στο διάστημα δύο φορές;</strong></p>
 <p>Α. Christina Koch<br/> Β. Γιούρι Γκαγκάριν<br/> Γ. Βλαντιμίρ Κομάροφ<br/> Δ. Scott Kelly</p>
@@ -54,27 +51,13 @@ require SITE_ROOT . '/includes/header.php';
 <p>Θα σας ενημερώνουμε για τις δημόσιες δραστηριότητές μας και για σημαντικά νέα και ανακαλύψεις. (Η συχνότητα των e-mail είναι περίπου 10 τον χρόνο)</p>
 <div class="blocks"><div class="row stack"><div class="block"><p><a class="doc-link" href="/docs/quiz-of-the-month-challenge.pdf" rel="noopener" target="_blank"><img alt="" data-nw="450" decoding="async" height="200" loading="lazy" src="/images/quiz-button.png" title="QUIZ ANSWER SHETT" width="200"/></a>
 </p><p class="short"><strong>ΟΙ ΑΠΑΝΤΗΣΕΙΣ ΤΟΥ ΚΟΥΙΖ ΘΑ ΑΝΑΡΤΗΘΟΥΝ ΕΔΩ ΤΟΝ ΙΟΥΝΙΟ 2025</strong></p><p class="short"><strong>(ΕΛΕΓΞΤΕ ΣΤΟ ΤΕΛΟΣ ΤΗΣ ΣΕΛΙΔΑΣ)</strong></p><h2>ΦΥΛΛΟ ΑΠΑΝΤΗΣΕΩΝ (ΠΑΡΑΚΑΛΟΥΜΕ ΣΤΕΙΛΤΕ ΤΟ ΣΕ ΕΜΑΣ ΜΕ E-MAIL):</h2><h2>(* : ΕΙΝΑΙ ΥΠΟΧΡΕΩΤΙΚΑ)</h2></div></div></div>
-
 <h2><strong>ΣΤΟΙΧΕΙΑ ΕΠΙΚΟΙΝΩΝΙΑΣ </strong></h2>
 <dl class="specs"><dt>ΟΝΟΜΑ * </dt><dd> ______________________ ΕΠΩΝΥΜΟ * :_______________________</dd><dt>ΔΙΕΥΘΥΝΣΗ</dt><dd> _______________________________________________________</dd><dt>ΧΩΡΑ * </dt><dd> ___________________ ΤΑΧΥΔΡΟΜΙΚΟΣ ΚΩΔΙΚΑΣ: _______________________</dd><dt>E-MAIL * </dt><dd> _______________________________________________________</dd><dt>ΚΙΝΗΤΟ ΤΗΛΕΦΩΝΟ (για μελλοντικά SMS)</dt><dd> __________________ ΗΛΙΚΙΑ : ____________</dd><dt>ΕΝΔΙΑΦΕΡΟΝΤΑ / ΧΟΜΠΙ </dt><dd> _____________________________________________</dd><dt>ΑΛΛΑ</dt><dd> _________________________________________________________</dd></dl>
-
-
-
-
-
-
 <h2><strong>ΑΠΑΝΤΗΣΕΙΣ</strong>:</h2>
 <dl class="specs"><dt>ΑΠΑΝΤΗΣΗ 1</dt><dd> ______________________________________________________</dd><dt>ΑΠΑΝΤΗΣΗ 2</dt><dd> ______________________________________________________</dd><dt>ΑΠΑΝΤΗΣΗ 3</dt><dd> ______________________________________________________</dd><dt>ΑΠΑΝΤΗΣΗ 4</dt><dd> ______________________________________________________</dd><dt>ΑΠΑΝΤΗΣΗ 5</dt><dd> ______________________________________________________</dd></dl>
-
-
-
-
-</div>
-</div>
 </div>
 <h2><strong>ΑΠΑΝΤΗΣΕΙΣ ΓΙΑ ΤΟ ΠΡΟΗΓΟΥΜΕΝΟ ΚΟΥΙΖ ΙΟΥΝ 2024 - ΔΕΚ 2024:</strong></h2>
 <dl class="specs"><dt><strong> ΒΡΑΒΕΙΟ</strong></dt><dd> Υποτροφία για το Εκπαιδευτικό Μάθημα για αρχάριους, «ΔΙΑΒΑΣΤΕ ΤΟΝ ΟΥΡΑΝΟ»</dd><dt><strong>ΝΙΚΗΤΡΙΑ</strong></dt><dd> Σταυρούλλα Βασιλείου</dd></dl>
-
 <p class="short">Απαντήσεις για τις 5 ερωτήσεις</p>
 <p class="short">1. Α - Ουρανός</p>
 <p class="short">2. Α - Αφροδίτη</p>

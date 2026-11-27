@@ -17,11 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
-<div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><img alt="" data-nw="283" decoding="async" height="165" loading="lazy" src="/images/Logo_JPG.jpg" width="272"/><img alt="" data-nw="3150" decoding="async" height="169" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="536"/></p></div><div class="block"><p><img alt="" data-nw="1536" decoding="async" height="600" loading="lazy" src="/images/public-events/march-2026/18-years-anniversary-friday-13-march-2026.jpg" width="900"/></p><p class="short"><strong>FRIDAY 13TH MARCH 2026</strong></p></div></div></div>
-
-
+<div class="blocks"><div class="row gallery captioned promo"><div class="block media"><img alt="" data-nw="283" decoding="async" height="165" loading="lazy" src="/images/Logo_JPG.jpg" width="272"/><img alt="" data-nw="3150" decoding="async" height="169" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="536"/></div><div class="block"><p><img alt="" data-nw="1536" decoding="async" height="600" loading="lazy" src="/images/public-events/march-2026/18-years-anniversary-friday-13-march-2026.jpg" width="900"/></p><p class="short"><strong>FRIDAY 13TH MARCH 2026</strong></p></div></div></div>
 <p class="short"><strong>TIME:19:00 (UTC+2)</strong></p>
 <p class="short">18-YEARS ANNIVERSARY CELEBRATIONS</p>
 <p class="short"><strong>(ENGLISH SESSION)</strong></p>
@@ -44,8 +40,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>19:20 LATEST – NEWS – ACHIEVEMENTS – DISCOVERIES</strong></p>
 <p class="short"><strong> 19:30 BIRTHDAY CAKE </strong></p>
 <p><strong>19:45 TELESCOPE OBSERVATIONS</strong> OF THE GREAT ORION NEBULA AND PLANET JUPITER</p>
-<p><strong>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> or call +357 9999 1111.</strong></p></div>
-</div>
+<p><strong>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> or call +357 9999 1111.</strong></p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

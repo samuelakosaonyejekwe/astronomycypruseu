@@ -17,50 +17,17 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p><img alt="" data-nw="2000" decoding="async" height="600" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-26-november-2024.jpg" width="800"/></p><p class="short"><strong>ПРИ ПОДДЕРЖКЕ</strong>:</p></div><div class="block media"><p><img alt="" data-nw="2000" decoding="async" height="128" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/optimizin-logo.png" width="450"/></p></div><div class="block"><p><img alt="" data-nw="3676" decoding="async" height="146" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/ultravision.png" width="450"/></p><p class="short"><strong><strong>ОНЛАЙН SCIENCE CAFÉ</strong></strong></p></div></div></div>
-
-
-
-
 <p class="short"><strong>ВТОРНИК, 26 НОЯБРЯ 2024 ГОДА, ВРЕМЯ: 20:00 (UT+2)</strong></p>
 <p class="short"><strong>20:00 НАУКА О ПОВЕДЕНИИ И ЕЁ РОЛЬ В ТОМ, ЧТОБЫ ПОМОЧЬ ЛЮДЯМ ПОНЯТЬ НАСТОЯЩИЙ СПОСОБ ЖИТЬ!</strong></p>
 <p class="short"><strong>ОТКРОЕМ ИНСТРУМЕНТЫ И СПОСОБЫ ЛИЧНОСТНОГО РОСТА ВО ВСЕХ СФЕРАХ ЖИЗНИ!</strong></p>
 <p class="short"><strong>20:45 НОВОСТИ И СЕЗОННЫЕ МЕРОПРИЯТИЯ (ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)</strong></p>
 <div class="blocks"><div class="row stack"><div class="block"><p><a href="https://emiliais.me/" rel="noopener noreferrer" target="_blank"><img alt="" data-nw="1369" decoding="async" height="300" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-logo.jpg" width="300"/></a></p><p><strong>Приглашённый докладчик: <a href="https://emiliais.me/" rel="noopener noreferrer" target="_blank">Эмилия Николаиду</a></strong></p><p>(бакалавр наук (с отличием) по оптометрии и наукам о зрении, магистр наук по психологии, диплом по современной прикладной психологии, лайф-коуч с международной аккредитацией)</p></div></div></div>
-
-
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><strong><img alt="" data-nw="1080" decoding="async" height="352" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-2.jpg" width="250"/></strong></p></div><div class="block"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p><dl class="specs"><dt><strong>ID встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl><h2><strong><a href="https://emiliais.me/" rel="noopener noreferrer" target="_blank">ЭМИЛИЯ НИКОЛАИДУ</a></strong><br/> бакалавр наук (с отличием) по оптометрии и наукам о зрении<br/> магистр наук по психологии<br/> диплом по современной прикладной психологии<br/> лайф-коуч с международной аккредитацией<br/> оптометрист / клинический консультант по оптике / наставник по личностному развитию<br/> директор и основатель Optimizing op-tions и emiliais.me</h2><div class="link-row"><p class="short"><a class="doc-link" href="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-en.pdf" rel="noopener" target="_blank">CV на английском</a> | <a class="doc-link" href="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-gr.pdf" rel="noopener" target="_blank">CV на греческом</a></p></div></div></div></div>
-
-
-
-
-
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1200" decoding="async" height="467" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/emilia-nicolaidou/emilia-nicolaidou-1.jpg" width="350"/></p></div><div class="block"><p>Обладая 24-летним опытом работы в оптометрии и в качестве клинического консультанта по оптике, местного дистрибьютора инновационной продукции в сфере оптики, и страстно желая раскрыть истину о природе и поведении человека, Эмилия воплотила своё видение в жизнь.</p><p>Это её стремление помогать окружающим ЯСНО ВИДЕТЬ — через профессию оптометриста, через обучение коллег применению инновационных решений и продуктов, помогающих пациентам видеть лучше, и через коучинговые сессии в качестве наставника по личностному и профессиональному развитию.</p><p>Своим неустанным стремлением говорить правду ей удаётся убеждать клиентов, партнёров и коллег в том, что всегда есть более ясный способ видеть мир.</p><p>Перемены — единственная постоянная вещь в жизни, а наука — единственная её постоянная часть, которая непрерывно фиксируется, анализируется, осмысляется через факты и подтверждается опытом.</p><p>Личность можно изменить; поведение можно улучшить ради лучших результатов в жизни и ради жизни, наполненной смыслом.</p><p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p><dl class="specs"><dt><strong>ID встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl><p class="short">Не пропустите эту уникальную презентацию.</p><p class="short"><strong>Все встречи Science Café <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">бесплатны</a>, присоединиться может каждый. </strong></p><p class="short"><strong>Коды и информация для подключения к встрече опубликованы <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">здесь</a>.</strong></p><p><strong><br/> Записи предыдущих онлайн-встреч Science Café доступны на нашем <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">канале YouTube</a>.</strong></p><p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p></div></div></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p class="lead short">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

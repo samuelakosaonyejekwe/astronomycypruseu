@@ -16,10 +16,9 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">АСТРОНОМЫ БЕЗ ГРАНИЦ</p><div class="blocks">
-<div class="row">
-<div class="block"><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="190" loading="lazy" src="/images/logo-awb.jpg" width="150"/><h2>АСТРОНОМЫ БЕЗ ГРАНИЦ</h2></div></div>
+<div class="blocks">
+<div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="190" loading="lazy" src="/images/logo-awb.jpg" width="150"/></div></div>
 </div>
 <p>«Астрономы без границ» (AWB) — это всемирное астрономическое сообщество. «Астрономы без границ» способствуют взаимопониманию и доброй воле поверх национальных и культурных границ, выстраивая отношения благодаря универсальной притягательности астрономии.</p>
 <p>Любители астрономии, педагоги и другие люди по всему миру участвуют в программах, которые создают взаимодействие и сотрудничество на основе общих интересов во всех областях астрономии. Они объединены лозунгом «Один народ, одно небо», подчёркивающим, что во время наблюдения звёздного неба все различия между людьми растворяются в темноте.</p>
@@ -47,20 +46,8 @@ require SITE_ROOT . '/includes/header.php';
 </div><div class="block"><p><a href="/images/gam2014/gam2014_10.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th10.jpg" width="125"/></a><br/> НА ПРОТЯЖЕНИИ ПОСЛЕДНИХ 2600 ЛЕТ ЛЮДИ ИЗ ВСЕХ УГОЛКОВ ЗЕМЛИ НАБЛЮДАЮТ МЕТЕОРНЫЙ ПОТОК ЛИРИДЫ</p></div><div class="block">
 <p><a href="/images/gam2014/gam2014_11.jpg"><img alt="" data-nw="283" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th11.jpg" width="283"/></a>«ДЕНЬ СОЛНЦА» <br/>— ВРЕМЯ НАБЛЮДЕНИЙ СОЛНЦА</p>
 </div><div class="block"><p><a href="/images/gam2014/gam2014_12.jpg"><img alt="" data-nw="125" decoding="async" height="188" loading="lazy" src="/images/gam2014/gam2014_th12.jpg" width="125"/></a><br/> В ВОСКРЕСЕНЬЕ СОЛНЦЕ БЫЛО ОЧЕНЬ АКТИВНО. НА СОЛНЕЧНОМ ДИСКЕ БЫЛО ВИДНО ДО 50 СОЛНЕЧНЫХ ПЯТЕН</p></div></div>
-
-
-
-
-
 </div>
 <div class="blocks"><div class="row split"><div class="block media"><p><a href="https://astronomycyprus.eu/images/gam2014/gam2014_13.jpg" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" loading="lazy" src="https://astronomycyprus.eu/images/gam2014/gam2014_th13.jpg"/></a></p></div><div class="block"><p class="short">АПРЕЛЬ — ЛУЧШИЙ МЕСЯЦ ГОДА. ЭТО ВСЕМИРНЫЙ МЕСЯЦ АСТРОНОМИИ!</p><p class="short">СКАЧАТЬ ПРОГРАММУ<br/> <a href="https://astronomycyprus.eu/docs/April2014Events_KPO.pdf" rel="noopener noreferrer" target="_blank" title="April2014Events_KPO.pdf">ВСЕМИРНОГО МЕСЯЦА АСТРОНОМИИ 2014 (PDF-ФАЙЛ)</a></p><p class="short">СКАЧАТЬ ПРОГРАММУ<br/> <a href="https://astronomycyprus.eu/docs/April2015Events_KPO.pdf" rel="noopener noreferrer" target="_blank" title="April2014Events_KPO.pdf">ВСЕМИРНОГО МЕСЯЦА АСТРОНОМИИ 2015 (PDF-ФАЙЛ)</a></p><p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас <br/> принять участие в GAM 2016!</p><p>СКАЧАТЬ <a href="https://astronomycyprus.eu/docs/GAM2016_PRESS_RELEASE_GR.pdf" rel="noopener noreferrer" target="_blank" title="2014-09SeptemberEvents_KPO.pdf">ПРЕСС-РЕЛИЗ (PDF-ФАЙЛ, НА ГРЕЧЕСКОМ)</a> И ПРОГРАММУ<br/> <a href="https://astronomycyprus.eu/docs/April2016Events_KPO.pdf" rel="noopener noreferrer" target="_blank" title="April2014Events_KPO.pdf">ВСЕМИРНОГО МЕСЯЦА АСТРОНОМИИ 2016 (PDF-ФАЙЛ)</a></p></div></div></div>
-
-
-
-
-
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

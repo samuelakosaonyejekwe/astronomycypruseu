@@ -16,8 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">ПРОЕКТ ВИРТУАЛЬНЫЙ ТЕЛЕСКОП</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="500" decoding="async" height="250" loading="lazy" src="/images/virtualtelescope.gif" width="250"/><p class="short">ПРОЕКТ ВИРТУАЛЬНЫЙ ТЕЛЕСКОП</p>
+<p class="short">ПРОЕКТ VIRTUAL TELESCOPE</p><div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="500" decoding="async" height="250" loading="lazy" src="/images/virtualtelescope.gif" width="250"/>
 </div></div>
 </div>
 <p>Проект «Виртуальный телескоп» (Virtual Telescope Project) – это очень мощный набор реальных роботизированных телескопов, <strong>доступных удалённо онлайн через Интернет. Он был основан в 2006 году и работает как для астрономов, участвующих в различных международных проектах, так и для широкой публики. Он сделал множество открытий. Его вклад в «Астрономы без границ» является краеугольной частью </strong><strong>Всемирного месяца астрономии, который отмечается по всему миру.</strong></p>

@@ -17,15 +17,14 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row"><div class="block">
-<h2>Геологическая эволюция Кипра</h2>
+
 <div class="blocks">
 <div class="row stack"><div class="block"><a href="/ru/planetarium/cyprus-geology/gabro.php"><img alt="" data-nw="1280" decoding="async" height="232" loading="lazy" src="/images/exhibitions/cyprus-geology/gabbro.jpg" width="300"/></a><p class="short"><a href="/ru/planetarium/cyprus-geology/gabro.php"><strong>Габбро</strong></a></p></div></div>
 </div>
 <marquee>
 </marquee>
 <marquee>
-</marquee></div></div></div>
+</marquee></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

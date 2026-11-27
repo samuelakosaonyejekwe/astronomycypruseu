@@ -25,14 +25,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>Από το 2008 το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ, ως Εθνικός Συντονιστής των Αστρονόμων του Πεζοδρομίου στην <a href="/el/projects/international-projects/archive/sidewalk-astronomers.php">Κύπρο</a>, πραγματοποιεί και συντονίζει εκδηλώσεις σε εθνικό επίπεδο.</p>
 <p>2017 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">23 ΑΠΡΙΛΙΟΥ</p></div>
 <div class="block"><strong>«SunDay» ΗΛΙΑΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ </strong></div>
 </div>
 </div>
 <p class="short">2016 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">8 ΣΕΠΤΕΜΒΡΙΟΥ</p></div>
 <div class="block"><p class="short">ΑΣΤΡΟΝΟΜΟΙ ΤΟΥ ΠΕΖΟΔΡΟΜΙΟΥ ΣΤΟ ΑΓΓΛΙΚΟ ΣΧΟΛΕΙΟ, ΛΕΥΚΩΣΙΑ</p></div>
 </div>

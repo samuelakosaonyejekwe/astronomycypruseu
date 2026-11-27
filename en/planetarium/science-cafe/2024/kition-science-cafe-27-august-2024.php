@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p>#meteors @kpocyprus #persides #kpocyprus #science #astronomy #paleontology #cafe #online #cyprus</p>
 <h2><img alt="" data-nw="2000" decoding="async" height="456" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-27-august-2024.jpg" width="800"/></h2>
 <p class="short"><strong>TUESDAY 27TH AUGUST 2024, TIME: 20:00 (UT+3)</strong></p>
@@ -30,13 +27,9 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>JOIN US ON ONLINE</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-
 <p>Mr. Alexandr Prokofyev (Astrophysicist) will talk about Perseids Metaor Shoewer results obtained  by the KITON PLANETARIUM &amp; OBSERVATORY team, compared to the Global results.</p>
-
-<p>l</p>
 <p>Learn about the national and international achievements of our KITION ASTRONOMY ACADEMY students.</p>
 <p>3 out of 5 students representing Cyprus at the International Olympiad on Astronomy and Astrophysics are our students and they are now in Brazil competing for a medal.</p>
-
 <p>Don't miss this unique presentation.</p>
 <p class="short"> All meetings of Science Café sessions are <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">free</a> of charge and everyone can join. </p>
 <p class="short">Codes and info for the meeting are published <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">here</a>. </p>
@@ -46,9 +39,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

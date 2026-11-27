@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p>#asteroidday @ad2024 #dinosaurs #asteroid #kpocyprus #science #astronomy #astrophysics #cafe #online #cyprus</p>
 <h2><img alt="" data-nw="960" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-25-june-2024.jpg" width="800"/></h2>
 <p class="short"><strong>ΤΡΙΤΗ 25 ΙΟΥΝΙΟΥ 2024, ΩΡΑ: 20:00 (UT+3)</strong></p>
@@ -29,11 +26,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>ΣΥΜΜΕΤΕΧΕΤΕ ΔΙΑΔΙΚΤΥΑΚΑ</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-
 <p>Μάθετε για τη Διεθνή Ημέρα Αστεροειδών.</p>
 <p>Ο κ. Γιώργος Τρούλλιας, Διευθυντής του ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ, είναι ο Εθνικός Συντονιστής της Κύπρου για την Ημέρα Αστεροειδών. Θα μιλήσει για τη σημασία της προστασίας της Γης από τους αστεροειδείς και για τον αστεροειδή που εξόντωσε τους δεινόσαυρους!</p>
-
-
 <p>Ο κ. Άλεξις Παντελίδης (Παλαιοντολόγος) θα μιλήσει για τα εξαφανισμένα είδη δεινοσαύρων.</p>
 <p class="short">Μην χάσετε αυτή την πολύ κατατοπιστική παρουσίαση.</p>
 <p class="short">Όλες οι συναντήσεις του Science Café είναι <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">δωρεάν</a> και μπορεί να συμμετάσχει οποιοσδήποτε.</p>
@@ -44,9 +38,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

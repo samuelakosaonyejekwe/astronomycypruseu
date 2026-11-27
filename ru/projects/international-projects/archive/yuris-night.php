@@ -16,8 +16,8 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p class="short">НОЧЬ ЮРИЯ</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="752" decoding="async" height="234" loading="lazy" src="/images/yurisnight-752x440.jpg" width="400"/><p class="short">НОЧЬ ЮРИЯ</p>
+<div class="blocks">
+<div class="row stack"><div class="block"><img alt="" data-nw="752" decoding="async" height="234" loading="lazy" src="/images/yurisnight-752x440.jpg" width="400"/>
 </div></div>
 </div>
 <p>ПЕРВЫЙ пилотируемый космический полёт состоялся 12 апреля 1961 года. Это стало началом освоения космоса человеком. Первым космонавтом был Юрий Гагарин. Позднее он сказал:</p>
@@ -33,21 +33,21 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short">2016 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">9 АПРЕЛЯ</p></div>
 <div class="block"><p class="short"><strong>ЮРИЙ ГАГАРИН: 55 ЛЕТ ПОЛЁТА</strong></p></div>
 </div>
 </div>
 <p class="short">2015 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">5–6 АПРЕЛЯ</p></div>
 <div class="block"><p class="short">Вечеринка</p><a href="https://yurisnight.net/events/yuris-night-party-spaceapps-limassol/" rel="noopener noreferrer" target="_blank">«Ночь Юрия»</a></div>
 </div>
 </div>
 <p class="short">2014 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">12 АПРЕЛЯ</p></div>
 <div class="block"><ul>
 <li><strong>ДИСКО-НОЧЬ ЮРИЯ</strong></li>

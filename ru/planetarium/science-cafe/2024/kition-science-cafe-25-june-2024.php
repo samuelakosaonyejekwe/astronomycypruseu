@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p>#asteroidday @ad2024 #dinosaurs #asteroid #kpocyprus #science #astronomy #astrophysics #cafe #online #cyprus</p>
 <h2><img alt="" data-nw="960" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-25-june-2024.jpg" width="800"/></h2>
 <p class="short"><strong>ВТОРНИК, 25 ИЮНЯ 2024 ГОДА, ВРЕМЯ: 20:00 (UT+3)</strong></p>
@@ -29,11 +26,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>ПРИСОЕДИНЯЙТЕСЬ К НАМ ОНЛАЙН</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-
 <p>Узнайте о Международном дне астероида.</p>
 <p>Г-н Джордж Труллиас, директор ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН», является национальным координатором Кипра по Дню астероида. Он расскажет о важности защиты Земли от астероидов и об астероиде, погубившем динозавров!</p>
-
-
 <p>Г-н Алексис Пантелидес (палеонтолог) расскажет о вымерших видах динозавров.</p>
 <p class="short">Не пропустите эту очень содержательную презентацию.</p>
 <p class="short">Все встречи Science Café <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">бесплатны</a>, присоединиться может каждый.</p>
@@ -44,9 +38,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

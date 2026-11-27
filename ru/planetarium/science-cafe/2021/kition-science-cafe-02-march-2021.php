@@ -18,38 +18,27 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><a href="https://astronomycyprus.eu/gift-shop/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p></div><div class="block media"><p><img alt="" data-nw="1920" decoding="async" height="478" loading="lazy" src="/images/science-cafe/science-cafe-02-march-2021.jpg" width="850"/></p></div></div></div>
 
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
 <dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-
 <p class="short">2 МАРТА 2021</p>
 <p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ КИТИОНА</p>
 <p>19:00 «Глобальный электронный конкурс по астрономии и астрофизике» ОНЛАЙН НАУЧНОЕ КАФЕ</p>
 <p>С самого своего основания ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ КИТИОНА проводит научные кафе, на которых все присутствующие свободно обмениваются мнениями. </p>
-
 <p> В 2021 году оно проходит онлайн. С января посетители из разных частей планеты учувствуют в обсуждении наблюдений, последних новостей в астрономии и своих достижений. Эта мартовская встреча будет особенной.</p>
-
 <p>В прошлом году впервые в истории международная школьная олимпиада проходила виртуально.</p>
 <p>Команда Кипра укрепила свои позиции, соревнуясь со школьниками всех континентов по астрономии и астрофизике.</p>
 <p>Наш приглашённый докладчик Стелиос Сикаллидес и команда Кипра осветят эти невероятные соревнования, расскажут о своём участии и о том, чего ожидать талантливым школьникам Кипра в дальнейшем. </p>
-
 <p>Вход свободный.</p>
 <p class="short"> Присоединяйтесь к нашей космической прогулке!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
 <dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
 <p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
 <dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-
 <p class="short">ПОСЕТИТЕ НАШУ СТРАНИЦУ В FB...</p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/groups/kition</a></p>
-</div>
-</div>
-</div>
+
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приветствует Вас<br/> Присоединяйтесь к нашей космической прогулке</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->

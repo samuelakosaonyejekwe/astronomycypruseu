@@ -17,8 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><h2><strong>RADIO TELESCOPE</strong>S</h2>
+
 <p>The Observatory participates in the NASA RadioJove project.</p>
 <p>It conducts observations of Jupiter and the Sun in the radio range using a radio telescope with a dipole antenna.</p>
 <p> The data are sent to NASA. </p>
@@ -26,14 +25,10 @@ require SITE_ROOT . '/includes/header.php';
 <p>A new radiotelescope dish is under installation.</p>
 <h2>Public Access</h2>
 <p>The Radiotelescope tour includes the explanation of how the antenna works, examples of sounds of celestial bodies, recorded by our NASA Radio Jove project.</p>
-</div>
-</div>
 <div class="row">
 <div class="block media"><p><a href="/images/radiotelescope.jpg"><img alt="" data-nw="969" decoding="async" height="616" loading="lazy" src="/images/radiotelescope.jpg" width="969"/></a></p></div>
 </div>
-<div class="row">
-<div class="block"><strong><a href="/images/radiotelescope.jpg">Scientists who participated in the International conference CPT2017 (Cyprus) are haveing a guided tour to the antenna of the radiotelescope.</a></strong></div>
-</div>
+<strong><a href="/images/radiotelescope.jpg">Scientists who participated in the International conference CPT2017 (Cyprus) are haveing a guided tour to the antenna of the radiotelescope.</a></strong>
 </div>
 <p>It is possible to book a special, private, educational private event regarding the radiotelescope. <a href="/en/contact-us.php">Contact us </a>for further information. </p>
 </article>

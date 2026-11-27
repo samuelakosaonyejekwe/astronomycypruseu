@@ -16,25 +16,19 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-30-september-2025.jpg" width="960"/></p>
 <p class="short"><strong><strong>ONLINE SCIENCE CAFE</strong></strong></p>
 <p class="short"><strong>TUESDAY 30TH SEPTEMBER 2025 TIME:20:00 (UTC+3)</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Join Zoom Meeting</strong></a></p>
 <dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl>
-
 <h3><strong>20:00 WELCOMING BY THE DIRECTOR (MR. GEORGE TROULLIAS)</strong></h3>
 <p class="short"><strong>20:05 WORLD SPACE WEEK 2025 - LIVING IN SPACE</strong></p>
 <h3><strong>20:25 OCTOBER'S EVENTS</strong></h3>
 <p>"Living in Space" explores how humans survive, work and thrive beyond Earth. </p>
 <p>It includes life aboard orbiting space stations and plans for settlements on the Moon and Mars.</p>
 <p> It highlights groundbreaking advancements, from life support systems and space habitats  to research on human adaptability and resource utilization in extraterrestrial environments.</p>
-
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Join Zoom Meeting</strong></a></p>
 <dl class="specs"><dt><strong>Meeting ID</strong></dt><dd> 831 2336 2644</dd><dt><strong>Passcode</strong></dt><dd> kition</dd></dl>
-
 <p class="short"><strong>All meetings of Science Café sessions are <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">free</a> of charge and everyone can join. </strong></p>
 <p class="short"><strong>Codes and info for the meeting are published <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">here</a>.</strong></p>
 <p class="short"><strong><br/>
@@ -44,9 +38,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead"><strong>LINKS</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

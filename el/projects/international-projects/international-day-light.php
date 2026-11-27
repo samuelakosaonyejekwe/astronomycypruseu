@@ -17,10 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" decoding="async" height="217" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/IDL_logo.jpg" width="400"/></p><p class="short"><strong>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2026 - ΚΥΠΡΟΣ</strong></p></div></div></div></div><div class="block"><p class="short"><strong>#dayoflight2026 #LightDay2026 #IDL2026 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT</strong></p><p><img alt="" decoding="async" height="599" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-may-16-2026-instagram.jpg" width="600"/></p><p class="short"><a href="https://youtu.be/acelisSU6Nw?si=bsSS96iOpOLk1c-3" rel="noopener noreferrer" target="_blank" title="International Day of Light 16 May Official Video">ΕΠΙΣΗΜΟ ΒΙΝΤΕΟ ΤΡΕΪΛΕΡ</a></p></div></div></div>
-
-
-
-
 <p class="short"><strong>ΑΓΟΡΑΣΤΕ ΕΔΩ ΤΟ ΕΙΣΙΤΗΡΙΟ ΣΑΣ ΓΙΑ ΤΗ ΔΙΑΛΕΞΗ ΚΑΙ ΤΙΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ ΜΕ ΤΗΛΕΣΚΟΠΙΑ</strong></p>
 <p><strong>ΕΟΡΤΑΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ ΣΤΗΝ ΚΥΠΡΟ</strong></p>
 <p><strong>Η επίσημη εκδήλωση της Κύπρου θα πραγματοποιηθεί στις εγκαταστάσεις του ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ στο Κίτι</strong></p>
@@ -32,11 +28,9 @@ require SITE_ROOT . '/includes/header.php';
 <p>ΧΑΙΡΕΤΙΣΜΟΣ ΑΠΟ ΤΟΝ ΕΘΝΙΚΟ ΚΟΜΒΟ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗ ΔΙΕΘΝΗ ΗΜΕΡΑ ΦΩΤΟΣ ΤΗΣ UNESCO, ΓΙΩΡΓΟ ΤΡΟΥΛΛΙΑ (ΔΙΕΥΘΥΝΤΗ - ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ (ΚΥΠΡΟΣ)).</p>
 <p>ΕΥΑΙΣΘΗΤΟΠΟΙΗΣΗ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΟΒΟΥΛΙΑ ΓΙΑ ΤΗ ΣΥΝΕΧΙΖΟΜΕΝΗ ΕΚΤΙΜΗΣΗ ΤΟΥ ΦΩΤΟΣ ΚΑΙ ΤΟΥ ΡΟΛΟΥ ΠΟΥ ΔΙΑΔΡΑΜΑΤΙΖΕΙ ΣΤΗ ΖΩΗ.</p>
 <dl class="specs"><dt>ΤΕΧΝΟΛΟΓΙΕΣ ΒΑΣΙΣΜΕΝΕΣ ΣΤΟ ΦΩΣ</dt><dd> ΠΑΡΑΔΕΙΓΜΑΤΑ.</dd><dt>ΕΥΑΙΣΘΗΤΟΠΟΙΗΣΗ ΓΙΑ ΤΗ ΦΩΤΟΡΥΠΑΝΣΗ</dt><dd> ΕΠΙΠΤΩΣΕΙΣ ΣΤΟΝ ΠΛΑΝΗΤΗ ΚΑΙ ΤΡΟΠΟΙ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΝΥΧΤΕΡΙΝΟΥ ΟΥΡΑΝΟΥ.</dd></dl>
-
 <p class="short"><strong>ΑΓΟΡΑΣΤΕ ΕΔΩ ΤΑ ΕΙΣΙΤΗΡΙΑ ΣΑΣ</strong></p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p>Το <strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> είναι ο Εθνικός Κόμβος της Κύπρου για τη Διεθνή Ημέρα Φωτός της UNESCO.</p>
+
+<p>Το <strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong> είναι ο Εθνικός Κόμβος της Κύπρου για τη Διεθνή Ημέρα Φωτός της UNESCO.</p>
 <p>Η Διεθνής Ημέρα Φωτός είναι μια παγκόσμια πρωτοβουλία που προσφέρει ένα ετήσιο επίκεντρο για τη συνεχιζόμενη εκτίμηση του φωτός και του ρόλου που διαδραματίζει στην επιστήμη, τον πολιτισμό και την τέχνη, την εκπαίδευση και τη βιώσιμη ανάπτυξη, καθώς και σε τόσο διαφορετικούς τομείς όπως η ιατρική, οι επικοινωνίες και η ενέργεια. Το ευρύ θέμα του φωτός θα επιτρέψει σε πολλούς διαφορετικούς τομείς της κοινωνίας παγκοσμίως να συμμετάσχουν σε δραστηριότητες που καταδεικνύουν πώς η επιστήμη, η τεχνολογία, η τέχνη και ο πολιτισμός μπορούν να συμβάλουν στην επίτευξη των στόχων της UNESCO – εκπαίδευση, ισότητα και ειρήνη.</p>
 <p><img alt="" decoding="async" height="382" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-statistics.jpg" width="800"/></p>
 <p>Το <a href="http://www.light2015.org/" rel="noopener noreferrer" target="_blank">Διεθνές Έτος Φωτός και Τεχνολογιών Βασισμένων στο Φως 2015</a> (IYL 2015) ήταν μια εορτή των Ηνωμένων Εθνών που ευαισθητοποίησε τον κόσμο για τα επιτεύγματα της επιστήμης του φωτός και των εφαρμογών της, καθώς και για τη σημασία τους για την ανθρωπότητα. Υπό την ηγεσία της <a href="http://www.unesco.org/" rel="noopener noreferrer" target="_blank">UNESCO</a>, πραγματοποιήθηκαν περισσότερες από 13.000 δραστηριότητες σε 147 χώρες, φτάνοντας σε κοινό που εκτιμάται σε πάνω από 100 εκατομμύρια. Δείτε την Τελική Έκθεση του IYL 2015 για περισσότερες πληροφορίες.</p>
@@ -61,21 +55,12 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2020</a></p>
 <p class="lead short"><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
 <p class="short"><strong>ΣΕΛΙΔΑ ΣΤΟ FACEBOOK ΤΗΣ ΔΙΕΘΝΟΥΣ ΗΜΕΡΑΣ ΦΩΤΟΣ ΚΥΠΡΟΥ</strong> <a href="https://www.facebook.com/idlcy/" rel="noopener noreferrer" target="_blank" title="CYPRUS INTERNATIONAL DAY OF LIGHT FB PAGE">https://www.facebook.com/idlcy/</a></p>
-
 <p class="short"><strong>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ ΤΗΣ UNESCO</strong> <a href="https://www.lightday.org/" rel="noopener noreferrer" target="_blank" title="UNESCO IDL">https://www.lightday.org/</a></p>
-
 <p><strong>ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΦΩΤΟΣ</strong> <a href="https://www.lightday.org/events" rel="noopener noreferrer" target="_blank" title="IDL INTERNATIONAL EVENTS">https://www.lightday.org/events</a></p>
-
 <p><strong>ΣΕΛΙΔΑ ΣΤΟ FACEBOOK ΤΗΣ ΔΙΕΘΝΟΥΣ ΗΜΕΡΑΣ ΦΩΤΟΣ ΤΗΣ UNESCO</strong> <a href="https://www.facebook.com/InternationalDayOfLight" rel="noopener noreferrer" target="_blank">https://www.facebook.com/InternationalDayOfLight</a></p>
-
 <p><strong>ΣΕΛΙΔΑ ΣΤΟ INSTAGRAM ΤΗΣ ΔΙΕΘΝΟΥΣ ΗΜΕΡΑΣ ΦΩΤΟΣ ΤΗΣ UNESCO</strong> <a href="https://www.instagram.com/internationaldayoflight/" rel="noopener noreferrer" target="_blank">https://www.instagram.com/internationaldayoflight/</a></p>
-
 <p><strong>ΣΕΛΙΔΑ ΣΤΟ X (TWITTER) ΤΗΣ ΔΙΕΘΝΟΥΣ ΗΜΕΡΑΣ ΦΩΤΟΣ ΤΗΣ UNESCO</strong> <a href="https://www.twitter.com/IDLOfficial" rel="noopener noreferrer" target="_blank">http://www.twitter.com/IDLOfficial</a></p>
-
 <p><strong>ΣΕΛΙΔΑ ΣΤΟ LINKEDIN ΤΗΣ ΔΙΕΘΝΟΥΣ ΗΜΕΡΑΣ ΦΩΤΟΣ ΤΗΣ UNESCO</strong> <a href="https://www.linkedin.com/company/65806223/" rel="noopener noreferrer" target="_blank">https://www.linkedin.com/company/65806223/</a></p>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

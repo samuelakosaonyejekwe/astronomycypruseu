@@ -21,30 +21,17 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong> ΣΑΒΒΑΤΟ 21 ΟΚΤΩΒΡΙΟΥ 2023</strong></h2>
 <h2><strong>ΩΡΑ: 19:00 - 20:00</strong></h2>
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><h2>ΧΩΡΟΣ: ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</h2><p><img alt="" data-nw="720" decoding="async" height="405" loading="lazy" src="/images/inomn/observe-the-Moon-around-the-world-2023.gif" width="720"/></p></div><div class="block media"><p><img alt="" data-nw="2092" decoding="async" height="402" loading="lazy" src="/images/inomn/InOMN-cyprus-2023.jpg" width="800"/></p></div><div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="3600" decoding="async" height="600" loading="lazy" src="/images/inomn/ObserveMoonPoster.jpg" width="400"/></p><p>Η Διεθνής Νύχτα Παρατήρησης της Σελήνης είναι μια ευκαιρία να συναντηθούμε με άλλους λάτρεις της Σελήνης και περίεργους ανθρώπους σε όλο τον κόσμο.</p></div></div></div></div></div></div>
-
-
-
-
 <p>Όλοι οι κάτοικοι της Γης καλούνται να μάθουν για την επιστήμη και την εξερεύνηση της Σελήνης, να συμμετάσχουν σε ουράνιες παρατηρήσεις και να τιμήσουν τους πολιτισμικούς και προσωπικούς δεσμούς με τη Σελήνη. Σημειώστε ότι σας ενθαρρύνουμε να <a href="https://moon.nasa.gov/observe-the-moon-night/participate/10-ways-to-observe-the-moon/" rel="noopener noreferrer" target="_blank">ερμηνεύσετε το «παρατηρώ» με ευρεία έννοια</a>.</p>
-
 <p>Η Διεθνής Νύχτα Παρατήρησης της Σελήνης πραγματοποιείται κάθε χρόνο τον Σεπτέμβριο ή τον Οκτώβριο, όταν η Σελήνη βρίσκεται περίπου στο πρώτο τέταρτο ― μια εξαιρετική φάση για βραδινές παρατηρήσεις.</p>
-
 <p>Επιπλέον, η Σελήνη στο πρώτο τέταρτο προσφέρει εξαιρετικές δυνατότητες παρατήρησης κατά μήκος του τερματισμού (της γραμμής μεταξύ νύχτας και ημέρας), όπου οι σκιές αναδεικνύουν το κρατηρικό τοπίο της Σελήνης.</p>
-
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1041" decoding="async" height="314" loading="lazy" src="/images/apollo-16-s-ivb-impact-site-seen-by-lro.jpg" width="500"/></p></div><div class="block"><h2>Το LRO εντοπίζει το σημείο πρόσκρουσης του πυραύλου ώθησης του Apollo 16</h2><p>Μετά από δεκαετίες αβεβαιότητας, εντοπίστηκε στην επιφάνεια της Σελήνης το σημείο πρόσκρουσης του ανώτερου σταδίου πυραύλου του Apollo 16, χάρη στις εικόνες υψηλής ανάλυσης του Lunar Reconnaissance Orbiter της NASA.</p><p><em><strong>Πηγή εικόνας: NASA/Goddard/Arizona State University</strong></em></p></div></div></div>
-
-
-
-
 <p><img alt="" data-nw="1200" decoding="async" height="480" loading="lazy" src="/images/inomn/InOMN-2023.png" width="800"/></p>
 <p>Μπορείτε να συμμετάσχετε στη Διεθνή Νύχτα Παρατήρησης της Σελήνης από όπου κι αν βρίσκεστε.</p>
 <p><a href="https://moon.nasa.gov/observe-the-moon-night/participate/find-an-event/" rel="noopener noreferrer" target="_blank">Παρακολουθήστε</a> ή <a href="https://moon.nasa.gov/observe-the-moon-night/how-to-host/the-basics/" rel="noopener noreferrer" target="_blank">διοργανώστε</a> μια εικονική εκδήλωση ή εκδήλωση με φυσική παρουσία, ή παρατηρήστε τη Σελήνη από το <a href="https://moon.nasa.gov/observe-the-moon-night/register/individual-participation/" rel="noopener noreferrer" target="_blank">σπίτι</a>.</p>
 <p>Συνδεθείτε με άλλους λάτρεις της Σελήνης σε όλο τον κόσμο μέσω της σελίδας μας στο <a href="https://www.facebook.com/observethemoon/" rel="noopener noreferrer" target="_blank">Facebook</a>, με το #ObserveTheMoon στην πλατφόρμα κοινωνικής δικτύωσης της προτίμησής σας, και ελάτε στην ομάδα της Διεθνούς Νύχτας Παρατήρησης της Σελήνης στο <a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.flickr.com_groups_observethemoon2020_&amp;d=DwMGaQ&amp;c=ApwzowJNAKKw3xye91w7BE1XMRKi2LN9kiMk5Csz9Zk&amp;r=cGsIdn4wJJggONe0EmFAjOio4K-kEGG4nmXQvbgWea0&amp;m=i4mzp3bh7XwuCVVqQmbJtRvXcFiustQQxy18u-iaT44&amp;s=whbwnl6VfpCpNldVy1BnbXgNjmIrP-Ry-J_yBxgf7ZQ&amp;e=" rel="noopener noreferrer" target="_blank">Flickr</a>.</p>
-
 <p>Σε εξωτερικό χώρο, στο σπίτι, στο διαδίκτυο ή όπου αλλού βρίσκεστε, χαιρόμαστε που είστε μαζί μας.</p>
 <p>Όπως κι αν επιλέξετε να παρατηρήσετε, παρακαλούμε ακολουθήστε τις τοπικές οδηγίες υγείας και ασφάλειας.</p>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="730" decoding="async" height="730" loading="lazy" src="/images/inomn/moon.6999.jpg" width="730"/></p><h2>Στόχοι της Διεθνούς Νύχτας Παρατήρησης της Σελήνης:</h2></div></div></div>
-
 <ol>
 <li>
 <h2>1. Να ενώσει τους ανθρώπους σε όλο τον κόσμο σε μια γιορτή της παρατήρησης, της επιστήμης και της εξερεύνησης της Σελήνης.</h2>

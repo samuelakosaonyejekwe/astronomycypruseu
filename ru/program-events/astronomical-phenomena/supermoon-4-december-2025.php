@@ -17,9 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="table-wrap"><table>
-<div class="row">
-<div class="block"><p><strong>АНГЛИЙСКАЯ ПРОГРАММА<br/> Время: 19:00 (UTC+2)</strong></p> </div>
-</div>
+<p><strong>АНГЛИЙСКАЯ ПРОГРАММА<br/> Время: 19:00 (UTC+2)</strong></p>
 </table></div>
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/public-events/december-2025/supermoon-4-december-2025.jpg" width="960"/></p>
 <p class="short"><strong>КОМЕТА 3I/ATLAS И СУПЕРЛУНИЕ 4 ДЕКАБРЯ 2025 ГОДА</strong></p>
@@ -40,9 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>ТОЛЬКО ПО ПРЕДВАРИТЕЛЬНОЙ ЗАПИСИ</strong></p>
 <p class="short">Стоимость билета 10 евро. Количество мест ограничено, билеты продаются только онлайн.</p>
 <div class="table-wrap"><table>
-<div class="row">
-<div class="block"><p><strong>АНГЛИЙСКАЯ ПРОГРАММА<br/> Время: 19:00 (UTC+2)</strong></p></div>
-</div>
+<p><strong>АНГЛИЙСКАЯ ПРОГРАММА<br/> Время: 19:00 (UTC+2)</strong></p>
 </table></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

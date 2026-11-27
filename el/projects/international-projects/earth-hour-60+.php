@@ -29,10 +29,6 @@ require SITE_ROOT . '/includes/header.php';
 <h2>κάτι - οτιδήποτε - θετικό για τον πλανήτη μας.</h2>
 <h2>Πάνω από 385,284 άνθρωποι από 175 χώρες και εδάφη δεσμεύονται να προσφέρουν:</h2>
 <ul class="items"><li>33,627 ώρες Επανασύνδεσης με τον πλανήτη μας</li><li>26,147 ώρες Αποκατάστασης του πλανήτη μας</li><li>320,892 ώρες Εκμάθησης περισσότερων πραγμάτων για τον πλανήτη μας</li><li>1,555 ώρες Έμπνευσης άλλων να φροντίσουν τον πλανήτη μας</li><li>3,063 ώρες Αναζήτησης άλλων τρόπων να έχουμε αντίκτυπο</li></ul>
-
-
-
-
 </div>
 </div>
 </div>
@@ -46,36 +42,23 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p><strong>Η ΩΡΑ ΤΗΣ ΓΗΣ 60 2026 - ΕΟΡΤΑΣΜΟΙ ΣΤΗΝ ΚΥΠΡΟ ΑΠΟ ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong></p>
 <p>Φέτος το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ θα φιλοξενήσει μια εκδήλωση στις εγκαταστάσεις του στο Κίτι το <strong>Σάββατο 28 Μαρτίου, στις 20:00 ώρα Κύπρου</strong>.</p>
-
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1257" decoding="async" height="542" loading="lazy" src="/images/earth-hour-60%2B/earth-hour-60%2B.png" width="505"/></p></div><div class="block"><h2>ΠΡΟΓΡΑΜΜΑ ΕΚΔΗΛΩΣΗΣ: ΣΑΒΒΑΤΟ 28 ΜΑΡΤΙΟΥ 2026, ΩΡΑ: 20:00</h2><p class="short">ΧΑΙΡΕΤΙΣΜΟΣ ΑΠΟ ΤΟΝ ΔΙΕΥΘΥΝΤΗ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ, κ. ΓΙΩΡΓΟ ΤΡΟΥΛΛΙΑ.</p><p>«<strong>ΕΝΩΝΟΝΤΑΣ ΤΟΥΣ ΑΝΘΡΩΠΟΥΣ ΚΑΙ ΤΟΝ ΠΛΑΝΗΤΗ ΜΑΣ</strong>» (ΠΑΡΟΥΣΙΑΣΗ ΜΕ ΒΙΝΤΕΟ)</p><p>ΕΥΑΙΣΘΗΤΟΠΟΙΗΣΗ ΚΑΙ ΕΙΣΑΓΩΓΗ ΣΤΗΝ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΟΒΟΥΛΙΑ «Η ΩΡΑ ΤΗΣ ΓΗΣ 60» ΚΑΙ ΤΟΝ ΡΟΛΟ ΠΟΥ ΠΑΙΖΕΙ ΣΤΗ ΖΩΗ ΜΑΣ.</p><p>ΠΑΡΑΤΗΡΗΣΕΙΣ ΜΕ ΤΗΛΕΣΚΟΠΙΑ (ΕΦΟΣΟΝ ΤΟ ΕΠΙΤΡΕΠΟΥΝ ΟΙ ΚΑΙΡΙΚΕΣ ΣΥΝΘΗΚΕΣ)</p></div></div></div>
-
-
-
-
-
 <h3>*ΑΓΟΡΑΣΤΕ ΤΑ ΕΙΣΙΤΗΡΙΑ ΣΑΣ ΕΔΩ - ΤΑ ΕΙΣΙΤΗΡΙΑ ΔΙΑΤΙΘΕΝΤΑΙ ΜΟΝΟ ΔΙΑΔΙΚΤΥΑΚΑ*</h3>
 <p>
 <video controls="" preload="metadata"><source src="/images/earth-hour-60%2B/earth-hour-2023.mp4" type="video/mp4"/></video>
 </p>
-<h4>Από τις απαρχές της το 2007, η Ώρα της Γης είναι γνωστή για τη στιγμή του «σβησίματος των φώτων», όταν άνθρωποι σε όλο τον κόσμο σβήνουν τα</h4>
-<h4>φώτα τους για να δείξουν συμβολική στήριξη στον πλανήτη και να ευαισθητοποιήσουν για τα περιβαλλοντικά ζητήματα που τον απειλούν.</h4>
-<h4>Περισσότερα από 15 χρόνια μετά, βρισκόμαστε τώρα σε σημείο καμπής για τις κρίσεις του κλίματος και της φύσης, θέτοντας σε κίνδυνο την τύχη του μοναδικού μας σπιτιού και όλων των μελλοντικών μας.</h4>
-<h4>Βαδίζουμε προς την υπέρβαση, έως το 2030, του ορίου αύξησης της παγκόσμιας θερμοκρασίας κατά 1,5°C που έθεσε η Συμφωνία του Παρισιού για το Κλίμα, και η φύση - η πηγή</h4>
-<h4>της ίδιας μας της διαβίωσης και ένας από τους μεγαλύτερους συμμάχους μας απέναντι στην κλιματική κρίση - απειλείται επίσης σοβαρά,</h4>
+<p>Από τις απαρχές της το 2007, η Ώρα της Γης είναι γνωστή για τη στιγμή του «σβησίματος των φώτων», όταν άνθρωποι σε όλο τον κόσμο σβήνουν τα φώτα τους για να δείξουν συμβολική στήριξη στον πλανήτη και να ευαισθητοποιήσουν για τα περιβαλλοντικά ζητήματα που τον απειλούν.</p>
+<p>Περισσότερα από 15 χρόνια μετά, βρισκόμαστε τώρα σε σημείο καμπής για τις κρίσεις του κλίματος και της φύσης, θέτοντας σε κίνδυνο την τύχη του μοναδικού μας σπιτιού και όλων των μελλοντικών μας.</p>
+<p>Βαδίζουμε προς την υπέρβαση, έως το 2030, του ορίου αύξησης της παγκόσμιας θερμοκρασίας κατά 1,5°C που έθεσε η Συμφωνία του Παρισιού για το Κλίμα, και η φύση - η πηγή της ίδιας μας της διαβίωσης και ένας από τους μεγαλύτερους συμμάχους μας απέναντι στην κλιματική κρίση - απειλείται επίσης σοβαρά,</p>
 <h4>αντιμετωπίζοντας ανησυχητικούς και πρωτοφανείς ρυθμούς απώλειας παγκοσμίως.</h4>
-<h4>Τα επόμενα 7 χρόνια είναι επομένως κρίσιμα για όλο το μέλλον μας - πρέπει να παραμείνουμε κάτω από το κλιματικό όριο του 1,5°C ώστε να αποφύγουμε μη αναστρέψιμες ζημιές στον πλανήτη μας,</h4>
-<h4>και πρέπει να αναστρέψουμε την απώλεια της φύσης έως το 2030, κλείνοντας τη δεκαετία με περισσότερη φύση και βιοποικιλότητα από ό,τι ξεκινήσαμε, όχι λιγότερη.</h4>
-<h4>Για να γίνει αυτό, άτομα, κοινότητες, επιχειρήσεις και κυβερνήσεις πρέπει όλοι να εντείνουν επειγόντως τις προσπάθειές τους για την προστασία και αποκατάσταση του μοναδικού μας σπιτιού.</h4>
-<h4>Έχοντας κατά νου τον στόχο του 2030, πρέπει κι εμείς να κάνουμε περισσότερα. Έτσι φέτος δίνουμε νέα πνοή στην Ώρα της Γης - στη μάρκα μας, στο έργο μας, στο μήνυμά μας</h4>
-<h4>και στην αποστολή μας - δημιουργώντας τη Μεγαλύτερη Ώρα για τη Γη. Πώς; Καλώντας τους υποστηρικτές μας σε όλο τον κόσμο να σβήσουν τα φώτα τους</h4>
+<p>Τα επόμενα 7 χρόνια είναι επομένως κρίσιμα για όλο το μέλλον μας - πρέπει να παραμείνουμε κάτω από το κλιματικό όριο του 1,5°C ώστε να αποφύγουμε μη αναστρέψιμες ζημιές στον πλανήτη μας, και πρέπει να αναστρέψουμε την απώλεια της φύσης έως το 2030, κλείνοντας τη δεκαετία με περισσότερη φύση και βιοποικιλότητα από ό,τι ξεκινήσαμε, όχι λιγότερη.</p>
+<p>Για να γίνει αυτό, άτομα, κοινότητες, επιχειρήσεις και κυβερνήσεις πρέπει όλοι να εντείνουν επειγόντως τις προσπάθειές τους για την προστασία και αποκατάσταση του μοναδικού μας σπιτιού.</p>
+<p>Έχοντας κατά νου τον στόχο του 2030, πρέπει κι εμείς να κάνουμε περισσότερα. Έτσι φέτος δίνουμε νέα πνοή στην Ώρα της Γης - στη μάρκα μας, στο έργο μας, στο μήνυμά μας και στην αποστολή μας - δημιουργώντας τη Μεγαλύτερη Ώρα για τη Γη. Πώς; Καλώντας τους υποστηρικτές μας σε όλο τον κόσμο να σβήσουν τα φώτα τους</p>
 <h4>και να χαρίσουν μια ώρα για τη Γη, περνώντας 60 λεπτά κάνοντας κάτι - οτιδήποτε - θετικό για τον πλανήτη μας.</h4>
-<h4>Με παρουσία σε πάνω από 190 χώρες και εδάφη, μπορούμε να χρησιμοποιήσουμε τη δύναμη των ανθρώπων για να μετατρέψουμε μία μόνο Ώρα της Γης</h4>
-<h4>σε χιλιάδες και εκατομμύρια ώρες δράσης και ευαισθητοποίησης, δημιουργώντας ένα φαινόμενο ντόμινο αντικτύπου που συνεχίζεται πολύ πέρα από τα 60 λεπτά.</h4>
-<h4>Μέσα σε κοινωνίες που διαιρούνται και πολώνονται όλο και περισσότερο, η Μεγαλύτερη Ώρα για τη Γη γίνεται μια πολύτιμη στιγμή ενότητας,</h4>
-<h4>υπενθυμίζοντας στον κόσμο ότι το κοινό μας σπίτι χρειάζεται τη βοήθειά μας και ότι όλοι μπορούμε - και πρέπει - να παίξουμε τον ρόλο μας στην προστασία του.</h4>
+<p>Με παρουσία σε πάνω από 190 χώρες και εδάφη, μπορούμε να χρησιμοποιήσουμε τη δύναμη των ανθρώπων για να μετατρέψουμε μία μόνο Ώρα της Γης σε χιλιάδες και εκατομμύρια ώρες δράσης και ευαισθητοποίησης, δημιουργώντας ένα φαινόμενο ντόμινο αντικτύπου που συνεχίζεται πολύ πέρα από τα 60 λεπτά.</p>
+<p>Μέσα σε κοινωνίες που διαιρούνται και πολώνονται όλο και περισσότερο, η Μεγαλύτερη Ώρα για τη Γη γίνεται μια πολύτιμη στιγμή ενότητας, υπενθυμίζοντας στον κόσμο ότι το κοινό μας σπίτι χρειάζεται τη βοήθειά μας και ότι όλοι μπορούμε - και πρέπει - να παίξουμε τον ρόλο μας στην προστασία του.</p>
 <div class="blocks">
-<div class="row">
-<div class="block"><p><strong>Η ΙΣΤΟΡΙΑ ΠΙΣΩ ΑΠΟ ΤΗΝ ΩΡΑ ΤΗΣ ΓΗΣ 60+</strong></p>
+<p><strong>Η ΙΣΤΟΡΙΑ ΠΙΣΩ ΑΠΟ ΤΗΝ ΩΡΑ ΤΗΣ ΓΗΣ 60+</strong></p>
 <p>Ξεκίνησε από τον WWF και συνεργάτες ως μια συμβολική εκδήλωση σβησίματος των φώτων στο Σίδνεϊ το 2007· η Ώρα της Γης είναι σήμερα ένα από τα μεγαλύτερα λαϊκά κινήματα του κόσμου για το περιβάλλον. Διεξάγεται κάθε χρόνο το τελευταίο Σάββατο του Μαρτίου και εμπλέκει εκατομμύρια ανθρώπους σε περισσότερες από 180 χώρες και εδάφη, οι οποίοι σβήνουν τα φώτα τους για να δείξουν τη στήριξή τους στον πλανήτη μας.</p>
 <p>Όμως η Ώρα της Γης ξεπερνά κατά πολύ τη συμβολική πράξη του σβησίματος - έχει γίνει καταλύτης για θετικό περιβαλλοντικό αντίκτυπο, οδηγώντας σε σημαντικές νομοθετικές αλλαγές αξιοποιώντας τη δύναμη των ανθρώπων και τη συλλογική δράση.</p>
 <p>Η Ώρα της Γης είναι ανοιχτού κώδικα και καλωσορίζουμε τον καθένα να συμμετάσχει και να βοηθήσει να ενισχυθεί η αποστολή μας να ενώσουμε τους ανθρώπους για την προστασία του πλανήτη μας.</p>
@@ -90,7 +73,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong><strong> ΠΑΡΕΛΘΟΥΣΕΣ ΕΚΔΗΛΩΣΕΙΣ ΤΗΣ ΩΡΑΣ ΤΗΣ ΓΗΣ 60 ΣΤΗΝ ΚΥΠΡΟ </strong></strong></p>
 <p class="short"><strong>2026</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">ΣΑΒ 28 ΜΑΡΤΙΟΥ 20:00</p>
 </div>
@@ -103,7 +86,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2025</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">ΣΑΒ 29 ΜΑΡΤΙΟΥ 20:15</p>
 </div>
@@ -115,7 +98,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2024</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">ΣΑΒ 30 ΜΑΡΤΙΟΥ 20:15</p>
 </div>
@@ -127,7 +110,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2023</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">ΣΑΒ 25 ΜΑΡΤΙΟΥ 20:15</p>
 </div>
@@ -139,7 +122,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2022</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">ΣΑΒ 26 ΜΑΡΤΙΟΥ 20:30</p>
 </div>
@@ -150,7 +133,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2021</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block">
 <p class="short">ΣΑΒ 27 ΜΑΡΤΙΟΥ 20:30</p>
 </div>
@@ -162,7 +145,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2020</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+ 2020</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -172,7 +155,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2019</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -182,7 +165,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2018</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -192,7 +175,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2017</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -202,7 +185,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2016</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -212,7 +195,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2015</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -222,7 +205,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2014</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -232,7 +215,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2013</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -242,7 +225,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2012</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -252,7 +235,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2011</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -262,7 +245,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2010</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -272,7 +255,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2009</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -282,7 +265,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p class="short"><strong>2008</strong></p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">ΜΑΡΤΙΟΥ 19:00</p></div>
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+</p>
 <p class="short">ΕΚΔΗΛΩΣΗ ΣΤΙΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
@@ -291,22 +274,14 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί να συμμετάσχετε στις εκδηλώσεις για την ΩΡΑ ΤΗΣ ΓΗΣ 60+</p>
-
 <p>Αν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short">Η ΩΡΑ ΤΗΣ ΓΗΣ 60+ <a href="https://www.earthhour.org/" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/</a></p>
-
 <p class="short">ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΩΡΑ ΤΗΣ ΓΗΣ 60+ <a href="https://www.earthhour.org/take-part/events" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/take-part/events</a></p>
-
 <p class="short">ΣΕΛΙΔΑ FACEBOOK ΤΗΣ ΩΡΑΣ ΤΗΣ ΓΗΣ <a href="https://www.facebook.com/earthhour/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/earthhour/</a></p>
-
 <p class="short">ΣΕΛΙΔΑ INSTAGRAM ΤΗΣ ΩΡΑΣ ΤΗΣ ΓΗΣ <a href="https://www.instagram.com/earthhourofficial/" rel="noopener noreferrer" target="_blank">https://www.instagram.com/earthhourofficial/</a></p>
-
 <p class="short">ΣΕΛΙΔΑ TWITTER ΤΗΣ ΩΡΑΣ ΤΗΣ ΓΗΣ <a href="https://twitter.com/earthhour" rel="noopener noreferrer" target="_blank">https://twitter.com/earthhour</a></p>
-
 <p class="short">ΣΕΛΙΔΑ YOUTUBE ΤΗΣ ΩΡΑΣ ΤΗΣ ΓΗΣ <a href="https://www.youtube.com/channel/UCyhQYJYlOGyUHhQLHlpNb8g" rel="noopener noreferrer" target="_blank">https://www.youtube.com/channel/UCyhQYJYlOGyUHhQLHlpNb8g</a></p>
-</div>
-</div>
 </div>
 <h2>Ελάτε στον διαστημικό μας περίπατο</h2>
 </article>

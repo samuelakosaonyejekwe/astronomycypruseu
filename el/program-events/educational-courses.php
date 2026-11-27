@@ -17,8 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><h2>ΕΚΠΑΙΔΕΥΤΙΚΑ ΜΑΘΗΜΑΤΑ ΚΑΙ ΑΛΛΑ...</h2>
+<h2>ΕΚΠΑΙΔΕΥΤΙΚΑ ΜΑΘΗΜΑΤΑ ΚΑΙ ΑΛΛΑ...</h2>
 <h2>ΣΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</h2>
 <h2>(ΒΡΑΔΙΝΑ ΚΑΙ ΠΡΩΙΝΑ ΜΑΘΗΜΑΤΑ)</h2>
 <p>Αν ενδιαφέρεστε να μάθετε περισσότερα για τον ουρανό, πώς να τον παρατηρείτε, πώς να επιλέξετε το πρώτο σας τηλεσκόπιο και πώς να το χρησιμοποιείτε, μπορείτε να παρακολουθήσετε το κατάλληλο μάθημα που προσφέρει το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ.</p>
@@ -30,109 +29,35 @@ require SITE_ROOT . '/includes/header.php';
 <p><a class="doc-link" href="/docs/cancellation_policy_special_events.pdf" rel="noopener" target="_blank" title="Cancellation Policy">Πολιτική ακύρωσης</a> <strong>(Παρακαλούμε διαβάστε την πριν από την εγγραφή)</strong></p>
 <p>Για αυτές τις εκδηλώσεις διατίθενται «Δωροεπιταγές». Επικοινωνήστε μαζί μας για να αγοράσετε τις «Δωροεπιταγές» σας. Υπάρχει πρόσθετη χρέωση μόλις €5 (ταχυδρομικά και συσκευασία) και θα λάβετε μια δωροκάρτα με την αγορά σας.</p>
 <div class="blocks">
-<div class="row">
-<div class="block"><h2>ΠΕΡΙΓΡΑΦΗ ΤΩΝ ΜΑΘΗΜΑΤΩΝ</h2>
-<h2>(Επιλέξτε ένα μάθημα και εγγραφείτε διαδικτυακά ή τηλεφωνικά)</h2></div>
-</div>
-<div class="row">
-<div class="block"><h2>ΘΕΡΙΝΟ ΣΧΟΛΕΙΟ</h2>
+<h2>ΠΕΡΙΓΡΑΦΗ ΤΩΝ ΜΑΘΗΜΑΤΩΝ</h2>
+<h2>(Επιλέξτε ένα μάθημα και εγγραφείτε διαδικτυακά ή τηλεφωνικά)</h2>
+<h2>ΘΕΡΙΝΟ ΣΧΟΛΕΙΟ</h2>
 <h2>(Προγράμματα διαθέσιμα από τον Ιούνιο έως τον Αύγουστο)</h2>
-</div>
-</div>
 <div class="row stack"><div class="block"><a href="/el/program-events/educational-courses/summer-school.php"><img alt="Summer School" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" title="Summer School" width="266"/></a><a href="/el/program-events/educational-courses/summer-school.php" title="Summer School">Θερινό Σχολείο</a></div></div>
-<div class="row">
-<div class="block">
 <h2>ΔΗΜΟΤΙΚΟ ΣΧΟΛΕΙΟ</h2>
-</div>
-</div>
 <div class="row gallery captioned tiles"><div class="block"><a href="/el/program-events/educational-courses/wonderful-planets.php"><img alt="" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/wonderful-planets/wonderful-planets.jpg" title="Wonderful Planets" width="266"/></a><a href="/el/program-events/educational-courses/wonderful-planets.php" title="Wonderful Planets">Θαυμάσιοι πλανήτες</a></div><div class="block"><a href="/el/program-events/educational-courses/life-on-planets.php"><img alt="" data-nw="1920" decoding="async" height="150" loading="lazy" src="/docs/educational-courses/life-on-planets/life-on-planets.jpg" title="Life on Planets" width="266"/></a><p class="short"><a href="/el/program-events/educational-courses/life-on-planets.php" title="Life on Planets">Ζωή στους πλανήτες</a></p></div></div>
-
-<div class="row">
-<div class="block">
 <h2>ΓΥΜΝΑΣΙΟ</h2>
-</div>
-</div>
 <div class="row gallery captioned tiles"><div class="block"><a href="/el/program-events/educational-courses/planetary-code.php"><img alt="Planetary Code" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/planetary-code/planetary-code-poster.jpg" title="Planetary Code" width="266"/></a><a href="/el/program-events/educational-courses/planetary-code.php" title="Planetary Code">Πλανητικός κώδικας</a></div><div class="block"><a href="/el/program-events/educational-courses/incredible-least-squares.php"><img alt="Incredible Least Squares" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/incredible-least-squares/increadible-least-squares-poster.jpg" title="Incredible Least Squares" width="266"/></a><a href="/el/program-events/educational-courses/incredible-least-squares.php" title="Incredible Least Squares">Απίστευτα ελάχιστα τετράγωνα</a></div><div class="block"><a href="/el/program-events/educational-courses/mathematical-induction-quest.php"><img alt="Mathematical Induction Quest" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/mathematical-induction-quest/mathematical-induction-quest.jpg" title="Mathematical Induction Quest" width="266"/></a><a href="/el/program-events/educational-courses/mathematical-induction-quest.php" title="Mathematical Induction Quest">Η αναζήτηση της μαθηματικής επαγωγής</a></div></div>
-
-
-<div class="row">
-<div class="block">
 <h2>ΛΥΚΕΙΟ</h2>
-</div>
-</div>
 <div class="row gallery captioned tiles"><div class="block"><a href="/el/program-events/educational-courses/programming-in-astronomy.php"><img alt="Programming in Astronomy" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/programming-in-astronomy/programming-in-astronomy-poster.jpg" title="Programming in Astronomy" width="266"/></a><p class="short"><a href="/el/program-events/educational-courses/programming-in-astronomy.php" title="Programming in Astronomy">Προγραμματισμός στην Αστρονομία</a></p></div><div class="block"><a href="/el/program-events/educational-courses/incredible-least-squares.php"><img alt="Incredible Least Squares" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/incredible-least-squares/increadible-least-squares-poster.jpg" title="Incredible Least Squares" width="266"/></a><a href="/el/program-events/educational-courses/incredible-least-squares.php" title="Incredible Least Squares">Απίστευτα ελάχιστα τετράγωνα</a></div><div class="block"><a href="/el/program-events/educational-courses/wonders-of-spherical-astronomy.php"><img alt="" data-nw="1920" decoding="async" height="150" loading="lazy" src="/docs/educational-courses/wonders-of-spherical-astronomy/wonders-of-spherical-astronomy.jpg" title="Wonders of Spherical Astronomy" width="266"/></a><a href="/el/program-events/educational-courses/wonders-of-spherical-astronomy.php" title="Wonders of Spherical Astronomy">Θαύματα της σφαιρικής αστρονομίας</a></div><div class="block"><a href="/el/program-events/educational-courses/mathematical-induction-quest.php"><img alt="Mathematical Induction Quest" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/mathematical-induction-quest/mathematical-induction-quest.jpg" title="Mathematical Induction Quest" width="266"/></a><a href="/el/program-events/educational-courses/mathematical-induction-quest.php" title="Mathematical Induction Quest">Η αναζήτηση της μαθηματικής επαγωγής</a></div></div>
-
-
-
-<div class="row">
-<div class="block"><h2>ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ</h2>
+<h2>ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ</h2>
 <h2>(ΕΤΗΣΙΑ ΜΑΘΗΜΑΤΑ - Από τον Οκτώβριο έως τον Ιούνιο)</h2>
-</div>
-</div>
 <div class="row gallery captioned tiles"><div class="block"><a href="/el/program-events/educational-courses/kition-astronomy-academy.php"><img alt="" data-nw="769" decoding="async" height="149" loading="lazy" src="/images/AstronomylAcademySummerEn.jpg" title="KITION ASTRONOMY ACADEMY" width="266"/></a><a href="/el/program-events/educational-courses/kition-astronomy-academy.php" title="Kition Astronomy Academy">Ακαδημία Αστρονομίας Κίτιον</a></div><div class="block"><a href="/el/program-events/educational-courses/amazing-astronomy.php"><img alt="" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/amazing-astronomy/amazing-astronomy.jpg" title="Amazing Astronomy" width="266"/></a><a href="/el/program-events/educational-courses/amazing-astronomy.php" title="Amazing Astronomy">Εκπληκτική αστρονομία</a></div><div class="block"><a href="/el/program-events/educational-courses/the-worlds-of-astronomy.php"><img alt="" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy.jpg" title="The Worlds of Astronomy" width="266"/></a><a href="/el/program-events/educational-courses/the-worlds-of-astronomy.php" title="The Worlds of Astronomy">Οι κόσμοι της αστρονομίας</a></div><div class="block"><a href="/el/program-events/educational-courses/astronomy-principles.php"><img alt="" data-nw="1920" decoding="async" height="150" loading="lazy" src="/images/educational-courses/astronomy-principles/astronomy-principles.jpg" title="Astronomy Principles" width="266"/></a><a href="/el/program-events/educational-courses/astronomy-principles.php" title="Astronomy Principles"> Αρχές αστρονομίας</a></div></div>
-
-
-
-<div class="row">
-<div class="block"><h2>ΜΗΝΙΑΙΑ ΜΑΘΗΜΑΤΑ</h2>
+<h2>ΜΗΝΙΑΙΑ ΜΑΘΗΜΑΤΑ</h2>
 <h2>(Μαθήματα 4 εβδομάδων)</h2>
-</div>
-</div>
 <div class="row gallery captioned tiles"><div class="block"><a href="/el/program-events/educational-courses/read-the-sky.php"><img alt="" data-nw="1280" decoding="async" height="151" loading="lazy" src="/docs/read-the-sky/Read-The-Sky.jpg" title="Read The Sky Course" width="269"/></a><a href="/el/program-events/educational-courses/read-the-sky.php" title="Read The Sky Course">Διαβάστε τον ουρανό</a></div><div class="block"><a href="/el/program-events/educational-courses/the-sky-is-alive.php"><img alt="" data-nw="960" decoding="async" height="151" loading="lazy" src="/docs/the-sky-is-alive/SkyIsAlivePoster_FullText.jpg" title="The Sky is Alive" width="269"/></a><a href="/el/program-events/educational-courses/the-sky-is-alive.php" title="The sky is Alive Course">Ο ουρανός είναι ζωντανός</a></div></div>
-
-<div class="row">
-<div class="block"><h2>ΜΟΝΟΗΜΕΡΑ ΜΑΘΗΜΑΤΑ ΚΑΙ ΕΡΓΑΣΤΗΡΙΑ</h2>
+<h2>ΜΟΝΟΗΜΕΡΑ ΜΑΘΗΜΑΤΑ ΚΑΙ ΕΡΓΑΣΤΗΡΙΑ</h2>
 <h2>(Ανακοινώνονται κατά περιόδους ή διατίθενται κατόπιν αιτήματος)</h2>
-</div>
-</div>
 <div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Οικογενειακή εισαγωγή στην αστρονομία</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Εισαγωγή στο Ηλιακό Σύστημα</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ήλιος - Το άστρο της ημέρας</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ο σχηματισμός της Κύπρου: Εισαγωγή στη γεωλογία, πρώτα σημάδια ζωής και ενδημικά είδη</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Φωτογραφία νυχτερινού ουρανού</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Παρακολούθηση του ISS και των δορυφόρων - Σε πραγματικό χρόνο και με κάμερα</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">NASA Radio Jove: Εισαγωγή στη ραδιοαστρονομία</p></div></div>
-
-
-
-
-
-
-<div class="row">
-<div class="block"><h2>ΕΡΓΑΣΤΗΡΙΑ ΣΑΒΒΑΤΟΠΡΩΙΝΟΥ ΓΙΑ ΠΑΙΔΙΑ</h2>
+<h2>ΕΡΓΑΣΤΗΡΙΑ ΣΑΒΒΑΤΟΠΡΩΙΝΟΥ ΓΙΑ ΠΑΙΔΙΑ</h2>
 <h2>(Ανακοινώνονται κατά περιόδους ή διατίθενται κατόπιν αιτήματος)</h2>
-</div>
-</div>
 <div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Αστρονομία για προσωπική ανάπτυξη</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ήλιος - Παρατηρώντας το άστρο μας</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Απολιθώματα</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Παιδική AstroArt</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ο κύκλος του νερού</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Βιολογία: Πειράματα με πλανάριες στο μικροσκόπιο</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Μετεωρίτες</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ηφαίστεια</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Επιστήμη των πυραύλων</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Δορυφόροι</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ρομποτική</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ο Μηχανισμός των Αντικυθήρων</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Τα κάστρα της Κύπρου</p></div></div>
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="row">
-<div class="block"><p class="short">ΙΔΙΩΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ (Διαθέσιμες κατόπιν αιτήματος)</p>
-</div>
-</div>
+<p class="short">ΙΔΙΩΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ (Διαθέσιμες κατόπιν αιτήματος)</p>
 <div class="row gallery captioned"><div class="block"><a href="/el/program-events/educational-courses/my-first-telescope.php"><img alt="" data-nw="1440" decoding="async" height="146" loading="lazy" src="/images/educational-courses/my-first-telescope/my-first-telescope.jpg" width="259"/></a><a href="/el/program-events/educational-courses/my-first-telescope.php" title="MY FIRST TELESCOPE">Το πρώτο μου τηλεσκόπιο</a></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ήλιος - Το άστρο της ημέρας</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Μαύρες τρύπες στο Σύμπαν</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Μυστήρια της Σελήνης</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ο σχηματισμός της Κύπρου: Εισαγωγή στη γεωλογία, πρώτα σημάδια ζωής και ενδημικά είδη</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ο Μηχανισμός των Αντικυθήρων</p></div></div>
-
-
-
-
-
-<div class="row">
-<div class="block"><p class="short">ΜΑΘΗΜΑΤΑ ΓΙΑ ΕΞΑΙΡΕΤΙΚΟΥΣ ΜΑΘΗΤΕΣ (Διαθέσιμα κατόπιν αιτήματος)</p>
-</div>
-</div>
+<p class="short">ΜΑΘΗΜΑΤΑ ΓΙΑ ΕΞΑΙΡΕΤΙΚΟΥΣ ΜΑΘΗΤΕΣ (Διαθέσιμα κατόπιν αιτήματος)</p>
 <div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ολυμπιάδα Αστρονομίας και Αστροφυσικής</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Ολυμπιάδα Μαθηματικών</p></div></div>
-
-<div class="row">
-<div class="block"><p class="short">ΕΙΔΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΕΙΔΙΚΕΣ ΟΜΑΔΕΣ (Διαθέσιμες κατόπιν αιτήματος)</p>
-</div>
-</div>
+<p class="short">ΕΙΔΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΕΙΔΙΚΕΣ ΟΜΑΔΕΣ (Διαθέσιμες κατόπιν αιτήματος)</p>
 <div class="row gallery captioned"><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">A4BD - Αστρονομία για τυφλούς και άτομα με αναπηρία</p></div><div class="block"><img alt="" data-nw="266" decoding="async" height="150" loading="lazy" src="/images/coursesimg/sample.jpg" width="266"/><p class="short">Αστρονομία για τον αυτισμό</p></div></div>
-
-</div></div>
 </div>
 </div>
 </article>

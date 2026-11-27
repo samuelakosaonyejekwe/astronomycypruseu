@@ -19,10 +19,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p><a href="https://astronomycyprus.eu/gift-shop/index.php/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="223" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="1000"/></a></p><h2>ONLINE EDUCATIONAL PROGRAMS</h2></div><div class="block media"><p><img alt="" data-nw="1920" decoding="async" height="506" loading="lazy" src="/images/educational-courses/wonders-of-spherical-astronomy/wonders-of-spherical-astronomy.jpg" title="Wonders of Spherical Astronomy" width="900"/>
 </p></div></div></div>
 
-
-<div class="blocks">
-<div class="row">
-<div class="block"><p>Dear friend/member/amateur astronomer, </p>
+<p>Dear friend/member/amateur astronomer, </p>
 <p>We would like to inform you about our online summer sessions WONDERS OF SPHERICAL ASTRONOMY specifically prepared for Lyceum students.</p>
 <p>The course consists of 4 sessions. It discusses the amazing differences of spherical geometry with that of plane geometry.</p>
 <p> Participants will gain skills to deal with this difference and solve practical tasks.</p>
@@ -38,20 +35,15 @@ require SITE_ROOT . '/includes/header.php';
 <p>Join our spacewalk…</p>
 <p class="short">Best regards, </p>
 <h3><em>George Troullias </em></h3>
-<p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p></div>
-</div>
-</div>
+<p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p>
+
 <div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/wonders-of-spherical-astronomy/wonders-of-spherical-astronomy-en.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Download the proposed program in ENGLISH (PDF)</a></p><p class="short"><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank" title="wonders of spherical astronomy">Download the proposed program in RUSSIAN (PDF)</a></p></div>
 
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="lead short">IMPORTANT NOTE:</p>
+<p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
-<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p></div>
-</div>
-</div>
+<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

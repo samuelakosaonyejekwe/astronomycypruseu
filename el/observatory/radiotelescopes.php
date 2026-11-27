@@ -17,8 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><h2><strong>ΡΑΔΙΟΤΗΛΕΣΚΟΠΙΑ</strong></h2>
+<h2><strong>ΡΑΔΙΟΤΗΛΕΣΚΟΠΙΑ</strong></h2>
 <p>Το Αστεροσκοπείο συμμετέχει στο πρόγραμμα RadioJove της NASA.</p>
 <p>Διεξάγει παρατηρήσεις του Δία και του Ήλιου στην περιοχή των ραδιοκυμάτων, χρησιμοποιώντας ένα ραδιοτηλεσκόπιο με διπολική κεραία.</p>
 <p>Τα δεδομένα αποστέλλονται στη NASA.</p>
@@ -26,14 +25,10 @@ require SITE_ROOT . '/includes/header.php';
 <p>Ένα νέο πιάτο ραδιοτηλεσκοπίου βρίσκεται υπό εγκατάσταση.</p>
 <h2>Πρόσβαση του Κοινού</h2>
 <p>Η ξενάγηση στο Ραδιοτηλεσκόπιο περιλαμβάνει την εξήγηση του τρόπου λειτουργίας της κεραίας και παραδείγματα ήχων ουράνιων σωμάτων, που έχουν καταγραφεί από το πρόγραμμα NASA Radio Jove.</p>
-</div>
-</div>
 <div class="row">
 <div class="block media"><p><a href="/images/radiotelescope.jpg"><img alt="" data-nw="969" decoding="async" height="616" loading="lazy" src="/images/radiotelescope.jpg" width="969"/></a></p></div>
 </div>
-<div class="row">
-<div class="block"><strong><a href="/images/radiotelescope.jpg">Επιστήμονες που συμμετείχαν στο Διεθνές συνέδριο CPT2017 (Κύπρος) ξεναγούνται στην κεραία του ραδιοτηλεσκοπίου.</a></strong></div>
-</div>
+<strong><a href="/images/radiotelescope.jpg">Επιστήμονες που συμμετείχαν στο Διεθνές συνέδριο CPT2017 (Κύπρος) ξεναγούνται στην κεραία του ραδιοτηλεσκοπίου.</a></strong>
 </div>
 <p>Είναι δυνατή η κράτηση ειδικής, ιδιωτικής, εκπαιδευτικής εκδήλωσης σχετικά με το ραδιοτηλεσκόπιο. <a href="/el/contact-us.php">Επικοινωνήστε μαζί μας </a>για περισσότερες πληροφορίες.</p>
 </article>

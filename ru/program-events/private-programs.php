@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'program-events/private-programs',
     'title'       => 'Приватные программы',
-    'description' => 'Приватные программы (до 10 человек на сеанс) Политика «Только по предварительной записи» Билет на мероприятие: 150 евро КУПИТЬ СЕЙЧАС Для бронирования приватных программ для более чем 10 человек или…',
+    'description' => 'Для бронирования приватных программ для более чем 10 человек или любых других частных мероприятий, пожалуйста, свяжитесь с нами',
     'image'       => '/images/private-event-call-99991111.jpg',
     'translated'  => true,
 ];
@@ -16,7 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<h2>ПРИВАТНЫЕ ПРОГРАММЫ</h2>
 <p><img alt="" data-nw="1440" decoding="async" height="810" loading="lazy" src="/images/private-event-call-99991111.jpg" width="1440"/>
 </p>
 <h2><strong>ПРИВАТНЫЕ ПРОГРАММЫ</strong></h2>
@@ -25,21 +24,17 @@ require SITE_ROOT . '/includes/header.php';
 <h3><strong>Наша обсерватория отправит Вас в путешествие по Вселенной с помощью больших профессиональных телескопов.</strong></h3>
 <ul class="link-list"><li><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Скачать предлагаемую программу на АНГЛИЙСКОМ (PDF)</strong></a></li><li><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></strong></li></ul>
 
-<div class="blocks">
 <h2><em>Приватные программы (до 10 человек на сеанс)</em></h2>
 <h2><em>Политика «Только по предварительной записи»</em></h2>
 <h2><em>Билет на мероприятие: 150 евро <a href="https://astronomycyprus.eu/gift-shop/index.php/product/private-programs/" rel="noopener noreferrer" target="_blank">КУПИТЬ СЕЙЧАС</a></em></h2>
-<h4><strong><em>Для бронирования приватных программ для более чем 10 человек или любых других частных мероприятий, пожалуйста, свяжитесь с нами</em></strong></h4>
-</div>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="lead short"><strong>ВАЖНОЕ ПРИМЕЧАНИЕ:</strong></p>
+<p><strong><em>Для бронирования приватных программ для более чем 10 человек или любых других частных мероприятий, пожалуйста, свяжитесь с нами</em></strong></p>
+
+
+<p class="lead short"><strong>ВАЖНОЕ ПРИМЕЧАНИЕ:</strong></p>
 <p>Мы работаем по политике «<strong>Только по предварительной записи»</strong>.</p>
 <p>Необходимо записаться заранее по телефону (+357) 99991111 (на английском языке) или (+357) 99037440 (на русском языке).</p>
 <p>Если Вы ищете особые или индивидуальные программы или услуги для себя, своих друзей или своей группы, не стесняйтесь <a href="/ru/contact-us.php">обращаться к нам</a>.</p>
-<p>Нажмите здесь, чтобы <a href="/ru/contact-us.php">найти нас</a>.</p></div>
-</div>
-</div>
+<p>Нажмите здесь, чтобы <a href="/ru/contact-us.php">найти нас</a>.</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

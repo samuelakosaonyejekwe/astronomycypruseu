@@ -16,15 +16,11 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-24-june-2025.jpg" width="960"/></p>
 <p class="short"><strong><strong>ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</strong></strong></p>
 <p class="short"><strong>ΤΡΙΤΗ 24 ΙΟΥΝΙΟΥ 2025 ΩΡΑ: 20:00 (UTC+3)</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p>
 <dl class="specs"><dt><strong>Αναγνωριστικό συνάντησης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>
-
 <p class="short"><strong>20:00 ΚΑΛΩΣΟΡΙΣΜΑ ΑΠΟ ΤΟΝ ΔΙΕΥΘΥΝΤΗ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ, ΔΙΕΥΘΥΝΤΗΣ)</strong></p>
 <p class="short"><strong>20:05 ΑΝΑΚΑΛΥΨΕΙΣ ΑΣΤΕΡΟΕΙΔΩΝ ΑΠΟ ΤΟ ΚΙΤΙΟΝ (ΑΛΕΞΑΝΤΡ ΠΡΟΚΟΦΙΕΦ, ΑΣΤΡΟΦΥΣΙΚΟΣ)</strong></p>
 <p class="short"><strong>ΜΑΘΕΤΕ ΓΙΑ ΤΙΣ 9 ΤΕΛΕΥΤΑΙΕΣ ΠΡΟΣΩΡΙΝΕΣ ΑΝΑΚΑΛΥΨΕΙΣ ΑΣΤΕΡΟΕΙΔΩΝ</strong></p>
@@ -33,12 +29,8 @@ require SITE_ROOT . '/includes/header.php';
 <p><strong>ΤΙΣ ΟΙΚΟΓΕΝΕΙΕΣ ΑΣΤΕΡΟΕΙΔΩΝ ΚΑΙ ΣΕ ΠΟΙΑ ΑΠΟ ΑΥΤΕΣ ΑΝΗΚΟΥΝ ΟΙ ΔΙΚΕΣ ΜΑΣ ΑΝΑΚΑΛΥΨΕΙΣ ΑΣΤΕΡΟΕΙΔΩΝ.</strong></p>
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p>
 <dl class="specs"><dt><strong>Αναγνωριστικό συνάντησης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>
-
 <p><strong>Οι Καμπάνιες Αναζήτησης Αστεροειδών βοηθούν τους επιστήμονες</strong> <strong>να ανακαλύπτουν νέους αστεροειδείς </strong> <strong>και να τους παρακολουθούν και ενδεχομένως να αποτρέπουν ανεπιθύμητες συγκρούσεις με τη Γη</strong> <strong>αλλά και να μελετούν τη σύστασή τους και την καταγωγή του Ηλιακού μας Συστήματος.</strong></p>
-
-
 <p>Η Διεθνής Ημέρα Αστεροειδών, στις 30 Ιουνίου, τιμά τη μνήμη της πρόσκρουσης της Τουνγκούσκα, γνωστής και ως γεγονότος της Τουνγκούσκα, που συνέβη το 1908.</p>
-
 <p>Την ημέρα εκείνη σημειώθηκε μεγάλη έκρηξη στον ουρανό πάνω από τον ποταμό Ποντκαμενάγια Τουνγκούσκα στη Σιβηρία της Ρωσίας.</p>
 <p>Κατέστρεψε περίπου 2.000 τετραγωνικά χιλιόμετρα δάσους στην περιοχή, ισοπεδώνοντας περίπου 80 εκατομμύρια δέντρα.</p>
 <p>Θεωρείται ότι υπεύθυνος για την έκρηξη ήταν ένας αστεροειδής ή ένας κομήτης.</p>
@@ -50,9 +42,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead"><strong>ΣΥΝΔΕΣΜΟΙ</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

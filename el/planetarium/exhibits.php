@@ -17,8 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><h2><strong>Εκθέσεις</strong></h2>
+
 <h2>Γεωλογία και Απολιθώματα</h2>
 <h3>Γεωλογία και Απολιθώματα της Κύπρου</h3>
 <p>Η έκθεση αυτή είναι αφιερωμένη στη φυσική ιστορία της Κύπρου.</p>
@@ -52,13 +51,6 @@ require SITE_ROOT . '/includes/header.php';
 <h3>Πύραυλος</h3>
 <p class="short">Βγάλτε φωτογραφίες με το μοντέλο πυραύλου μας.</p>
 <div class="blocks"><div class="row split"><div class="block media"><p><strong><img alt="" data-nw="600" decoding="async" height="399" loading="lazy" src="/images/exhibition.jpg" width="600"/></strong></p></div><div class="block"><p class="lead short">Σημειώσεις:</p><ul class="items"><li>Ορισμένα θέματα των <a href="/el/program-events/educational-courses.php">εκπαιδευτικών προγραμμάτων</a> και του <a href="/el/program-events/educational-courses/summer-school.php">θερινού σχολείου </a>πραγματοποιούνται στις εκθέσεις.</li><li>Οι εθελοντές είναι ευπρόσδεκτοι να ταξινομήσουν και να εργαστούν με τα εκθέματα.</li><li>Ειδικά εκπαιδευτικά και ψυχαγωγικά προγράμματα (ιδιωτικά ή για οργανωμένες ομάδες) διατίθενται κατόπιν αιτήματος.</li><li>Αναζητήστε τη «Νύχτα στο Μουσείο» μας.</li></ul><p>Κλείστε τη διοργάνωσή σας καλώντας στο τηλ.: +357 99991111 ή <a href="mailto:planetarium@cytanet.com.cy">επικοινωνήστε μαζί μας </a>μέσω email για περισσότερες πληροφορίες.</p></div></div></div>
-
-
-
-
-
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

@@ -18,9 +18,6 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h2><strong><a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ</a></strong></h2>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="2680" decoding="async" height="257" loading="lazy" src="/images/wsw/World%20Space%20Week%20Cyprus%201.png" width="200"/></p><h2>#WSW2027 #WSW2026 #WorldSpaceWeek #RocketRevolution #kpocyprus</h2><h2><em><strong>Το θέμα της Παγκόσμιας Εβδομάδας Διαστήματος 2027</strong> θα ανακοινωθεί σύντομα...</em></h2><h3><a class="doc-link" href="/docs/press-release/press-release-wsw2026-cyprus.pdf" rel="noopener" target="_blank">ΔΕΛΤΙΟ ΤΥΠΟΥ WSW2026 (Πατήστε εδώ...)</a></h3></div></div></div>
-
-
-
 <h2><strong>Η Παγκόσμια Εβδομάδα Διαστήματος 2026 του ΟΗΕ εορτάστηκε με επιτυχία στην Κύπρο.</strong></h2>
 <h2><strong>Το θέμα ήταν </strong>«Επανάσταση των Πυραύλων».</h2>
 <h2>Οι εκδηλώσεις σχεδιάστηκαν για να προβάλουν τη σημασία της επιστήμης των πυραύλων,</h2>
@@ -31,9 +28,8 @@ require SITE_ROOT . '/includes/header.php';
 <p><em>Ο ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ, κ. ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ,</em></p>
 <p><em>ΠΑΡΕΥΡΕΘΗΚΕ ΣΧΕΔΟΝ ΣΕ ΟΛΕΣ ΤΙΣ ΕΚΔΗΛΩΣΕΙΣ, ΕΝΗΜΕΡΩΝΟΝΤΑΣ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΟΒΟΥΛΙΑ </em></p>
 <p><em>ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΩΝ ΗΝΩΜΕΝΩΝ ΕΘΝΩΝ</em> <em>ΚΑΙ ΜΙΛΗΣΕ ΓΙΑ ΤΗΝ «<strong>ΕΠΑΝΑΣΤΑΣΗ ΤΩΝ ΠΥΡΑΥΛΩΝ</strong>».</em></p>
-<div class="blocks">
-<div class="row">
-<div class="block"><h3>Κάθε χρόνο, η Ένωση της Παγκόσμιας Εβδομάδας Διαστήματος (WSWA) επιλέγει ένα θέμα για την επερχόμενη Παγκόσμια Εβδομάδα Διαστήματος (WSW), ώστε να δώσει κεντρικό άξονα στις δραστηριότητες και τις εκδηλώσεις που πραγματοποιούνται σε όλο τον κόσμο στις 4-10 Οκτωβρίου.</h3>
+
+<h3>Κάθε χρόνο, η Ένωση της Παγκόσμιας Εβδομάδας Διαστήματος (WSWA) επιλέγει ένα θέμα για την επερχόμενη Παγκόσμια Εβδομάδα Διαστήματος (WSW), ώστε να δώσει κεντρικό άξονα στις δραστηριότητες και τις εκδηλώσεις που πραγματοποιούνται σε όλο τον κόσμο στις 4-10 Οκτωβρίου.</h3>
 <h2><strong>Επανάσταση των Πυραύλων – Θέμα της Παγκόσμιας Εβδομάδας Διαστήματος 2026</strong></h2>
 <p>Κάθε χρόνο, η Ένωση της Παγκόσμιας Εβδομάδας Διαστήματος (WSWA) επιλέγει ένα θέμα που αντανακλά μια καθοριστική στιγμή στη σχέση της ανθρωπότητας με το διάστημα. Για την Παγκόσμια Εβδομάδα Διαστήματος 2026, που εορτάζεται παγκοσμίως από τις 4 έως τις 10 Οκτωβρίου, το θέμα είναι «Επανάσταση των Πυραύλων».</p>
 <p>Η Επανάσταση των Πυραύλων εστιάζει στον ραγδαίο μετασχηματισμό των διαστημικών εκτοξεύσεων. Η πρόσβαση στο διάστημα, που κάποτε περιοριζόταν σε λίγα κρατικά προγράμματα, διευρύνεται πλέον μέσω εμπορικών παρόχων εκτοξεύσεων, επαναχρησιμοποιήσιμων πυραύλων, πανεπιστημιακών ομάδων, νεοφυών επιχειρήσεων και νέων εθνικών διαστημικών φορέων. Η αλλαγή αυτή μεταβάλλει το ποιος μπορεί να φτάσει στο διάστημα, πόσο συχνά πραγματοποιούνται εκτοξεύσεις και σε τι χρησιμοποιείται το διάστημα.</p>
@@ -66,29 +62,13 @@ require SITE_ROOT . '/includes/header.php';
 <li>Να ενθουσιάσει τους νέους με την επιστήμη, την τεχνολογία, τη μηχανική και τα μαθηματικά</li>
 <li>Να προάγει τη διεθνή συνεργασία στην ενημέρωση και την εκπαίδευση για το διάστημα</li>
 </ul>
-<h2>Ποιοι είναι οι στόχοι της Παγκόσμιας Εβδομάδας Διαστήματος;</h2>
 <ul class="items"><li>Να προσφέρει μοναδικό μοχλό στην ενημέρωση και την εκπαίδευση για το διάστημα</li><li>Να ενημερώσει τους ανθρώπους σε όλο τον κόσμο για τα οφέλη που αποκομίζουν από το διάστημα</li><li>Να ενθαρρύνει τη μεγαλύτερη αξιοποίηση του διαστήματος για τη βιώσιμη οικονομική ανάπτυξη</li><li>Να καταδείξει τη δημόσια στήριξη στα διαστημικά προγράμματα</li><li>Να ενθουσιάσει τους νέους με την επιστήμη, την τεχνολογία, τη μηχανική και τα μαθηματικά</li><li>Να προάγει τη διεθνή συνεργασία στην ενημέρωση και την εκπαίδευση για το διάστημα</li></ul>
-
-
-
-
-
 <p>Εάν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να τηλεφωνήσετε στο +357 9999 1111.</p>
 <p class="lead"><strong>ΣΥΝΔΕΣΜΟΙ:</strong></p>
 <p><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
-
 <p><strong>ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ ΤΟΥ ΟΗΕ</strong> https://www.worldspaceweek.org/nation/Cyprus/</p>
-
 <h2><strong>Παγκόσμια Εβδομάδα Διαστήματος (βάση δεδομένων προηγούμενων ετών)</strong></h2>
 <div class="link-row"><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2026.php">WSW 2026</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2025.php">WSW 2025</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2024.php">WSW 2024</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2023.php">WSW 2023</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2022.php">WSW 2022</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021">WSW 2021</a></strong></p><p class="short"><strong><a href="/el/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">WSW 2020</a></strong></p></div>
-
-
-
-
-
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

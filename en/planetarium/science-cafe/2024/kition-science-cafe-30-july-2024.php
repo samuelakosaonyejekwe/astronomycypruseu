@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p>#meteors @kpocyprus #persides #kpocyprus #science #astronomy #paleontology #cafe #online #cyprus</p>
 <h2><img alt="" data-nw="2000" decoding="async" height="456" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-30-july-2024.jpg" width="800"/></h2>
 <p class="short"><strong>TUESDAY 30TH JULY 2024, TIME: 20:00 (UT+3)</strong></p>
@@ -29,13 +26,11 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>JOIN US ON ONLINE</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-
 <p class="short">Learn about the Perseids Meteor Shower 2024 and how to observe it. </p>
 <p class="short">Find out about our 2 public events related to the meteor showers.</p>
 <p class="short">Join our team for scientific observations of the meteor shower.</p>
 <p>Ms. Stavoulla Vassileiou (Paleontologist) will talk about the Natural History of Cyprus.</p>
 <p>Learn about the Geological Evolution of Cyprus, the Significance of Cyprus in Geology,  the Prehistoric Mammals of Cyprus, the Endemic Species of Cyprus and more... </p>
-
 <p>Don't miss this unique presentation.</p>
 <p class="short"><a href="https://www.facebook.com/vassilioustavroula" rel="noopener noreferrer" target="_blank">Stavroulla Vassileiou</a></p>
 <p class="short"><a class="doc-link" href="/docs/science-cafe/curriculum-vitae-stavroulla-vasileiou-2024.pdf" rel="noopener" target="_blank" title="Curriculum Vitae">Curriculum Vitae</a></p>
@@ -50,9 +45,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

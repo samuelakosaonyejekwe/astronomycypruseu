@@ -19,10 +19,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p><a href="https://astronomycyprus.eu/gift-shop/index.php/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="223" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="1000"/></a></p><h2>ОНЛАЙН ОБРАЗОВАТЕЛЬНЫЕ ПРОГРАММЫ</h2></div><div class="block media"><p><img alt="" data-nw="1920" decoding="async" height="506" loading="lazy" src="/images/educational-courses/planetary-code/planetary-code-poster.jpg" width="900"/>
 </p></div></div></div>
 
-
-<div class="blocks">
-<div class="row">
-<div class="block"><p>Уважаемые члены и друзья ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»,</p>
+<p>Уважаемые члены и друзья ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»,</p>
 <p>Мы хотим сообщить Вам о наших онлайн-занятиях этим летом «ПЛАНЕТАРНЫЙ КОД», специально подготовленных для гимназистов.</p>
 <p>Эти четыре занятия призваны привить привычку использовать языки программирования для решения различных задач.</p>
 <p>Учебные задачи подчёркивают важность единиц измерения и развивают навыки работы с разными единицами.</p>
@@ -39,20 +36,15 @@ require SITE_ROOT . '/includes/header.php';
 <p>Присоединяйтесь к нашей космической прогулке…</p>
 <p class="short">С наилучшими пожеланиями,</p>
 <h3><em>Георгиос Труллиас </em></h3>
-<p class="short">Директор ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p></div>
-</div>
-</div>
+<p class="short">Директор ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
+
 <ul class="link-list"><li><a class="doc-link" href="/docs/educational-courses/planetary-code/planetary-code.pdf" rel="noopener" target="_blank" title="planetary code">Скачайте предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/planetary-code/planetary-code-ru.pdf" rel="noopener" target="_blank" title="planetary code">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></li></ul>
 
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="lead short">ВАЖНОЕ ЗАМЕЧАНИЕ:</p>
+<p class="lead short">ВАЖНОЕ ЗАМЕЧАНИЕ:</p>
 <p>Действует «политика приёма только по предварительной записи».</p>
 <p>Необходима предварительная запись по телефону (+357) 99991111 (для англоговорящих) или (+357) 99037440 (для русскоговорящих).</p>
 <p>Если Вы ищете особые или индивидуальные программы либо услуги для себя, своих друзей или своей группы, свяжитесь с нами: <a href="/ru/contact-us.php">Связаться с нами</a>.</p>
-<p>Нажмите здесь, чтобы <a href="/ru/contact-us.php"> найти нас</a>.</p></div>
-</div>
-</div>
+<p>Нажмите здесь, чтобы <a href="/ru/contact-us.php"> найти нас</a>.</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

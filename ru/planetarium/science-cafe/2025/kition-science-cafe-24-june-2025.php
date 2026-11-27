@@ -16,15 +16,11 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-24-june-2025.jpg" width="960"/></p>
 <p class="short"><strong><strong>ОНЛАЙН SCIENCE CAFÉ</strong></strong></p>
 <p class="short"><strong>ВТОРНИК, 24 ИЮНЯ 2025 ГОДА, ВРЕМЯ: 20:00 (UTC+3)</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p>
 <dl class="specs"><dt><strong>ID встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl>
-
 <p class="short"><strong>20:00 ПРИВЕТСТВЕННОЕ СЛОВО ДИРЕКТОРА (ДЖОРДЖ ТРУЛЛИАС, ДИРЕКТОР)</strong></p>
 <p class="short"><strong>20:05 ОТКРЫТИЯ АСТЕРОИДОВ, СДЕЛАННЫЕ «КИТИОНОМ» (АЛЕКСАНДР ПРОКОФЬЕВ, АСТРОФИЗИК)</strong></p>
 <p class="short"><strong>УЗНАЙТЕ О 9 ПОСЛЕДНИХ ПРЕДВАРИТЕЛЬНЫХ ОТКРЫТИЯХ АСТЕРОИДОВ,</strong></p>
@@ -33,12 +29,8 @@ require SITE_ROOT . '/includes/header.php';
 <p><strong>СЕМЕЙСТВАХ АСТЕРОИДОВ И О ТОМ, К КАКИМ ИЗ ЭТИХ СЕМЕЙСТВ ПРИНАДЛЕЖАТ НАШИ ОТКРЫТИЯ АСТЕРОИДОВ.</strong></p>
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p>
 <dl class="specs"><dt><strong>ID встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl>
-
 <p><strong>Кампании по поиску астероидов помогают учёным</strong> <strong>открывать новые астероиды </strong> <strong>и отслеживать их, возможно, предотвращая нежелательные столкновения с Землёй,</strong> <strong>а также изучать их состав и происхождение нашей Солнечной системы.</strong></p>
-
-
 <p>Международный день астероида, 30 июня, отмечается в память о Тунгусском событии, произошедшем в 1908 году.</p>
-
 <p>В тот день над рекой Подкаменная Тунгуска в Сибири, Россия, в небе произошёл мощный взрыв.</p>
 <p>Он уничтожил около 2000 квадратных километров леса в этом районе, повалив около 80 миллионов деревьев.</p>
 <p>Считается, что причиной взрыва стал астероид или комета.</p>
@@ -50,9 +42,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead"><strong>ССЫЛКИ</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

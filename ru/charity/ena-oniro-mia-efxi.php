@@ -16,13 +16,7 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block"></div>
-<div class="block"><p class="short">P.A.S.Y.K.A.F.</p>
-</div>
-</div>
-</div>
+<p class="short">P.A.S.Y.K.A.F.</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

@@ -17,22 +17,11 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block"><div class="blocks">
-<div class="row">
-<div class="block">
-<h2><strong>НАУЧНЫЕ ПУБЛИКАЦИИ</strong></h2>
-</div>
-</div>
-<div class="row">
-<div class="block"><h3>СТАТЬИ - ДОКЛАДЫ - ВЫСТУПЛЕНИЯ НА КОНФЕРЕНЦИЯХ</h3></div>
-</div>
-<div class="row">
-<div class="block">
+<div class="blocks">
+
+<h3>СТАТЬИ - ДОКЛАДЫ - ВЫСТУПЛЕНИЯ НА КОНФЕРЕНЦИЯХ</h3>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» публикует <strong>НАУЧНЫЕ СТАТЬИ</strong>, связанные с исследованиями, которые проводит его команда в научном центре.</p>
 <p>Его команда ДЕЛАЕТ <strong>НАУЧНЫЕ ДОКЛАДЫ</strong> и участвует в <strong>КОНФЕРЕНЦИЯХ</strong> на Кипре и за рубежом.</p>
-</div>
-</div>
 <div class="block"><h2>СТАТЬИ</h2></div>
 <div class="row split">
 <div class="block media"><img alt="" data-nw="437" decoding="async" height="485" loading="lazy" src="/images/scientific-publications/papers/Solar-Eclipses-in-the-Cult-of-St-George.jpg" width="340"/></div>
@@ -42,11 +31,6 @@ require SITE_ROOT . '/includes/header.php';
 <h4>CPT 2017 - Ларнака, Кипр, 9 мая 2017 г.</h4>
 <div class="link-row"><p class="short"><a href="/docs/scientific-publications/papers/CPT2017.pdf" rel="noopener" target="_blank" title="CPT2017 - ISBN 978-5-88835-049-2">CPT2017 - ISBN 978-5-88835-049-2</a></p></div>
 <div class="blocks"><div class="row split"><div class="block media"><p><a class="doc-link" href="/docs/scientific-publications/papers/CPT2017.pdf" rel="noopener" target="_blank"><img alt="" data-nw="424" decoding="async" height="300" loading="lazy" src="/images/scientific-publications/papers/CPT2017.jpg" width="210"/></a></p></div><div class="block"><p>АННОТАЦИЯ: В данной работе по археоастрономии показано, что культ святого Георгия обладает многими чертами описания солнечного затмения. Рассматривается, что этот культ представляет собой трансформацию основного мифа о борьбе бога Солнца со змеем.</p><p>Айман М. Ибрахем (Aymen M. Ibrahem) доказал, что наблюдения полных солнечных затмений описывались этим мифом. На основе литературных источников, а также иконографического материала различных христианских культурных традиций показано, что, несмотря на длинную цепочку трансформаций: бог Солнца → бог-громовержец → святой Георгий, в культе святого Георгия были представлены многие черты мировоззрения, которые можно объяснить только содержанием солнечных затмений.</p><p>Это исследование основано на изучении солнечных затмений в мировоззрении и культуре индоевропейцев. Оно было опубликовано в работе «Солнечные затмения в мировоззрении славян», в которой рассматривались методы изучения древнего культурного наследия.</p><p class="lead">ССЫЛКИ:</p><p class="short"><a href="https://www.academia.edu/66724070/Solar_Eclipses_in_the_Cult_of_St_George" rel="noopener noreferrer" target="_blank" title="ACADEMIA.EDU">ACADEMIA.EDU</a></p></div></div></div>
-
-
-
-
-
 </div>
 </div>
 <div class="row split">
@@ -55,10 +39,6 @@ require SITE_ROOT . '/includes/header.php';
 <h4><a href="https://ieeexplore.ieee.org/abstract/document/8420124" rel="noopener noreferrer" target="_blank" title="Kition Planetarium and Observatory (Cyprus) in International Research Programs Concerning NEOs">Планетарий и обсерватория «Китион» (Кипр) в</a></h4>
 <h4><a href="https://www.academia.edu/66032142/Kition_Planetarium_and_Observatory_Cyprus_in_International_Research_Programs_Concerning_NEOs" rel="noopener noreferrer" target="_blank" title="Kition Planetarium and Observatory (Cyprus) in"> Международных исследовательских программах по околоземным объектам (NEO)</a></h4>
 <dl class="specs"><dt><strong>Опубликовано в</strong></dt><dd> <a href="https://ieeexplore.ieee.org/xpl/conhome/8419341/proceeding" rel="noopener noreferrer" target="_blank" title="2018 International Conference on Engineering Technologies and Computer Science (EnT)">2018 International Conference on Engineering Technologies and Computer Science (EnT)</a></dd><dt><strong>Дата конференции</strong></dt><dd> 20-21 March 2018</dd><dt><strong>Дата добавления в IEEE <em>Xplore</em></strong></dt><dd> 26 July 2018</dd><dt><strong>Номер доступа INSPEC</strong></dt><dd> 17957062</dd><dt><strong>DOI</strong></dt><dd> <a href="https://doi.org/10.1109/EnT.2018.00028" rel="noopener noreferrer" target="_blank" title="DOI 10.1109/EnT.2018.00028">10.1109/EnT.2018.00028</a></dd></dl>
-
-
-
-
 <h4>Издатель: IEEE</h4>
 <h4><strong>Место проведения конференции: </strong>Москва, Россия</h4>
 <h4>Информация об ISBN:</h4>
@@ -91,7 +71,6 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block media"><a class="doc-link" href="/images/scientific-publications/conference-presentations/UCLAN.pdf" rel="noopener" target="_blank"><img alt="POSTER: DISC DYNAMICS &amp; PLANET FORMATION " data-nw="7014" decoding="async" height="481" loading="lazy" src="/images/discs2015poster.jpg" title="DISC DYNAMICS &amp; PLANET FORMATION " width="340"/></a></div>
 <div class="block">
 <div class="link-row"><p class="short"><a href="http://www.star.uclan.ac.uk/discs2015/Home.html" rel="noopener noreferrer" target="_blank" title="DISC DYNAMICS &amp; PLANET FORMATION">ДИНАМИКА ДИСКОВ И ОБРАЗОВАНИЕ ПЛАНЕТ </a></p><p class="short"><a href="http://www.star.uclan.ac.uk/discs2015/Home.html" rel="noopener noreferrer" target="_blank">МЕЖДУНАРОДНАЯ АСТРОФИЗИЧЕСКАЯ КОНФЕРЕНЦИЯ</a></p></div>
-
 <h4>(ЧЛЕН ОРГАНИЗАЦИОННОГО КОМИТЕТА)</h4>
 <p>Конференция «Динамика дисков и образование планет», 29/6-3/7, в кампусе UCLan Cyprus</p>
 <p>Связь между звездообразованием, протозвёздными дисками и планетными системами несомненна, но путь от звёзд к планетам остаётся весьма неопределённым. Недавние открытия с помощью космических телескопов (Spitzer, CoRoT, Kepler) и наземных установок (VLT, Gemini, ALMA) придали новый импульс поиску экзопланетных систем и изучению свойств их родительских дисков.</p>
@@ -122,16 +101,9 @@ require SITE_ROOT . '/includes/header.php';
 <h4>23 окт. 2013 г., Киев, Украина</h4>
 <h4><a class="doc-link" href="/docs/scientific-publications/conference-presentations/meteor-conference-2013-10-23.pdf" rel="noopener" target="_blank">Программа</a></h4>
 </div></div>
-
-
-<div class="row">
-<div class="block">
 <h2>ДОКЛАДЫ</h2>
-</div>
-</div>
 <div class="row stack"><div class="block"><img alt="" data-nw="7014" decoding="async" height="99" loading="lazy" src="/images/discs2015poster.jpg" width="70"/>
 <h4>НАЗВАНИЕ</h4>
-</div></div>
 </div></div>
 </div>
 </div>

@@ -19,10 +19,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p><a href="https://astronomycyprus.eu/gift-shop/index.php/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="223" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="1000"/></a></p><h2>ONLINE EDUCATIONAL PROGRAMS</h2></div><div class="block media"><p><img alt="" data-nw="1920" decoding="async" height="506" loading="lazy" src="/images/educational-courses/planetary-code/planetary-code-poster.jpg" width="900"/>
 </p></div></div></div>
 
-
-<div class="blocks">
-<div class="row">
-<div class="block"><p>Dear members and friends of the KITION PLANETARIUM &amp; OBSERVATORY,</p>
+<p>Dear members and friends of the KITION PLANETARIUM &amp; OBSERVATORY,</p>
 <p>We would like to inform you about our online summer sessions PLANETARY CODE specifically prepared for Gymnasium students.</p>
 <p>These four sessions are designed to inculcate habit of usage programming languages in solving different tasks.</p>
 <p> The educational tasks emphasize the importance of units of measurements and develop skills in using different units.</p>
@@ -39,20 +36,15 @@ require SITE_ROOT . '/includes/header.php';
 <p>Join our spacewalk…</p>
 <p class="short">Best regards, </p>
 <h3><em>George Troullias </em></h3>
-<p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p></div>
-</div>
-</div>
+<p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p>
+
 <div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/planetary-code/planetary-code.pdf" rel="noopener" target="_blank" title="planetary code">Download the proposed program in ENGLISH (PDF)</a></p><p class="short"><a class="doc-link" href="/docs/educational-courses/planetary-code/planetary-code-ru.pdf" rel="noopener" target="_blank" title="planetary code">Download the proposed program in RUSSIAN (PDF)</a></p></div>
 
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="lead short">IMPORTANT NOTE:</p>
+<p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
-<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p></div>
-</div>
-</div>
+<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

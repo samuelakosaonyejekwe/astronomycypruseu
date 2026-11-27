@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-27-may-2025.jpg" width="960"/></p>
 <p class="short"><strong><strong>ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</strong></strong></p>
 <p class="short"><strong>ΤΡΙΤΗ 27 ΜΑΪΟΥ 2025 ΩΡΑ: 20:00 (UTC+3)</strong></p>
@@ -27,14 +24,9 @@ require SITE_ROOT . '/includes/header.php';
 <p><strong> 20:25 ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ, ΕΘΝΙΚΟΣ ΣΥΝΤΟΝΙΣΤΗΣ ΚΥΠΡΟΥ ΓΙΑ ΤΗΝ ΗΜΕΡΑ ΑΣΤΕΡΟΕΙΔΩΝ)</strong></p>
 <p><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p>
 <dl class="specs"><dt><strong>Αναγνωριστικό συνάντησης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>
-
 <p>Η «Σύγχρονη Διαστημική Εποχή» αναφέρεται στην τρέχουσα και εξελισσόμενη φάση της διαστημικής εξερεύνησης και αξιοποίησης, που χαρακτηρίζεται από αυξημένη συμμετοχή του ιδιωτικού τομέα, μειωμένο κόστος εκτοξεύσεων και ευρύτερο φάσμα διαστημικών δραστηριοτήτων. Η εποχή αυτή σημειώνει άνοδο του διαστημικού τουρισμού, των εμπορικών αστερισμών δορυφόρων και της εξερεύνησης εξωγήινων πόρων.</p>
-
-
-
 <p>Αναδεικνύει επίσης την ανάγκη για ισχυρή διεθνή διακυβέρνηση, ώστε να διασφαλίζεται υπεύθυνη και βιώσιμη συμπεριφορά στο διάστημα.</p>
 <p>Η Διεθνής Ημέρα Αστεροειδών, στις 30 Ιουνίου, τιμά τη μνήμη της πρόσκρουσης της Τουνγκούσκα, γνωστής και ως γεγονότος της Τουνγκούσκα, που συνέβη το 1908.</p>
-
 <p>Την ημέρα εκείνη σημειώθηκε μεγάλη έκρηξη στον ουρανό πάνω από τον ποταμό Ποντκαμενάγια Τουνγκούσκα στη Σιβηρία της Ρωσίας.</p>
 <p>Κατέστρεψε περίπου 2.000 τετραγωνικά χιλιόμετρα δάσους στην περιοχή, ισοπεδώνοντας περίπου 80 εκατομμύρια δέντρα.</p>
 <p>Θεωρείται ότι υπεύθυνος για την έκρηξη ήταν ένας αστεροειδής ή ένας κομήτης.</p>
@@ -46,9 +38,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead"><strong>ΣΥΝΔΕΣΜΟΙ</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

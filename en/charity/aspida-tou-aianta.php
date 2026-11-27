@@ -17,8 +17,6 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks">
-<div class="row">
-<div class="block">
 <div class="blocks">
 <div class="row">
 <div class="block media"><img alt="" data-nw="960" decoding="async" height="414" loading="lazy" src="/images/charity/aspida-tou-aianta/aspidatouaianta.jpg" width="960"/></div>
@@ -28,8 +26,6 @@ require SITE_ROOT . '/includes/header.php';
 <p><span lang="en">(http://www.larnaka.org.cy/el/news/aspida-tou-aianta-1#.WYdYbLZLcdU) </span></p>
 <p><span lang="en">It was established in memory of the young Aianta Loizou, who lost his life at the age of five</span>.</p>
 <p>Since 2013 the KITION PLANETARIUM &amp; OBSERVATORY participates in "Aspida tou Aianta" fundraising events, making its own contribution in direct help for the organization.</p>
-</div>
-</div>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

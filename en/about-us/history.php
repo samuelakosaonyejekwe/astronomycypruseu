@@ -18,9 +18,8 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h2><img alt="" data-nw="3150" decoding="async" height="252" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="800"/></h2>
 <h2>OUR HISTORY... THE MILESTONES OF OUR EVOLUTION...</h2>
-<div class="blocks">
-<div class="row">
-<div class="block"><p>The "KITION PLANETARIUM &amp; OBSERVATORY" is a private initiative. It was founded by Mr. George Troullias, and was officially registered as an organization, on February 14, 2008.</p>
+
+<p>The "KITION PLANETARIUM &amp; OBSERVATORY" is a private initiative. It was founded by Mr. George Troullias, and was officially registered as an organization, on February 14, 2008.</p>
 <p><em><strong>It is a great honour for us to bear the landmark name of the ancient city of Larnaca, “KITION”.</strong></em></p>
 <p>With a lot of passion in science and in sharing the knowledge among the general public, Mr. George Troullias gathered more people and scientists who shared the same dream and passion and the journey began.</p>
 <p>The mission of our organization is to promote the study, experimentation and information in the fields of astronomy, astrophysics, space science as well as the fields of other physical and social applied sciences.</p>
@@ -165,9 +164,6 @@ require SITE_ROOT . '/includes/header.php';
 <p>With your support you give us the opportunity to promote Cyprus abroad and to develop and enrich our programs by offering even more to the general public, with quality ways of entertainment and education, attracting and involving more young people in the field of space science. Your support, also contributes to the development of knowledge, provides social contribution, work and culture.</p>
 <p>We are looking forward to meet people who share common goals and aspirations in the development and promotion of science and culture and we are open to suggestions and ideas.</p>
 <p><em><strong>Please feel free to <a href="/en/contact-us.php" title="CONTACT US">contact us</a> and join our team.</strong></em></p>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

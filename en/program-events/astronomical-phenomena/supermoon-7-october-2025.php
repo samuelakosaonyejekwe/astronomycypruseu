@@ -21,12 +21,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><p><strong>TICKETS HERE</strong></p>
 <p><strong><strong>RUSSIAN PROGRAM<br/> Time: 19:00 (UTC+3)</strong></strong></p></div>
 <div class="block"><p><strong>BUY YOUR TICKET HERE</strong></p>
-
 <p><strong>ENGLISH PROGRAM<br/>
  Time: 19:45 (UTC+3)</strong></p>
 </div>
 <div class="block"><p><strong>BUY YOUR TICKET HERE</strong></p>
-
 <p><strong>GREEK PROGRAM<br/> TIME: 20:30 (UTC+3)</strong></p>
 </div>
 </div>
@@ -38,7 +36,6 @@ require SITE_ROOT . '/includes/header.php';
 <p>"Living in Space" explores how humans survive, work and thrive beyond Earth.</p>
 <p>It includes life aboard orbiting space stations and plans for settlements on the Moon and Mars.</p>
 <p> It highlights groundbreaking advancements, from life support systems and space habitats to research on human adaptability and resource utilization in extraterrestrial environments.</p>
-
 <p>The full Moon on Tuesday, October 7, 2025 is going to be a Supermoon.</p>
 <p>The reason is the very close to the Earth location of our satellite in its orbit!</p>
 <p>Due to its movement in an elongated orbit, the Moon is either approaching or moving away from the Earth.</p>
@@ -55,12 +52,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><p><strong>TICKETS HERE</strong></p>
 <p><strong><strong>RUSSIAN PROGRAM<br/> Time: 19:00 (UTC+3)</strong></strong></p></div>
 <div class="block"><p><strong>BUY YOUR TICKET HERE</strong></p>
-
 <p><strong>ENGLISH PROGRAM<br/>
  Time: 19:45 (UTC+3)</strong></p>
 </div>
 <div class="block"><p><strong>BUY YOUR TICKET HERE</strong></p>
-
 <p><strong>GREEK PROGRAM<br/> TIME: 20:30 (UTC+3)</strong></p>
 </div>
 </div>

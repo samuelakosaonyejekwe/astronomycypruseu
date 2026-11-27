@@ -16,15 +16,11 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-28-october-2025.jpg" width="960"/></p>
 <p class="short"><strong><strong>ОНЛАЙН SCIENCE CAFÉ</strong></strong></p>
 <p class="short"><strong>ВТОРНИК, 28 ОКТЯБРЯ 2025 ГОДА, ВРЕМЯ: 20:00 (UTC+2)</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p>
 <dl class="specs"><dt><strong>ID встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl>
-
 <h3><strong>20:00 ПРИВЕТСТВЕННОЕ СЛОВО ДИРЕКТОРА (Г-НА ДЖОРДЖА ТРУЛЛИАСА)</strong></h3>
 <p class="short"><strong>20:05 НОВОСТИ АСТРОНОМИИ</strong></p>
 <h3><strong>20:15 КОМЕТА 3I/ATLAS</strong></h3>
@@ -32,7 +28,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Узнайте о комете 3I/ATLAS и о последних открытиях, связанных с этой кометой.</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p>
 <dl class="specs"><dt><strong>ID встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl>
-
 <p class="short"><strong>Все встречи Science Café <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">бесплатны</a>, присоединиться может каждый. </strong></p>
 <p class="short"><strong>Коды и информация для подключения к встрече опубликованы <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">здесь</a>.</strong></p>
 <p><strong><br/> Записи предыдущих онлайн-встреч Science Café доступны на нашем <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">канале YouTube</a>.</strong></p>
@@ -40,9 +35,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead"><strong>ССЫЛКИ</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

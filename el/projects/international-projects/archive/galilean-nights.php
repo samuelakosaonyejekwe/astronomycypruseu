@@ -17,7 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <p class="short">ΝΥΧΤΕΣ ΤΟΥ ΓΑΛΙΛΑΙΟΥ</p><div class="blocks">
-<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="86" loading="lazy" src="/images/galilean_nights.jpg" width="150"/><p class="short">ΝΥΧΤΕΣ ΤΟΥ ΓΑΛΙΛΑΙΟΥ</p>
+<div class="row stack"><div class="block"><img alt="" data-nw="150" decoding="async" height="86" loading="lazy" src="/images/galilean_nights.jpg" width="150"/>
 </div></div>
 </div>
 <p>Οι Νύχτες του Γαλιλαίου είναι ένα Θεμελιώδες Έργο του <a href="/el/projects/international-projects/archive/international-year-of-astronomy-2009.php">Διεθνούς Έτους Αστρονομίας 2009</a>. Στις 22-24 Οκτωβρίου 2009, ερασιτέχνες και επαγγελματίες αστρονόμοι, λάτρεις της αστρονομίας και το κοινό βγήκαν στους δρόμους σε ολόκληρο τον κόσμο και έστρεψαν τα τηλεσκόπιά τους στα θαύματα που παρατήρησε ο Ιταλός αστρονόμος Γαλιλαίος πριν από 400 χρόνια.</p>
@@ -25,7 +25,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ πραγματοποίησε εκδηλώσεις στην Κύπρο, γιορτάζοντας αυτό το επίτευγμα και την πρόοδο της ανθρωπότητας στους επόμενους 4 αιώνες.</p>
 <p>2009 </p>
 <div class="blocks">
-<div class="row">
+<div class="row keyval">
 <div class="block"><p class="short">20-22 ΟΚΤΩΒΡΙΟΥ</p></div>
 <div class="block"><a href="https://www.galileannights.org/events/event_country_cyprus.html" rel="noopener noreferrer" target="_blank">ΝΥΧΤΕΣ ΤΟΥ ΓΑΛΙΛΑΙΟΥ</a><br/><p class="short">ΓΚΑΛΕΡΙ ΤΕΧΝΗΣ ΔΡΟΜΕΝΑ, ΛΕΥΚΩΣΙΑ, ΚΥΠΡΟΣ</p></div>
 </div>

@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p>#kpocyprus #science #astronomy #astrophysics #cafe #online #cyprus #totalsolareclipse #NASA#awb #gam #worldwide</p>
 <h2><img alt="" data-nw="960" decoding="async" height="506" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/total-solar-eclipse-8-april-2024-nasa.jpg" width="900"/></h2>
 <p class="short"><strong>MONDAY 8TH APRIL 2024, TIME: 20:00 (UTC+2)</strong></p>
@@ -32,7 +29,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>JOIN US ON ONLINE</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-
 <p class="short">Join Our Spacewalk!</p>
 <p class="short"><a href="https://www.youtube.com/live/2MJY_ptQW1o?si=h0CcRxbWaenuae-C" rel="noopener noreferrer" target="_blank"><strong>NASA LIVE STREAMING</strong></a></p>
 <p class="short"><strong><a href="https://www.youtube.com/live/UUw4yi9XSsU?si=ZewuYSjf_nxYTAXe" rel="noopener noreferrer" target="_blank">EarthSky LIVE STREAMING</a></strong></p>
@@ -41,10 +37,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

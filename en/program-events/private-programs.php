@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'program-events/private-programs',
     'title'       => 'Private Programs',
-    'description' => 'Private programs (up to 10 people per session) "Bookings Only Policy" Event Ticket: 150 Euro BUY NOW For bookings for private programs for more than 10 people, or any other private events, please…',
+    'description' => 'It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers).',
     'image'       => '/images/private-event-call-99991111.jpg',
     'translated'  => true,
 ];
@@ -16,7 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<h2>PRIVATE PROGRAMS</h2>
 <p><img alt="" data-nw="1440" decoding="async" height="810" loading="lazy" src="/images/private-event-call-99991111.jpg" width="1440"/>
 </p>
 <h2><strong>PRIVATE PROGRAMS</strong></h2>
@@ -25,21 +24,17 @@ require SITE_ROOT . '/includes/header.php';
 <h3><strong>Our observatory will travel you to the Universe with our large, professional telescopes.</strong></h3>
 <div class="link-row"><p class="short"><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Download the proposed program in ENGLISH (PDF)</strong></a></p><p class="short"><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Download the proposed program in RUSSIAN (PDF)</a></strong></p></div>
 
-<div class="blocks">
 <h2><em>Private programs (up to 10 people per session)</em></h2>
 <h2><em> "Bookings Only Policy"</em></h2>
 <h2><em>Event Ticket: 150 Euro <a href="https://astronomycyprus.eu/gift-shop/index.php/product/private-programs/" rel="noopener noreferrer" target="_blank">BUY NOW</a></em></h2>
 <h4><strong><em>For bookings for private programs for more than 10 people, or any other private events, please contact us</em></strong></h4>
-</div>
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="lead short"><strong>IMPORTANT NOTE:</strong></p>
+
+
+<p class="lead short"><strong>IMPORTANT NOTE:</strong></p>
 <p>We operate on a "<strong>Bookings Only Policy"</strong>.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
-<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p></div>
-</div>
-</div>
+<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

@@ -19,7 +19,6 @@ require SITE_ROOT . '/includes/header.php';
 <h2>ВОСПОМИНАНИЯ О МЕРОПРИЯТИЯХ</h2>
 <h2>НАЗВАНИЕ МЕРОПРИЯТИЯ</h2>
 <h2>НАЗВАНИЕ МЕРОПРИЯТИЯ</h2>
-<h2>НАЗВАНИЕ МЕРОПРИЯТИЯ</h2>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

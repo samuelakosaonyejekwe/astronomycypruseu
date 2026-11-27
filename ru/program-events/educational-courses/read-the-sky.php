@@ -18,10 +18,7 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h2><img alt="" data-nw="1280" decoding="async" height="338" loading="lazy" src="/docs/read-the-sky/Read-The-Sky.jpg" width="600"/></h2>
 <div class="table-wrap"><table>
-<div class="row">
-<div class="block">
-</div>
-<div class="block"><p>Дорогой друг,</p>
+<p>Дорогой друг,</p>
 <p>Каждый ясный вечер, загораются на небе одна за другой звезды. Изумительное ночное небо вдохновляет людей и даёт им удовольствие и отдых.</p>
 <p>Время от времени появляется желание узнать имена всех звезд и планет и с легкостью находить их.</p>
 <p>Теперь ПЛАНЕТАРИЙ и ОБСЕРВАТОРИЯ КИТИОНА предоставляет возможность исполнить это желание.</p>
@@ -35,19 +32,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>ВЗРОСЛЫЕ 70 € <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-adult-ticket/" rel="noopener noreferrer" target="_blank">КУПИТЬ СЕЙЧАС</a></p>
 <p>СТУДЕНТЫ 50 € <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-student-ticket/" rel="noopener noreferrer" target="_blank">КУПИТЬ СЕЙЧАС</a></p>
 <p><a class="doc-link" href="/docs/read-the-sky/Russian/READ%20THE%20SKY%20RU%20INV.pdf" rel="noopener" target="_blank">Скачайте приглашение на цикл (PDF)</a></p>
-<p><a class="doc-link" href="/docs/read-the-sky/Russian/Read%20the%20Sky%20Astronomy%20Course%20for%20Beginners%20Russian.pdf" rel="noopener" target="_blank">Скачайте программу и детали цикла (PDF)</a></p></div>
-</div>
+<p><a class="doc-link" href="/docs/read-the-sky/Russian/Read%20the%20Sky%20Astronomy%20Course%20for%20Beginners%20Russian.pdf" rel="noopener" target="_blank">Скачайте программу и детали цикла (PDF)</a></p>
 </table></div>
-<div class="blocks">
-<div class="row">
-<div class="block">
+
 <h2>ОТЗЫВЫ</h2>
 <p><strong>Джекки Э. <br/> Рочестер, Великобритания <br/> Ночное небо </strong><br/> <br/> «Я прошла 4-занятийный курс «Читай небо» с Александром в Планетарии. Я узнала так много о звёздах и планетах, о том, как находить их положение на небе, и об орбите Земли. Это невероятно увлекательно, захватывает дух у новичка, и мне всё очень понравилось. Теперь, когда я смотрю на ночное небо, я вижу его по-другому, ха-ха. Следующий курс будет посвящён тому, как находить звёзды и планеты в мой телескоп.»</p>
 <p><strong>Христодулос А.<br/> Ларнака, Кипр <br/> Читай небо</strong></p>
 <p>«Я несколько раз бывал в обсерватории. Здесь я учусь читать небо: основные созвездия, названия звёзд, использование звёздных карт, множество наблюдений и многое другое... Большое спасибо директору Георгиосу Труллиасу и Александру Прокофьеву за всё, что они передают мне всё это время...»</p>
-</div>
-</div>
-</div>
+
 <h3><strong>ВАЖНОЕ ЗАМЕЧАНИЕ:</strong></h3>
 <p>Мы работаем по «политике приёма только по предварительной записи».</p>
 <p>Необходима предварительная запись по телефону (+357) 99991111 (для англоговорящих) или (+357) 99037440 (для русскоговорящих).</p>

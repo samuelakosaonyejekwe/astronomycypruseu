@@ -40,9 +40,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 </table></div>
-<div class="blocks">
-<div class="row">
-<div class="block">
+
 <h2>REVIEWS</h2>
 <p><strong>Jackie E <br/>
  Rochester, UK <br/>
@@ -53,9 +51,7 @@ require SITE_ROOT . '/includes/header.php';
  Larnaca, Cyprus <br/>
  Read the Sky</strong></p>
 <p>"I have visited the observatory several times. here I learn how to read the sky. Main Constellations, Names of Stars, Use of star maps, a lot of observations and many more... many thanks to Director George Troullias and Alexander Prokofyev for everything they pass to me all this time..."</p>
-</div>
-</div>
-</div>
+
 <h3><strong>IMPORTANT NOTE:</strong></h3>
 <p>We operate on a "Bookings Only Policy".</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>

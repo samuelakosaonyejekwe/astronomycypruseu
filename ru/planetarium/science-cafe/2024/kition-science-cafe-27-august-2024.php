@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p>#meteors @kpocyprus #persides #kpocyprus #science #astronomy #paleontology #cafe #online #cyprus</p>
 <h2><img alt="" data-nw="2000" decoding="async" height="456" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2024/science-cafe-27-august-2024.jpg" width="800"/></h2>
 <p><strong>ВТОРНИК, 27 АВГУСТА 2024 ГОДА, ВРЕМЯ: 20:00 (UT+3)</strong></p>
@@ -30,10 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>ПРИСОЕДИНЯЙТЕСЬ К НАМ ОНЛАЙН</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-
 <p>Г-н Александр Прокофьев (астрофизик) расскажет о результатах наблюдений метеорного потока Персеиды, полученных командой ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН», в сравнении с глобальными результатами.</p>
-
-<p>l</p>
 <p>Узнайте о национальных и международных достижениях учеников АСТРОНОМИЧЕСКОЙ АКАДЕМИИ «КИТИОН».</p>
 <p>3 из 5 учеников, представляющих Кипр на Международной олимпиаде по астрономии и астрофизике,</p>
 <p>— наши ученики, и сейчас они в Бразилии борются за медаль.</p>
@@ -46,9 +40,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

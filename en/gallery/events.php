@@ -19,7 +19,6 @@ require SITE_ROOT . '/includes/header.php';
 <h2> EVENTS MEMORIES</h2>
 <h2>EVENT NAME</h2>
 <h2>EVENT NAME</h2>
-<h2>EVENT NAME</h2>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

@@ -16,9 +16,6 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<div class="blocks">
-<div class="row">
-<div class="block">
 <p><img alt="" data-nw="960" decoding="async" height="540" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-27-may-2025.jpg" width="960"/></p>
 <p class="short"><strong><strong>ОНЛАЙН SCIENCE CAFÉ</strong></strong></p>
 <p class="short"><strong>ВТОРНИК, 27 МАЯ 2025 ГОДА, ВРЕМЯ: 20:00 (UTC+3)</strong></p>
@@ -27,14 +24,9 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong> 20:25 ДЕНЬ АСТЕРОИДА (ДЖОРДЖ ТРУЛЛИАС, НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ДНЮ АСТЕРОИДА)</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p>
 <dl class="specs"><dt><strong>ID встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl>
-
 <p>«Современная космическая эра» — это нынешняя и развивающаяся фаза освоения и использования космоса, для которой характерны возросшее участие частного сектора, снижение стоимости запусков и более широкий круг космической деятельности. В эту эпоху растёт космический туризм, коммерческие спутниковые группировки и освоение внеземных ресурсов.</p>
-
-
-
 <p>Она также подчёркивает необходимость надёжного международного регулирования для обеспечения ответственного и устойчивого поведения в космосе.</p>
 <p>Международный день астероида, 30 июня, отмечается в память о Тунгусском событии, произошедшем в 1908 году.</p>
-
 <p>В тот день над рекой Подкаменная Тунгуска в Сибири, Россия, в небе произошёл мощный взрыв.</p>
 <p>Он уничтожил около 2000 квадратных километров леса в этом районе, повалив около 80 миллионов деревьев.</p>
 <p>Считается, что причиной взрыва стал астероид или комета.</p>
@@ -46,9 +38,6 @@ require SITE_ROOT . '/includes/header.php';
 <p class="lead"><strong>ССЫЛКИ</strong>:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

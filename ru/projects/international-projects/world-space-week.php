@@ -18,9 +18,6 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <div class="link-row"><p class="short"><strong><a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА ООН</a></strong></p></div>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="2680" decoding="async" height="257" loading="lazy" src="/images/wsw/World%20Space%20Week%20Cyprus%201.png" width="200"/></p><h2>#WSW2027 #WSW2026 #WorldSpaceWeek #RocketRevolution #kpocyprus</h2><h2><em><strong>Тема Всемирной недели космоса 2027</strong> будет объявлена в ближайшее время...</em></h2><h3><a class="doc-link" href="/docs/press-release/press-release-wsw2026-cyprus.pdf" rel="noopener" target="_blank">ПРЕСС-РЕЛИЗ WSW2026 (Нажмите здесь...)</a></h3></div></div></div>
-
-
-
 <h2><strong>Всемирная неделя космоса ООН 2026 года была успешно отмечена на Кипре.</strong></h2>
 <h2><strong>Темой стала </strong>«Ракетная революция».</h2>
 <h2>Мероприятия были призваны подчеркнуть важность ракетостроения,</h2>
@@ -31,9 +28,8 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><em>НАЦИОНАЛЬНЫЙ КООРДИНАТОР КИПРА ПО ВСЕМИРНОЙ НЕДЕЛЕ КОСМОСА ООН, ГОСПОДИН ДЖОРДЖ ТРУЛЛИАС,</em></p>
 <p class="short"><em>ПРИСУТСТВОВАЛ ПОЧТИ НА ВСЕХ МЕРОПРИЯТИЯХ, РАССКАЗЫВАЯ О ГЛОБАЛЬНОЙ ИНИЦИАТИВЕ </em></p>
 <p class="short"><em>ВСЕМИРНОЙ НЕДЕЛИ КОСМОСА ООН</em> <em>И ГОВОРИЛ О ТЕМЕ «<strong>РАКЕТНАЯ РЕВОЛЮЦИЯ</strong>».</em></p>
-<div class="blocks">
-<div class="row">
-<div class="block"><h3>Каждый год Ассоциация Всемирной недели космоса (WSWA) выбирает тему предстоящей Всемирной недели космоса (WSW), чтобы задать направление мероприятиям, которые проходят по всему миру с 4 по 10 октября.</h3>
+
+<h3>Каждый год Ассоциация Всемирной недели космоса (WSWA) выбирает тему предстоящей Всемирной недели космоса (WSW), чтобы задать направление мероприятиям, которые проходят по всему миру с 4 по 10 октября.</h3>
 <h2><strong>Ракетная революция – тема Всемирной недели космоса 2026</strong></h2>
 <p>Каждый год Ассоциация Всемирной недели космоса (WSWA) выбирает тему, отражающую определяющий момент в отношениях человечества с космосом. Темой Всемирной недели космоса 2026, которая отмечается во всём мире с 4 по 10 октября, стала «Ракетная революция».</p>
 <p>«Ракетная революция» посвящена стремительной трансформации космических запусков. Доступ в космос, когда-то ограниченный небольшим числом государственных программ, сегодня расширяется благодаря коммерческим операторам запусков, многоразовым ракетам, университетским командам, стартапам и новым национальным космическим игрокам. Эти перемены меняют то, кто может попасть в космос, как часто происходят запуски и для чего используется космос.</p>
@@ -66,29 +62,13 @@ require SITE_ROOT . '/includes/header.php';
 <li>Увлечь молодёжь наукой, технологиями, инженерией и математикой</li>
 <li>Содействовать международному сотрудничеству в области космического просвещения и образования</li>
 </ul>
-<h2>Каковы цели Всемирной недели космоса?</h2>
 <ul class="items"><li>Создать уникальный рычаг для просвещения и образования в области космоса</li><li>Рассказать людям по всему миру о пользе, которую они получают от космоса</li><li>Способствовать более широкому использованию космоса для устойчивого экономического развития</li><li>Продемонстрировать общественную поддержку космических программ</li><li>Увлечь молодёжь наукой, технологиями, инженерией и математикой</li><li>Содействовать международному сотрудничеству в области космического просвещения и образования</li></ul>
-
-
-
-
-
 <p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
 <p class="lead"><strong>ССЫЛКИ:</strong></p>
 <p><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА ООН</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
-
 <p><strong>МЕЖДУНАРОДНЫЕ МЕРОПРИЯТИЯ ВСЕМИРНОЙ НЕДЕЛИ КОСМОСА ООН</strong> https://www.worldspaceweek.org/nation/Cyprus/</p>
-
 <h2><strong>Всемирная неделя космоса (база данных прошлых лет)</strong></h2>
 <div class="link-row"><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2026.php">WSW 2026</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2025.php">WSW 2025</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2024.php">WSW 2024</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2023.php">WSW 2023</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2022.php">WSW 2022</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2021.php" title="wsw2021">WSW 2021</a></strong></p><p class="short"><strong><a href="/ru/projects/international-projects/wsw/world-space-week-2020.php" title="wsw2020">WSW 2020</a></strong></p></div>
-
-
-
-
-
-</div>
-</div>
-</div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

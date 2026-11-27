@@ -19,9 +19,8 @@ require SITE_ROOT . '/includes/header.php';
 <h2>ONLINE EDUCATIONAL PROGRAMS</h2>
 <p><img alt="" data-nw="1920" decoding="async" height="506" loading="lazy" src="/images/educational-courses/wonderful-planets/wonderful-planets.jpg" width="900"/>
 </p>
-<div class="blocks">
-<div class="row">
-<div class="block"><p>Dear members and friends of the KITION PLANETARIUM &amp; OBSERVATORY,</p>
+
+<p>Dear members and friends of the KITION PLANETARIUM &amp; OBSERVATORY,</p>
 <p>We would like to inform you about our online summer sessions WONDERFUL PLANETS specifically prepared for children 8-12 years old.</p>
 <p>They are educational and entertaining at the same time. They are aiming to inspire and increase the creativity and critical thinking of the students.</p>
 <p> By using astronomy as a tool for personal development and STEAM workshops, the program aims to give students the best tools for an introduction in science. </p>
@@ -38,26 +37,19 @@ require SITE_ROOT . '/includes/header.php';
 <p> How and when the names of the planets appeared? Solve the riddle of nano-planets Ceres and Pluto. </p>
 <p>Then we will take a trip to distant star systems, where planets were discovered in recent years.</p>
 <p> Students will learn about constellations, the variety of stars, habitable zones, aspects of planets, myths and about activities of scientists who gave names to the stars  and their worlds. </p>
-
 <p>Our team wishes you clear skies and is looking forward to meeting you. It would be a great pleasure for us if you attend our events. </p>
 <h3>Join our spacewalk…</h3>
 <p class="short">Best regards, </p>
 <h3><em>George Troullias </em></h3>
 <p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p>
-</div>
-</div>
-</div>
+
 <div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/wonderful-planets/wonderful-planets-en.pdf" rel="noopener" target="_blank">Download the proposed program in ENGLISH (PDF)</a></p><p class="short"><a class="doc-link" href="/docs/educational-courses/wonderful-planets/wonderful-planets-rus.pdf" rel="noopener" target="_blank">Download the proposed program in RUSSIAN (PDF)</a></p></div>
 
-<div class="blocks">
-<div class="row">
-<div class="block"><p class="lead short">IMPORTANT NOTE:</p>
+<p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>
 <p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
-<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p></div>
-</div>
-</div>
+<p>Click here to <a href="/en/contact-us.php"> find us</a>. </p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>
