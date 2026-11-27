@@ -28,7 +28,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>The sessions will be conducted by the Astrophysicist Alexander Prokofyev a special guest of the KITION PLANETARIUM &amp; OBSERVATORY.</p>
 <p>The sessions will be conducted once a week at the KITION PLANETARIUM &amp; OBSERVATORY, in Kiti.</p>
 <p>At completion of the course a diploma will be awarded.</p>
-<p>Alexander Prokofyev graduated with honor the Department of Physics at Moscow State University (Lomonosov University). His scientific work is connected to “Cosmic Strings in Expanded Theories of Gravitation”. Nowadays he conducts research in archeoastronomy, organizes and participates in observations of total sun eclipses, meteor showers and asteroid's occultations. He has publications in scientific and popular editions, makes reports on national and International conferences. His talent to uncover modern scientific achievements to common listeners is well known to amatures of astronomy. He gave lectures in Russia, Ukraine, Germany, Finland and Cyprus.</p>
+<p>Alexander Prokofyev graduated with honor the Department of Physics at Moscow State University (Lomonosov University). His scientific work is connected to “Cosmic Strings in Expanded Theories of Gravitation”. Nowadays he conducts research in archeoastronomy, organizes and participates in observations of total sun eclipses, meteor showers and asteroid occultations. He has publications in scientific and popular editions, makes reports on national and International conferences. His talent to uncover modern scientific achievements to common listeners is well known to amateurs of astronomy. He gave lectures in Russia, Ukraine, Germany, Finland and Cyprus.</p>
 <p class="lead">FEES:</p>
 <p>ADULTS €70 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-adult-ticket/" rel="noopener noreferrer" target="_blank">BUY NOW</a></p>
 <p>STUDENTS €50 <a href="https://astronomycyprus.eu/gift-shop/index.php/product/read-the-sky-student-ticket/" rel="noopener noreferrer" target="_blank">BUY NOW</a></p>
@@ -42,15 +42,11 @@ require SITE_ROOT . '/includes/header.php';
 </table></div>
 
 <h2>REVIEWS</h2>
-<p><strong>Jackie E <br/>
- Rochester, UK <br/>
- Night Sky </strong><br/>
-<br/>
- "I did a 4 session learning course on 'Reading the Sky' with Alexander at the Planetarium. I learnt so much about stars and planets, how to find their position in the sky and earths orbit. Its absolutely fascinating mind boggling to a beginner and I loved it. Now when I look up at the night sky I see it in a different light lol. Next course will be learning how to find the stars and planets with my telescope."</p>
+<p><strong>Jackie E <br/> Rochester, UK <br/> Night Sky </strong><br/> <br/> "I did a 4 session learning course on 'Reading the Sky' with Alexander at the Planetarium. I learnt so much about stars and planets, how to find their position in the sky and earths orbit. It's absolutely fascinating mind boggling to a beginner and I loved it. Now when I look up at the night sky I see it in a different light lol. Next course will be learning how to find the stars and planets with my telescope."</p>
 <p><strong>Christodoulos A<br/>
  Larnaca, Cyprus <br/>
  Read the Sky</strong></p>
-<p>"I have visited the observatory several times. here I learn how to read the sky. Main Constellations, Names of Stars, Use of star maps, a lot of observations and many more... many thanks to Director George Troullias and Alexander Prokofyev for everything they pass to me all this time..."</p>
+<p>"I have visited the observatory several times. Here I learn how to read the sky. Main Constellations, Names of Stars, Use of star maps, a lot of observations and many more... many thanks to Director George Troullias and Alexander Prokofyev for everything they pass to me all this time..."</p>
 
 <h3><strong>IMPORTANT NOTE:</strong></h3>
 <p>We operate on a "Bookings Only Policy".</p>

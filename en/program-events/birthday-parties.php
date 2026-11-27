@@ -22,7 +22,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 
 <p class="short">The KITION PLANETARIUM &amp; OBSERVATORY offers you birthday parties with unique experiences.</p>
-<p>A special interactive birthday program is designed customized to your needs.</p>
+<p>A special interactive birthday program is designed and customized to your needs.</p>
 <p>The party can be designed to be held at our premises in Kiti at the KITION PLANETARIUM &amp; OBSERVATORY but it can be also customized for your premises.</p>
 <ul class="bullets"><li>We suggest many different activities which include:</li><li>
  - the <a href="/en/observatory/radiotelescopes.php">radiotelescope</a></li><li>
@@ -33,8 +33,8 @@ require SITE_ROOT . '/includes/header.php';
 <p>Catering and birthday cake options are available.</p>
 <p>Day time parties include observations of the Sun with specialized equipment and supervision by experts.</p>
 <p>Evening parties include observations of the best celestial objects of the night sky at the specific date and time.</p>
-<p>Please contact us in advance to arrange for making your children the main charecters in the stories and adventures of the Planetarium program.</p>
-<p> All activities are interactive, adopted to the age of children.</p>
+<p>Please contact us in advance to arrange for making your children the main characters in the stories and adventures of the Planetarium program.</p>
+<p>All activities are interactive, adapted to the age of children.</p>
 <p class="short"><strong>THE PERFECT GIFT FOR YOUR CHILDREN IS TO OFFER THEM THE WONDERS OF THE SKY!</strong></p>
 <h3>Bookings: Call <a href="tel:+35799991111">+357 99991111</a> or <a href="/en/contact-us.php">Contact us </a>for further information. </h3>
 

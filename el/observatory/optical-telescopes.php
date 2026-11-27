@@ -66,7 +66,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block media"><a href="/images/astrophotography/sun/Mercury2016.jpg"><img alt="" data-nw="960" decoding="async" height="169" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="300"/></a></div>
 <div class="block"><p><strong>Αυτή η ασυνήθιστη εικόνα της διέλευσης του Ερμή</strong> <strong>πάνω από τον ηλιακό δίσκο στις 9 Μαΐου 2016</strong> <strong>λήφθηκε με το Meade</strong></p>
 <p><strong>Newtonian Reflector 8"</strong> <strong>- Δομπσονιανή βάση.</strong></p>
-<p><strong>Συγκρίνετε τη μικρή κηλίδα του πλανήτη</strong> <strong>με τη πολύ μεγαλύτερη της Αφροδίτης στην παραπάνω εικόνα.</strong></p>
+<p><strong>Συγκρίνετε τη μικρή κηλίδα του πλανήτη</strong> <strong>με την πολύ μεγαλύτερη της Αφροδίτης στην παραπάνω εικόνα.</strong></p>
 <p><strong>Προσέξτε ότι το χείλος του δίσκου του Ερμή είναι καθαρό.</strong></p>
 <p class="short"><strong>Αυτό αποδεικνύει ότι ο Ερμής</strong> <strong>στερείται πρακτικά ατμόσφαιρας.</strong></p>
 </div>

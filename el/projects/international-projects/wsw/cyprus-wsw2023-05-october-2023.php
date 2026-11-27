@@ -24,7 +24,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><a href="https://www.podcastics.com/podcast/pod-and-com/" rel="noopener noreferrer" target="_blank">https://www.podcastics.com/podcast/pod-and-com/</a></h2>
 <p><strong>18:00 ΥΠΟΔΟΧΗ ΑΠΟ ΤΟΝ ΔΙΟΡΓΑΝΩΤΗ (POD AND COM) κ. ΓΙΑΝΝΗ ΝΤΙΑΝΕΛΛΟ</strong></p>
 <p><strong>18:05 </strong><strong>Γιώργος Τρούλλιας</strong><strong> (Εθνικός Συντονιστής του ΟΗΕ για την Παγκόσμια Εβδομάδα Διαστήματος στην ΚΥΠΡΟ)</strong></p>
-<p><strong>«ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2023 - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ»</strong></p>
+<p><strong>«ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2023» - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ»</strong></p>
 <p class="short"><strong>18:10 Επιτεύγματα των Κυπρίων Αναλογικών Αστροναυτών</strong></p>
 <p class="short"><strong>Eleonora Kaiser</strong><strong> (Κύπρια Αναλογική Αστροναύτης - Αστροφυσικός)</strong></p>
 <p class="short"><strong> Ευάνδρος Θεοδοσίου (Κύπριος Αναλογικός Αστροναύτης - Μηχανολόγος Μηχανικός) </strong></p>

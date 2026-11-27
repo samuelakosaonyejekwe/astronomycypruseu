@@ -24,20 +24,8 @@ require SITE_ROOT . '/includes/header.php';
 <p><a href="/images/charity/christina-apostolou-festival/2026/christina-apostolou-2026.pdf" rel="noopener" target="_blank"><img alt="" data-nw="909" decoding="async" height="900" loading="lazy" src="/images/charity/christina-apostolou-festival/2026/christina-apostolou-foundation-2026.JPG" width="909"/></a></p>
 <h2><a class="doc-link" href="/images/charity/christina-apostolou-festival/2026/christina-apostolou-2026.pdf" rel="noopener" target="_blank"><img alt="" data-nw="909" decoding="async" height="907" loading="lazy" src="/images/charity/christina-apostolou-festival/2026/christina-apostolou-foundation-2026-a.JPG" width="909"/></a></h2>
 <div class="link-row"><p class="short"><a href="/el/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2025.php">2025</a></p><p class="short"><a href="/el/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2024.php">2024</a></p><p class="short"><a href="/el/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2023.php">2023</a></p><p class="short"><a href="/el/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2022.php">2022</a></p></div>
-<h2>2021</h2>
-<h2>2020</h2>
-<h2>2019</h2>
-<h2>2018</h2>
-<h2>2017</h2>
-<h2>2016</h2>
-<h2>2015</h2>
-<h2>2014</h2>
-<h2>2013</h2>
-<h2>2012</h2>
-<h2> 2011</h2>
-<h2>2010</h2>
-<h2>2009</h2>
-<p>Εάν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να τηλεφωνήσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<ul class="label-row"><li>2021</li><li>2020</li><li>2019</li><li>2018</li><li>2017</li><li>2016</li><li>2015</li><li>2014</li><li>2013</li><li>2012</li><li>2011</li><li>2010</li><li>2009</li></ul>
+<p>Εάν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να τηλεφωνήσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 </div>
 </div>
 </article>

@@ -23,7 +23,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></h2>
 <h2>Meeting ID: 831 2336 2644</h2>
 <h2>Passcode: kition</h2>
-<p><strong>20:00 «ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2023 - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ»</strong></p>
+<p><strong>20:00 «ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2023» - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ»</strong></p>
 <p><strong>Οικοδεσπότης-Ομιλητής: </strong><strong>Γιώργος Τρούλλιας</strong><strong> (Εθνικός Συντονιστής του ΟΗΕ για την Παγκόσμια Εβδομάδα Διαστήματος στην ΚΥΠΡΟ)</strong></p>
 <p><strong>20:10 </strong><strong>ΕΡΓΑ ΚΑΙ ΟΦΕΛΗ ΤΟΥ ΚΕΝΤΡΟΥ ΕΚΠΑΙΔΕΥΣΗΣ ΑΝΑΛΟΓΩΝ ΑΣΤΡΟΝΑΥΤΩΝ (ΚΡΑΚΟΒΙΑ)</strong></p>
 <p>Προσκεκλημένοι Ομιλητές: Agata Maria Kolodziejczyk (Διευθύντρια Επιστημονικών Προγραμμάτων στο Analog Astronaut Training Center - Νευροεπιστήμονας)</p>

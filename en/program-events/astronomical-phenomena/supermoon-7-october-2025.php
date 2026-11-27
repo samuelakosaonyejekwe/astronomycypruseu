@@ -41,7 +41,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Due to its movement in an elongated orbit, the Moon is either approaching or moving away from the Earth.</p>
 <p>On October 7, the Moon will be closer than usual.</p>
 <p>Such full Moons are called <strong>Supermoons</strong>.</p>
-<p><strong>Join us at the KITON PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificant view from our large telescopes.</strong></p>
+<p><strong>Join us at the KITION PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificent view from our large telescopes.</strong></p>
 <p><strong>EVENT’S PROGRAM</strong></p>
 <p class="short"><strong> WORLD SPACE WEEK 2025 – LIVING IN SPACE (LECTURE IN ENGLISH LANGUAGE)</strong></p>
 <h3>TELESCOPE OBSERVATIONS OF THE SUPERMOON</h3>

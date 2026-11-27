@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'projects/international-projects/earth-hour-60+',
     'title'       => 'Час Земли 60+',
-    'description' => 'ЧАС ЗЕМЛИ 60 2026 — ПРАЗДНОВАНИЕ НА КИПРЕ ОТ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»',
+    'description' => 'ЧАС ЗЕМЛИ 60 2026 — ПРАЗДНОВАНИЕ НА КИПРЕ ОТ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»',
     'image'       => '/images/earth-hour-60%2B/earth-hour-60-poster-2026.jpg',
     'translated'  => true,
 ];
@@ -40,9 +40,9 @@ require SITE_ROOT . '/includes/header.php';
 <div class="link-row"><p class="short"><a href="https://www.earthhour.org/cs/c/?cta_guid=7b52947c-c846-4f03-8498-8d007d6a6c6c&amp;signature=AAH58kHPmGfgZ0y1fNYYz7rYLs9nV0lgXg&amp;pageId=38535589956&amp;placement_guid=19a02db2-139f-4516-9bd1-59789bd70809&amp;click=1586f6ed-45a2-4644-83c5-784e3b3ff52c&amp;hsutk=6752ca739c687c4c0d21bc4b89a242f8&amp;canon=https%3A%2F%2Fwww.earthhour.org%2F&amp;utm_referrer=https%3A%2F%2Fwww.earthhour.org%2F%3FhsCtaTracking%3D19a02db2-139f-4516-9bd1-59789bd70809%7C7b52947c-c846-4f03-8498-8d007d6a6c6c&amp;portal_id=4783129&amp;redirect_url=APefjpEAMsE2j67u6btLv9DZMWyMW6bxlnuQpc75_1JBfQmPRDqU7WQmkXy_B2MzT_8L9HAPJEiYVCwgbPtT8Mc7ulSc6mAcp-4grgeWeqShuhtjYc28jCBy9pDHNrvi1yImxwJn50m-eBYk6hM3lv4gXLq-q0dM0c3p1Mxj7O8oS4ByZWTt6ROc-N1DVf2PEinMU1XNyIwg1_QiEjnmgavFzEiYN0Hyw4hQJd4LeIpOUsPRQvddQLYmh5CscPwaV_dPZeleAeA0oIb4CJZN_kbS4XbJVkHlyg&amp;__hstc=227722178.6752ca739c687c4c0d21bc4b89a242f8.1679730835354.1679730835354.1679733139861.2&amp;__hssc=227722178.2.1679733139861&amp;__hsfp=1583514378&amp;contentType=standard-page" rel="noopener noreferrer" target="_blank" title="I AM GIVING AN HOUR FOR EARTH"><em>Я ДАРЮ ЧАС ЗЕМЛЕ</em></a></p></div></div>
 </div>
 </div>
-<p><strong>ЧАС ЗЕМЛИ 60 2026 — ПРАЗДНОВАНИЕ НА КИПРЕ ОТ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong></p>
+<p><strong>ЧАС ЗЕМЛИ 60 2026 — ПРАЗДНОВАНИЕ НА КИПРЕ ОТ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</strong></p>
 <p>В этом году ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» проведёт мероприятие на своей территории в Кити в <strong>субботу 28 марта в 20:00 по местному времени Кипра</strong>.</p>
-<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1257" decoding="async" height="542" loading="lazy" src="/images/earth-hour-60%2B/earth-hour-60%2B.png" width="505"/></p></div><div class="block"><h2>ПРОГРАММА МЕРОПРИЯТИЯ: СУББОТА, 28 МАРТА 2026 ГОДА, ВРЕМЯ: 20:00</h2><p>ПРИВЕТСТВЕННОЕ СЛОВО ДИРЕКТОРА ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН», ГОСПОДИНА ГЕОРГИЯ ТРУЛЛИАСА.</p><p>«<strong>ОБЪЕДИНЯЯСЬ РАДИ ЛЮДЕЙ И НАШЕЙ ПЛАНЕТЫ</strong>» (ПРЕЗЕНТАЦИЯ С ВИДЕО)</p><p class="short">ЗНАКОМСТВО С ГЛОБАЛЬНОЙ ИНИЦИАТИВОЙ «ЧАС ЗЕМЛИ 60» И ЕЁ РОЛЬЮ В НАШЕЙ ЖИЗНИ.</p><p class="short">НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ (ПРИ ХОРОШЕЙ ПОГОДЕ)</p></div></div></div>
+<div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1257" decoding="async" height="542" loading="lazy" src="/images/earth-hour-60%2B/earth-hour-60%2B.png" width="505"/></p></div><div class="block"><h2>ПРОГРАММА МЕРОПРИЯТИЯ: СУББОТА, 28 МАРТА 2026 ГОДА, ВРЕМЯ: 20:00</h2><p>ПРИВЕТСТВЕННОЕ СЛОВО ДИРЕКТОРА ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН», ГОСПОДИНА ГЕОРГИЯ ТРУЛЛИАСА.</p><p>«<strong>ОБЪЕДИНЯЯСЬ РАДИ ЛЮДЕЙ И НАШЕЙ ПЛАНЕТЫ</strong>» (ПРЕЗЕНТАЦИЯ С ВИДЕО)</p><p class="short">ЗНАКОМСТВО С ГЛОБАЛЬНОЙ ИНИЦИАТИВОЙ «ЧАС ЗЕМЛИ 60» И ЕЁ РОЛЬЮ В НАШЕЙ ЖИЗНИ.</p><p class="short">НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ (ПРИ ХОРОШЕЙ ПОГОДЕ)</p></div></div></div>
 <h3>*КУПИТЕ БИЛЕТЫ ЗДЕСЬ — БИЛЕТЫ ДОСТУПНЫ ТОЛЬКО ОНЛАЙН*</h3>
 <p>
 <video controls="" preload="metadata"><source src="/images/earth-hour-60%2B/earth-hour-2023.mp4" type="video/mp4"/></video>
@@ -96,7 +96,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+» 2025</p>
 <p class="short">20:15 - 20:45 «<strong>ПОДАРИТЕ ЧАС ЗЕМЛЕ, ЗАНИМАЯСЬ ТЕМ, ЧТО ВЫ ЛЮБИТЕ</strong>» (ПРЕЗЕНТАЦИЯ С ВИДЕО)</p>
 <p class="short">20:30 - 21:30 СВЕТ ВЫКЛЮЧЕН</p>
-<p class="short">20:45 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ ( ПРИ ХОРОШЕЙ ПОГОДЕ)</p></div>
+<p class="short">20:45 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ (ПРИ ХОРОШЕЙ ПОГОДЕ)</p></div>
 </div>
 </div>
 <p class="short"><strong>2024</strong></p>
@@ -151,7 +151,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+» 2020</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -161,7 +161,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -171,7 +171,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -181,7 +181,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -191,7 +191,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -201,7 +201,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -211,7 +211,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -221,7 +221,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -231,7 +231,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -241,7 +241,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -251,7 +251,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -261,7 +261,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>
@@ -271,7 +271,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><p class="short">МАРТА 19:00</p></div>
 <div class="block"><p class="short">ПРАЗДНОВАНИЕ «ЧАСА ЗЕМЛИ 60+»</p>
-<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p>
+<p class="short">МЕРОПРИЯТИЕ НА ТЕРРИТОРИИ ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 <p class="short">19:00 ВИДЕО И ПРЕЗЕНТАЦИЯ</p>
 <p class="short">20:00 НАБЛЮДЕНИЯ В ТЕЛЕСКОПЫ</p></div>
 </div>

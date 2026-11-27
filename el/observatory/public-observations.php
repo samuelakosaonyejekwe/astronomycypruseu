@@ -23,7 +23,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Εγγραφείτε τώρα στο <a href="mailto:planetarium@cytanet.com.cy">ενημερωτικό μας δελτίο</a>, ώστε να μη χάσετε καμία μελλοντική εκδήλωση.</p>
 <p>Όλες οι εκδηλώσεις παρατήρησης με τηλεσκόπια συνδυάζονται με προγράμματα πλανηταρίου ή/και ενημερωτικές διαλέξεις και παρουσιάσεις.</p>
 <p>Οι παρατηρήσεις είναι επίσης διαθέσιμες για όσους εγγράφονται στα εκπαιδευτικά μας μαθήματα και προγράμματα στην <a href="/el/program-events/educational-courses/kition-astronomy-academy.php">ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ</a>.</p>
-<p>Τα <a href="/el/program-events/private-programs.php"> ιδιωτικά προγράμματα</a> για σχολεία, οργανωμένες ομάδες και τουρίστες περιλαμβάνουν επίσης παρατηρήσεις με τηλεσκόπιο.</p>
+<p>Τα <a href="/el/program-events/private-programs.php">ιδιωτικά προγράμματα</a> για σχολεία, οργανωμένες ομάδες και τουρίστες περιλαμβάνουν επίσης παρατηρήσεις με τηλεσκόπιο.</p>
 <p><img alt="" data-nw="600" decoding="async" height="399" loading="lazy" src="/images/observatory_show.jpg" width="600"/></p>
 <h2><strong>ΕΙΔΗ ΠΑΡΑΤΗΡΗΣΕΩΝ</strong></h2>
 <h2><em>Οπτική περιοχή</em></h2>

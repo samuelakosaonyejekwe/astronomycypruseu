@@ -29,7 +29,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">From Larnaca, the pair will be visible between 19:27 and 04:49. </p>
 <p>The Moon will be at mag -12.8, and Saturn at mag 0.6, both in the constellation Aquarius.</p>
 <p>The pair will be close enough to fit within the field of view of a telescope,  but will also be visible to the naked eye or through a pair of binoculars.</p>
-<p><strong>Join us at the KITON PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificant view from our large telescopes.</strong></p>
+<p><strong>Join us at the KITION PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificent view from our large telescopes.</strong></p>
 <p><strong>RESERVATIONS ONLY</strong></p>
 <p class="short">The ticket costs 10 euros. Seats are limited and tickets are available online only. </p>
 <h3>Tuesday 17th September 2024, TIME: 19:30 (UT+3)</h3>

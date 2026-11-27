@@ -425,7 +425,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">(База данных за 2008 - 2020 годы неполная из-за перестройки сайта)</p>
 <h2>2016 "KITION Science Café" - КОСМИЧЕСКИЙ СВЕТ ДОСТИГАЕТ КИПРА</h2>
 <div class="blocks">
-<div class="table-wrap"><table><tr><td><strong>10 ФЕВРАЛЯ </strong></td><td><strong>МЕЖДУНАРОДНЫЙ ДЕНЬ ДАРВИНА – ЕСТЕСТВЕННЫЙ ОТБОР </strong></td></tr><tr><td><strong>9 МАРТА </strong></td><td><strong>ПОЛНОЕ СОЛНЕЧНОЕ ЗАТМЕНИЕ 2016 “ЗАТМЕНИЯ В КУЛЬТУРЕ"</strong></td></tr><tr><td><strong>23 МАРТА </strong></td><td><strong>ЛУННОЕ ЗАТМЕНИЕ “ЗАТМЕНИЯ В КУЛЬТУРЕ"</strong></td></tr></table></div>
+<div class="table-wrap"><table><tr><td><strong>10 ФЕВРАЛЯ </strong></td><td><strong>МЕЖДУНАРОДНЫЙ ДЕНЬ ДАРВИНА – ЕСТЕСТВЕННЫЙ ОТБОР </strong></td></tr><tr><td><strong>9 МАРТА </strong></td><td><strong>ПОЛНОЕ СОЛНЕЧНОЕ ЗАТМЕНИЕ 2016 “ЗАТМЕНИЯ В КУЛЬТУРЕ”</strong></td></tr><tr><td><strong>23 МАРТА </strong></td><td><strong>ЛУННОЕ ЗАТМЕНИЕ “ЗАТМЕНИЯ В КУЛЬТУРЕ”</strong></td></tr></table></div>
 <div class="row keyval">
 <div class="block"><strong>30 МАРТА</strong></div>
 <div class="block"><strong>“MYTHODEA” (НА ГРЕЧЕСКОМ)</strong> <strong>МИССИЯ NASA: 2001 MARS ODYSSEY <br/> ДОКЛАДЧИК: КОНСТАНТИНА ЦОКУ</strong><strong>СПЕЦИАЛИСТ ПО ДРЕВНЕГРЕЧЕСКОЙ ЛИТЕРАТУРЕ</strong></div>
@@ -500,7 +500,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>2009 "KITION Science Café" - МЕЖДУНАРОДНЫЙ ГОД АСТРОНОМИИ</h2>
-<div class="table-wrap"><table><tr><td><strong>27 АВГУСТА</strong></td><td><strong>МАРСИАНСКАЯ МИСТИФИКАЦИЯ</strong></td></tr><tr><td><strong>6 ОКТЯБРЯ</strong></td><td><strong>"ЦИФРОВАЯ МОДЕЛЬ НОЧНОГО НЕБА" ДОКЛАДЧИК: </strong> <strong>ЯННОС ИОАННУ, АСТРОНОМ</strong> </td></tr><tr><td><strong>27 НОЯБРЯ</strong></td><td><strong>ЛЕКЦИИ - ОБСУЖДЕНИЯ “ЮПИТЕР И НАШ СПУТНИК ЛУНА"</strong></td></tr></table></div>
+<div class="table-wrap"><table><tr><td><strong>27 АВГУСТА</strong></td><td><strong>МАРСИАНСКАЯ МИСТИФИКАЦИЯ</strong></td></tr><tr><td><strong>6 ОКТЯБРЯ</strong></td><td><strong>"ЦИФРОВАЯ МОДЕЛЬ НОЧНОГО НЕБА" ДОКЛАДЧИК: </strong> <strong>ЯННОС ИОАННУ, АСТРОНОМ</strong> </td></tr><tr><td><strong>27 НОЯБРЯ</strong></td><td><strong>ЛЕКЦИИ - ОБСУЖДЕНИЯ “ЮПИТЕР И НАШ СПУТНИК ЛУНА”</strong></td></tr></table></div>
 <h2>2008 "KITION Science Café"</h2>
 <div class="table-wrap"><table><tr><td><strong>11 ОКТЯБРЯ</strong></td><td><strong>КОФЕ И ОБРАЗОВАТЕЛЬНАЯ ЛЕКЦИЯ ПО АСТРОНОМИИ</strong></td></tr><tr><td><strong>14 НОЯБРЯ</strong></td><td><strong>ВСЕМИРНАЯ НЕДЕЛЯ КОСМОСА "КОСМОС ДЛЯ ОБРАЗОВАНИЯ"</strong></td></tr><tr><td><strong>26 НОЯБРЯ</strong></td><td><strong>КОФЕ И КОСМИЧЕСКОЕ ОБРАЗОВАНИЕ</strong></td></tr></table></div>
 <p>Чтобы принять участие во встрече "KITION Science Café" в наших помещениях, необходимо заранее записаться.</p>

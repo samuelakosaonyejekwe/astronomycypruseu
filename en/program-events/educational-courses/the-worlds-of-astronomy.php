@@ -20,8 +20,8 @@ require SITE_ROOT . '/includes/header.php';
 </p>
 
 <p>Astronomy is the oldest science and it has its own language and methods.</p>
-<p>It is always interesting to find out how astronomers understand each other, despite of different places and times. </p>
-<p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to a special developed course for Gymnasium students, as part of the KITION ASTRONOMY ACADEMY. </p>
+<p>It is always interesting to find out how astronomers understand each other, despite different places and times.</p>
+<p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to a specially developed course for Gymnasium students, as part of the KITION ASTRONOMY ACADEMY.</p>
 <p>"THE WORLDS OF ASTRONOMY" starts in October.</p>
 <p>Each session consists of theoretical knowledge and practical skills. </p>
 <p>They include reading the star maps, understanding of eclipses and movement of celestial bodies, nature of stars and expanding of the Universe, and practical observations of the sky with telescopes. </p>

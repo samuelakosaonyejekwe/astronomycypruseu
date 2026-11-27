@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'program-events/astronomical-phenomena/valentina-tereshkova-8-march-2026',
     'title'       => 'Valentina Tereshkova 8 March 2026',
-    'description' => 'Join us at the KITION PLANETARIUM & OBSERVATORY premises in Kiti to observe this magnificant view from our large telescopes.',
+    'description' => 'Join us at the KITION PLANETARIUM & OBSERVATORY premises in Kiti to observe this magnificent view from our large telescopes.',
     'image'       => '/images/public-events/march-2026/international-women-day-8-march-2026.jpg',
     'translated'  => true,
 ];
@@ -24,7 +24,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">11:30 WELCOMING BY THE DIRECTOR </p>
 <p class="short">11:35 VALENTINA TERESHKOVA – FIRST WOMAN IN SPACE </p>
 <p>12:00 SOLAR OBSERVATIONS (WEATHER PERMITTING)</p>
-<p><strong>Join us at the KITION PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificant view from our large telescopes.</strong></p>
+<p><strong>Join us at the KITION PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificent view from our large telescopes.</strong></p>
 <p><strong>RESERVATIONS ONLY</strong></p>
 </article>
 <!-- ======================== CONTENT END ======================== -->

@@ -24,7 +24,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Программа мероприятия: воскресенье, 4 октября 2020 г., время: 12:00</p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION PLANETARIUM &amp; OBSERVATORY FB GROUP">НАЖМИТЕ ЗДЕСЬ, ЧТОБЫ ПРИСОЕДИНИТЬСЯ К ПРЯМОЙ ТРАНСЛЯЦИИ МЕРОПРИЯТИЯ</a></p>
 <p>Приветственное слово национального координатора Кипра, г-на Георгиоса Труллиаса.</p>
-<p>Вводная информация о глобальной инициативе Всемирной недели космоса Организации Объединённых Наций и роли спутников в улучшении нашей жизни.</p>
+<p>Вводная информация о глобальной инициативе Всемирной недели космоса Организации Объединённых Наций и и роли спутников в улучшении нашей жизни.</p>
 <div class="blocks">
 <p><strong>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</strong> является национальным координатором Кипра Всемирной недели космоса Организации Объединённых Наций.</p>
 <p>Всемирная неделя космоса — это объявленный ООН праздник космоса, который проводится ежегодно с 4 по 10 октября. Это крупнейшее космическое событие на Земле: в 2019 году о более чем 8 000 мероприятий сообщили из 96 стран. Эти мероприятия организуют тысячи организаций, включая космические агентства, аэрокосмические компании, астрономические клубы и музеи.</p>
@@ -48,7 +48,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Продемонстрировать общественную поддержку космических программ</p>
 <p>Вдохновлять молодёжь на занятия наукой, технологиями, инженерией и математикой</p>
 <p>Содействовать международному сотрудничеству в популяризации космоса и космическом образовании</p>
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="1053" decoding="async" height="385" loading="lazy" src="/images/observing-satellites.jpg" width="600"/></p></div><div class="block"><p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p><p class="lead">Ссылки:</p><p>Всемирная неделя космоса ООН <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p><p>Международные мероприятия Всемирной недели космоса ООН https://www.worldspaceweek.org/events/event-list/</p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="1053" decoding="async" height="385" loading="lazy" src="/images/observing-satellites.jpg" width="600"/></p></div><div class="block"><p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p><p class="lead">Ссылки:</p><p>Всемирная неделя космоса ООН <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p><p>Международные мероприятия Всемирной недели космоса ООН https://www.worldspaceweek.org/events/event-list/</p></div></div></div>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас...<br/> Присоединяйтесь к нашему выходу в открытый космос</p>
 </article>

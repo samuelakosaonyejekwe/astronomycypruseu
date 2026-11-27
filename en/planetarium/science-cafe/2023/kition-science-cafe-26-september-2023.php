@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'planetarium/science-cafe/2023/kition-science-cafe-26-september-2023',
     'title'       => 'Kition Science Cafe 26 September 2023',
-    'description' => 'Cosmonauts Yuriy V. Romanenko, Roman Y.Romanenko and Gennady M. Manakov',
+    'description' => 'Cosmonauts Yuriy V. Romanenko, Roman Y. Romanenko and Gennady M. Manakov',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -21,10 +21,10 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>TUESDAY 26TH SEPTEMBER 2023, TIME: 20:00 (UTC+3)</strong></p>
 <p class="short">20:00 WELCOMING BY GEORGE TROULLIAS (KITION PLANETARIUM &amp; OBSERVATORY)</p>
 <p class="short">20:05 COMPATRIOTS OF INTERPLANETARY SIGNIFICANCE (SVETLANA GARSHINA)</p>
-<p>Cosmonauts Yuriy V. Romanenko, Roman Y.Romanenko and Gennady M. Manakov</p>
-<p>Join our online science cafe and learn out about the famous cosmonauts of Buzuluk, in Orenburg region, Russia.</p>
+<p>Cosmonauts Yuriy V. Romanenko, Roman Y. Romanenko and Gennady M. Manakov</p>
+<p>Join our online science cafe and learn about the famous cosmonauts of Buzuluk, in Orenburg region, Russia.</p>
 <p><strong>Svetlana Garshina</strong></p>
-<p class="short">Svetlana Garshina is the owner of " Russkiy Kray" newspaper.</p>
+<p class="short">Svetlana Garshina is the owner of "Russkiy Kray" newspaper.</p>
 <p class="short">She is a Writer Interpreter, Translator, Passionate Linguist and Language Explorer</p>
 <p class="short">She is also a Short Story Writer and an Experienced Postcrosser.</p>
 <p class="short">Looking forward to the participation of the general public,  with questions and discussion.</p>
@@ -32,7 +32,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
 <p>Join Our Spacewalk!</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

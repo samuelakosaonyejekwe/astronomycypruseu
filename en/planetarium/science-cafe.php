@@ -47,7 +47,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row keyval">
 <div class="block"><strong>26 MAY 2026</strong></div>
-<div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2026/kition-science-cafe-26-may-2026.php"><strong>WHAT'S IN THE SKY IN JUNE? FULL BLUEW MOON. INTERNATIONAL CHILDREN'S DAY. NEWS.</strong></a></p>
+<div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2026/kition-science-cafe-26-may-2026.php"><strong>WHAT'S IN THE SKY IN JUNE? FULL BLUE MOON. INTERNATIONAL CHILDREN'S DAY. NEWS.</strong></a></p>
 <p class="short"><strong>SPEAKER: GEORGE TROULLIAS (DIRECTOR KITION PLANETARIUM &amp; OBSERVATORY (CYPRUS)) </strong></p></div>
 </div>
 <div class="row keyval">
@@ -189,7 +189,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row keyval">
 <div class="block"><strong>25 JUNE 2024</strong></div>
 <div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2024/kition-science-cafe-25-june-2024.php"><strong> ASTEROIDS AND DINOSAURS</strong></a></p>
-<dl class="specs"><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</dd><dt><strong>GUSET SPEAKER</strong></dt><dd> ALEXIS PANTELIDES (PALEONTOLOGIST)</dd></dl>
+<dl class="specs"><dt><strong>SPEAKER</strong></dt><dd> GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM &amp; OBSERVATORY)</dd><dt><strong>GUEST SPEAKER</strong></dt><dd> ALEXIS PANTELIDES (PALEONTOLOGIST)</dd></dl>
 </div>
 </div>
 <div class="row keyval">
@@ -292,7 +292,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <div class="row keyval">
 <div class="block"><strong>19 DECEMBER 2023</strong></div>
-<div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-19-december-2023.php"><strong>BEST CELESTIAL EVENTS IN 2024 - RESULTS OF GEMINDS RESEARCH</strong></a></p>
+<div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2023/kition-science-cafe-19-december-2023.php"><strong>BEST CELESTIAL EVENTS IN 2024 - RESULTS OF GEMINIDS RESEARCH</strong></a></p>
 <p class="short"><strong><strong>Prof. JULIO SAUCEDO MORALES</strong> (UNIVERSITY OF SONORA, MEXICO)</strong></p>
 <p class="short"><strong><strong>Prof. RAUL PEREZ-ENRIQUEZ</strong> (UNIVERSITY OF SONORA, MEXICO)</strong></p>
 <p class="short"><strong>KITION PLANETARIUM &amp; OBSERVATORY</strong></p></div>
@@ -369,7 +369,7 @@ require SITE_ROOT . '/includes/header.php';
 <strong>05 JANUARY 2021</strong>
 </div>
 <div class="block"><p class="short"><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-5-january-2021.php" title="KITION Science Café"><strong>RECENT METEOR SHOWER OBSERVATIONS AND ASTRONOMY NEWS</strong></a></p>
-<p class="short"><strong>BY THE KITON PLANETARIUM &amp; OBSERVATORY (CYPRUS) RESEARCH TEAM</strong></p></div>
+<p class="short"><strong>BY THE KITION PLANETARIUM &amp; OBSERVATORY (CYPRUS) RESEARCH TEAM</strong></p></div>
 </div>
 <div class="row keyval">
 <div class="block"><strong>19 JANUARY 2021</strong></div>
@@ -408,7 +408,7 @@ require SITE_ROOT . '/includes/header.php';
 </div><div class="table-wrap"><table><tr><td><strong> 11 MAY</strong><strong> 2021</strong></td><td><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-11-may-2021.php" title="KITION Science Café"><strong>2021 MARS EXPLORATION</strong></a>
 <strong>BY EKATERINI DEMETRIOU</strong> </td></tr><tr><td><strong>25 MAY</strong><strong> 2021</strong></td><td><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-25-may-2021.php" title="KITION Science Café"><strong>METEORITES</strong></a>
 <strong>BY TAKIS THEODOSSIOU</strong> </td></tr><tr><td><strong>08 JUN</strong><strong> 2021</strong></td><td><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-08-june-2021.php" title="KITION Science Café"><strong>THE HISTORY OF ASTEROID DAY</strong></a>
-<strong>BY GEORGE TROULLIAS</strong> </td></tr><tr><td><strong>22 JUN</strong><strong> 2021</strong></td><td><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-22-june-2021.php" title="KITION Science Café"><strong>PLASTIC POLUTION OVER SPACE AND TIME</strong></a>
+<strong>BY GEORGE TROULLIAS</strong> </td></tr><tr><td><strong>22 JUN</strong><strong> 2021</strong></td><td><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-22-june-2021.php" title="KITION Science Café"><strong>PLASTIC POLLUTION OVER SPACE AND TIME</strong></a>
 <strong>BY DR IRIS CHARALAMBIDOU</strong> </td></tr><tr><td><strong>06 JUL</strong><strong> 2021</strong></td><td><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-06-july-2021.php" title="KITION Science Café"><strong>THE SKY IN JULY AND AUGUST 2021</strong></a>
 <strong>BY ALEXANDR PROKOFYEV</strong> </td></tr><tr><td><strong>20 JUL</strong><strong> 2021</strong></td><td><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-20-july-2021.php" title="KITION Science Café"><strong>AMATEUR ASTRONOMY AND LIVE INTERACTION</strong></a>
 <strong>BY OLEG KRYKLYA</strong> </td></tr><tr><td><strong>03 AUG</strong><strong> 2021</strong></td><td><a href="/en/planetarium/science-cafe/2021/kition-science-cafe-03-august-2021.php" title="KITION Science Café"><strong>FROM PLATES TO PIXELS</strong></a>
@@ -448,7 +448,7 @@ require SITE_ROOT . '/includes/header.php';
  APRIL <strong>–</strong> GLOBAL ASTRONOMY MONTH 2016</h3>
 <div class="table-wrap"><table><tr><td><strong>6 APRIL </strong></td><td><strong>"JUPITER THE KING OF PLANETS"</strong></td></tr><tr><td><strong>13 APRIL</strong></td><td><strong>“LUNAR EXPLORATIONS”<br/>
 </strong></td></tr><tr><td> <strong>4 MAY</strong></td><td><strong>“UNIVERSE” </strong></td></tr><tr><td><strong>11 MAY</strong></td><td><strong>“HOW TO OBSERVE UFO”</strong></td></tr><tr><td><strong>25 MAY</strong></td><td><strong>“MARS COLONIZATION” </strong></td></tr></table></div>
-<h2>2015 "KITION Science Café" INTERNATIONAL YEAR OF LIGHT AND LIGHT-BASED ECHNOLOGIES</h2>
+<h2>2015 "KITION Science Café" INTERNATIONAL YEAR OF LIGHT AND LIGHT-BASED TECHNOLOGIES</h2>
 <div class="blocks">
 <div class="row keyval">
 <div class="block"><strong>21 JANUARY</strong></div>
@@ -507,11 +507,11 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <h2>2009 "KITION Science Café" - INTERNATIONAL YEAR OF ASTRONOMY</h2>
 <div class="table-wrap"><table><tr><td><strong>27 AUGUST</strong></td><td><strong>MARS HOAX</strong></td></tr><tr><td><strong>6 OCTOBER</strong></td><td><strong>"DIGITAL SIMULATION OF THE NIGHT SKY" SPEAKER: </strong>
-<strong>YIANNOS IOANNOU, ASTRONOMER</strong> </td></tr><tr><td><strong>27 NOVEMBER</strong></td><td><strong>LECTURES - DISCUSSIONS “JUPITER AND OUR STELLITE THE MOON"</strong></td></tr></table></div>
+<strong>YIANNOS IOANNOU, ASTRONOMER</strong> </td></tr><tr><td><strong>27 NOVEMBER</strong></td><td><strong>LECTURES - DISCUSSIONS “JUPITER AND OUR SATELLITE THE MOON"</strong></td></tr></table></div>
 <h2>2008 "KITION Science Café"</h2>
 <div class="table-wrap"><table><tr><td><strong>11 OCTOBER</strong></td><td><strong>COFFEE AND EDUCATIONAL ASTRONOMY LECTURE</strong></td></tr><tr><td><strong>14 NOVEMBER</strong></td><td><strong>WORLD SPACE WEEK "SPACE FOR EDUCATION"</strong></td></tr><tr><td><strong>26 NOVEMBER</strong></td><td><strong>COFFEE AND SPACE EDUCATION</strong></td></tr></table></div>
 <p>To attend a "KITION Science Café" meeting at our premises you need to book in advance.</p>
-<p>To attend a "KITION Science Café" meeting online, you just need to follow the provided link for the metting.</p>
+<p>To attend a "KITION Science Café" meeting online, you just need to follow the provided link for the meeting.</p>
 <p>You can share with us your ideas, or topics you wish us to have in a "KITION Science Café" meeting in the near future. </p>
 <p>Feel free to let us know during the meeting or contact via email.</p>
 </article>

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'planetarium/science-cafe/2025/kition-science-cafe-25-november-2025',
     'title'       => 'KITION Science Café – 25 ноября 2025',
-    'description' => '20:05 ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В НАШЕЙ ЖИЗНИ. ДОКЛАДЧИК: ДР ЗАХ АНТИС, УНИВЕРСИТЕТ НЕАПОЛИС)',
+    'description' => '20:05 ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В НАШЕЙ ЖИЗНИ. ДОКЛАДЧИК: (ДР ЗАХ АНТИС, УНИВЕРСИТЕТ НЕАПОЛИС)',
     'image'       => '/images/science-cafe/kition-science-cafe-images-2025/science-cafe-25-november-2025.jpg',
     'translated'  => true,
 ];
@@ -22,7 +22,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Присоединиться к встрече Zoom</strong></a></p>
 <dl class="specs"><dt><strong>ID встречи</strong></dt><dd> 831 2336 2644</dd><dt><strong>Код доступа</strong></dt><dd> kition</dd></dl>
 <h3><strong>20:00 ПРИВЕТСТВЕННОЕ СЛОВО ДИРЕКТОРА (Г-НА ДЖОРДЖА ТРУЛЛИАСА)</strong></h3>
-<p><strong>20:05 ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В НАШЕЙ ЖИЗНИ. ДОКЛАДЧИК: <a href="https://www.nup.ac.cy/faculty/zach-anthis/" rel="noopener noreferrer" target="_blank">ДР ЗАХ АНТИС, УНИВЕРСИТЕТ НЕАПОЛИС)</a></strong></p>
+<p><strong>20:05 ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В НАШЕЙ ЖИЗНИ. ДОКЛАДЧИК: <a href="https://www.nup.ac.cy/faculty/zach-anthis/" rel="noopener noreferrer" target="_blank">(ДР ЗАХ АНТИС, УНИВЕРСИТЕТ НЕАПОЛИС)</a></strong></p>
 <p>Искусственный интеллект (ИИ) глубоко вошёл в повседневную жизнь, действуя повсюду — от смартфонов и поисковых систем до здравоохранения и транспортных систем, зачастую даже без ведома пользователей. Его влияние повсеместно:</p>
 <p>он даёт множество преимуществ, таких как повышение эффективности и персонализированный опыт, но в то же время создаёт проблемы, такие как угрозы конфиденциальности и возможная потеря рабочих мест.</p>
 <p>Присоединяйтесь, чтобы узнать больше...</p>

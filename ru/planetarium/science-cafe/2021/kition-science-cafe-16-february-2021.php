@@ -19,7 +19,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><a href="https://astronomycyprus.eu/gift-shop/shop/" rel="noopener noreferrer" target="_blank"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p></div><div class="block media"><p><img alt="" data-nw="1920" decoding="async" height="366" loading="lazy" src="/images/science-cafe/science-cafe-16-february-2021.jpg" width="650"/></p></div></div></div>
 
 <p class="short">19 ЯНВАРЯ 2021</p>
-<p class="short">ПЛАНЕТАРИЙ И ОБФЕВРАЛЯСЕРВАТОРИЯ КИТИОНА</p>
+<p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ КИТИОНА</p>
 <p class="short">19:00 « ИЗУЧЕНИЕ ЛУНЫ: С ЗЕМЛИ, ИЗ КОСМОСА И С ПОВЕРХНОСТИ ЛУНЫ» ОНЛАЙН НАУЧНОЕ КАФЕ</p>
 <p>Астроном Уильям Джойс.</p>
 <p>С самого своего основания ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ КИТИОНА проводит научные кафе, на которых все присутствующие свободно обмениваются мнениями.</p>

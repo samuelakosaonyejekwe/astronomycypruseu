@@ -28,7 +28,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>by spending 60 minutes doing </h2>
 <h2>something - anything - positive for our planet.</h2>
 <h2>Over 385,284 people from 175 countries and territories are pledging to give:</h2>
-<ul class="items"><li>33,627 hours Reconnecting with our planet </li><li>26,147 hours Restoring our planet </li><li>320,892 hours Learning more about our planet </li><li>1,555 hours Inspiring others to take care for our planet </li><li>3,063 hours Finding other ways to make an impact</li></ul>
+<ul class="items"><li>33,627 hours Reconnecting with our planet </li><li>26,147 hours Restoring our planet </li><li>320,892 hours Learning more about our planet </li><li>1,555 hours Inspiring others to take care of our planet</li><li>3,063 hours Finding other ways to make an impact</li></ul>
 </div>
 </div>
 </div>
@@ -41,7 +41,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <p><strong>EARTH HOUR 60 2026 - CELEBRATIONS IN CYPRUS BY THE KITION PLANETARIUM &amp; OBSERVATORY</strong> </p>
-<p> This year the KITOIN PLANETARIUM &amp; OBSERVATORY will host an event at its premises in Kiti on <strong>Saturday 28th March, at 20:00 Cyprus local time</strong>.</p>
+<p>This year the KITION PLANETARIUM &amp; OBSERVATORY will host an event at its premises in Kiti on <strong>Saturday 28th March, at 20:00 Cyprus local time</strong>.</p>
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="1257" decoding="async" height="542" loading="lazy" src="/images/earth-hour-60%2B/earth-hour-60%2B.png" width="505"/></p></div><div class="block"><h2>EVENT'S PROGRAM: SATURDAY 28TH MARCH 2026, TIME: 20:00</h2><p class="short">WELCOMING BY THE KITION PLANETARIUM &amp; OBSERVATORY, DIRECTOR, MR. GEORGE TROULLIAS.</p><p>"<strong>UNITING FOR PEOPLE AND OUR PLANET</strong>" (PRESENTATION WITH VIDEO)</p><p>AWARENESS INTRODUCTION TO THE GLOBAL INITIATIVE FOR "EARTH HOUR 60" AND THE ROLE IT PLAYS IN OUR LIVES.</p><p> TELESCOPE OBSERVATIONS (WEATHER PERMITTING)</p></div></div></div>
 <h3>*BUY YOUR TICKETS HERE - TICKETS AVAILABLE ONLINE ONLY*</h3>
 <p>
@@ -99,7 +99,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><p class="short">EARTH HOUR 60+ 2025 CELEBRATIONS</p>
 <p class="short">20:15 - 20:45 "<strong>GIVE AN HOUR FOR EARTH DOING SOMETHING YOU LOVE</strong>" (PRESENTATION WITH VIDEO)</p>
 <p class="short">20:30 - 21:30 LIGHTS OFF</p>
-<p class="short">20:45 TELESCOPE OBSERVATIONS ( WEATHER PERMITTING)</p></div>
+<p class="short">20:45 TELESCOPE OBSERVATIONS (WEATHER PERMITTING)</p></div>
 </div>
 </div>
 <p class="short"><strong>2024</strong></p>
@@ -144,7 +144,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">SAT 27 MARCH 20:30 </p>
 </div>
 <div class="block"><p class="short">EARTH HOUR 60+ 2021 CELEBRATIONS</p>
-<p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">ONELINE ZOOM MEETING</a></p>
+<p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">ONLINE ZOOM MEETING</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
 </div>
 </div>
@@ -281,7 +281,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to 
  participate in the events for EARTH HOUR 60+</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"> EARTH HOUR 60+ <a href="https://www.earthhour.org/" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/</a></p>
 <p class="short">INTERNATIONAL EVENTS FOR EARTH HOUR 60+ <a href="https://www.earthhour.org/take-part/events" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/take-part/events</a></p>

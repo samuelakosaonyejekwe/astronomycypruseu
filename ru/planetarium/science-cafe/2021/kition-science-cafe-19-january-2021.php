@@ -20,7 +20,7 @@ require SITE_ROOT . '/includes/header.php';
 
 <p class="short">19 ЯНВАРЯ 2021</p>
 <p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ КИТИОНА</p>
-<p>19:00 « ВОЗВРАЩЕНИЕ САПСАНА» ОНЛАЙН НАУЧНОЕ КАФЕ</p>
+<p>19:00 «ВОЗВРАЩЕНИЕ САПСАНА» ОНЛАЙН НАУЧНОЕ КАФЕ</p>
 <p>С самого своего основания ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ КИТИОНА проводит научные кафе, на которых все присутствующие свободно обмениваются мнениями.</p>
 <p>В 2021 году оно проходит онлайн. Первая встреча собрала 29 участников из Кипра,</p>
 <p>Испании и Соединённого Королевства. Обсуждались наблюдения главного события новогодних праздников – тесное соединение Юпитера и Сатурна. Эти наблюдения проходили и на Кипре и по всему миру.</p>
@@ -32,7 +32,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Присоединяйтесь к нашей космической прогулке! </p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
 <dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к конференции Zoom</a></p>
 <dl class="specs"><dt>Идентификатор конференции</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>

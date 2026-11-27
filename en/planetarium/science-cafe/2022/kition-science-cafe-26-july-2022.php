@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'planetarium/science-cafe/2022/kition-science-cafe-26-july-2022',
     'title'       => 'Kition Science Cafe 26 July 2022',
-    'description' => '20:00 (UT+3) " Sharp Eye of James Webb Space Telescope” ONLINE SCIENCE CAFÉ',
+    'description' => '20:00 (UT+3) " Sharp Eye of James Webb Space Telescope" ONLINE SCIENCE CAFÉ',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -21,7 +21,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>7<img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-26-july-2022.jpg" width="800"/></p>
 <p class="short">26 JULY 022</p>
 <p class="short">KITION PLANETARIUM &amp; OBSERVATORY</p>
-<p class="short">20:00 (UT+3) "<strong>Sharp Eye of James Webb Space Telescope”</strong> ONLINE SCIENCE CAFÉ</p>
+<p class="short">20:00 (UT+3) "<strong>Sharp Eye of James Webb Space Telescope"</strong> ONLINE SCIENCE CAFÉ</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
 <p>Since 2008 KITION PLANETARIUM &amp; OBSERVATORY has offered Science Café sessions for all visitors to share their passion for science and astronomy.</p>
@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">20:00 (UT+3:00) «<strong>Sharp Eye of James Webb Space Telescope</strong>» </p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
 <p><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-26-july-2022.jpg" width="800"/></p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 
 <p class="short">The KITION PLANETARIUM &amp; OBSERVATORY invites you to...<br/>
 Join our spacewalk</p>

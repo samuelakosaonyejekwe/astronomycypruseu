@@ -21,8 +21,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Our programs make the events brighter and more interesting.
 </p><p>There are always telescope observations available giving the chance to the general public for a unique experience of the Cosmos,
   but at the same time giving them the opportunity to combine education and entertainment with STEAM workshops
-  which also help in personal development and encouragin them to get involved in the fields of Science, Astronomy and Astrophysics.
- </p>
+  which also help in personal development and encouraging them to get involved in the fields of Science, Astronomy and Astrophysics.</p>
 <div class="blocks">
 <div class="row gallery captioned tiles"><div class="block">
 <p><a href="/en/charity/christina-a-apostolou-foundation.php"><img alt="CHRISTINA A. APOSTOLOU FOUNDATION" data-nw="290" decoding="async" height="200" loading="lazy" src="/images/charity/christina-apostolou-festival/chr_a_apostolou_logo.png" width="200"/></a></p>

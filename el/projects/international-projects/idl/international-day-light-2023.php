@@ -19,7 +19,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p class="short">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2023 - ΚΥΠΡΟΣ</p><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" decoding="async" height="203" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/IDL_logo.jpg" width="375"/></p><p class="short"><strong>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2023 - ΚΥΠΡΟΣ</strong></p></div></div></div></div><div class="block"><p class="short"><strong>#dayoflight2023 #LightDay2023 #IDL2023 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT</strong></p><p><a href="https://youtu.be/dd82jaztFIo" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" height="601" loading="lazy" src="https://astronomycyprus.eu/images/cosmic-light-cyprus.jpg" width="750"/></a></p><p class="short"><strong>ΕΟΡΤΑΣΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ ΣΤΗΝ ΚΥΠΡΟ</strong></p></div></div></div>
 <p>Η επίσημη εκδήλωση της Κύπρου θα πραγματοποιηθεί στις εγκαταστάσεις του ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ στο Κίτι την Τρίτη 16 Μαΐου, στις 20:00 ώρα Κύπρου.</p>
 <p>ΜΟΝΟ ΜΕ ΚΡΑΤΗΣΗ - ΚΑΛΕΣΤΕ 99991111</p>
-<h3>ΤΡΙΤΗ 16 ΜΑΪΟΥ 2022, ΩΡΑ: 20:00 (UTC+3)</h3>
+<h3>ΤΡΙΤΗ 16 ΜΑΪΟΥ 2023, ΩΡΑ: 20:00 (UTC+3)</h3>
 <h3>ΤΟΠΟΣ: ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ (ΚΙΤΙ, ΚΥΠΡΟΣ)</h3>
 <p><img alt="" decoding="async" height="598" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-may-16-2023.jpg" width="800"/></p>
 <h4>ΠΡΟΓΡΑΜΜΑ ΤΗΣ ΕΚΔΗΛΩΣΗΣ</h4>

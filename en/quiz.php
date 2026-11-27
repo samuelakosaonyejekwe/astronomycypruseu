@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'quiz',
     'title'       => 'Quiz of the Month',
-    'description' => 'One of the best ways to learn or test your knowledge is by playing and taking quizes.',
+    'description' => 'One of the best ways to learn or test your knowledge is by playing and taking quizzes.',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];
@@ -22,10 +22,10 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block media"><img alt="" data-nw="400" decoding="async" height="245" loading="lazy" src="/images/quiz-challenge-logo.jpg" width="200"/></div>
 <div class="block">
 <p class="short"><strong>Astronomy and sciences are fun.</strong></p>
-<p><strong>One of the best ways to learn or test your knowledge is by playing and taking quizes.</strong></p>
-<p><strong>Our organization will be posting quizes on this pages in different periods to challenge yourself.</strong></p>
-<p><strong>RULE 1. Send us an e-mail with your answers and you will automatically enter the draw for a <em>scholarship</em></strong> <strong>for one of our Educatioinal Courses for beginners, "READ THE SKY".</strong></p>
-<p><strong>RULE 2. If you give all the correct answers and join our newsleter,</strong> <strong>then you will receive <em>€10 discount</em> for any <a href="/en/program-events/private-programs.php">private event</a> booking.</strong></p>
+<p><strong>One of the best ways to learn or test your knowledge is by playing and taking quizzes.</strong></p>
+<p><strong>Our organization will be posting quizzes on these pages in different periods to challenge yourself.</strong></p>
+<p><strong>RULE 1. Send us an e-mail with your answers and you will automatically enter the draw for a <em>scholarship</em></strong> <strong>for one of our Educational Courses for beginners, "READ THE SKY".</strong></p>
+<p><strong>RULE 2. If you give all the correct answers and join our newsletter,</strong> <strong>then you will receive <em>€10 discount</em> for any <a href="/en/program-events/private-programs.php">private event</a> booking.</strong></p>
 <h2><strong>E-mail: spacewalk@cytanet.com.cy</strong></h2>
 </div>
 </div>
@@ -63,7 +63,7 @@ require SITE_ROOT . '/includes/header.php';
 <p> Future Spacewalks will be endless! In every single spacewalk astronauts apply science and explore for the betterment of humanity!</p>
 <p>So, join our spacewalk for an endless sharing of knowledge and experience… </p>
 <p>Just send us an <a href="mailto:spacewalk@cytanet.com.cy" title="SPACEWALKER NEWLETTER">e-mail</a> with your answers and your details for a FREE subscription to our monthly newsletter.</p>
-<p>We will keep you informed about our public activities and important news and discoveries. (The frequency of e-mails are around 10 per year) </p>
+<p>We will keep you informed about our public activities and important news and discoveries. (The frequency of e-mails is around 10 per year)</p>
 <div class="blocks"><div class="row split"><div class="block media"><p><a class="doc-link" href="/docs/quiz-of-the-month-challenge.pdf" rel="noopener" target="_blank"><img alt="" data-nw="450" decoding="async" height="200" loading="lazy" src="/images/quiz-button.png" title="QUIZ ANSWER SHETT" width="200"/></a>
 </p></div><div class="block"><p class="short"><strong>ANSWERS FOR THE QUIZ WILL BE POSTED HERE IN JUNE 2025</strong>
 </p><p class="short"><strong>(CHECK AT THE END OF THE PAGE)</strong>
@@ -79,7 +79,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">2. A - Venus </p>
 <p class="short">3. A - Nova </p>
 <p class="short">4. A - Mars and Jupiter</p>
-<p class="short">5. A - Gallileo Gallilei</p>
+<p class="short">5. A - Galileo Galilei</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

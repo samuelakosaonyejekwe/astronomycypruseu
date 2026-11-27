@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'observatory/public-observations',
     'title'       => 'Public Observations',
-    'description' => 'Throughout the year, the Observatory announces events for the general public which allow them the observations of intersting celestial bodies and phenomena (e.g. eclipses, Supermoon, planet…',
+    'description' => 'Throughout the year, the Observatory announces events for the general public which allow them the observations of interesting celestial bodies and phenomena (e.g. eclipses, Supermoon, planet…',
     'image'       => '/images/NextEventCall99991111.jpg',
     'translated'  => true,
 ];
@@ -19,7 +19,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><img alt="" data-nw="650" decoding="async" height="389" loading="lazy" src="/images/NextEventCall99991111.jpg" width="600"/></h2>
 
 <h2><strong>PUBLIC OBSERVATIONS</strong></h2>
-<p>Throughout the year, the Observatory announces events for the general public which allow them the observations of intersting celestial bodies and phenomena (e.g. eclipses, Supermoon, planet oppositions, meteor showers, bright comets, nebulae and galaxies).</p>
+<p>Throughout the year, the Observatory announces events for the general public which allow them the observations of interesting celestial bodies and phenomena (e.g. eclipses, Supermoon, planet oppositions, meteor showers, bright comets, nebulae and galaxies).</p>
 <p>Subscribe to our <a href="mailto:planetarium@cytanet.com.cy">newsletter</a> now, so that you don't miss any future events.</p>
 <p>All telescope observations events are combined with planetarium programs and/or informative lectures and presentations.</p>
 <p>Observations are also available for all those who register for our educational courses and programs at the <a href="/en/program-events/educational-courses/kition-astronomy-academy.php">KITION ASTRONOMY ACADEMY</a>.</p>
@@ -32,7 +32,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Night observations may include Moons, planets, asterisms, nebulae, galaxies and other deep sky objects.</p>
 <h2><em>Radio Range</em></h2>
 <p>Solar or Jovian bursts and meteors can be observed using the radiotelescope. </p>
-<p><strong>It is possible to order customized educational/enternainment private/group observations according to your needs. </strong></p>
+<p><strong>It is possible to order customized educational/entertainment private/group observations according to your needs. </strong></p>
 <p><strong>Book your event by tel. <a href="tel:+35799991111">+357 99991111</a> or <a href="/en/contact-us.php">Contact us </a>for further information.</strong></p>
 </article>
 <!-- ======================== CONTENT END ======================== -->

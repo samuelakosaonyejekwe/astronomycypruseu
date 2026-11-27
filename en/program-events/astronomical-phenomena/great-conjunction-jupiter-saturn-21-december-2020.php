@@ -32,9 +32,7 @@ require SITE_ROOT . '/includes/header.php';
 <li>the first day of summer (summer solstice) in the Southern Hemisphere.</li>
 </ul><p>But this year, on Monday 21 December 2020 the close encounter of planets Jupiter and Saturn will light up the sky.</p></div></div></div>
 <div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="550" decoding="async" height="550" loading="lazy" src="/images/great-conjunction-21-dec-2020/jupiter-saturn-close-encounter-naked-eye.jpg" width="550"/></p></div><div class="block"><p class="short">Great Conjunction of Jupiter and Saturn - Naked eye view</p><p class="short">(Image for Cyprus local time 17:40)</p><ul>
-<li>
- This rare phenomenon of these two planets is known as a great conjunction.
-</li>
+<li>This rare phenomenon of these two planets is known as a great conjunction,</li>
 <li>
 making these two outer planets appear close together in our night sky.
 </li>

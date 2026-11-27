@@ -58,7 +58,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </li>
 </ol>
-<div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="1700" decoding="async" height="647" loading="lazy" src="/images/inomn/403_Moon_Bingo.jpg" width="500"/></p><p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p><p>Присоединяйтесь к нашему выходу в космос...</p></div></div></div>
+<div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="1700" decoding="async" height="647" loading="lazy" src="/images/inomn/403_Moon_Bingo.jpg" width="500"/></p><p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p><p>Присоединяйтесь к нашему выходу в космос...</p></div></div></div>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

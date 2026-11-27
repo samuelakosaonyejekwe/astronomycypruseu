@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'partners',
     'title'       => 'Partners',
-    'description' => 'All the most successfull projects in history are conducted collectively,Modern world with its tendency to globalization gives a lot of chances and opportunities to achieve the goals together.',
+    'description' => 'All the most successful projects in history are conducted collectively. Modern world with its tendency to globalization gives a lot of chances and opportunities to achieve the goals together.',
     'image'       => '/images/partners/bend.jpg',
     'translated'  => true,
 ];
@@ -16,9 +16,9 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<p><strong>All the most successfull projects in history are conducted collectively,Modern world with its tendency to globalization</strong> <strong>gives a lot of chances </strong> <strong>and opportunities to achieve the goals together.</strong></p>
+<p><strong>All the most successful projects in history are conducted collectively. Modern world with its tendency to globalization</strong> <strong>gives a lot of chances </strong> <strong>and opportunities to achieve the goals together.</strong></p>
 <p><strong>The KITION PLANETARIUM &amp; OBSERVATORY is proud to cooperate with many organizations in Cyprus and around the globe. </strong></p>
-<p><strong>Since our establishment we grew fruitful and friendly relations and cooperations</strong> <strong>with many different organizations, companies, schools, universitiew and governments.</strong></p>
+<p><strong>Since our establishment we grew fruitful and friendly relations and cooperations</strong> <strong>with many different organizations, companies, schools, universities and governments.</strong></p>
 <div class="blocks">
 <div class="row gallery captioned tiles"><div class="block"><img alt="" data-nw="644" decoding="async" height="150" loading="lazy" src="/images/partners/wealden-astronomers-logo.jpg" width="150"/><h2>WEALDEN ASTRONOMERS (UK)</h2>
 </div><div class="block"><img alt="" data-nw="150" decoding="async" height="152" loading="lazy" src="/images/partners/bend.jpg" width="150"/><h2><a href="/en/partners/bend-astronomy-club.php">BEND ASTRONOMY MEETUP (OREGON, USA)</a></h2>

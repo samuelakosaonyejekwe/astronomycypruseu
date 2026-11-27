@@ -29,11 +29,11 @@ require SITE_ROOT . '/includes/header.php';
 <p>We consider it a great success. It was related to the observations of the main event of the Christmas holidays.</p>
 <p>The great conjunction of two bright planets Jupiter and Saturn.</p>
 <p class="short">This celestial event was observed from Cyprus and all over the globe. </p>
-<p>The event was discussed in details with people sharing their experiences and observations.</p>
+<p>The event was discussed in detail with people sharing their experiences and observations.</p>
 <p>The ideal conditions for the observations of a minor meteor shower on the 9th of January attracted the attention of the participants.</p>
 <p>This meeting will be dedicated to the return of the Peregrine, after a successful long journey flight.</p>
 <p>For the second time, the second Peregrine visited an asteroid and brought back to Earth, samples from it.</p>
-<p>Hayabusa is the Japanese name for "Peregrine" and it the name given to the JAXA space programs.</p>
+<p>Hayabusa is the Japanese name for "Peregrine" and it is the name given to the JAXA space programs.</p>
 <p>Free entrance</p>
 <p class="short">Join Our Spacewalk!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
@@ -42,7 +42,7 @@ require SITE_ROOT . '/includes/header.php';
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

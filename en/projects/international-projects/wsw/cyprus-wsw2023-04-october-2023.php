@@ -33,14 +33,14 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">(Former Research fellow at ESTEC European Space Research and Technology Centre)</p>
 <p class="short"> <strong>Eleonora Kaiser</strong><strong> (Cypriot Analog Astronaut - Astrophysicist)</strong></p>
 <p class="short"><strong> Evandros Theodosiou (Cypriot Analog Astronaut - Mechanical Engineer) </strong></p>
-<p class="short"><strong>Contantinos Troullias</strong><strong> (Cypriot Analog Astronaut - Biological Scientist)</strong></p>
+<p class="short"><strong>Constantinos Troullias</strong><strong> (Cypriot Analog Astronaut - Biological Scientist)</strong></p>
 <h2><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></h2>
 <h2>Meeting ID: 831 2336 2644</h2>
 <h2>Passcode: kition</h2>
 <p>World Space Week is an international celebration of science and technology,  and their contribution to the betterment of the human condition. </p>
 <p>The United Nations General Assembly declared in 1999 that World Space Week will be held each year from October 4-10.</p>
 <p class="lead"> These dates commemorate two events:</p>
-<dl class="specs"><dt>October 4, 1957</dt><dd> Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</dd><dt> October 10, 1967</dt><dd> The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space,  including the Moon and Other Celestial Bodies.</dd></dl>
+<dl class="specs"><dt>October 4, 1957</dt><dd> Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</dd><dt>October 10, 1967</dt><dd> The signing of the Treaty on Principles Governing the Activities of States in the Exploration and Peaceful Uses of Outer Space, including the Moon and Other Celestial Bodies.</dd></dl>
 <p class="short">This year's theme is <strong>"SPACE AND ENTREPRENEURSHIP"</strong>.</p>
 <h2>Free entrance.</h2>
 <p class="short">Join Our Spacewalk!</p>
@@ -48,7 +48,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>Meeting ID: 831 2336 2644</h2>
 <h2>Passcode: kition</h2>
 <p>UN WSW2023 OFFICIAL REGISTRATION LINK: https://www.worldspaceweek.org/events/event-details/?eventID=64971 </p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

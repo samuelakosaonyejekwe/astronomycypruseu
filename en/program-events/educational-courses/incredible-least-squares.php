@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'program-events/educational-courses/incredible-least-squares',
     'title'       => 'Incredible Least Squares',
-    'description' => 'We would like to inform you about our online summer sessions INCRFEDIBLE LEAST SQUARES specifically prepared for Lyceum students.',
+    'description' => 'We would like to inform you about our online summer sessions INCREDIBLE LEAST SQUARES specifically prepared for Lyceum students.',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -20,7 +20,7 @@ require SITE_ROOT . '/includes/header.php';
 </p></div></div></div>
 
 <p>Dear members and friends of the KITION PLANETARIUM &amp; OBSERVATORY,</p>
-<p>We would like to inform you about our online summer sessions INCRFEDIBLE LEAST SQUARES specifically prepared for Lyceum students.</p>
+<p>We would like to inform you about our online summer sessions INCREDIBLE LEAST SQUARES specifically prepared for Lyceum students.</p>
 <p>It uncovers the kitchen of scientists: how they find accurate relations between measured different physical values!</p>
 <p>This course is useful for students, who wish to know more about numerical analysis. </p>
 <p>It provides the skills to present own research and estimate the relations between different values with the help of method of least squares. </p>

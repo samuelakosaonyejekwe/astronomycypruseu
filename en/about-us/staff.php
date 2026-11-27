@@ -18,8 +18,7 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h2>VOLUNTEERS</h2>
 <h3><strong>The operation of our organization is based upon voluntary services only.</strong></h3>
-<h3><strong>Our staff are volunteeers who offer their services unpaid/free </strong>of charge
- </h3>
+<h3><strong>Our staff are volunteers who offer their services unpaid/free </strong>of charge</h3>
 <h3><strong>for the society and the environment to benefit</strong></h3>
 <h3><strong>from the promotion of science, </strong><strong>astronomy and space exploration,</strong> </h3>
 <h3>through outreach, awareness and research.</h3>

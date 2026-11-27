@@ -27,8 +27,8 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong>WHAT IS ASTEROID DAY?</strong></h2>
 <p><strong>The International Asteroid Day is a global movement that helps</strong> to <strong>protect the Earth from asteroids.</strong></p>
 <p>Since the year 2016, the KITION PLANETARIUM &amp; OBSERVATORY was appointed as the Cyprus Regional Coordinator for Asteroid Day.</p>
-<p>Every year, the KITON PLANETARIUM &amp; OBSERVATORY organizes and coordinates events in Cyprus, but also online events, which are available internationally.</p>
-<p> The KITION PLANETARIUM &amp; OBSERVATORY all the the year around, emphasises the importance of the knowledge on asteroids.</p>
+<p>Every year, the KITION PLANETARIUM &amp; OBSERVATORY organizes and coordinates events in Cyprus, but also online events, which are available internationally.</p>
+<p>The KITION PLANETARIUM &amp; OBSERVATORY all the year around, emphasises the importance of the knowledge on asteroids.</p>
 <p>Many of its programs, workshops and astronomy courses include sessions and references on asteroids.</p>
 <p>In addition, our team searches for new asteroids and we are proud to have our own asteroid discoveries.</p>
 <p>Looking forward to the participation of the general public,  with questions, recommendations and dialogue.</p>
@@ -37,7 +37,7 @@ require SITE_ROOT . '/includes/header.php';
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
 <p class="short">Join Our Spacewalk!</p>
 <p><a href="/en/projects/international-projects/asteroid-day.php" title="ASTEROID DAY">Learn more about ASTEROID DAY</a></p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

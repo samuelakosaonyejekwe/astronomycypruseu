@@ -31,7 +31,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">FIND OUT THE TRUTH!</p>
 <p class="short">LEARN ABOUT THE PLANETS</p>
 <p>TELESCOPE OBSERVATIONS OF JUPITER AND MARS (WEATHER PERMITTING)</p>
-<p><strong>Join us at the KITION PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificant view from our large telescopes.</strong></p>
+<p><strong>Join us at the KITION PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificent view from our large telescopes.</strong></p>
 <p><strong>RESERVATIONS ONLY</strong></p>
 <p class="short">The ticket costs 15 euros. Seats are limited and tickets are available online only.</p>
 <h2><strong>BUY YOUR TICKETS HERE</strong></h2>

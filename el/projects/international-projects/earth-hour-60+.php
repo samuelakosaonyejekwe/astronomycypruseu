@@ -93,7 +93,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><p class="short">ΕΟΡΤΑΣΜΟΙ ΩΡΑΣ ΤΗΣ ΓΗΣ 60+ 2025</p>
 <p class="short">20:15 - 20:45 «<strong>ΧΑΡΙΣΤΕ ΜΙΑ ΩΡΑ ΓΙΑ ΤΗ ΓΗ ΚΑΝΟΝΤΑΣ ΚΑΤΙ ΠΟΥ ΑΓΑΠΑΤΕ</strong>» (ΠΑΡΟΥΣΙΑΣΗ ΜΕ ΒΙΝΤΕΟ)</p>
 <p class="short">20:30 - 21:30 ΣΒΗΣΙΜΟ ΦΩΤΩΝ</p>
-<p class="short">20:45 ΠΑΡΑΤΗΡΗΣΕΙΣ ΜΕ ΤΗΛΕΣΚΟΠΙΑ ( ΕΦΟΣΟΝ ΤΟ ΕΠΙΤΡΕΠΟΥΝ ΟΙ ΚΑΙΡΙΚΕΣ ΣΥΝΘΗΚΕΣ)</p></div>
+<p class="short">20:45 ΠΑΡΑΤΗΡΗΣΕΙΣ ΜΕ ΤΗΛΕΣΚΟΠΙΑ (ΕΦΟΣΟΝ ΤΟ ΕΠΙΤΡΕΠΟΥΝ ΟΙ ΚΑΙΡΙΚΕΣ ΣΥΝΘΗΚΕΣ)</p></div>
 </div>
 </div>
 <p class="short"><strong>2024</strong></p>
@@ -274,7 +274,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί να συμμετάσχετε στις εκδηλώσεις για την ΩΡΑ ΤΗΣ ΓΗΣ 60+</p>
-<p>Αν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>Αν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short">Η ΩΡΑ ΤΗΣ ΓΗΣ 60+ <a href="https://www.earthhour.org/" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/</a></p>
 <p class="short">ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΩΡΑ ΤΗΣ ΓΗΣ 60+ <a href="https://www.earthhour.org/take-part/events" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/take-part/events</a></p>

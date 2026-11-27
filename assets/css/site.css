@@ -497,3 +497,6 @@ dialog::backdrop { background: rgba(2, 4, 14, .7); backdrop-filter: blur(3px); }
 .page-head { padding: 2rem 0 1.2rem; }
 .page-title { font-size: clamp(1.7rem, 3.4vw, 2.6rem); font-weight: 800; letter-spacing: .005em; }
 .page-title::after { content: ""; display: block; width: 72px; height: 4px; border-radius: 2px; margin-top: .6rem; background: var(--accent); }
+/* a run of short headings with no content under them -> one row of labels */
+.content ul.label-row { list-style: none; padding: 0; margin: 1rem auto 1.4rem; max-width: none; display: flex; flex-wrap: wrap; justify-content: center; gap: .45rem; }
+.content ul.label-row > li { max-width: none; margin: 0; padding: .35rem .8rem; border-radius: 999px; border: 1px solid var(--border); background: color-mix(in srgb, var(--surface-2) 70%, transparent); color: var(--accent); font-weight: 700; font-size: .9rem; letter-spacing: .03em; }

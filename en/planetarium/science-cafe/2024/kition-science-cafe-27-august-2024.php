@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>JOIN US ON ONLINE</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
-<p>Mr. Alexandr Prokofyev (Astrophysicist) will talk about Perseids Metaor Shoewer results obtained  by the KITON PLANETARIUM &amp; OBSERVATORY team, compared to the Global results.</p>
+<p>Mr. Alexandr Prokofyev (Astrophysicist) will talk about Perseids Meteor Shower results obtained by the KITION PLANETARIUM &amp; OBSERVATORY team, compared to the Global results.</p>
 <p>Learn about the national and international achievements of our KITION ASTRONOMY ACADEMY students.</p>
 <p>3 out of 5 students representing Cyprus at the International Olympiad on Astronomy and Astrophysics are our students and they are now in Brazil competing for a medal.</p>
 <p>Don't miss this unique presentation.</p>
@@ -35,7 +35,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Codes and info for the meeting are published <a href="https://astronomycyprus.eu/gift-shop/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">here</a>. </p>
 <p class="short">Records of previous Online Science Cafés are available at our <a href="https://www.youtube.com/@cyprusplanetarium" rel="noopener noreferrer" target="_blank">YouTube channel</a>.</p>
 <p>Join Our Spacewalk!</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

@@ -22,7 +22,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Solar eclipse is the most significant phenomenon, which influence humanity not only in science but in outlook, tradition and culture.</p>
 <p>In late Paleolithic period myths of creation and of the world were rational explanations of observations of solar eclipses. </p>
 <p>In Ancient Babylon the long lasted eclipse observations brought to discovery of their periodicity, which was summarized in Antikythera Mechanism constructed by Ancient Greeks. </p>
-<p>Its reconstruction is in permanent exhibition in the KITION PLANETARIUM &amp; OBSERVATORY and is the only one in Cyprus availabe for the public.</p>
+<p>Its reconstruction is in permanent exhibition in the KITION PLANETARIUM &amp; OBSERVATORY and is the only one in Cyprus available for the public.</p>
 <p>Now we predict place and time of any eclipse with high accuracy and only clouds may influence observations.</p>
 <p>Solar eclipses happen rarely and their experience is unique. It is impossible to forget this extraordinary spectacle which is put on a play by celestial bodies. </p>
 <p>On 25 October 2022 there will be partial solar eclipse. The shadow (umbra) of the Moon will pass by our planet,  but in the parts which will be covered by semi-shadow (penumbra) the partial solar eclipse will be observed.</p>
@@ -40,7 +40,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="block"><p>Observations of this eclipse in Cyprus can be conducted with special equipment only. </p>
 <p>For visual observations by the naked eye it is recommended to use  special astronomical glasses for solar eclipses. </p>
 <p>These glasses securely protect eyes from ultraviolet radiation,  the most harmful to the health component of sunlight. </p>
-<p>They are available fo sale at the gift shop of the KITION PLANETARIUM &amp; OBSERVATORY. </p>
+<p>They are available for sale at the gift shop of the KITION PLANETARIUM &amp; OBSERVATORY.</p>
 <p class="short"><strong>NEVER LOOK AT THE SUN WITH UNPROTECTED EYES.</strong></p></div>
 </div>
 </div>

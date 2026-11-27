@@ -25,14 +25,14 @@ require SITE_ROOT . '/includes/header.php';
 <p>The course consists of 4 sessions. </p>
 <p>It discusses the method of mathematical induction in school.</p>
 <p>It touches the widely known tasks of sequences and concentrates on skills to put it in practice in different areas, such as graph theory, chain fractions and tasks on golden ratio. </p>
-<p>The final session pays special attention in paradoxes of the mathematical induction.</p>
+<p>The final session pays special attention to paradoxes of the mathematical induction.</p>
 <p>Well-planned and well-designed homework can help students consolidate their knowledge and practise their skills and to expand the mathematical vision of students.</p>
 <p> The course will be delivered by the Astrophysicist Alexander Prokofyev. </p>
 <p>Alexander Prokofyev graduated with honor the Department of Physics at Moscow State University (Lomonosov University).</p>
 <p>His scientific work is connected to “Cosmic Strings in Expanded Theories of Gravitation”. </p>
 <p>Nowadays he conducts research in archeoastronomy, organizes and participates in observations of total solar eclipses, meteor showers and asteroid occultations. </p>
 <p>He has publications in scientific and popular editions, and makes reports in both national and International conferences, from Cyprus to the USA. </p>
-<p>He is known for his pedagogical skills. The students he prepared for the competitions of the International Olympiad in Astronomy and Astrophysics achieved 3 times an ‘honorable mention’ level as well as brought 1 medal, being amongst the top the talented students on the planet.</p>
+<p>He is known for his pedagogical skills. The students he prepared for the competitions of the International Olympiad in Astronomy and Astrophysics achieved 3 times an ‘honorable mention’ level as well as brought 1 medal, being amongst the top talented students on the planet.</p>
 <p>These are the highest ever awards that Cypriot participants have achieved.</p>
 <p>On completion of the course a participation certificate will be awarded. Booking in advance is obligatory. </p>
 <h3>Registration has already begun. </h3>

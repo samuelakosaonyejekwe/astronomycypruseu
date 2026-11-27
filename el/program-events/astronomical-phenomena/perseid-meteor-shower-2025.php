@@ -64,10 +64,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>2 μολύβια</h3>
 <h3>Κόκκινος φακός (προαιρετικά)</h3>
 <h3>Πτυσσόμενη σεζλόνγκ ή οποιαδήποτε άλλη βολική για εσάς καρέκλα ή παρόμοιο</h3>
-<h3>Ρούχα με μακριά μανίκια</h3>
-<h3>Κλειστά παπούτσια</h3>
-<h3>Εντομοαπωθητικό για κουνούπια</h3>
-<h3>Σνακ</h3>
+<ul class="label-row"><li>Ρούχα με μακριά μανίκια</li><li>Κλειστά παπούτσια</li><li>Εντομοαπωθητικό για κουνούπια</li><li>Σνακ</li></ul>
 <p>Παρακαλούμε ενημερώστε μέχρι την Παρασκευή 10 Αυγούστου ότι θα έρθετε.</p>
 <p>Αν σκοπεύετε να κάνετε επιστημονικές παρατηρήσεις, μη διστάσετε να υποβάλετε ερωτήσεις μέσω e-mail <a href="mailto:spacewalk@cytanet.com.cy">spacewalk@cytanet.com.cy</a></p>
 <div class="blocks">
@@ -101,7 +98,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>ΤΑ ΑΠΟΤΕΛΕΣΜΑΤΑ ΔΗΜΟΣΙΕΥΤΗΚΑΝ ΚΑΙ ΥΠΟΒΛΗΘΗΚΑΝ ΣΤΗ <a href="http://fireballs.imo.net/imo_view/event/2016/3334" rel="noopener noreferrer" target="_blank">ΒΑΣΗ ΔΕΔΟΜΕΝΩΝ</a> ΤΟΥ ΔΙΕΘΝΟΥΣ ΟΡΓΑΝΙΣΜΟΥ ΜΕΤΕΩΡΩΝ</p></div>
 </div>
 </div>
-<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="641" decoding="async" height="599" loading="lazy" src="/images/perseids/PPattichis1.jpg" width="400"/></p></div><div class="block"><p><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p><p>Αν έχετε οποιαδήποτε απορία ή πρόταση, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p><p class="lead">ΣΥΝΔΕΣΜΟΙ:</p><p>ΣΕΛΙΔΑ FB ΤΟΥ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ ΚΙΤΙΟΝ <a href="https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY" rel="noopener noreferrer" target="_blank">https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY</a></p><p>ΔΙΕΘΝΗΣ ΟΡΓΑΝΙΣΜΟΣ ΜΕΤΕΩΡΩΝ <a href="https://www.imo.net/" rel="noopener noreferrer" target="_blank">https://www.imo.net/</a></p></div></div></div>
+<div class="blocks"><div class="row split reverse"><div class="block media"><p><img alt="" data-nw="641" decoding="async" height="599" loading="lazy" src="/images/perseids/PPattichis1.jpg" width="400"/></p></div><div class="block"><p><strong><a href="https://www.ppattichisphotography.com/" rel="noopener noreferrer" target="_blank">Πηγή εικόνας: Φίλιππος Παττίχης ©</a></strong></p><p>Αν έχετε οποιαδήποτε απορία ή πρόταση, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p><p class="lead">ΣΥΝΔΕΣΜΟΙ:</p><p>ΣΕΛΙΔΑ FB ΤΟΥ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ ΚΙΤΙΟΝ <a href="https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY" rel="noopener noreferrer" target="_blank">https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY</a></p><p>ΔΙΕΘΝΗΣ ΟΡΓΑΝΙΣΜΟΣ ΜΕΤΕΩΡΩΝ <a href="https://www.imo.net/" rel="noopener noreferrer" target="_blank">https://www.imo.net/</a></p></div></div></div>
 </div>
 <p class="short">Συμπορευθείτε στον διαστημικό μας περίπατο...</p>
 </article>

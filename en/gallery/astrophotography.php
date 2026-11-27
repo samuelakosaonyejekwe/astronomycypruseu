@@ -21,8 +21,8 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks">
 <div class="row gallery captioned"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Transit of Venus 6 June 2012.</p>
 <p class="short">KITION PLANETARIUM &amp; OBSERVATORY. </p>
-<p class="short">Next will occure on 19 August 2030 and be visible from Mars.</p></div><div class="block"><img alt="" data-nw="498" decoding="async" height="382" loading="lazy" src="/images/astrophotography/sun/sunspot-AR12192.jpg" width="400"/><p class="short">Huge sunspot AR12192 on 22 October 2014. </p>
-<p class="short">For some days it was visible by naked eye.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Transit of Mercury</p></div><div class="block"><img alt="" data-nw="976" decoding="async" height="391" loading="lazy" src="/images/astrophotography/sun/coronado-h-a.jpg" width="400"/><p class="short">Sun's chromosphere.</p>
+<p class="short">Next will occur on 19 August 2030 and be visible from Mars.</p></div><div class="block"><img alt="" data-nw="498" decoding="async" height="382" loading="lazy" src="/images/astrophotography/sun/sunspot-AR12192.jpg" width="400"/><p class="short">Huge sunspot AR12192 on 22 October 2014. </p>
+<p class="short">For some days it was visible to the naked eye.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Transit of Mercury</p></div><div class="block"><img alt="" data-nw="976" decoding="async" height="391" loading="lazy" src="/images/astrophotography/sun/coronado-h-a.jpg" width="400"/><p class="short">Sun's chromosphere.</p>
 <p class="short">Prominences, filaments, granules, sunspots.</p></div><div class="block"><img alt="" data-nw="1440" decoding="async" height="250" loading="lazy" src="/images/astrophotography/sun/sunspot-AR12192-in-clouds.jpg" width="400"/><p class="short">Sunspot-AR12192 behind clouds</p></div></div>
 </div>
 <h2>MOON</h2>
@@ -30,7 +30,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks">
 <div class="row gallery captioned"><div class="block"><img alt="" data-nw="557" decoding="async" height="400" loading="lazy" src="/images/astrophotography/sun/Venus2012.jpg" width="400"/><p class="short">Transit of Venus 6 June 2012.</p>
 <p class="short">KITION PLANETARIUM &amp; OBSERVATORY. </p>
-<p class="short">Next will occure on 19 August 2030 and be visible from Mars.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Transit of Mercury</p></div></div>
+<p class="short">Next will occur on 19 August 2030 and be visible from Mars.</p></div><div class="block"><img alt="" data-nw="960" decoding="async" height="225" loading="lazy" src="/images/astrophotography/sun/Mercury2016.jpg" width="400"/><p class="short">Transit of Mercury</p></div></div>
 </div>
 <h2>NEBULAE</h2>
 <h2>NOVAS AND SUPERNOVAS</h2>
@@ -40,12 +40,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"> Notice the Milky Way and cupola of light pollution above Perivolia.</p>
 </div></div>
 </div>
-<h2>COMETS</h2>
-<h2>ASTEROIDS</h2>
-<h2>VARIABLE STARS</h2>
-<h2>SUNRISE AND SUNSET</h2>
-<h2>CONJUNCTIONS</h2>
-<h2>CLOUDS</h2>
+<ul class="label-row"><li>COMETS</li><li>ASTEROIDS</li><li>VARIABLE STARS</li><li>SUNRISE AND SUNSET</li><li>CONJUNCTIONS</li><li>CLOUDS</li></ul>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

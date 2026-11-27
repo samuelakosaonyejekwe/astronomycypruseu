@@ -425,7 +425,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>(Η βάση δεδομένων για τα έτη 2008 - 2020 είναι ελλιπής λόγω της ανακατασκευής του ιστότοπου)</p>
 <h2>2016 "KITION Science Café" - ΤΟ ΚΟΣΜΙΚΟ ΦΩΣ ΦΤΑΝΕΙ ΣΤΗΝ ΚΥΠΡΟ</h2>
 <div class="blocks">
-<div class="table-wrap"><table><tr><td><strong>10 ΦΕΒΡΟΥΑΡΙΟΥ </strong></td><td><strong>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΔΑΡΒΙΝΟΥ – ΦΥΣΙΚΗ ΕΠΙΛΟΓΗ </strong></td></tr><tr><td><strong>9 ΜΑΡΤΙΟΥ </strong></td><td><strong>ΟΛΙΚΗ ΕΚΛΕΙΨΗ ΗΛΙΟΥ 2016 “ΟΙ ΕΚΛΕΙΨΕΙΣ ΣΤΟΝ ΠΟΛΙΤΙΣΜΟ"</strong></td></tr><tr><td><strong>23 ΜΑΡΤΙΟΥ </strong></td><td><strong>ΕΚΛΕΙΨΗ ΣΕΛΗΝΗΣ “ΟΙ ΕΚΛΕΙΨΕΙΣ ΣΤΟΝ ΠΟΛΙΤΙΣΜΟ"</strong></td></tr></table></div>
+<div class="table-wrap"><table><tr><td><strong>10 ΦΕΒΡΟΥΑΡΙΟΥ </strong></td><td><strong>ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΔΑΡΒΙΝΟΥ – ΦΥΣΙΚΗ ΕΠΙΛΟΓΗ </strong></td></tr><tr><td><strong>9 ΜΑΡΤΙΟΥ </strong></td><td><strong>ΟΛΙΚΗ ΕΚΛΕΙΨΗ ΗΛΙΟΥ 2016 “ΟΙ ΕΚΛΕΙΨΕΙΣ ΣΤΟΝ ΠΟΛΙΤΙΣΜΟ”</strong></td></tr><tr><td><strong>23 ΜΑΡΤΙΟΥ </strong></td><td><strong>ΕΚΛΕΙΨΗ ΣΕΛΗΝΗΣ “ΟΙ ΕΚΛΕΙΨΕΙΣ ΣΤΟΝ ΠΟΛΙΤΙΣΜΟ”</strong></td></tr></table></div>
 <div class="row keyval">
 <div class="block"><strong>30 ΜΑΡΤΙΟΥ</strong></div>
 <div class="block"><strong>“MYTHODEA” (ΕΛΛΗΝΙΚΑ)</strong> <strong>ΑΠΟΣΤΟΛΗ ΤΗΣ NASA: 2001 MARS ODYSSEY <br/> ΟΜΙΛΗΤΗΣ: ΚΩΝΣΤΑΝΤΙΝΑ ΤΣΟΚΟΥ</strong><strong>ΜΕΛΕΤΗΤΡΙΑ ΤΗΣ ΑΡΧΑΙΑΣ ΕΛΛΗΝΙΚΗΣ ΓΡΑΜΜΑΤΕΙΑΣ</strong></div>
@@ -500,7 +500,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <h2>2009 "KITION Science Café" - ΔΙΕΘΝΕΣ ΕΤΟΣ ΑΣΤΡΟΝΟΜΙΑΣ</h2>
-<div class="table-wrap"><table><tr><td><strong>27 ΑΥΓΟΥΣΤΟΥ</strong></td><td><strong>Η ΑΠΑΤΗ ΓΙΑ ΤΟΝ ΑΡΗ</strong></td></tr><tr><td><strong>6 ΟΚΤΩΒΡΙΟΥ</strong></td><td><strong>"ΨΗΦΙΑΚΗ ΠΡΟΣΟΜΟΙΩΣΗ ΤΟΥ ΝΥΧΤΕΡΙΝΟΥ ΟΥΡΑΝΟΥ" ΟΜΙΛΗΤΗΣ: </strong> <strong>ΓΙΑΝΝΟΣ ΙΩΑΝΝΟΥ, ΑΣΤΡΟΝΟΜΟΣ</strong> </td></tr><tr><td><strong>27 ΝΟΕΜΒΡΙΟΥ</strong></td><td><strong>ΔΙΑΛΕΞΕΙΣ - ΣΥΖΗΤΗΣΕΙΣ “Ο ΔΙΑΣ ΚΑΙ Ο ΔΟΡΥΦΟΡΟΣ ΜΑΣ, Η ΣΕΛΗΝΗ"</strong></td></tr></table></div>
+<div class="table-wrap"><table><tr><td><strong>27 ΑΥΓΟΥΣΤΟΥ</strong></td><td><strong>Η ΑΠΑΤΗ ΓΙΑ ΤΟΝ ΑΡΗ</strong></td></tr><tr><td><strong>6 ΟΚΤΩΒΡΙΟΥ</strong></td><td><strong>"ΨΗΦΙΑΚΗ ΠΡΟΣΟΜΟΙΩΣΗ ΤΟΥ ΝΥΧΤΕΡΙΝΟΥ ΟΥΡΑΝΟΥ" ΟΜΙΛΗΤΗΣ: </strong> <strong>ΓΙΑΝΝΟΣ ΙΩΑΝΝΟΥ, ΑΣΤΡΟΝΟΜΟΣ</strong> </td></tr><tr><td><strong>27 ΝΟΕΜΒΡΙΟΥ</strong></td><td><strong>ΔΙΑΛΕΞΕΙΣ - ΣΥΖΗΤΗΣΕΙΣ “Ο ΔΙΑΣ ΚΑΙ Ο ΔΟΡΥΦΟΡΟΣ ΜΑΣ, Η ΣΕΛΗΝΗ”</strong></td></tr></table></div>
 <h2>2008 "KITION Science Café"</h2>
 <div class="table-wrap"><table><tr><td><strong>11 ΟΚΤΩΒΡΙΟΥ</strong></td><td><strong>ΚΑΦΕΣ ΚΑΙ ΕΚΠΑΙΔΕΥΤΙΚΗ ΔΙΑΛΕΞΗ ΑΣΤΡΟΝΟΜΙΑΣ</strong></td></tr><tr><td><strong>14 ΝΟΕΜΒΡΙΟΥ</strong></td><td><strong>ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ "ΔΙΑΣΤΗΜΑ ΓΙΑ ΤΗΝ ΕΚΠΑΙΔΕΥΣΗ"</strong></td></tr><tr><td><strong>26 ΝΟΕΜΒΡΙΟΥ</strong></td><td><strong>ΚΑΦΕΣ ΚΑΙ ΔΙΑΣΤΗΜΙΚΗ ΕΚΠΑΙΔΕΥΣΗ</strong></td></tr></table></div>
 <p>Για να παρακολουθήσετε μια συνάντηση "KITION Science Café" στις εγκαταστάσεις μας, πρέπει να κάνετε κράτηση εκ των προτέρων.</p>

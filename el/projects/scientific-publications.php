@@ -89,7 +89,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="row gallery captioned"><div class="block"><img alt="" data-nw="7014" decoding="async" height="99" loading="lazy" src="/images/discs2015poster.jpg" width="70"/>
 <h4>Ηλιακές εκλείψεις στους ινδοευρωπαϊκούς πολιτισμούς</h4>
 <h4>Διεθνές Επιστημονικό Συνέδριο και Σχολείο για τους Υπολογισμούς στη Φυσική και την Τεχνολογία</h4>
-<h4>CPT 2016, - Λάρνακα, Κύπρος, 12 Μαΐου 2016</h4>
+<h4>CPT 2016 - Λάρνακα, Κύπρος, 12 Μαΐου 2016</h4>
 </div><div class="block"><img alt="" data-nw="7014" decoding="async" height="99" loading="lazy" src="/images/discs2015poster.jpg" width="70"/>
 <h4>Οπτικές παρατηρήσεις μετεωριτών στην Κύπρο 2012-2013</h4>
 <h4>5η Συνάντηση Ερασιτεχνών Αστρονόμων του Κρασνογκράντ</h4>

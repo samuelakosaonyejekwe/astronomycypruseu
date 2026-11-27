@@ -19,7 +19,7 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" decoding="async" height="217" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/IDL_logo.jpg" width="400"/></p><p class="short"><strong>МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2024 — КИПР</strong></p></div></div></div></div><div class="block"><p class="short"><strong>#dayoflight2024 #LightDay2024 #IDL2024 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT</strong></p><p><a href="https://www.youtube.com/watch?v=be8tqvU_ogQ" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" height="434" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-may-16-2024.jpg" width="900"/></a></p><p class="short"><a href="https://youtu.be/acelisSU6Nw?si=bsSS96iOpOLk1c-3" rel="noopener noreferrer" target="_blank" title="International Day of Light 16 May Official Video">ОФИЦИАЛЬНЫЙ ВИДЕОТРЕЙЛЕР</a></p></div></div></div>
 <p><strong><a href="https://astronomycyprus.eu/gift-shop/product/international-day-of-light-2024-cyprus/" rel="noopener noreferrer" target="_blank">ПРИОБРЕТИТЕ БЛАГОТВОРИТЕЛЬНЫЙ БИЛЕТ С НАБЛЮДЕНИЯМИ В ТЕЛЕСКОП И ЛАЗЕРНОЙ ЭКСКУРСИЕЙ ПО НЕБУ</a></strong></p>
 <p><strong>ПРАЗДНИЧНЫЕ МЕРОПРИЯТИЯ НА КИПРЕ</strong></p>
-<p><strong>Официальное мероприятие на Кипре пройдёт в помещениях ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» в Кити</strong></p>
+<p><strong>Официальное мероприятие на Кипре пройдёт в помещениях ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» в Кити</strong></p>
 <p><strong>ТОЛЬКО ПО ПРЕДВАРИТЕЛЬНОЙ ЗАПИСИ — ЗВОНИТЕ 99991111</strong></p>
 <h3>Четверг, 16 мая 2024 г., время: 20:00 (UTC+3)</h3>
 <h3>Место: ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» (Кити, Кипр)</h3>
@@ -53,7 +53,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" decoding="async" height="341" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-poster.jpg" width="800"/></p>
 <p>Почему 16 мая?</p>
 <p>Международный день света отмечается ежегодно 16 мая — в годовщину первого успешного запуска лазера в 1960 году физиком и инженером Теодором Мейманом. Лазер — прекрасный пример того, как научное открытие может принести обществу революционные преимущества в связи, здравоохранении и многих других областях. Для интереса здесь можно ознакомиться с некоторыми фактами из истории лазера, но обратите внимание, что Международный день света посвящён не только лазерам и науке. Он включает также аспекты искусства, культуры, развлечений — по сути, везде, где присутствует свет!</p>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <h2>Прошедшие мероприятия</h2>
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2020</a></p>
 <p class="short"><a href="/ru/projects/international-projects/idl/international-day-light-2023.php">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2023</a></p>

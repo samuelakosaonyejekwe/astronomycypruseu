@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'projects/international-projects/idl/international-day-light-2023',
     'title'       => 'Международный день света 2023',
-    'description' => 'Официальное мероприятие на Кипре пройдёт в помещениях ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» в Кити во вторник, 16 мая, в 20:00 по местному времени Кипра.',
+    'description' => 'Официальное мероприятие на Кипре пройдёт в помещениях ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» в Кити во вторник, 16 мая, в 20:00 по местному времени Кипра.',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];
@@ -17,9 +17,9 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><p class="short">Международный день света 16 мая 2023 — Кипр</p><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" decoding="async" height="203" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/IDL_logo.jpg" width="375"/></p><p class="short"><strong>МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2023 — КИПР</strong></p></div></div></div></div><div class="block"><p class="short"><strong>#dayoflight2023 #LightDay2023 #IDL2023 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT</strong></p><p><a href="https://youtu.be/dd82jaztFIo" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" height="601" loading="lazy" src="https://astronomycyprus.eu/images/cosmic-light-cyprus.jpg" width="750"/></a></p><p class="short"><strong>ПРАЗДНИЧНЫЕ МЕРОПРИЯТИЯ НА КИПРЕ</strong></p></div></div></div>
-<p>Официальное мероприятие на Кипре пройдёт в помещениях ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» в Кити во вторник, 16 мая, в 20:00 по местному времени Кипра.</p>
+<p>Официальное мероприятие на Кипре пройдёт в помещениях ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» в Кити во вторник, 16 мая, в 20:00 по местному времени Кипра.</p>
 <p>Только по предварительной записи — звоните 99991111</p>
-<h3>Вторник, 16 мая 2022 г., время: 20:00 (UTC+3)</h3>
+<h3>Вторник, 16 мая 2023 г., время: 20:00 (UTC+3)</h3>
 <h3>Место: ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» (Кити, Кипр)</h3>
 <p><img alt="" decoding="async" height="598" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-may-16-2023.jpg" width="800"/></p>
 <h4>Программа мероприятия</h4>
@@ -45,7 +45,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" decoding="async" height="341" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-poster.jpg" width="800"/></p>
 <p>Почему 16 мая?</p>
 <p>Международный день света отмечается ежегодно 16 мая — в годовщину первого успешного запуска лазера в 1960 году физиком и инженером Теодором Мейманом. Лазер — прекрасный пример того, как научное открытие может принести обществу революционные преимущества в связи, здравоохранении и многих других областях. Для интереса здесь можно ознакомиться с некоторыми фактами из истории лазера, но обратите внимание, что Международный день света посвящён не только лазерам и науке. Он включает также аспекты искусства, культуры, развлечений — по сути, везде, где присутствует свет!</p>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <h2>Прошедшие мероприятия</h2>
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2020</a></p>
 <p class="lead short">Ссылки:</p>

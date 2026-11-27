@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'planetarium/science-cafe/2023/kition-science-cafe-29-august-2023',
     'title'       => 'Kition Science Cafe 29 August 2023',
-    'description' => 'Join our online science cafe and find out about the latest new and astronomical phenomena .',
+    'description' => 'Join our online science cafe and find out about the latest news and astronomical phenomena .',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -24,16 +24,16 @@ require SITE_ROOT . '/includes/header.php';
 <div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p></div>
 <h2>Meeting ID: 831 2336 2644</h2>
 <h2>Passcode: kition</h2>
-<p>Join our online science cafe and find out about <strong>the latest new and astronomical phenomena</strong>.</p>
+<p>Join our online science cafe and find out about <strong>the latest news and astronomical phenomena</strong>.</p>
 <p>A very rare event will occur on the 31st August and our science center organizes  an event with 3 sessions for the general public to join.</p>
 <p>Find out what happened during the <strong>Perseid meteor shower and the results of our scientific observations</strong>.</p>
 <h3><strong>Ara Mahdessian</strong> who is a student at The English School Nicosia,</h3>
-<p>has attended the KITION ASTRONOMY ACADEMY fot the preparation for the International Olympiad for Astronomy and Astrophysics.</p>
-<p>Last hear he achieved a Bronze Medal and this year he achieved the first Gold Medal for Cyprus in this competition.</p>
-<p>We are very proud that the good hard and hard work done by our student brought the best possible results and outcome. Congratulations to Ara Mahdessian and the KITION ASTRONOMY ACADEMY.</p>
-<h3>Another Cypriot, <strong>Constantinos Troullias</strong>, who is studying Biological Sciences at the University of Lecester,</h3>
+<p>has attended the KITION ASTRONOMY ACADEMY for the preparation for the International Olympiad for Astronomy and Astrophysics.</p>
+<p>Last year he achieved a Bronze Medal and this year he achieved the first Gold Medal for Cyprus in this competition.</p>
+<p>We are very proud that the good and hard work done by our student brought the best possible results and outcome. Congratulations to Ara Mahdessian and the KITION ASTRONOMY ACADEMY.</p>
+<h3>Another Cypriot, <strong>Constantinos Troullias</strong>, who is studying Biological Sciences at the University of Leicester,</h3>
 <p>became the first Analog Astronaut at the AATC in Krakow to carry out a solo mission.</p>
-<p>We are proud to present another one of our students to have achieved a  worldwide unique expedition. Leran about this expedition and the scientific part of it.</p>
+<p>We are proud to present another one of our students to have achieved a  worldwide unique expedition. Learn about this expedition and the scientific part of it.</p>
 <p>We will try to have both students with us online...</p>
 <h2>JOIN US ON ONLINE... </h2>
 <div class="link-row"><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p></div>
@@ -56,7 +56,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
 <p>Join Our Spacewalk!</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

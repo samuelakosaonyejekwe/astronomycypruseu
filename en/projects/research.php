@@ -18,14 +18,10 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <h2><strong>KITION PLANETARIUM &amp; OBSERVATORY RESEARCH</strong> PROJECTS</h2>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY invests in scientific research as well as encourages students and the general public to get involved in citizen scientists projects.</p>
-<h2>ASTEROID SEARCH</h2>
-<h2>NEAR EARTH OBJECTS</h2>
-<h2>METEOR SHOWERS</h2>
-<h2>METEORITES</h2>
-<h2>VARIABLE STARS</h2>
+<ul class="label-row"><li>ASTEROID SEARCH</li><li>NEAR EARTH OBJECTS</li><li>METEOR SHOWERS</li><li>METEORITES</li><li>VARIABLE STARS</li></ul>
 <h2>RADIOASTRONOMY: NASA RADIO JOVE PROJECT</h2>
 <p class="short">ARCHAEOASTRONOMY</p>
-<p class="short">LIGHT POLUTION MEASUREMENTS </p>
+<p class="short">LIGHT POLLUTION MEASUREMENTS</p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

@@ -18,15 +18,15 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block"><div class="blocks"><div class="row stack"><div class="block"><p><img alt="" decoding="async" height="217" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/IDL_logo.jpg" width="400"/></p><p class="short"><strong>INTERNATIONAL DAY OF LIGHT 16 MAY 2024 - CYPRUS</strong></p></div></div></div></div><div class="block"><p class="short"><strong>#dayoflight2024 #LightDay2024 #IDL2024 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT</strong></p><p><a href="https://www.youtube.com/watch?v=be8tqvU_ogQ" rel="noopener noreferrer" target="_blank"><img alt="" decoding="async" height="434" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-may-16-2024.jpg" width="900"/></a></p><p class="short"><a href="https://youtu.be/acelisSU6Nw?si=bsSS96iOpOLk1c-3" rel="noopener noreferrer" target="_blank" title="International Day of Light 16 May Official Video">OFFICIAL VIDEO TRAILER</a></p></div></div></div>
 <p class="short"><strong><a href="https://astronomycyprus.eu/gift-shop/product/international-day-of-light-2024-cyprus/" rel="noopener noreferrer" target="_blank">GET YOUR FUNDRAISING TICKET WITH TELESCOPE OBSERVATIONS AND LASER SKY TOUR</a></strong></p>
-<p class="short"><strong>EVENT CELEBRATIONS IN CYPRUS</strong></p>
-<p class="short"> <strong>The Cyprus official event will be held at KITON PLANETARIUM &amp; OBSERVATORY premises in Kiti</strong></p>
-<p class="short"><strong>RESERVATIONS ONLY - CALL 99991111</strong></p>
+<p><strong>EVENT CELEBRATIONS IN CYPRUS</strong></p>
+<p><strong>The Cyprus official event will be held at KITION PLANETARIUM &amp; OBSERVATORY premises in Kiti</strong></p>
+<p><strong>RESERVATIONS ONLY - CALL 99991111</strong></p>
 <h3>THURSDAY 16TH MAY 2024, TIME: 20:00 (UTC+3)</h3>
 <h3>PLACE: KITION PLANETARIUM &amp; OBSERVATORY (KITI, CYPRUS)</h3>
 <h4>EVENT'S PROGRAM</h4>
 <p class="short">WELCOMING BY THE UNESCO INTERNATIONAL DAY OF LIGHT CYPRUS NATIONAL NODE, </p>
 <p>GEORGE TROULLIAS (DIRECTOR - KITION PLANETARIUM &amp; OBSERVATORY (CYPRUS)).</p>
-<p>AWARENESS REAGARDING THE GLOBAL INITIATIVE FOR THE CONTINUED APPRECIATION OF LIGHT AND ITS ROLE IT PLAYS IN LIFE.</p>
+<p>AWARENESS REGARDING THE GLOBAL INITIATIVE FOR THE CONTINUED APPRECIATION OF LIGHT AND ITS ROLE IT PLAYS IN LIFE.</p>
 <dl class="specs"><dt>LIGHT-BASED TECHNOLOGIES</dt><dd> EXAMPLES.</dd><dt>LIGHT POLLUTION AWARENESS</dt><dd> EFFECTS ON PLANET AND WAYS TO PROTECT THE NIGHT SKY.</dd></dl>
 <p class="short"><strong><a href="https://astronomycyprus.eu/gift-shop/product/international-day-of-light-2024-cyprus/" rel="noopener noreferrer" target="_blank">TELESCOPE OBSERVATIONS AND LASER SKY TOUR</a></strong></p>
 
@@ -48,7 +48,7 @@ require SITE_ROOT . '/includes/header.php';
 
 
 <p>The <strong>KITION PLANETARIUM &amp; OBSERVATORY</strong> is the Cyprus National Node for the UNESCO International Day of Light.</p>
-<p>The International Day of Light is a global initiative that provides an annual focal point for the continued appreciation of light and the role it plays in science, culture and art, education, and sustainable development, and in fields as diverse as medicine, communications, and energy. The broad theme of light will allow many different sectors of society worldwide to participate in activities that demonstrates how science, technology, art and culture can help achieve the goals of UNESCO – education, equality, and peace.</p>
+<p>The International Day of Light is a global initiative that provides an annual focal point for the continued appreciation of light and the role it plays in science, culture and art, education, and sustainable development, and in fields as diverse as medicine, communications, and energy. The broad theme of light will allow many different sectors of society worldwide to participate in activities that demonstrate how science, technology, art and culture can help achieve the goals of UNESCO – education, equality, and peace.</p>
 <p><img alt="" decoding="async" height="382" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-statistics.jpg" width="800"/></p>
 <p>The <a href="http://www.light2015.org/" rel="noopener noreferrer" target="_blank">International Year of Light and Light-based Technologies 2015</a> (IYL 2015) was a United Nations observance that raised global awareness of the achievements of light science and its applications, and their importance to humankind. Under the leadership of <a href="http://www.unesco.org/" rel="noopener noreferrer" target="_blank">UNESCO</a>, more than 13,000 activities took place in 147 countries to reach an audience estimated at over 100 million. See the IYL 2015 Final Report for more information. </p>
 <p><img alt="" decoding="async" height="425" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-photo-winner-1.jpg" width="800"/></p>
@@ -64,7 +64,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" decoding="async" height="341" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-poster.jpg" width="800"/></p>
 <p>Why May 16th?</p>
 <p>The International Day of Light will be held on May 16th every year, the anniversary of the first successful operation of the laser in 1960 by physicist and engineer, Theodore Maiman. The laser is a perfect example of how a scientific discovery can yield revolutionary benefits to society in communications, healthcare and many other fields. For interest, you can find here some of the laser history, but note that the International Day of Light is not just about lasers and science. It also includes aspects of art, culture, entertainment – everywhere light is present in fact!</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <h2>PAST EVENTS</h2>
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">INTERNATIONAL DAY OF LIGHT 16 MAY 2020</a></p>
 <p class="short"><a href="/en/projects/international-projects/idl/international-day-light-2023.php">INTERNATIONAL DAY OF LIGHT 16 MAY 2023</a></p>

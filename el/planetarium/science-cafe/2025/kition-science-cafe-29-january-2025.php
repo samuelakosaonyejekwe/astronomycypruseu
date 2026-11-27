@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'planetarium/science-cafe/2025/kition-science-cafe-29-january-2025',
     'title'       => 'KITION Science Café – 29 Ιανουαρίου 2025',
-    'description' => '20:05 Ο ΑΣΤΕΡΟΕΙΔΗΣ ΑΠΟΦΙΣ ΚΑΙ ΤΑ ΑΝΤΙΚΕΙΜΕΝΑ ΚΟΝΤΑ ΣΤΗ ΓΗ ( ΣΤΑ ΕΛΛΗΝΙΚΑ )(ΤΑΚΗΣ ΘΕΟΔΟΣΙΟΥ)',
+    'description' => '20:05 Ο ΑΣΤΕΡΟΕΙΔΗΣ ΑΠΟΦΙΣ ΚΑΙ ΤΑ ΑΝΤΙΚΕΙΜΕΝΑ ΚΟΝΤΑ ΣΤΗ ΓΗ ( ΣΤΑ ΕΛΛΗΝΙΚΑ ) (ΤΑΚΗΣ ΘΕΟΔΟΣΙΟΥ)',
     'image'       => '/images/science-cafe/kition-science-cafe-images-2025/science-cafe-29-january-2025.jpg',
     'translated'  => true,
 ];
@@ -19,9 +19,9 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" data-nw="960" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2025/science-cafe-29-january-2025.jpg" width="800"/></p>
 <p class="short"><strong><strong>ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ</strong></strong></p>
 <p class="short"><strong>ΤΕΤΑΡΤΗ 29 ΙΑΝΟΥΑΡΙΟΥ 2025 ΩΡΑ: 20:00 (UT+2)</strong></p>
-<p class="short"><strong>20:00 ΚΑΛΩΣΟΡΙΣΜΑ ΑΠΟ ΤΟΝ ΔΙΕΥΘΥΝΤΗ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ)</strong></p>
-<p class="short"><strong>20:05 Ο ΑΣΤΕΡΟΕΙΔΗΣ ΑΠΟΦΙΣ ΚΑΙ ΤΑ ΑΝΤΙΚΕΙΜΕΝΑ ΚΟΝΤΑ ΣΤΗ ΓΗ (<em>ΣΤΑ ΕΛΛΗΝΙΚΑ</em>)(ΤΑΚΗΣ ΘΕΟΔΟΣΙΟΥ)</strong></p>
-<p class="short"><strong>20:45 ΕΡΩΤΗΣΕΙΣ ΚΑΙ ΑΠΑΝΤΗΣΕΙΣ</strong></p>
+<p><strong>20:00 ΚΑΛΩΣΟΡΙΣΜΑ ΑΠΟ ΤΟΝ ΔΙΕΥΘΥΝΤΗ (ΓΙΩΡΓΟΣ ΤΡΟΥΛΛΙΑΣ)</strong></p>
+<p><strong>20:05 Ο ΑΣΤΕΡΟΕΙΔΗΣ ΑΠΟΦΙΣ ΚΑΙ ΤΑ ΑΝΤΙΚΕΙΜΕΝΑ ΚΟΝΤΑ ΣΤΗ ΓΗ (<em>ΣΤΑ ΕΛΛΗΝΙΚΑ</em>) (ΤΑΚΗΣ ΘΕΟΔΟΣΙΟΥ)</strong></p>
+<p><strong>20:45 ΕΡΩΤΗΣΕΙΣ ΚΑΙ ΑΠΑΝΤΗΣΕΙΣ</strong></p>
 <p class="short"><strong>20:55 ΝΕΑ ΚΑΙ ΕΚΔΗΛΩΣΕΙΣ ΑΣΤΡΟΝΟΜΙΑΣ ΑΠΟ ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong></p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING"><strong>Συμμετοχή στη συνάντηση Zoom</strong></a></p>
 <dl class="specs"><dt><strong>Αναγνωριστικό συνάντησης</strong></dt><dd> 831 2336 2644</dd><dt><strong>Κωδικός πρόσβασης</strong></dt><dd> kition</dd></dl>

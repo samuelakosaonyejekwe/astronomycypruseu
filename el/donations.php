@@ -16,7 +16,7 @@ require SITE_ROOT . '/includes/header.php';
 ?>
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
-<h2>ΠΑΡΑΚΑΛΟΥΜΕ ΠΡΟΣΦΕΡΕΤΕ ΔΩΡΕΑ ΓΙΑ ΤΗ ΣΤΗΡΙΞΗ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ</h2>
+<h2>ΠΑΡΑΚΑΛΟΥΜΕ ΠΡΟΣΦΕΡΕΤΕ ΔΩΡΕΑ ΓΙΑ ΤΗ ΣΤΗΡΙΞΗ ΤΟΥ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥΥ</h2>
 <p><img alt="" data-nw="3150" decoding="async" height="252" loading="lazy" src="/images/logos/astronaut-logo.jpg" width="800"/></p>
 <h2>ΔΩΡΕΕΣ</h2>
 <div class="link-row"><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-e5/" rel="noopener noreferrer" target="_blank" title="Donation-€5">ΔΩΡΕΑ-€5</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-10/" rel="noopener noreferrer" target="_blank" title="Donation-€10">ΔΩΡΕΑ-€10</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-20/" rel="noopener noreferrer" target="_blank" title="Donation-€20">ΔΩΡΕΑ-€20</a></p><p class="short"><a href="https://astronomycyprus.eu/gift-shop/product/donation-50/" rel="noopener noreferrer" target="_blank" title="Donation-€50">ΔΩΡΕΑ-€50</a></p></div>

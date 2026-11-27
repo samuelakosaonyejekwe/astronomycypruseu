@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'projects/international-projects/wsw/cyprus-wsw2024-10-october-2024',
     'title'       => 'Παγκόσμια Εβδομάδα Διαστήματος 2024 στην Κύπρο – 10 Οκτωβρίου 2024',
-    'description' => '20:00 «ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2024 - ΤΕΛΕΤΗ ΛΗΞΗΣ - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΚΛΙΜΑΤΙΚΗ ΑΛΛΑΓΗ»',
+    'description' => '20:00 «ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2024 - ΤΕΛΕΤΗ ΛΗΞΗΣ» - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΚΛΙΜΑΤΙΚΗ ΑΛΛΑΓΗ»',
     'image'       => '/images/wsw/wsw2024/wsw2024-6.jpg',
     'translated'  => true,
 ];
@@ -19,7 +19,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>#WSW2024 #KPOCYPRUS #CYPRUS #SPACE #CLIMATE</strong></p>
 <p><img alt="" data-nw="1080" decoding="async" height="800" loading="lazy" src="/images/wsw/wsw2024/wsw2024-6.jpg" width="800"/></p>
 <dl class="specs"><dt><strong>ΠΕΜ 10 ΟΚΤΩΒΡΙΟΥ 2024 ΩΡΑ 20</strong></dt><dd>00 (UTC+3)</dd><dt><strong>ΧΩΡΟΣ</strong></dt><dd> ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</dd></dl>
-<p><strong>20:00 «ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2024 - ΤΕΛΕΤΗ ΛΗΞΗΣ - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΚΛΙΜΑΤΙΚΗ ΑΛΛΑΓΗ»</strong></p>
+<p><strong>20:00 «ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2024 - ΤΕΛΕΤΗ ΛΗΞΗΣ» - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΚΛΙΜΑΤΙΚΗ ΑΛΛΑΓΗ»</strong></p>
 <p><strong>20:30 ΤΗΛΕΣΚΟΠΙΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΗΣ ΣΕΛΗΝΗΣ</strong></p>
 <p><strong>Οικοδεσπότης-Ομιλητής: </strong><strong>Γιώργος Τρούλλιας</strong><strong> (Εθνικός Συντονιστής του ΟΗΕ για την Παγκόσμια Εβδομάδα Διαστήματος στην ΚΥΠΡΟ)</strong></p>
 <p><strong>ΠΡΟΜΗΘΕΥΤΕΙΤΕ ΕΔΩ ΤΑ ΕΙΣΙΤΗΡΙΑ ΣΑΣ</strong></p>

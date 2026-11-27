@@ -26,10 +26,10 @@ require SITE_ROOT . '/includes/header.php';
 <p>World Space Week is an international celebration of science and technology,  and their contribution to the betterment of the human condition. </p>
 <p>The United Nations General Assembly declared in 1999 that World Space Week will be held each year from October 4-10.</p>
 <p class="lead"> These dates commemorate two events:</p>
-<dl class="specs"><dt><strong>October 4, 1957</strong></dt><dd> Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</dd><dt> <strong>October 10, 1967</strong></dt><dd> The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space,  including the Moon and Other Celestial Bodies.</dd></dl>
+<dl class="specs"><dt><strong>October 4, 1957</strong></dt><dd> Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</dd><dt><strong>October 10, 1967</strong></dt><dd> The signing of the Treaty on Principles Governing the Activities of States in the Exploration and Peaceful Uses of Outer Space, including the Moon and Other Celestial Bodies.</dd></dl>
 <p class="short">This year's theme is <strong>"SPACE AND CLIMATE CHANGE"</strong>.</p>
 <p>Join Our Spacewalk! </p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>. </p>
+<p>If you have any queries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p><strong>VISIT OUR FB PAGE...</strong></p>
 <p class="short"><a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION FB GROUP">https://www.facebook.com/KITIONPLANETARIUMOBSERVATORY</a></p>
 </article>

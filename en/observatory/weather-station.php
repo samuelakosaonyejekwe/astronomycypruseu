@@ -19,15 +19,15 @@ require SITE_ROOT . '/includes/header.php';
 <div class="blocks">
 
 <p class="short">The observatory is equipped with its own weather station. </p>
-<p>It has been instaled and operating since 2014. </p>
+<p>It has been installed and operating since 2014.</p>
 <p>The collected data are used by our scientists for their own weather forecast based on the local equipment.</p>
-<p> The instruments installed inlcude a thermometer, a barometer, a r<span lang="en">ain gauge</span>, an <span lang="en">anemometer</span> and a gygrometer. </p>
+<p>The instruments installed include a thermometer, a barometer, a r<span lang="en">ain gauge</span>, an <span lang="en">anemometer</span> and a hygrometer.</p>
 <p>Time is also monitored at the Observatory by the same equipment. </p>
 <div class="row">
 <div class="block media"><img alt="" data-nw="972" decoding="async" height="462" loading="lazy" src="/images/weather-station.jpg" width="600"/></div>
 </div>
 <p>In addition live data is received for the weather forecast for the observatory from <a href="https://zoom.earth/places/cyprus/" rel="noopener noreferrer" target="_blank">satellites</a> and the <a href="https://clearoutside.com/forecast/34.86/33.58" rel="noopener noreferrer" target="_blank">clearoutside.com</a> website.</p>
-<p>Furthermore, the observatory colaborates with <a href="https://www.kitasweather.com/" rel="noopener noreferrer" target="_blank">Kitas Weather</a> and the <a href="https://www.moa.gov.cy/moa/dm/dm.nsf/home_en/home_en?openform" rel="noopener noreferrer" target="_blank">Cyprus Department of Meteorology</a>.</p>
+<p>Furthermore, the observatory collaborates with <a href="https://www.kitasweather.com/" rel="noopener noreferrer" target="_blank">Kitas Weather</a> and the <a href="https://www.moa.gov.cy/moa/dm/dm.nsf/home_en/home_en?openform" rel="noopener noreferrer" target="_blank">Cyprus Department of Meteorology</a>.</p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

@@ -30,7 +30,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Due to its movement in an elongated orbit, the Moon is either approaching or moving away from the Earth.</p>
 <p>On December 4, the Moon will be closer than usual.</p>
 <p>Such full Moons are called <strong>Supermoons</strong>.</p>
-<p><strong>Join us at the KITON PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificant view from our large telescopes.</strong></p>
+<p><strong>Join us at the KITION PLANETARIUM &amp; OBSERVATORY premises in Kiti to observe this magnificent view from our large telescopes.</strong></p>
 <h2><strong>EVENT’S PROGRAM</strong></h2>
 <p class="short"><strong>(LECTURE IN ENGLISH LANGUAGE)</strong></p>
 <p class="short"><strong> 19:00 COMET 3I/ATLAS - LATEST DISCOVERIES</strong></p>

@@ -23,19 +23,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>2023</h2>
 <h2><img alt="" data-nw="3092" decoding="async" height="439" loading="lazy" src="/images/charity/christina-apostolou-festival/2023/christina-apostolou-2023.jpg" width="1000"/></h2>
 <div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><img alt="" data-nw="3425" decoding="async" height="1000" loading="lazy" src="/images/charity/christina-apostolou-festival/2023/christina-apostolou-2023-leaflet-1.jpg" width="1000"/></p></div><div class="block media"><p><img alt="" data-nw="3425" decoding="async" height="1000" loading="lazy" src="/images/charity/christina-apostolou-festival/2023/christina-apostolou-2023-leaflet-2.jpg" width="1000"/></p></div><div class="block"><p><img alt="" data-nw="2481" decoding="async" height="849" loading="lazy" src="/images/charity/christina-apostolou-festival/2023/christina-apostolou-2023-invitation.jpg" width="600"/></p><h2><a href="/el/charity/christina-a-apostolou-foundation/christina-a-apostolou-foundation-2022.php">2022</a></h2></div></div></div>
-<h2>2021</h2>
-<h2>2020</h2>
-<h2>2019</h2>
-<h2>2018</h2>
-<h2>2017</h2>
-<h2>2016</h2>
-<h2>2015</h2>
-<h2>2014</h2>
-<h2>2013</h2>
-<h2>2012</h2>
-<h2> 2011</h2>
-<h2>2010</h2>
-<h2>2009</h2>
+<ul class="label-row"><li>2021</li><li>2020</li><li>2019</li><li>2018</li><li>2017</li><li>2016</li><li>2015</li><li>2014</li><li>2013</li><li>2012</li><li>2011</li><li>2010</li><li>2009</li></ul>
 <p>Εάν έχετε οποιαδήποτε απορία ή πρόταση, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 </div>
 </div>
