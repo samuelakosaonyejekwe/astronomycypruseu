@@ -79,6 +79,7 @@ if ($kids):
       <li><a href="<?php echo e($LINKS['fb_group']); ?>" target="_blank" rel="noopener noreferrer"><?php echo e(t('fb_group')); ?></a></li>
       <li><a href="<?php echo e($LINKS['instagram']); ?>" target="_blank" rel="noopener noreferrer"><?php echo e(t('instagram')); ?></a></li>
       <li><a href="<?php echo e($LINKS['youtube']); ?>" target="_blank" rel="noopener noreferrer"><?php echo e(t('youtube')); ?></a></li>
+      <li><a href="<?php echo e($LINKS['linkedin']); ?>" target="_blank" rel="noopener noreferrer"><?php echo e(t('linkedin')); ?></a></li>
       <li><a href="<?php echo e($LINKS['tripadvisor']); ?>" target="_blank" rel="noopener noreferrer"><?php echo e(t('tripadvisor_short')); ?></a></li>
     </ul>
     <p><?php echo e(sprintf(t('copyright'), date('Y'))); ?><br><?php echo e(t('developed')); ?></p>

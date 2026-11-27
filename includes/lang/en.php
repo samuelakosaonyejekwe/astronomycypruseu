@@ -39,6 +39,7 @@ $STR = [
     'fb_group'           => 'Facebook Group',
     'instagram'          => 'Instagram',
     'youtube'            => 'YouTube',
+    'linkedin'           => 'LinkedIn',
     'tripadvisor'        => 'Write a review about Kition Planetarium & Observatory at Trip Advisor.',
     'tripadvisor_short'  => 'TripAdvisor',
     'online_shop'        => 'Sublimation Gift Shop',

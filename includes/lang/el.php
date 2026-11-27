@@ -39,6 +39,7 @@ $STR = [
     'fb_group'           => 'Ομάδα Facebook',
     'instagram'          => 'Instagram',
     'youtube'            => 'YouTube',
+    'linkedin'           => 'LinkedIn',
     'tripadvisor'        => 'Γράψτε μια κριτική για το Κίτιον Πλανητάριο & Αστεροσκοπείο στο TripAdvisor.',
     'tripadvisor_short'  => 'TripAdvisor',
     'online_shop'        => 'Κατάστημα δώρων εξάχνωσης',

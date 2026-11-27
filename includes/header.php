@@ -44,6 +44,7 @@ $self_url  = url($cur_path);
         <li><a href="<?php echo e($LINKS['facebook']); ?>" target="_blank" rel="noopener noreferrer" title="<?php echo e(t('facebook')); ?>"><img src="/images/facebook_logo.jpg" alt="<?php echo e(t('facebook')); ?>" width="28" height="28"></a></li>
         <li><a href="<?php echo e($LINKS['instagram']); ?>" target="_blank" rel="noopener noreferrer" title="<?php echo e(t('instagram')); ?>"><img src="/images/instagram_logo.jpg" alt="<?php echo e(t('instagram')); ?>" width="28" height="28"></a></li>
         <li><a href="<?php echo e($LINKS['youtube']); ?>" target="_blank" rel="noopener noreferrer" title="<?php echo e(t('youtube')); ?>"><img src="/images/youtube_logo.jpg" alt="<?php echo e(t('youtube')); ?>" width="28" height="28"></a></li>
+        <li><a href="<?php echo e($LINKS['linkedin']); ?>" target="_blank" rel="noopener noreferrer" title="<?php echo e(t('linkedin')); ?>"><img src="/images/linkedin_logo.svg" alt="<?php echo e(t('linkedin')); ?>" width="28" height="28"></a></li>
         <li><a href="<?php echo e($LINKS['tripadvisor']); ?>" target="_blank" rel="noopener noreferrer" title="<?php echo e(t('tripadvisor')); ?>"><img src="/images/tripadvisor.JPG" alt="<?php echo e(t('tripadvisor_short')); ?>" width="28" height="28"></a></li>
       </ul>
       <ul class="utility">

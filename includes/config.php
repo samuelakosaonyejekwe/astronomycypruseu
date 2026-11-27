@@ -29,6 +29,7 @@ $LINKS = [
     'fb_group'    => 'https://www.facebook.com/groups/kition',
     'instagram'   => 'https://www.instagram.com/kpocyprus/',
     'youtube'     => 'https://www.youtube.com/@cyprusplanetarium',
+    'linkedin'    => 'https://www.linkedin.com/in/kition-planetarium-and-observatory',
     'tripadvisor' => 'https://www.tripadvisor.com/Attraction_Review-g1906037-d9765562-Reviews-Kition_Planetarium_Observatory_Cyprus-Kiti_Larnaka_District.html',
     'gift_shop'   => 'https://astronomycyprus.eu/gift-shop/shop/',
     'online_shop' => 'https://www.instagram.com/onlineshopkition/',

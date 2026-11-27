@@ -39,6 +39,7 @@ $STR = [
     'fb_group'           => 'Группа в Facebook',
     'instagram'          => 'Instagram',
     'youtube'            => 'YouTube',
+    'linkedin'           => 'LinkedIn',
     'tripadvisor'        => 'Оставьте отзыв о планетарии и обсерватории «Китион» на TripAdvisor.',
     'tripadvisor_short'  => 'TripAdvisor',
     'online_shop'        => 'Магазин сублимационных подарков',
