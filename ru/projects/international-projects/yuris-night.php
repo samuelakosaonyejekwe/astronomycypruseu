@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'projects/international-projects/yuris-night',
     'title'       => 'Ночь Юрия',
-    'description' => 'ЧТО ТАКОЕ НОЧЬ ЮРИЯ? ВСЕМИРНАЯ КОСМИЧЕСКАЯ ВЕЧЕРИНКА Праздники в честь запусков проходят по всему миру каждый год 12 апреля или около этой даты, в память о том, что Юрий Гагарин стал первым…',
+    'description' => 'С 2009 года ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» как национальный координатор организации «Астрономы без границ» на Кипре',
     'image'       => '/images/yuris-night/yurisnight-752x440.jpg',
     'translated'  => true,
 ];
@@ -25,7 +25,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Пожалуйста, присоединяйтесь к нашей <a href="https://www.facebook.com/groups/kition" rel="noopener noreferrer" target="_blank" title="KITION PLANETARIUM &amp; OBSERVATORY FB GROUP">группе в Facebook</a>, чтобы найти все связанные мероприятия и следить за нашими онлайн-встречами в <a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION SCIENCE CAFE">Zoom</a>.</p>
 <div class="blocks"><div class="row stack"><div class="block"><p><img alt="" data-nw="600" decoding="async" height="180" loading="lazy" src="/images/est2008LOGOweb.jpg" width="550"/></p><p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встречам в Zoom</a></p><p class="short">Meeting ID: 831 2336 2644</p><p class="short">Passcode: kition</p></div></div></div>
 
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead"><strong>ССЫЛКИ:</strong></p>
 <h3>САЙТ НОЧИ ЮРИЯ</h3>
 <div class="link-row"><p class="short"><a href="https://www.yurisnight.net" rel="noopener noreferrer" target="_blank"><strong>https://www.yurisnight.net</strong></a></p></div>

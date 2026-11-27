@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'projects/international-projects/wsw/cyprus-wsw2023-10-october-2023',
     'title'       => 'Cyprus WSW 2023 10 October 2023',
-    'description' => '#WSW2023 #KPOCYPRUS #CYPRUS #CEREMONY #NASA #SPACE #TELESCOPE #OBSERVATIONS',
+    'description' => 'Speaker: George Troullias (UN World Space Week National Coordinator for CYPRUS)',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -31,7 +31,7 @@ require SITE_ROOT . '/includes/header.php';
 <dl class="specs"><dt>October 4, 1957</dt><dd> Launch of the first human-made Earth satellite, Sputnik 1, thus opening the way for space exploration</dd><dt> October 10, 1967</dt><dd> The signing of the Treaty on Principles Governing the Activites of States in the Exploration and Peaceful Uses of Outer Space,  including the Moon and Other Celestial Bodies.</dd></dl>
 <p class="short">This year's theme is <strong>"SPACE AND ENTREPRENEURSHIP"</strong>.</p>
 <p class="lead">UN WSW2023 OFFICIAL REGISTRATION LINK:</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
+<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

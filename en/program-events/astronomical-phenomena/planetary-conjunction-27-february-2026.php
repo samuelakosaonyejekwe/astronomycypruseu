@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'program-events/astronomical-phenomena/planetary-conjunction-27-february-2026',
     'title'       => 'Planetary Conjunction 27 February 2026',
-    'description' => '#kpocyprus #cyprus #planet #conjunction #alignment #NASA #ESA #JAXA #ROSCOSMOS #ISRO',
+    'description' => '18:35 TELESCOPE OBSERVATIONS OF JUPITER AND THE MOON (WEATHER PERMITTING)',
     'image'       => '/images/public-events/february-2026/planetary-conjunction-27-february-2026/planetary-conjunction-27-february-2026-poster.jpg',
     'translated'  => true,
 ];

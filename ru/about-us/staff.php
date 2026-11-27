@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'about-us/staff',
     'title'       => 'Сотрудники',
-    'description' => 'Сотрудники',
+    'description' => 'Сотрудники – Планетарий и обсерватория «Китион»',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

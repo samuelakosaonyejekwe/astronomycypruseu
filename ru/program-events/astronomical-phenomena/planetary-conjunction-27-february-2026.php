@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'program-events/astronomical-phenomena/planetary-conjunction-27-february-2026',
     'title'       => 'Парад планет – 27 февраля 2026',
-    'description' => '#kpocyprus #cyprus #planet #conjunction #alignment #NASA #ESA #JAXA #ROSCOSMOS #ISRO',
+    'description' => 'Присоединяйтесь к нам в помещениях ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН» в Кити, чтобы насладиться этим великолепным зрелищем в наши большие телескопы.',
     'image'       => '/images/public-events/february-2026/planetary-conjunction-27-february-2026/planetary-conjunction-27-february-2026-poster.jpg',
     'translated'  => true,
 ];

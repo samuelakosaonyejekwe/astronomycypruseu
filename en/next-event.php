@@ -31,7 +31,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>IMPORTANT NOTE:</h3>
 <p>(RU): IN RUSSIAN / (EN): IN ENGLISH / (EL): IN GREEK</p>
 <p>We operate on a "<strong>Bookings Only Policy</strong>" due to the limited capacity of 50 seats at the Planetarium theater.</p>
-<p>We recommend you to book in advance by calling (+357) 99991111. </p>
+<p>We recommend you to book in advance by calling <a href="tel:+35799991111">(+357) 99991111</a>. </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
 <p>Join our spacewalk...</p>
 <p class="short">Click here to <a href="/en/contact-us.php"> find us</a>.</p>

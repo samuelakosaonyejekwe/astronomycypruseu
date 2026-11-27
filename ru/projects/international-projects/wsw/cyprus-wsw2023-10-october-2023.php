@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'projects/international-projects/wsw/cyprus-wsw2023-10-october-2023',
     'title'       => 'Всемирная неделя космоса 2023 на Кипре – 10 октября 2023',
-    'description' => '#WSW2023 #KPOCYPRUS #CYPRUS #CEREMONY #NASA #SPACE #TELESCOPE #OBSERVATIONS',
+    'description' => 'Докладчик: Георгиос Труллиас (национальный координатор Всемирной недели космоса ООН на Кипре)',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -31,7 +31,7 @@ require SITE_ROOT . '/includes/header.php';
 <dl class="specs"><dt>4 октября 1957 года</dt><dd> запуск первого искусственного спутника Земли «Спутник-1», открывший путь к освоению космоса</dd><dt>10 октября 1967 года</dt><dd> подписание Договора о принципах деятельности государств по исследованию и мирному использованию космического пространства, включая Луну и другие небесные тела.</dd></dl>
 <p class="short">Тема этого года — <strong>«КОСМОС И ПРЕДПРИНИМАТЕЛЬСТВО»</strong>.</p>
 <p class="lead">Официальная ссылка для регистрации на Всемирную неделю космоса ООН 2023:</p>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">Ссылки:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>Идентификатор встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'program-events/public-events/august-2026/perseids-2026',
     'title'       => 'Perseids 2026',
-    'description' => 'live music by Memnon Arestis , and relax by the sea with food and drinks',
+    'description' => 'Join us on Thursday, 13 August from 20:00 at KITEMED, Softades Beach for an unforgettable evening under the stars.',
     'image'       => '/images/perseids/perseids-meteor-showers-2026.jpg',
     'translated'  => true,
 ];

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'projects/international-projects/idl/international-day-light-2025',
     'title'       => 'Διεθνής Ημέρα του Φωτός 2025',
-    'description' => '#dayoflight2025 #LightDay2025 #IDL2025 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT',
+    'description' => 'ΠΡΟΜΗΘΕΥΤΕΙΤΕ ΕΔΩ ΤΟ ΕΙΣΙΤΗΡΙΟ ΓΙΑ ΤΗΝ ΟΜΙΛΙΑ ΚΑΙ ΤΙΣ ΤΗΛΕΣΚΟΠΙΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΑΡΗ',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];
@@ -53,7 +53,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" decoding="async" height="341" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-poster.jpg" width="800"/></p>
 <p><strong>Γιατί 16 Μαΐου;</strong></p>
 <p>Η Διεθνής Ημέρα Φωτός θα πραγματοποιείται κάθε χρόνο στις 16 Μαΐου, επέτειο της πρώτης επιτυχούς λειτουργίας του λέιζερ το 1960 από τον φυσικό και μηχανικό Theodore Maiman. Το λέιζερ είναι ένα τέλειο παράδειγμα του πώς μια επιστημονική ανακάλυψη μπορεί να αποφέρει επαναστατικά οφέλη στην κοινωνία στις επικοινωνίες, στην υγειονομική περίθαλψη και σε πολλούς άλλους τομείς. Για ενδιαφέρον, μπορείτε να βρείτε εδώ μέρος της ιστορίας του λέιζερ, αλλά να σημειωθεί ότι η Διεθνής Ημέρα Φωτός δεν αφορά μόνο τα λέιζερ και την επιστήμη. Περιλαμβάνει επίσης πτυχές της τέχνης, του πολιτισμού, της ψυχαγωγίας – παντού όπου υπάρχει φως, στην πραγματικότητα!</p>
-<p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
+<p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <h2>ΠΡΟΗΓΟΥΜΕΝΕΣ ΕΚΔΗΛΩΣΕΙΣ</h2>
 <p class="short"><a href="/el/projects/international-projects/idl/international-day-light-2024.php" title="INTERNATIONAL DAY OF LIGHT 16 MAY 2024">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2024</a></p>
 <p class="short"><a href="/el/projects/international-projects/idl/international-day-light-2023.php">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2023</a></p>

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'planetarium/science-cafe/2024/kition-science-cafe-30-january-2024',
     'title'       => 'KITION Science Café – 30 января 2024',
-    'description' => '20:00 ПРИВЕТСТВЕННОЕ СЛОВО АЛЕКСАНДРА ПРОКОФЬЕВА (ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»)',
+    'description' => 'поделится с широкой публикой новостями астрономии и археоастрономии и обсудит их.',
     'image'       => '/images/science-cafe/kition-science-cafe-images-2024/science-cafe-30-january-2024.jpg',
     'translated'  => true,
 ];
@@ -30,7 +30,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
 <p>Присоединяйтесь к нашей космической прогулке!</p>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ССЫЛКИ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Присоединиться к встрече Zoom</a></p>
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>

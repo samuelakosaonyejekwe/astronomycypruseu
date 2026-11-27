@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'projects/international-projects/wsw/cyprus-wsw2023-04-october-2023',
     'title'       => 'Παγκόσμια Εβδομάδα Διαστήματος 2023 στην Κύπρο – 4 Οκτωβρίου 2023',
-    'description' => '20:00 «ΠΑΓΚΟΣΜΙΑ ΕΒΔΟΜΑΔΑ ΔΙΑΣΤΗΜΑΤΟΣ 2023 - «ΔΙΑΣΤΗΜΑ ΚΑΙ ΕΠΙΧΕΙΡΗΜΑΤΙΚΟΤΗΤΑ»',
+    'description' => 'Οικοδεσπότης-Ομιλητής: Γιώργος Τρούλλιας (Εθνικός Συντονιστής του ΟΗΕ για την Παγκόσμια Εβδομάδα Διαστήματος στην ΚΥΠΡΟ)',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -49,7 +49,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2>Meeting ID: 831 2336 2644</h2>
 <h2>Passcode: kition</h2>
 <p>ΕΠΙΣΗΜΟΣ ΣΥΝΔΕΣΜΟΣ ΕΓΓΡΑΦΗΣ UN WSW2023: https://www.worldspaceweek.org/events/event-details/?eventID=64971</p>
-<p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
+<p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

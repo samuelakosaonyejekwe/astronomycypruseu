@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'projects/international-projects/earth-hour-60+',
     'title'       => 'Earth Hour 60+',
-    'description' => '#BiggestHourForEarth #MyHourForEarth #EARTHHOUR #EH2026 #EARTHHOUR60+ #VOTEFOREARTH',
+    'description' => 'EARTH HOUR 60 2026 - CELEBRATIONS IN CYPRUS BY THE KITION PLANETARIUM & OBSERVATORY',
     'image'       => '/images/earth-hour-60%2B/earth-hour-60-poster-2026.jpg',
     'translated'  => true,
 ];
@@ -281,7 +281,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 <p>The KITION PLANETARIUM &amp; OBSERVATORY invites you to 
  participate in the events for EARTH HOUR 60+</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
+<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"> EARTH HOUR 60+ <a href="https://www.earthhour.org/" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/</a></p>
 <p class="short">INTERNATIONAL EVENTS FOR EARTH HOUR 60+ <a href="https://www.earthhour.org/take-part/events" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/take-part/events</a></p>

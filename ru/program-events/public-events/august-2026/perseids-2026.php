@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'program-events/public-events/august-2026/perseids-2026',
     'title'       => 'Персеиды 2026',
-    'description' => 'живой музыкой в исполнении Мемнона Арестиса и отдыхайте у моря с едой и напитками,',
+    'description' => 'Присоединяйтесь к нам в четверг, 13 августа, с 20:00 в KITEMED, на пляже Софтадес на незабываемый вечер под звёздами.',
     'image'       => '/images/perseids/perseids-meteor-showers-2026.jpg',
     'translated'  => true,
 ];

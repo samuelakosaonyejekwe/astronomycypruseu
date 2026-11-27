@@ -26,7 +26,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">The KITION ASTRONOMY ACADEMY is specially designed for students of different levels.</p>
 <p class="short">The lessons take place annualy from October till June.</p>
 <p class="short"><strong>Registration started. </strong></p>
-<p class="short"><strong>Book your participation now by tel. +357 99991111 or <a href="/en/contact-us.php">Contact us </a>for further information.</strong></p>
+<p class="short"><strong>Book your participation now by tel. <a href="tel:+35799991111">+357 99991111</a> or <a href="/en/contact-us.php">Contact us </a>for further information.</strong></p>
 <h2><a href="/en/program-events/educational-courses/amazing-astronomy.php" title="Amazing Astronomy">Amazing Astronomy</a> (Primary School)</h2>
 <h2><a href="/en/program-events/educational-courses/the-worlds-of-astronomy.php" title="The Worlds of Astronomy">The Worlds of Astronomy</a> (Gymnasium)</h2>
 <h2><a href="/en/program-events/educational-courses/astronomy-principles.php" title="Astronomy Principles">Astronomy Principles</a> (Lyceum)</h2>

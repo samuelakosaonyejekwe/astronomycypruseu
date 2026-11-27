@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'contact-us',
     'title'       => 'Контакты',
-    'description' => '@ Планетарий «Китион» @ Обсерватория «Китион» @ Запросы общей информации',
+    'description' => 'Контакты – Планетарий и обсерватория «Китион»',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -17,7 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><a href="/images/gift-shop/visit-our-gift-shop.jpg"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p></div><div class="block"><p><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></p><p class="short">ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»</p></div></div></div>
-<dl class="specs"><dt><strong>Адрес</strong></dt><dd> ул. Аммохостоу, 9, Кити, 7550 <br/>Ларнакский район<br/> Кипр</dd><dt>Координаты</dt><dd> 34.8440156N, 33.5757433E</dd><dt><strong>Тел.</strong></dt><dd> +357 99 99 11 11 <br/> <strong>Тел.:</strong> +357 24 42 53 00</dd></dl>
+<dl class="specs"><dt><strong>Адрес</strong></dt><dd> ул. Аммохостоу, 9, Кити, 7550 <br/>Ларнакский район<br/> Кипр</dd><dt>Координаты</dt><dd> 34.8440156N, 33.5757433E</dd><dt><strong>Тел.</strong></dt><dd> <a href="tel:+35799991111">+357 99 99 11 11</a> <br/> <strong>Тел.:</strong> <a href="tel:+35724425300">+357 24 42 53 00</a></dd></dl>
 <p class="lead short"><strong>Электронная почта:</strong></p>
 <p class="short"><a href="mailto:planetarium@cytanet.com.cy">@ Планетарий «Китион»<br/> </a> <a href="mailto:observatory@cytanet.com.cy">@ Обсерватория «Китион»</a> <a href="mailto:spacewalk@cytanet.com.cy"><br/> @ Запросы общей информации</a></p>
 <p class="short">КАРТА GOOGLE</p>

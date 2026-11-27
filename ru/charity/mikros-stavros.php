@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'charity/mikros-stavros',
     'title'       => 'Маленький крест',
-    'description' => 'Маленький крест',
+    'description' => 'Маленький крест – Планетарий и обсерватория «Китион»',
     'image'       => '/images/charity/mikros-stavros/mikros-stavros-1.jpg',
     'translated'  => true,
 ];

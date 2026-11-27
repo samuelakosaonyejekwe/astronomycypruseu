@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'about-us/staff',
     'title'       => 'Staff',
-    'description' => 'Staff',
+    'description' => 'Staff – Kition Planetarium & Observatory',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

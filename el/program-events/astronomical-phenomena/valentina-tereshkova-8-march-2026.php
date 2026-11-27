@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'program-events/astronomical-phenomena/valentina-tereshkova-8-march-2026',
     'title'       => 'Βαλεντίνα Τερεσκόβα – 8 Μαρτίου 2026',
-    'description' => '#kpocyprus #cyprus #planet #conjunction #alignment #NASA #ESA #JAXA #ROSCOSMOS #ISRO',
+    'description' => 'Ελάτε στις εγκαταστάσεις του ΠΛΑΝΗΤΑΡΙΟΥ & ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ ΚΙΤΙΟΝ στην Κίτι για να απολαύσετε αυτή τη μοναδική θέα από τα μεγάλα τηλεσκόπιά μας.',
     'image'       => '/images/public-events/march-2026/international-women-day-8-march-2026.jpg',
     'translated'  => true,
 ];

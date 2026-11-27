@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'projects/international-projects/earth-hour-60+',
     'title'       => 'Ώρα της Γης 60+',
-    'description' => '#BiggestHourForEarth #MyHourForEarth #EARTHHOUR #EH2026 #EARTHHOUR60+ #VOTEFOREARTH',
+    'description' => 'Η ΩΡΑ ΤΗΣ ΓΗΣ 60 2026 - ΕΟΡΤΑΣΜΟΙ ΣΤΗΝ ΚΥΠΡΟ ΑΠΟ ΤΟ ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ & ΑΣΤΕΡΟΣΚΟΠΕΙΟ',
     'image'       => '/images/earth-hour-60%2B/earth-hour-60-poster-2026.jpg',
     'translated'  => true,
 ];
@@ -274,7 +274,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <p>Το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ σας προσκαλεί να συμμετάσχετε στις εκδηλώσεις για την ΩΡΑ ΤΗΣ ΓΗΣ 60+</p>
-<p>Αν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
+<p>Αν έχετε απορίες ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short">Η ΩΡΑ ΤΗΣ ΓΗΣ 60+ <a href="https://www.earthhour.org/" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/</a></p>
 <p class="short">ΔΙΕΘΝΕΙΣ ΕΚΔΗΛΩΣΕΙΣ ΓΙΑ ΤΗΝ ΩΡΑ ΤΗΣ ΓΗΣ 60+ <a href="https://www.earthhour.org/take-part/events" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/take-part/events</a></p>

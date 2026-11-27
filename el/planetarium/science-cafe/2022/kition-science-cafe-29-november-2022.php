@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'planetarium/science-cafe/2022/kition-science-cafe-29-november-2022',
     'title'       => 'KITION Science Café – 29 Νοεμβρίου 2022',
-    'description' => '20:00 «ΚΑΤΑΣΚΕΥΗ ΜΕΓΑΛΟΥ ΕΡΑΣΙΤΕΧΝΙΚΟΥ ΤΗΛΕΣΚΟΠΙΟΥ» ΔΙΑΔΙΚΤΥΑΚΟ SCIENCE CAFÉ',
+    'description' => 'Το θέμα του Διαδικτυακού Science Café του Νοεμβρίου είναι η «Κατασκευή μεγάλου ερασιτεχνικού τηλεσκοπίου».',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -33,7 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Ελάτε στον διαστημικό μας περίπατο!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-<p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
+<p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>

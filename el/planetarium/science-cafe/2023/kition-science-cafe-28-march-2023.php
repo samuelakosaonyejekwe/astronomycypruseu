@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'planetarium/science-cafe/2023/kition-science-cafe-28-march-2023',
     'title'       => 'KITION Science Café – 28 Μαρτίου 2023',
-    'description' => 'Από το 2008 το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ & ΑΣΤΕΡΟΣΚΟΠΕΙΟ προσφέρει συναντήσεις Science Café για όλους τους επισκέπτες, ώστε να μοιράζονται το πάθος τους για την επιστήμη και την αστρονομία. Από το 2021…',
+    'description' => 'κ. Γιώργος Τρούλλιας (Εθνικός Συντονιστής Κύπρου για τους Αστρονόμους Χωρίς Σύνορα και τον Παγκόσμιο Μήνα Αστρονομίας)',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -33,7 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Ελάτε στον διαστημικό μας περίπατο!</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>
-<p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο +357 9999 1111.</p>
+<p>Αν έχετε απορίες ή προτάσεις, μην διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή στο τηλέφωνο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη συνάντηση Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό συνάντησης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>

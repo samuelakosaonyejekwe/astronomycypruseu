@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'projects/international-projects/international-day-light',
     'title'       => 'Международный день света',
-    'description' => '#dayoflight2026 #LightDay2026 #IDL2026 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT',
+    'description' => 'ПРИОБРЕСТИ БИЛЕТ НА ЛЕКЦИЮ И НАБЛЮДЕНИЯ ЮПИТЕРА В ТЕЛЕСКОПЫ МОЖНО ЗДЕСЬ',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];
@@ -47,7 +47,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" decoding="async" height="341" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-poster.jpg" width="800"/></p>
 <p><strong>Почему 16 мая?</strong></p>
 <p>Международный день света будет отмечаться ежегодно 16 мая – в годовщину первого успешного запуска лазера в 1960 году физиком и инженером Теодором Мейманом. Лазер – прекрасный пример того, как научное открытие может приносить обществу революционные выгоды в связи, здравоохранении и многих других областях. Для интереса здесь можно найти некоторые сведения из истории лазера, но обратите внимание, что Международный день света посвящён не только лазерам и науке. Он включает также аспекты искусства, культуры, развлечений – по сути, всё, где присутствует свет!</p>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону +357 9999 1111.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь обращаться к нам по <a href="mailto:planetarium@cytanet.com.cy"> электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <h2>ПРОШЕДШИЕ МЕРОПРИЯТИЯ</h2>
 <p class="short"><a href="/ru/projects/international-projects/idl/international-day-light-2025.php" title="INTERNATIONAL DAY OF LIGHT 16 MAY 2024">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2025</a></p>
 <p class="short"><a href="/ru/projects/international-projects/idl/international-day-light-2024.php" title="INTERNATIONAL DAY OF LIGHT 16 MAY 2024">МЕЖДУНАРОДНЫЙ ДЕНЬ СВЕТА 16 МАЯ 2024</a></p>

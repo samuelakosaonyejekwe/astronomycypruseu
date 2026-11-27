@@ -33,7 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><em>Radio Range</em></h2>
 <p>Solar or Jovian bursts and meteors can be observed using the radiotelescope. </p>
 <p><strong>It is possible to order customized educational/enternainment private/group observations according to your needs. </strong></p>
-<p><strong>Book your event by tel. +357 99991111 or <a href="/en/contact-us.php">Contact us </a>for further information.</strong></p>
+<p><strong>Book your event by tel. <a href="tel:+35799991111">+357 99991111</a> or <a href="/en/contact-us.php">Contact us </a>for further information.</strong></p>
 </article>
 <!-- ======================== CONTENT END ======================== -->
 <?php require SITE_ROOT . '/includes/footer.php'; ?>

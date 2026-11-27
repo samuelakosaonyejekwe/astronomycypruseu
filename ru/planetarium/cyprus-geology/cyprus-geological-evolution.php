@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'planetarium/cyprus-geology/cyprus-geological-evolution',
     'title'       => 'Геологическая эволюция Кипра',
-    'description' => 'Геологическая эволюция Кипра',
+    'description' => 'Геологическая эволюция Кипра – Планетарий и обсерватория «Китион»',
     'image'       => '/images/exhibitions/cyprus-geology/gabbro.jpg',
     'translated'  => true,
 ];

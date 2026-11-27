@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'projects/international-projects/idl/international-day-light-2024',
     'title'       => 'International Day Light 2024',
-    'description' => '#dayoflight2024 #LightDay2024 #IDL2024 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT',
+    'description' => 'GET YOUR FUNDRAISING TICKET WITH TELESCOPE OBSERVATIONS AND LASER SKY TOUR',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];
@@ -64,7 +64,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" decoding="async" height="341" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-poster.jpg" width="800"/></p>
 <p>Why May 16th?</p>
 <p>The International Day of Light will be held on May 16th every year, the anniversary of the first successful operation of the laser in 1960 by physicist and engineer, Theodore Maiman. The laser is a perfect example of how a scientific discovery can yield revolutionary benefits to society in communications, healthcare and many other fields. For interest, you can find here some of the laser history, but note that the International Day of Light is not just about lasers and science. It also includes aspects of art, culture, entertainment – everywhere light is present in fact!</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
+<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <h2>PAST EVENTS</h2>
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">INTERNATIONAL DAY OF LIGHT 16 MAY 2020</a></p>
 <p class="short"><a href="/en/projects/international-projects/idl/international-day-light-2023.php">INTERNATIONAL DAY OF LIGHT 16 MAY 2023</a></p>

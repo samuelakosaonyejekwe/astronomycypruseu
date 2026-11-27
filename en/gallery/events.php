@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'gallery/events',
     'title'       => 'Events',
-    'description' => 'Events',
+    'description' => 'Events – Kition Planetarium & Observatory',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

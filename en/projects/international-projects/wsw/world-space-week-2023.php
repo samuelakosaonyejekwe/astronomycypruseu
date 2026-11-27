@@ -61,7 +61,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Demonstrate public support for space programs</p>
 <p class="short">Excite young people about science, technology, engineering, and math</p>
 <p>Foster international cooperation in space outreach and education</p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
+<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p>UN WORLD SPACE WEEK <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
 <p>INTERNATIONAL EVENTS FOR THE UN WORLD SPACE WEEK https://www.worldspaceweek.org/events/event-list/</p>

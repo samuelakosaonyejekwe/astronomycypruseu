@@ -40,7 +40,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><strong>19:20 LATEST – NEWS – ACHIEVEMENTS – DISCOVERIES</strong></p>
 <p class="short"><strong> 19:30 BIRTHDAY CAKE </strong></p>
 <p><strong>19:45 TELESCOPE OBSERVATIONS</strong> OF THE GREAT ORION NEBULA AND PLANET JUPITER</p>
-<p><strong>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> or call +357 9999 1111.</strong></p>
+<p><strong>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</strong></p>
 </div>
 </article>
 <!-- ======================== CONTENT END ======================== -->

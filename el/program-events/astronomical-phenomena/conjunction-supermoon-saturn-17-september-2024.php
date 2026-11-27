@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'program-events/astronomical-phenomena/conjunction-supermoon-saturn-17-september-2024',
     'title'       => 'Σύνοδος, Υπερπανσέληνος και Κρόνος – 17 Σεπτεμβρίου 2024',
-    'description' => '#kpocyprus #cyprus #supermoon #saturn #conjunction #astronomerswithoutborders',
+    'description' => 'Ο δακτυλιοφόρος πλανήτης Κρόνος θα φαίνεται επίσης μεγαλύτερος από το συνηθισμένο, λόγω της πρόσφατης αντίθεσής του.',
     'image'       => '/images/public-events/september-2024/conjunction-supermoon-saturn-17-september-2024-poster.jpg',
     'translated'  => true,
 ];

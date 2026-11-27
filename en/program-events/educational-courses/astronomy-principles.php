@@ -34,7 +34,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><a class="doc-link" href="/docs/educational-courses/astronomy-principles/astronomy-principles-ru.pdf" rel="noopener" target="_blank" title="ЭЛЕМЕНТЫ АСТРОНОМИИ">ELEMENTS OF ASTRONOMY</a> (Russian)</h3>
 <p class="lead short"><strong>IMPORTANT NOTE:</strong></p>
 <p>"Bookings Only Policy" is used.</p>
-<p>It is required to book in advance by calling (+357) 99991111 (English and Greek speakers) or (+357) 99037440 (Russian speakers).</p>
+<p>It is required to book in advance by calling <a href="tel:+35799991111">(+357) 99991111</a> (English and Greek speakers) or <a href="tel:+35799037440">(+357) 99037440</a> (Russian speakers).</p>
 <p>Maximum 10 persons per session for these programs.</p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
 <p>Click here to <a href="/en/contact-us.php">find us</a>.</p>

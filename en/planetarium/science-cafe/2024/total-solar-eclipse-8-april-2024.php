@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'planetarium/science-cafe/2024/total-solar-eclipse-8-april-2024',
     'title'       => 'Total Solar Eclipse 8 April 2024',
-    'description' => '#kpocyprus #science #astronomy #astrophysics #cafe #online #cyprus #totalsolareclipse #NASA#awb #gam #worldwide',
+    'description' => '19:30 WELCOMING BY GEORGE TROULLIAS (DIRECTOR, KITION PLANETARIUM & OBSERVATORY)',
     'image'       => '/images/science-cafe/kition-science-cafe-images-2024/total-solar-eclipse-8-april-2024-nasa.jpg',
     'translated'  => true,
 ];
@@ -33,7 +33,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short"><a href="https://www.youtube.com/live/2MJY_ptQW1o?si=h0CcRxbWaenuae-C" rel="noopener noreferrer" target="_blank"><strong>NASA LIVE STREAMING</strong></a></p>
 <p class="short"><strong><a href="https://www.youtube.com/live/UUw4yi9XSsU?si=ZewuYSjf_nxYTAXe" rel="noopener noreferrer" target="_blank">EarthSky LIVE STREAMING</a></strong></p>
 <p><strong><a href="https://www.timeanddate.com/live/eclipse-solar-2024-april-8" rel="noopener noreferrer" target="_blank">TimeAndDate LIVE STREAMING</a></strong></p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
+<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">LINKS:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Join Zoom Meeting</a></p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>

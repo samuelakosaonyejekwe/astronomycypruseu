@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'program-events/astronomical-phenomena/valentina-tereshkova-8-march-2026',
     'title'       => 'Valentina Tereshkova 8 March 2026',
-    'description' => '#kpocyprus #cyprus #planet #conjunction #alignment #NASA #ESA #JAXA #ROSCOSMOS #ISRO',
+    'description' => 'Join us at the KITION PLANETARIUM & OBSERVATORY premises in Kiti to observe this magnificant view from our large telescopes.',
     'image'       => '/images/public-events/march-2026/international-women-day-8-march-2026.jpg',
     'translated'  => true,
 ];

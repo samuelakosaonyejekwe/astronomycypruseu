@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">20:00 (UT+3:00) «<strong>Sharp Eye of James Webb Space Telescope</strong>» </p>
 <dl class="specs"><dt>Meeting ID</dt><dd> 831 2336 2644</dd><dt>Passcode</dt><dd> kition</dd></dl>
 <p><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-26-july-2022.jpg" width="800"/></p>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
+<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 
 <p class="short">The KITION PLANETARIUM &amp; OBSERVATORY invites you to...<br/>
 Join our spacewalk</p>

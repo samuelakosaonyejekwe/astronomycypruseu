@@ -29,7 +29,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>or specialized programs such as "Astronomy for Scouts", "Astronomy for Artists" etc </h3>
 <h3>are available upon request and can be customized according to your needs. </h3>
 <p class="lead short"><strong>BOOKING IS ESSENTIAL:</strong></p>
-<p class="short">Book via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a>, or via phone +357 99991111</p>
+<p class="short">Book via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a>, or via phone <a href="tel:+35799991111">+357 99991111</a></p>
 <p><a class="doc-link" href="/docs/cancellation_policy_special_events.pdf" rel="noopener" target="_blank" title="Cancellation Policy">Cancellation policy</a> <strong>(Please read before registration)</strong></p>
 <p>"Gift Tickets" are available for these events. Please contact us to purchase your "Gift Tickets". There is an additional charge of just €5 (Postage &amp; Packaging) and you will receive a gift card with your purchase.</p>
 <div class="blocks">

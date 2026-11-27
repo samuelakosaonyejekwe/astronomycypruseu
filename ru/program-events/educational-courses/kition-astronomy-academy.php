@@ -26,7 +26,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">АСТРОНОМИЧЕСКАЯ АКАДЕМИЯ «КИТИОН» специально разработана для учеников разных уровней.</p>
 <p class="short">Занятия проходят ежегодно с октября по июнь.</p>
 <p><strong>Регистрация началась. </strong></p>
-<p><strong>Забронируйте участие сейчас по тел. +357 99991111 или <a href="/ru/contact-us.php">свяжитесь с нами </a>для получения дополнительной информации.</strong></p>
+<p><strong>Забронируйте участие сейчас по тел. <a href="tel:+35799991111">+357 99991111</a> или <a href="/ru/contact-us.php">свяжитесь с нами </a>для получения дополнительной информации.</strong></p>
 <h2><a href="/ru/program-events/educational-courses/amazing-astronomy.php" title="Amazing Astronomy">Удивительная астрономия</a> (начальная школа)</h2>
 <h2><a href="/ru/program-events/educational-courses/the-worlds-of-astronomy.php" title="The Worlds of Astronomy">Астрономические миры</a> (гимназия)</h2>
 <div class="link-row"><p class="short"><a href="/ru/program-events/educational-courses/astronomy-principles.php" title="Astronomy Principles">Элементы астрономии</a> (лицей)</p></div>

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'program-events/astronomical-phenomena/conjunction-supermoon-saturn-17-september-2024',
     'title'       => 'Соединение, суперлуние и Сатурн – 17 сентября 2024',
-    'description' => '#kpocyprus #cyprus #supermoon #saturn #conjunction #astronomerswithoutborders',
+    'description' => 'Планета с кольцами Сатурн также будет выглядеть крупнее обычного из-за недавнего противостояния.',
     'image'       => '/images/public-events/september-2024/conjunction-supermoon-saturn-17-september-2024-poster.jpg',
     'translated'  => true,
 ];

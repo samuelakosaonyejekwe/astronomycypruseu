@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'projects/international-projects/idl/international-day-light-2023',
     'title'       => 'Διεθνής Ημέρα του Φωτός 2023',
-    'description' => '#dayoflight2023 #LightDay2023 #IDL2023 @IDLofficial #kpocyprus #cyprus #light #SEETHELIGHT',
+    'description' => 'Η επίσημη εκδήλωση της Κύπρου θα πραγματοποιηθεί στις εγκαταστάσεις του ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ & ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ στο Κίτι την Τρίτη 16 Μαΐου, στις 20:00 ώρα Κύπρου.',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];
@@ -45,7 +45,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><img alt="" decoding="async" height="341" loading="lazy" src="https://astronomycyprus.eu/images/international-day-of-light-may-16/international-day-of-light-poster.jpg" width="800"/></p>
 <p>Γιατί 16 Μαΐου;</p>
 <p>Η Διεθνής Ημέρα Φωτός θα πραγματοποιείται κάθε χρόνο στις 16 Μαΐου, επέτειο της πρώτης επιτυχούς λειτουργίας του λέιζερ το 1960 από τον φυσικό και μηχανικό Theodore Maiman. Το λέιζερ είναι ένα τέλειο παράδειγμα του πώς μια επιστημονική ανακάλυψη μπορεί να αποφέρει επαναστατικά οφέλη στην κοινωνία στις επικοινωνίες, στην υγειονομική περίθαλψη και σε πολλούς άλλους τομείς. Για ενδιαφέρον, μπορείτε να βρείτε εδώ μέρος της ιστορίας του λέιζερ, αλλά να σημειωθεί ότι η Διεθνής Ημέρα Φωτός δεν αφορά μόνο τα λέιζερ και την επιστήμη. Περιλαμβάνει επίσης πτυχές της τέχνης, του πολιτισμού, της ψυχαγωγίας – παντού όπου υπάρχει φως, στην πραγματικότητα!</p>
-<p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
+<p>Εάν έχετε ερωτήσεις ή προτάσεις, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <h2>ΠΡΟΗΓΟΥΜΕΝΕΣ ΕΚΔΗΛΩΣΕΙΣ</h2>
 <p class="short"><a href="https://www.youtube.com/watch?v=wB53mnljTJw&amp;t=481s" rel="noopener noreferrer" target="_blank">ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΦΩΤΟΣ 16 ΜΑΪΟΥ 2020</a></p>
 <p class="lead short">ΣΥΝΔΕΣΜΟΙ:</p>

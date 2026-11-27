@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'planetarium/cyprus-geology/cyprus-geological-evolution',
     'title'       => 'Cyprus Geological Evolution',
-    'description' => 'Cyprus Geological Evolution',
+    'description' => 'Cyprus Geological Evolution – Kition Planetarium & Observatory',
     'image'       => '/images/exhibitions/cyprus-geology/gabbro.jpg',
     'translated'  => true,
 ];

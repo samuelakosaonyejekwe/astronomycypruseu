@@ -46,7 +46,7 @@ require SITE_ROOT . '/includes/header.php';
 <ul class="items"><li><strong>Σημειώσεις:</strong></li></ul>
 <ol class="notes" type="i"><li>Διάρκεια</li><li>Αριθμός συνεδριών</li><li>Περιοχή/επαρχία</li><li>Είδος δραστηριότητας</li><li>Αριθμός ατόμων</li><li>ΔΩΡΕΑΝ είσοδος κατά τις σχολικές επισκέψεις για εκπαιδευτικούς/συνοδούς (σε περιπτώσεις μαθητών με προβλήματα όρασης, αυτισμό ή σύνδρομο Down)</li><li>Ισχύουν ελάχιστες χρεώσεις</li></ol>
 <h3><strong>Η ΚΡΑΤΗΣΗ ΕΙΝΑΙ ΑΠΑΡΑΙΤΗΤΗ ΠΡΙΝ ΑΠΟ ΤΗΝ ΕΠΙΣΚΕΨΗ ΣΑΣ:</strong></h3>
-<p class="short"><strong>Κάντε κράτηση μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή τηλεφωνικά στο +357 99991111</strong></p>
+<p class="short"><strong>Κάντε κράτηση μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή τηλεφωνικά στο <a href="tel:+35799991111">+357 99991111</a></strong></p>
 <p class="short"><strong><a class="doc-link" href="/docs/cancellation_policy_special_events.pdf" rel="noopener" target="_blank" title="Cancellation Policy">Πολιτική ακύρωσης</a> (Παρακαλούμε διαβάστε πριν από την εγγραφή)</strong></p>
 </div>
 </article>

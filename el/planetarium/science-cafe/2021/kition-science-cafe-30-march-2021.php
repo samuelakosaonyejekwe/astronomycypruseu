@@ -36,7 +36,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Θα ακολουθήσει ανοιχτή συζήτηση με τους συμμετέχοντες για απόψεις ή ακόμα και να μοιραστούν παραδείγματα από τις δικές τους εμπειρίες.</p>
 <p>Δωρεάν Συμμετοχή.</p>
 <p> Συμπορευθείτε στον διαστημικό μας περίπατο!</p>
-<p>Εάν έχετε οποιαδήποτε απορία ή πρόταση, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο +357 9999 1111.</p>
+<p>Εάν έχετε οποιαδήποτε απορία ή πρόταση, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω <a href="mailto:planetarium@cytanet.com.cy">e-mail</a> ή να καλέσετε στο <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ΣΥΝΔΕΣΜΟΙ:</p>
 <p class="short"><a href="https://us02web.zoom.us/j/83123362644?pwd=MW8zdTJmckU3Q2lnZE5pbGl1YjFFQT09&amp;fbclid=IwAR0OOVjSz2fhlG_sPjMH71k1OGwjoxf-MgvFyylk5xFV0JehABeLv7EuyWY#success" rel="noopener noreferrer" target="_blank" title="KITION ZOOM MEETING">Συμμετοχή στη σύσκεψη Zoom</a></p>
 <dl class="specs"><dt>Αναγνωριστικό σύσκεψης</dt><dd> 831 2336 2644</dd><dt>Κωδικός πρόσβασης</dt><dd> kition</dd></dl>

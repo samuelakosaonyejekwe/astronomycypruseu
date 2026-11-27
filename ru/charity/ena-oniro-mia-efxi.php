@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'charity/ena-oniro-mia-efxi',
     'title'       => 'Одно мечтание, одно желание',
-    'description' => 'Одно мечтание, одно желание',
+    'description' => 'Одно мечтание, одно желание – Планетарий и обсерватория «Китион»',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

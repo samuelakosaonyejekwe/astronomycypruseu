@@ -47,7 +47,7 @@ require SITE_ROOT . '/includes/header.php';
 
 <p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>
-<p>It is required to book in advance by calling (+357) 99991111 (English speakers) or (+357) 99037440 (Russian speakers). </p>
+<p>It is required to book in advance by calling <a href="tel:+35799991111">(+357) 99991111</a> (English speakers) or <a href="tel:+35799037440">(+357) 99037440</a> (Russian speakers). </p>
 <p>If you are looking for some special or customized programs or services for yourself, your friends or your group, feel free to <a href="/en/contact-us.php">Contact us</a>.</p>
 <p>Click here to <a href="/en/contact-us.php"> find us</a>. </p>
 </article>

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'kition-astronomer',
     'title'       => 'Kition Astronomer',
-    'description' => 'Kition Astronomer',
+    'description' => 'Kition Astronomer – Kition Planetarium & Observatory',
     'image'       => '/images/memberships/astro-student.jpg',
     'translated'  => true,
 ];

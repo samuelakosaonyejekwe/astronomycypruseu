@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'gallery/events',
     'title'       => 'Εκδηλώσεις',
-    'description' => 'Εκδηλώσεις',
+    'description' => 'Εκδηλώσεις – Κίτιον Πλανητάριο & Αστεροσκοπείο',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

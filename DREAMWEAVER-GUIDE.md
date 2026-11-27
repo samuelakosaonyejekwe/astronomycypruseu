@@ -75,6 +75,17 @@ require …bootstrap.php; require …header.php;
   - `<div class="row gallery captioned tiles">` = uniform tiles of logo/picture + caption.
   - `<div class="row gallery captioned promo">` = poster cards with a title/link (home page).
   - `<div class="row stack">` = one picture with its caption centred underneath.
+  - `<div class="row keyval">` = a short label (date, time, name) on the left, its details on the right.
+  - `<dl class="specs"><dt>Label</dt><dd>Value</dd>…</dl>` = a two-column specification list
+    (price, duration, capacity…).
+  - `<ol class="notes">` = numbered notes (i), (ii), (iii)…
+  - `<ul class="doc-grid"><li><a href="/docs/…pdf">Title</a></li>…</ul>` = document library cards (PDFs).
+  - `<div class="link-row"><p><a …>…</a></p>…</div>` = links shown as buttons side by side.
+  - `<ul class="link-list">` = a list of longer links (news, headlines) with arrows.
+  - `<ul class="fields">` = the details a visitor should include in an e-mail (shown as chips).
+  - `<ul class="bullets">` = a long list that flows into columns on wide screens.
+  - `<p class="lead">` = a short line that introduces the list or table after it.
+  - Real data tables: `<div class="table-wrap"><table>…</table></div>` (a header row uses `<th>`).
   Pictures are never enlarged beyond their real size, so use images that are large enough.
 * **Side by side:** put items in `<div class="blocks"><div class="row"><div class="block">…</div><div class="block">…</div></div></div>`.
   The blocks sit next to each other on wide screens and stack on phones.
@@ -132,7 +143,13 @@ social media), then upload everything to an **Apache** host with PHP 7.4 or newe
 After installing an SSL certificate, uncomment the two **HTTPS** lines and the
 **Strict-Transport-Security** line in `.htaccess`.
 
-## 7. Change colours or the menu
+## 7. The copy on GitHub Pages
+
+https://samuelakosaonyejekwe.github.io/astronomycypruseu/ is a static copy of this site (branch
+`gh-pages`), for previewing without PHP hosting. It is regenerated from the PHP site with
+`tools/export-static.py` (see README.md). Search engines are told not to list it.
+
+## 8. Change colours or the menu
 
 * Colours: the variables at the top of `assets/css/site.css` (`--accent` is the gold, `--brand`
   is the original navy). The light-theme colours are in the `[data-theme="light"]` block.

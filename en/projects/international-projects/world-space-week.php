@@ -62,7 +62,7 @@ require SITE_ROOT . '/includes/header.php';
 <li>Foster international cooperation in space outreach and education</li>
 </ul>
 <ul class="items"><li>Provide unique leverage in space outreach and education</li><li>Educate people around the world about the benefits that they receive from space</li><li>Encourage greater use of space for sustainable economic development</li><li>Demonstrate public support for space programs</li><li>Excite young people about science, technology, engineering, and math</li><li>Foster international cooperation in space outreach and education</li></ul>
-<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call +357 9999 1111.</p>
+<p>If you have any querries or suggestions, do not hesitate to contact us via <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> or call <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead"><strong>LINKS:</strong></p>
 <p><strong>UN WORLD SPACE WEEK</strong> <a href="https://www.worldspaceweek.org/" rel="noopener noreferrer" target="_blank">https://www.worldspaceweek.org/</a></p>
 <p><strong>INTERNATIONAL EVENTS FOR THE UN WORLD SPACE WEEK</strong> https://www.worldspaceweek.org/nation/Cyprus/</p>

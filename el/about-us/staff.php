@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'about-us/staff',
     'title'       => 'Προσωπικό',
-    'description' => 'Προσωπικό',
+    'description' => 'Προσωπικό – Κίτιον Πλανητάριο & Αστεροσκοπείο',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

@@ -26,7 +26,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Η ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ είναι ειδικά σχεδιασμένη για μαθητές διαφορετικών επιπέδων.</p>
 <p class="short">Τα μαθήματα πραγματοποιούνται ετησίως από τον Οκτώβριο έως τον Ιούνιο.</p>
 <p><strong>Οι εγγραφές ξεκίνησαν. </strong></p>
-<p><strong>Κλείστε τώρα τη συμμετοχή σας στο τηλ. +357 99991111 ή <a href="/el/contact-us.php">επικοινωνήστε μαζί μας </a>για περισσότερες πληροφορίες.</strong></p>
+<p><strong>Κλείστε τώρα τη συμμετοχή σας στο τηλ. <a href="tel:+35799991111">+357 99991111</a> ή <a href="/el/contact-us.php">επικοινωνήστε μαζί μας </a>για περισσότερες πληροφορίες.</strong></p>
 <h2><a href="/el/program-events/educational-courses/amazing-astronomy.php" title="Amazing Astronomy">Θαυμάσια Αστρονομία</a> (Δημοτικό)</h2>
 <h2><a href="/el/program-events/educational-courses/the-worlds-of-astronomy.php" title="The Worlds of Astronomy">Οι Κόσμοι της Αστρονομίας</a> (Γυμνάσιο)</h2>
 <h2><a href="/el/program-events/educational-courses/astronomy-principles.php" title="Astronomy Principles">Αρχές Αστρονομίας</a> (Λύκειο)</h2>

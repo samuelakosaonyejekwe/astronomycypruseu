@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'planetarium/cyprus-geology/cyprus-geological-evolution',
     'title'       => 'Γεωλογική εξέλιξη της Κύπρου',
-    'description' => 'Γεωλογική εξέλιξη της Κύπρου',
+    'description' => 'Γεωλογική εξέλιξη της Κύπρου – Κίτιον Πλανητάριο & Αστεροσκοπείο',
     'image'       => '/images/exhibitions/cyprus-geology/gabbro.jpg',
     'translated'  => true,
 ];

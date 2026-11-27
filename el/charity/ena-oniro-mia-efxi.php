@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'charity/ena-oniro-mia-efxi',
     'title'       => 'Ένα όνειρο, μια ευχή',
-    'description' => 'Ένα όνειρο, μια ευχή',
+    'description' => 'Ένα όνειρο, μια ευχή – Κίτιον Πλανητάριο & Αστεροσκοπείο',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'program-events/public-events/august-2026/perseids-2026',
     'title'       => 'Περσείδες 2026',
-    'description' => 'ζωντανή μουσική από τον Μέμνονα Αρέστη , και χαλαρώστε δίπλα στη θάλασσα με φαγητό και ποτά',
+    'description' => 'Ελάτε μαζί μας την Πέμπτη 13 Αυγούστου από τις 20:00 στο KITEMED, παραλία Σοφτάδων για μια αξέχαστη βραδιά κάτω από τα άστρα.',
     'image'       => '/images/perseids/perseids-meteor-showers-2026.jpg',
     'translated'  => true,
 ];

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'gallery/astrophotography',
     'title'       => 'Astrophotography',
-    'description' => 'Astrophotography',
+    'description' => 'Astrophotography – Kition Planetarium & Observatory',
     'image'       => '/images/astrophotography/sun/Venus2012.jpg',
     'translated'  => true,
 ];

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'gallery/events',
     'title'       => 'Мероприятия',
-    'description' => 'Мероприятия',
+    'description' => 'Мероприятия – Планетарий и обсерватория «Китион»',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

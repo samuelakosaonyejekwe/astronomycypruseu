@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'kition-astronomer',
     'title'       => 'Астроном «Китиона»',
-    'description' => 'Астроном «Китиона»',
+    'description' => 'Астроном «Китиона» – Планетарий и обсерватория «Китион»',
     'image'       => '/images/memberships/astro-student.jpg',
     'translated'  => true,
 ];

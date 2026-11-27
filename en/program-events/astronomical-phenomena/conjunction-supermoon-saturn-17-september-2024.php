@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'program-events/astronomical-phenomena/conjunction-supermoon-saturn-17-september-2024',
     'title'       => 'Conjunction Supermoon Saturn 17 September 2024',
-    'description' => '#kpocyprus #cyprus #supermoon #saturn #conjunction #astronomerswithoutborders',
+    'description' => 'The ringed planet Saturn will also appear larger than usual, due to its recent opposition.',
     'image'       => '/images/public-events/september-2024/conjunction-supermoon-saturn-17-september-2024-poster.jpg',
     'translated'  => true,
 ];

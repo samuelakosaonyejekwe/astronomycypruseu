@@ -46,7 +46,7 @@ require SITE_ROOT . '/includes/header.php';
 <ul class="items"><li><strong>Примечания:</strong></li></ul>
 <ol class="notes" type="i"><li>продолжительность</li><li>количество сеансов</li><li>район</li><li>вид занятия</li><li>количество человек</li><li>БЕСПЛАТНЫЙ вход для учителей и сопровождающих во время школьных визитов (в случаях нарушения зрения, аутизма или синдрома Дауна)</li><li>действует минимальная плата</li></ol>
 <h3><strong>ПЕРЕД ПОСЕЩЕНИЕМ НЕОБХОДИМО ЗАБРОНИРОВАТЬ:</strong></h3>
-<p class="short"><strong>Бронируйте по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 99991111</strong></p>
+<p class="short"><strong>Бронируйте по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 99991111</a></strong></p>
 <p class="short"><strong><a class="doc-link" href="/docs/cancellation_policy_special_events.pdf" rel="noopener" target="_blank" title="Cancellation Policy">Правила отмены</a> (пожалуйста, прочтите перед регистрацией)</strong></p>
 </div>
 </article>

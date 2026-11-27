@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'charity/mikros-stavros',
     'title'       => 'Μικρός Σταυρός',
-    'description' => 'Μικρός Σταυρός',
+    'description' => 'Μικρός Σταυρός – Κίτιον Πλανητάριο & Αστεροσκοπείο',
     'image'       => '/images/charity/mikros-stavros/mikros-stavros-1.jpg',
     'translated'  => true,
 ];

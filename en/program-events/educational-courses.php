@@ -25,7 +25,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>You may chose from educational 4-week courses, 1-day courses or a Saturday morning workshop for your children. They are available for all ages in groups or private for individuals. Choose one which suits your needs and register for it today.</p>
 <p>The courses are announced online and are also published in the onthly <strong><a href="/en/newsletter.php">newsletter</a></strong>.</p>
 <p class="lead short"><strong>BOOKING IS ESSENTIAL:</strong></p>
-<p class="short">Book via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a>, or via phone +357 99991111</p>
+<p class="short">Book via <a href="mailto:planetarium@cytanet.com.cy">e-mail</a>, or via phone <a href="tel:+35799991111">+357 99991111</a></p>
 <p><a class="doc-link" href="/docs/cancellation_policy_special_events.pdf" rel="noopener" target="_blank" title="Cancellation Policy">Cancellation policy</a> <strong>(Please read before registration)</strong></p>
 <p>"Gift Tickets" are available for these events. Please contact us to purchase your "Gift Tickets". There is an additional charge of just €5 (Postage &amp; Packaging) and you will receive a gift card with your purchase.</p>
 <div class="blocks">

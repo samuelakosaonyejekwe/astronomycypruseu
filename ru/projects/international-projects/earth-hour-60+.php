@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'ru',
     'path'        => 'projects/international-projects/earth-hour-60+',
     'title'       => 'Час Земли 60+',
-    'description' => '#BiggestHourForEarth #MyHourForEarth #EARTHHOUR #EH2026 #EARTHHOUR60+ #VOTEFOREARTH',
+    'description' => 'ЧАС ЗЕМЛИ 60 2026 — ПРАЗДНОВАНИЕ НА КИПРЕ ОТ ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН»',
     'image'       => '/images/earth-hour-60%2B/earth-hour-60-poster-2026.jpg',
     'translated'  => true,
 ];
@@ -277,7 +277,7 @@ require SITE_ROOT . '/includes/header.php';
 </div>
 </div>
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас принять участие в мероприятиях «ЧАСА ЗЕМЛИ 60+»</p>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> или позвонить по телефону +357 9999 1111.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy"> e-mail</a> или позвонить по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 <p class="lead">ССЫЛКИ:</p>
 <p class="short">«ЧАС ЗЕМЛИ 60+»</p>
 <p class="short"><a href="https://www.earthhour.org/" rel="noopener noreferrer" target="_blank">https://www.earthhour.org/</a></p>

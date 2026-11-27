@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'contact-us',
     'title'       => 'Επικοινωνία',
-    'description' => '@ Κίτιον Πλανητάριο @ Κίτιον Αστεροσκοπείο @ Αιτήματα γενικών πληροφοριών',
+    'description' => 'Επικοινωνία – Κίτιον Πλανητάριο & Αστεροσκοπείο',
     'image'       => '/images/gift-shop/visit-our-gift-shop.jpg',
     'translated'  => true,
 ];
@@ -17,7 +17,7 @@ require SITE_ROOT . '/includes/header.php';
 <!-- ======================= CONTENT START ======================= -->
 <article class="content">
 <div class="blocks"><div class="row gallery captioned promo"><div class="block media"><p><a href="/images/gift-shop/visit-our-gift-shop.jpg"><img alt="GIFT SHOP" data-nw="2718" decoding="async" height="112" loading="lazy" src="/images/gift-shop/visit-our-gift-shop.jpg" title="GIFT SHOP" width="500"/></a></p></div><div class="block"><p><img alt="" data-nw="283" decoding="async" height="172" loading="lazy" src="/images/Logo_JPG.jpg" width="283"/></p><p class="short">ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p></div></div></div>
-<dl class="specs"><dt><strong>Διεύθυνση</strong></dt><dd> Αμμοχώστου 9, Κίτι, 7550 <br/>Επαρχία Λάρνακας<br/> Κύπρος</dd><dt>Συντεταγμένες</dt><dd> 34.8440156N, 33.5757433E</dd><dt><strong>Τηλ.</strong></dt><dd> +357 99 99 11 11 <br/> <strong>Τηλ.:</strong> +357 24 42 53 00</dd></dl>
+<dl class="specs"><dt><strong>Διεύθυνση</strong></dt><dd> Αμμοχώστου 9, Κίτι, 7550 <br/>Επαρχία Λάρνακας<br/> Κύπρος</dd><dt>Συντεταγμένες</dt><dd> 34.8440156N, 33.5757433E</dd><dt><strong>Τηλ.</strong></dt><dd> <a href="tel:+35799991111">+357 99 99 11 11</a> <br/> <strong>Τηλ.:</strong> <a href="tel:+35724425300">+357 24 42 53 00</a></dd></dl>
 <p class="lead short"><strong>Ηλεκτρονικά ταχυδρομεία:</strong></p>
 <p class="short"><a href="mailto:planetarium@cytanet.com.cy">@ Κίτιον Πλανητάριο<br/> </a> <a href="mailto:observatory@cytanet.com.cy">@ Κίτιον Αστεροσκοπείο</a> <a href="mailto:spacewalk@cytanet.com.cy"><br/> @ Αιτήματα γενικών πληροφοριών</a></p>
 <p class="short">ΧΑΡΤΗΣ GOOGLE</p>

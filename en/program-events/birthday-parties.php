@@ -36,7 +36,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Please contact us in advance to arrange for making your children the main charecters in the stories and adventures of the Planetarium program.</p>
 <p> All activities are interactive, adopted to the age of children.</p>
 <p class="short"><strong>THE PERFECT GIFT FOR YOUR CHILDREN IS TO OFFER THEM THE WONDERS OF THE SKY!</strong></p>
-<h3>Bookings: Call +357 99991111 or <a href="/en/contact-us.php">Contact us </a>for further information. </h3>
+<h3>Bookings: Call <a href="tel:+35799991111">+357 99991111</a> or <a href="/en/contact-us.php">Contact us </a>for further information. </h3>
 
 <div class="blocks">
 <div class="row gallery captioned tiles">

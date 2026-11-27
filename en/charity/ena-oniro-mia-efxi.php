@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'charity/ena-oniro-mia-efxi',
     'title'       => 'Ena Oniro Mia Efxi',
-    'description' => 'Ena Oniro Mia Efxi',
+    'description' => 'Ena Oniro Mia Efxi – Kition Planetarium & Observatory',
     'image'       => '/images/index-page/earthrise.jpg',
     'translated'  => true,
 ];

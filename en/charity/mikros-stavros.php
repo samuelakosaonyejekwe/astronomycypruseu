@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'en',
     'path'        => 'charity/mikros-stavros',
     'title'       => 'Mikros Stavros',
-    'description' => 'Mikros Stavros',
+    'description' => 'Mikros Stavros – Kition Planetarium & Observatory',
     'image'       => '/images/charity/mikros-stavros/mikros-stavros-1.jpg',
     'translated'  => true,
 ];

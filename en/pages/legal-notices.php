@@ -44,7 +44,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>Refund Policy</h3>
 <p>Refund Eligibility: Refunds will not be issued for missed shows or events. In case of extenuating circumstances (e.g., serious medical emergencies, extreme weather conditions), the KITION PLANETARIUM &amp; OBSERVATORY reserves the right offer to ticket holders the option to reschedule (upon availability) or will be given a voucher corresponding to the same value as their ticket, that can be used at the gift shop or for booking for a future event (upon availability).</p>
 <p>Non-Refundable Items: Tickets and certain other products or offers are non-refundable. </p>
-<p>In case of refundable tickets this will be clearly stated at the time of purchase and it will valid only if cancellation is done at least 72 hours before the scheduled event time, by contacting directly our organization on +35799991111 and by providing your order number, the name used for booking, and the reason for the refund request.</p>
+<p>In case of refundable tickets this will be clearly stated at the time of purchase and it will valid only if cancellation is done at least 72 hours before the scheduled event time, by contacting directly our organization on <a href="tel:+35799991111">+35799991111</a> and by providing your order number, the name used for booking, and the reason for the refund request.</p>
 <h3>Cancellation Policy</h3>
 <p>Same-Day Cancellations: No refunds will be issued for cancellations made on the same day as the scheduled showtime.</p>
 <p>Special Circumstances and Event cancellations: If the KITION PLANETARIUM &amp; OBSERVATORY cancels an event (e.g., due to technical issues, maintenance, or extreme weather conditions), ticket holders will be offered the option to reschedule or will be given a voucher corresponding to the same value as their ticket, that can be used at the gift shop or for booking for a future event upon availability.</p>
@@ -71,36 +71,36 @@ require SITE_ROOT . '/includes/header.php';
 <p>"Karma Implementor" is the owner and developer of revolvermaps.com widget which is used on our website for visitors' statistics. You may read their legal statement and policy here.</p><p>www.revolvermaps.com uses HTTP cookies to improve the usability of the website. Therefore cookies will be accessed (created, read and written) only on the client side to store and retrieve several user settings. All necessary cookie action is handled by client side JavaScript code. Due to their technical characteristics cookies will be send to www.revolvermaps.com with every page request but no information from cookies will be read, collected and stored at the server. To avoid plaintext transmission of cookies you should use secure connections to the revolvermaps.com servers.</p><p>This website can be used without cookies.</p>
 <p class="lead short">The following table lists the cookies set and read by www.revolvermaps.com:</p>
 <div class="table-wrap"><table>
-<div class="row">
-<div class="block"><p>Cookie Name</p></div>
-<div class="block"><p>Current Value (N/A if the cookie is not set)</p></div>
-<div class="block"><p>Where at www.revolvermaps.com?</p></div>
-<div class="block"><p>Description</p></div>
-</div>
-<div class="row">
-<div class="block"><p>_w3d</p></div>
-<div class="block"><p>N/A</p></div>
-<div class="block"><p>live statistics page</p></div>
-<div class="block"><p>width of the 3D globe (</p><em>GLobe</em><p>) on the live statistics page</p></div>
-</div>
-<div class="row">
-<div class="block"><p>_wdd</p></div>
-<div class="block"><p>N/A</p></div>
-<div class="block"><p>live statistics page</p></div>
-<div class="block"><p>width of the 2D map on the live statistics page</p></div>
-</div>
-<div class="row">
-<div class="block"><p>wloc</p></div>
-<div class="block"><p>N/A</p></div>
-<div class="block"><p>live statistics page</p></div>
-<div class="block"><p>width of the</p><em>Locations</em><p>table on the live statistics page</p></div>
-</div>
-<div class="row">
-<div class="block"><p>cookieconsent</p></div>
-<div class="block"><p>N/A</p></div>
-<div class="block"><p>global</p></div>
-<div class="block"><p>relevant for end users from the EU: don't display the cookie consent message if set</p></div>
-</div>
+<tr>
+<td><p>Cookie Name</p></td>
+<td><p>Current Value (N/A if the cookie is not set)</p></td>
+<td><p>Where at www.revolvermaps.com?</p></td>
+<td><p>Description</p></td>
+</tr>
+<tr>
+<td><p>_w3d</p></td>
+<td><p>N/A</p></td>
+<td><p>live statistics page</p></td>
+<td><p>width of the 3D globe (</p><em>GLobe</em><p>) on the live statistics page</p></td>
+</tr>
+<tr>
+<td><p>_wdd</p></td>
+<td><p>N/A</p></td>
+<td><p>live statistics page</p></td>
+<td><p>width of the 2D map on the live statistics page</p></td>
+</tr>
+<tr>
+<td><p>wloc</p></td>
+<td><p>N/A</p></td>
+<td><p>live statistics page</p></td>
+<td><p>width of the</p><em>Locations</em><p>table on the live statistics page</p></td>
+</tr>
+<tr>
+<td><p>cookieconsent</p></td>
+<td><p>N/A</p></td>
+<td><p>global</p></td>
+<td><p>relevant for end users from the EU: don't display the cookie consent message if set</p></td>
+</tr>
 </table></div>
 <p>You can use the following button to delete the cookies listed in the table above. This procedure may not work in all browsers. After the deletion you should check the table again. If the values don't change to N/A you have to clear the cookies in your <a href="#cookie_settings">browser settings</a>. </p>
 <h2><strong>How to Contact Us</strong></h2>

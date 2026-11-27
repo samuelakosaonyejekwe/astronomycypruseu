@@ -39,7 +39,7 @@ require SITE_ROOT . '/includes/header.php';
 <dl class="specs"><dt>ID встречи</dt><dd> 831 2336 2644</dd><dt>Код доступа</dt><dd> kition</dd></dl>
 <p><img alt="" data-nw="1366" decoding="async" height="450" loading="lazy" src="/images/science-cafe/kition-science-cafe-images-2022/science-cafe-26-july-2022.jpg" width="800"/></p>
 <p><a href="https://astronomycyprus.eu/gift-shop/index.php/product/kition-online-science-cafe/" rel="noopener noreferrer" target="_blank">БЕСПЛАТНАЯ РЕГИСТРАЦИЯ: https://astronomycyprus.eu/gift-shop/index.php/product/kition-online-science-cafe/ </a></p>
-<p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону +357 9999 1111.</p>
+<p>Если у Вас есть вопросы или предложения, не стесняйтесь связаться с нами по <a href="mailto:planetarium@cytanet.com.cy">электронной почте</a> или по телефону <a href="tel:+35799991111">+357 9999 1111</a>.</p>
 
 <p>ПЛАНЕТАРИЙ И ОБСЕРВАТОРИЯ «КИТИОН» приглашает Вас...<br/> Присоединяйтесь к нашей космической прогулке</p>
 </article>

@@ -7,7 +7,7 @@ $page = [
     'lang'        => 'el',
     'path'        => 'program-events/astronomical-phenomena/planetary-conjunction-27-february-2026',
     'title'       => 'Συνδυασμός πλανητών – 27 Φεβρουαρίου 2026',
-    'description' => '#kpocyprus #cyprus #planet #conjunction #alignment #NASA #ESA #JAXA #ROSCOSMOS #ISRO',
+    'description' => '18:35 ΤΗΛΕΣΚΟΠΙΚΕΣ ΠΑΡΑΤΗΡΗΣΕΙΣ ΤΟΥ ΔΙΑ ΚΑΙ ΤΗΣ ΣΕΛΗΝΗΣ (ΚΑΙΡΟΥ ΕΠΙΤΡΕΠΟΝΤΟΣ)',
     'image'       => '/images/public-events/february-2026/planetary-conjunction-27-february-2026/planetary-conjunction-27-february-2026-poster.jpg',
     'translated'  => true,
 ];
