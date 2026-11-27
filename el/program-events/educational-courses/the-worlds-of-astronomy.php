@@ -32,7 +32,7 @@ require SITE_ROOT . '/includes/header.php';
 <p class="short">Η κράτηση εκ των προτέρων είναι υποχρεωτική.</p>
 <h3>ΧΡΕΩΣΗ: €50 / μήνα <a href="https://astronomycyprus.eu/gift-shop/index.php/product/the-worlds-of-astronomy/" rel="noopener noreferrer" target="_blank" title="The Worlds of Astronomy">ΑΓΟΡΑ ΤΩΡΑ</a></h3>
 <h3>ΛΗΨΕΙΣ:</h3>
-<div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy.pdf" rel="noopener" target="_blank" title="THE WORLDS OF ASTRONOMY">ΟΙ ΚΟΣΜΟΙ ΤΗΣ ΑΣΤΡΟΝΟΜΙΑΣ</a> (Αγγλικά)</p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy.pdf" rel="noopener" target="_blank" title="THE WORLDS OF ASTRONOMY">ΟΙ ΚΟΣΜΟΙ ΤΗΣ ΑΣΤΡΟΝΟΜΙΑΣ (Αγγλικά)</a></li></ul>
 <h3><a class="doc-link" href="/docs/educational-courses/the-worlds-of-astronomy/the-worlds-of-astronomy-ru.pdf" rel="noopener" target="_blank" title="АСТРОНОМИЧЕСКИЕ МИРЫ">АСТРОНОМИЧЕСКИЕ МИРЫ</a> (Ρωσικά)</h3>
 <p class="lead short"><strong>ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</strong></p>
 <p>Εφαρμόζεται «Πολιτική Αποκλειστικά με Κράτηση».</p>

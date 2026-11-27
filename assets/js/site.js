@@ -168,6 +168,23 @@
     if (ev.key === '/' && tag !== 'input' && tag !== 'textarea' && !ev.target.isContentEditable) { ev.preventDefault(); openSearch(); }
   });
 
+  /* ---------- Search page without server results (static copy): render from the index ---------- */
+  var sp = $('[data-search-page]');
+  if (sp && !$('ol li', sp)) {
+    var q0 = new URLSearchParams(location.search).get('q') || '';
+    if (q0.trim().length > 1) {
+      var inp0 = $('input[name=q]', sp); if (inp0) inp0.value = q0;
+      fetch(sp.getAttribute('data-index'), { credentials: 'same-origin' }).then(function (r) { return r.json(); }).then(function (d) {
+        index = d.map(function (p) { p._t = norm(p.t); p._x = norm(p.x); return p; });
+        var res = search(q0), terms = norm(q0).split(/\s+/).filter(function (w) { return w.length > 1; });
+        var box = document.createElement('div');
+        box.innerHTML = '<p><strong>' + res.length + '</strong> ' + esc(sp.getAttribute('data-results-for')) + ' \u201c' + esc(q0) + '\u201d</p>' +
+          (res.length ? '<ol>' + res.map(function (p) { return '<li>' + (p.c ? '<small>' + esc(p.c) + '</small><br>' : '') + '<a href="' + esc(p.u) + '"><strong>' + esc(p.t) + '</strong></a><br><span>' + snippet(p, terms) + '</span></li>'; }).join('') + '</ol>' : '<p>' + esc(sp.getAttribute('data-empty')) + '</p>');
+        sp.appendChild(box);
+      });
+    }
+  }
+
   /* ---------- Section filter (sub-page cards) ---------- */
   $$('[data-filter-scope]').forEach(function (bar) {
     var scope = $(bar.getAttribute('data-filter-scope'));

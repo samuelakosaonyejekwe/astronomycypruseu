@@ -21,7 +21,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>Αξιοποιεί τη μοναδική ευκαιρία της Κύπρου με καθαρούς ουρανούς σχεδόν όλο τον χρόνο και την εξαιρετική θέση</h3>
 <h3>του ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟΥ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ, το οποίο βρίσκεται σε σκοτεινό σημείο. Το σημείο είναι εύκολα προσβάσιμο από όλα τα μέρη του νησιού.</h3>
 <h3>Το πρόγραμμα σπουδών αναπτύχθηκε από ενθουσιώδεις επιστήμονες, οι οποίοι κάνουν έρευνα, ανακαλύψεις και επιστημονικές δημοσιεύσεις.</h3>
-<div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy.pdf" rel="noopener" target="_blank" title="KITION ASTRONOMY ACADEMY">ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ (ΑΓΓ) PDF</a></p><p class="short"><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy-rus.pdf" rel="noopener" target="_blank">ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ (ΡΩΣ) PDF</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy.pdf" rel="noopener" target="_blank" title="KITION ASTRONOMY ACADEMY">ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ (ΑΓΓ) PDF</a></li><li><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy-rus.pdf" rel="noopener" target="_blank">ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ (ΡΩΣ) PDF</a></li></ul>
 
 <p class="short">Η ΑΚΑΔΗΜΙΑ ΑΣΤΡΟΝΟΜΙΑΣ ΚΙΤΙΟΝ είναι ειδικά σχεδιασμένη για μαθητές διαφορετικών επιπέδων.</p>
 <p class="short">Τα μαθήματα πραγματοποιούνται ετησίως από τον Οκτώβριο έως τον Ιούνιο.</p>

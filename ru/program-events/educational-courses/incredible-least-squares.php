@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><em>Георгиос Труллиас </em></h3>
 <p class="short">Директор ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН»</p>
 
-<ul class="link-list"><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></li></ul>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></li></ul>
 
 <p class="lead short">ВАЖНОЕ ЗАМЕЧАНИЕ:</p>
 <p>Действует «политика приёма только по предварительной записи».</p>

@@ -37,7 +37,7 @@ require SITE_ROOT . '/includes/header.php';
 </p><div class="table-wrap"><table><tr><th scope="col">МЕСТО</th><th scope="col">ЗАНЯТИЕ</th><th scope="col">КОММЕНТАРИИ</th></tr><tr><td>КУПОЛ ОБСЕРВАТОРИИ</td><td>Наблюдения хромосферы Солнца в линии H-α</td><td>Снаружи</td></tr><tr><td>ВЫСТАВКА ОКАМЕНЕЛОСТЕЙ</td><td>Окаменелости динозавров, геология и окаменелости Кипра</td><td>Внизу</td></tr><tr><td>КОСМИЧЕСКАЯ ЭКСПОЗИЦИЯ</td><td>Метеориты, еда астронавтов, памятные предметы космических миссий, Антикитерский механизм</td><td>Наверху</td></tr></table></div>
 <p><strong>Темы можно выбрать и адаптировать в соответствии с учебной программой или выбрать из любых доступных тем.</strong></p>
 
-<div class="link-row"><p class="short"><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-en.pdf" rel="noopener" target="_blank">АНГЛИЙСКИЙ: СКАЧАТЬ ПРЕДЛАГАЕМУЮ ПРОГРАММУ ЗДЕСЬ</a></p><p class="short"><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-gr.pdf" rel="noopener" target="_blank">ГРЕЧЕСКИЙ: СКАЧАТЬ ПРЕДЛАГАЕМУЮ ПРОГРАММУ ЗДЕСЬ</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-en.pdf" rel="noopener" target="_blank">АНГЛИЙСКИЙ: СКАЧАТЬ ПРЕДЛАГАЕМУЮ ПРОГРАММУ ЗДЕСЬ</a></li><li><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-gr.pdf" rel="noopener" target="_blank">ГРЕЧЕСКИЙ: СКАЧАТЬ ПРЕДЛАГАЕМУЮ ПРОГРАММУ ЗДЕСЬ</a></li></ul>
 
 <h2><strong>ПОСЕЩЕНИЕ ШКОЛЫ</strong></h2>
 <p class="lead short">Пример типичной предлагаемой программы включает:</p>

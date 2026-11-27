@@ -18,11 +18,9 @@ require SITE_ROOT . '/includes/header.php';
 <article class="content">
 <p class="short">AWB GLOBAL ASTRONOMY MONTH</p>
 <div class="blocks"><div class="row split"><div class="block media"><p><img alt="" data-nw="896" decoding="async" height="253" loading="lazy" src="/images/global-astronomy-month/GAM_896.png" width="450"/></p></div><div class="block"><h2>The World's Largest Celebration of Astronomy Begins April 1...</h2><h2>#GAM2021</h2><h3>Global Astronomy Month 2021 festival </h3><p>fills the entire month of April with exciting programs for astronomy enthusiasts worldwide.</p><p>Whether it’s stargazing, sharing with the public, or the cosmos in art, there is something for everyone in GAM 2021. </p></div></div></div>
-<video controls="" preload="metadata">
+<div class="blocks"><div class="row split"><div class="block media"><video controls="" preload="metadata">
 <source src="/images/global-astronomy-month/Global%20Astronomy%20Month%202021%20Trailer.mp4" type="video/mp4">
-</source></video>
-<p>Global Astronomy Month (GAM), in its 12th year, is organized by Astronomers Without Borders, and is the world's largest annual global celebration of astronomy.</p>
-<p>Each GAM brings new cosmic ideas and new opportunities, and GAM 2021 is no exception, bringing night sky enthusiasts together worldwide to celebrate Astronomers Without Borders' motto</p>
+</source></video></div><div class="block"><p>Global Astronomy Month (GAM), in its 12th year, is organized by Astronomers Without Borders, and is the world's largest annual global celebration of astronomy.</p><p>Each GAM brings new cosmic ideas and new opportunities, and GAM 2021 is no exception, bringing night sky enthusiasts together worldwide to celebrate Astronomers Without Borders' motto</p></div></div></div>
 <h3>"One People, One Sky".</h3>
 <p>Astronomers Without Borders fosters understanding and goodwill across national and cultural boundaries by creating relationships through the universal appeal of astronomy.</p>
 <p>Astronomy enthusiasts, educators, and others worldwide come together in programs based on their common interest and passion in astronomy.</p>

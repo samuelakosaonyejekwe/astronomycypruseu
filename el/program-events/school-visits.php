@@ -37,7 +37,7 @@ require SITE_ROOT . '/includes/header.php';
 </p><div class="table-wrap"><table><tr><th scope="col">ΧΩΡΟΣ</th><th scope="col">ΔΡΑΣΤΗΡΙΟΤΗΤΑ</th><th scope="col">ΣΧΟΛΙΑ</th></tr><tr><td>ΘΟΛΟΣ ΑΣΤΕΡΟΣΚΟΠΕΙΟΥ</td><td>Παρατηρήσεις της Χρωμόσφαιρας του Ήλιου σε H-α</td><td>Έξω</td></tr><tr><td>ΕΚΘΕΣΗ ΑΠΟΛΙΘΩΜΑΤΩΝ</td><td>Απολιθώματα Δεινοσαύρων, Γεωλογία και Απολιθώματα της Κύπρου</td><td>Ισόγειο</td></tr><tr><td>ΔΙΑΣΤΗΜΙΚΗ ΕΚΘΕΣΗ</td><td>Μετεωρίτες, Φαγητό Αστροναυτών, Αναμνηστικά Αποστολών, Μηχανισμός των Αντικυθήρων</td><td>Επάνω όροφος</td></tr></table></div>
 <p><strong>Τα θέματα μπορούν να επιλεγούν και να προσαρμοστούν ανάλογα με το πρόγραμμα σπουδών ή να επιλεγούν από οποιοδήποτε από τα διαθέσιμα θέματα.</strong></p>
 
-<ul class="link-list"><li><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-en.pdf" rel="noopener" target="_blank">ΑΓΓΛΙΚΑ - ΚΑΤΕΒΑΣΤΕ ΤΟ ΠΡΟΤΕΙΝΟΜΕΝΟ ΠΡΟΓΡΑΜΜΑ ΕΔΩ</a></li><li> <a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-gr.pdf" rel="noopener" target="_blank">ΕΛΛΗΝΙΚΑ - ΚΑΤΕΒΑΣΤΕ ΤΟ ΠΡΟΤΕΙΝΟΜΕΝΟ ΠΡΟΓΡΑΜΜΑ ΕΔΩ</a></li></ul>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-en.pdf" rel="noopener" target="_blank">ΑΓΓΛΙΚΑ - ΚΑΤΕΒΑΣΤΕ ΤΟ ΠΡΟΤΕΙΝΟΜΕΝΟ ΠΡΟΓΡΑΜΜΑ ΕΔΩ</a></li><li><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-gr.pdf" rel="noopener" target="_blank">ΕΛΛΗΝΙΚΑ - ΚΑΤΕΒΑΣΤΕ ΤΟ ΠΡΟΤΕΙΝΟΜΕΝΟ ΠΡΟΓΡΑΜΜΑ ΕΔΩ</a></li></ul>
 
 <h2><strong>ΕΠΙΣΚΕΨΗ ΣΤΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΣΧΟΛΕΙΟΥ</strong></h2>
 <p class="lead short">Ένα παράδειγμα τυπικού προτεινόμενου προγράμματος αποτελείται από:</p>

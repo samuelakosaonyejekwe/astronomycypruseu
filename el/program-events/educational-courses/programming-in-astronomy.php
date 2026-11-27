@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><em>Γιώργος Τρούλλιας </em></h3>
 <p class="short">Διευθυντής, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 
-<ul class="link-list"><li><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy.pdf" rel="noopener" target="_blank" title="programming in astronomy">Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy-ru.pdf" rel="noopener" target="_blank" title="programming in astronomy">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></li></ul>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy.pdf" rel="noopener" target="_blank" title="programming in astronomy">Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/programming-in-astronomy/programming-in-astronomy-ru.pdf" rel="noopener" target="_blank" title="programming in astronomy">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></li></ul>
 
 <p class="lead short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
 <p>Εφαρμόζεται «Πολιτική Αποκλειστικά με Κράτηση».</p>

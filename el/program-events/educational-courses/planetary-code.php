@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><em>Γιώργος Τρούλλιας </em></h3>
 <p class="short">Διευθυντής, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 
-<ul class="link-list"><li><a class="doc-link" href="/docs/educational-courses/planetary-code/planetary-code.pdf" rel="noopener" target="_blank" title="planetary code">Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/planetary-code/planetary-code-ru.pdf" rel="noopener" target="_blank" title="planetary code">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></li></ul>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/planetary-code/planetary-code.pdf" rel="noopener" target="_blank" title="planetary code">Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/planetary-code/planetary-code-ru.pdf" rel="noopener" target="_blank" title="planetary code">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></li></ul>
 
 <p class="lead short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
 <p>Εφαρμόζεται «Πολιτική Αποκλειστικά με Κράτηση».</p>

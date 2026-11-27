@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Во время пика метеорного потока Персеид в 2024 году Луна будет в первой четверти и освещена на 50%.</p>
 <p>Поэтому лучшее время для наблюдения Персеид — примерно с полуночи до рассвета.</p>
 <p><a href="/ru/program-events/astronomical-phenomena/perseid-meteor-shower-2024.php"><img alt="" data-nw="1440" decoding="async" height="382" loading="lazy" src="/images/perseids/perseids-meteor-showers-2024.jpg" width="800"/></a></p>
-<div class="link-row"><p class="short"><a class="doc-link" href="/images/perseids/Perseids-Meteor-Shower-2024-lecture-English.pdf" rel="noopener" target="_blank">ПРОГРАММА МЕРОПРИЯТИЯ — СКАЧАТЬ PDF</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/images/perseids/Perseids-Meteor-Shower-2024-lecture-English.pdf" rel="noopener" target="_blank">ПРОГРАММА МЕРОПРИЯТИЯ — СКАЧАТЬ PDF</a></li></ul>
 <h2>ИНСТРУКЦИИ ПО НАБЛЮДЕНИЯМ</h2>
 <p>По возможности посетите место, где Вы хотите проводить наблюдения, за день-два до этого.</p>
 <p>Хорошо побывать там днём, так как, вероятно, это будет удалённое место, поэтому запомните местность, чтобы избежать любых опасностей, и помните о насекомых, таких как тараканы и комары.</p>

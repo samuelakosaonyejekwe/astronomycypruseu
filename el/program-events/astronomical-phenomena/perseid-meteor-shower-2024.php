@@ -27,7 +27,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>Η Σελήνη θα βρίσκεται στο πρώτο τέταρτο και θα φωτίζεται κατά 50% κατά την κορύφωση του μετεωρικού ρεύματος των Περσειδών το 2024.</p>
 <p>Έτσι η καλύτερη ώρα για να παρακολουθήσετε τις Περσείδες θα είναι από περίπου τα μεσάνυχτα μέχρι την αυγή.</p>
 <p><a href="/el/program-events/astronomical-phenomena/perseid-meteor-shower-2024.php"><img alt="" data-nw="1440" decoding="async" height="382" loading="lazy" src="/images/perseids/perseids-meteor-showers-2024.jpg" width="800"/></a></p>
-<div class="link-row"><p class="short"><a class="doc-link" href="/images/perseids/Perseids-Meteor-Shower-2024-lecture-English.pdf" rel="noopener" target="_blank">ΠΡΟΓΡΑΜΜΑ ΕΚΔΗΛΩΣΗΣ - ΛΗΨΗ pdf</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/images/perseids/Perseids-Meteor-Shower-2024-lecture-English.pdf" rel="noopener" target="_blank">ΠΡΟΓΡΑΜΜΑ ΕΚΔΗΛΩΣΗΣ - ΛΗΨΗ pdf</a></li></ul>
 <h2>ΟΔΗΓΙΕΣ ΓΙΑ ΤΙΣ ΠΑΡΑΤΗΡΗΣΕΙΣ</h2>
 <p>Αν είναι δυνατόν, επισκεφθείτε το μέρος όπου θέλετε να κάνετε παρατηρήσεις μία ή δύο ημέρες νωρίτερα.</p>
 <p>Είναι καλό να βρίσκεστε εκεί κατά τη διάρκεια της ημέρας, καθώς πιθανότατα πρόκειται για απομακρυσμένο σημείο, οπότε έχετε υπόψη το τοπικό τοπίο για να αποφύγετε τυχόν κινδύνους και σκεφτείτε έντομα όπως οι κατσαρίδες και τα κουνούπια.</p>

@@ -36,7 +36,7 @@ require SITE_ROOT . '/includes/header.php';
 <p><a class="doc-link" href="/docs/read-the-sky/English/Read%20the%20Sky%20Astronomy%20Course%20for%20Beginners%20EN.pdf" rel="noopener" target="_blank">Download the Course Curriculum and details (PDF)</a></p>
 </div>
 <div class="block">
-<div class="link-row"><p><a class="doc-link" href="/docs/read-the-sky/Russian/READ%20THE%20SKY%20RU%20INV.pdf" rel="noopener" target="_blank">Download the course invitation (PDF)</a></p><p><a class="doc-link" href="/docs/read-the-sky/Russian/Read%20the%20Sky%20Astronomy%20Course%20for%20Beginners%20Russian.pdf" rel="noopener" target="_blank">Download the course curriculum and details (PDF)</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/read-the-sky/Russian/READ%20THE%20SKY%20RU%20INV.pdf" rel="noopener" target="_blank">Download the course invitation (PDF)</a></li><li><a class="doc-link" href="/docs/read-the-sky/Russian/Read%20the%20Sky%20Astronomy%20Course%20for%20Beginners%20Russian.pdf" rel="noopener" target="_blank">Download the course curriculum and details (PDF)</a></li></ul>
 </div>
 </div>
 </table></div>

@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><em>George Troullias </em></h3>
 <p class="short">Director, KITION PLANETARIUM &amp; OBSERVATORY</p>
 
-<div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares.pdf" rel="noopener" target="_blank">Download the proposed program in ENGLISH (PDF)</a></p><p class="short"><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank">Download the proposed program in RUSSIAN (PDF)</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares.pdf" rel="noopener" target="_blank">Download the proposed program in ENGLISH (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank">Download the proposed program in RUSSIAN (PDF)</a></li></ul>
 
 <p class="lead short">IMPORTANT NOTE:</p>
 <p>"Bookings Only Policy" is used.</p>

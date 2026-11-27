@@ -23,7 +23,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><strong>Η ομάδα μας έχει προετοιμάσει προσαρμοσμένα προγράμματα του υψηλότερου επιπέδου, για να ζήσετε μια μοναδική εμπειρία των ουρανών.</strong></h3>
 <h3><strong>Εξαιρετική φιλοξενία και εξειδικευμένοι επιστήμονες είναι πρόθυμοι να κάνουν διαστημικό περίπατο μαζί σας, με τους φίλους και την οικογένειά σας αυτό το καλοκαίρι.</strong></h3>
 <h3><strong>Το αστεροσκοπείο μας θα σας ταξιδέψει στο Σύμπαν με τα μεγάλα, επαγγελματικά τηλεσκόπιά μας.</strong></h3>
-<ul class="link-list"><li><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</strong></a></li><li><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></strong></li></ul>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΑΓΓΛΙΚΑ (PDF)</a></li><li><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Λήψη του προτεινόμενου προγράμματος στα ΡΩΣΙΚΑ (PDF)</a></li></ul>
 
 <h2><em>Ιδιωτικά προγράμματα (έως 10 άτομα ανά συνεδρία)</em></h2>
 <h2><em> «Πολιτική Αποκλειστικά με Κράτηση»</em></h2>

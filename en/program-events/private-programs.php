@@ -22,7 +22,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><strong>Our team has prepared the highest standard of customized programs for you to have a unique experience of the heavens.</strong></h3>
 <h3><strong>Great hospitality and specialized scientists are willing to spacewalk with you and your friends and family this summer.</strong></h3>
 <h3><strong>Our observatory will travel you to the Universe with our large, professional telescopes.</strong></h3>
-<div class="link-row"><p class="short"><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Download the proposed program in ENGLISH (PDF)</strong></a></p><p class="short"><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Download the proposed program in RUSSIAN (PDF)</a></strong></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank">Download the proposed program in ENGLISH (PDF)</a></li><li><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Download the proposed program in RUSSIAN (PDF)</a></li></ul>
 
 <h2><em>Private programs (up to 10 people per session)</em></h2>
 <h2><em> "Bookings Only Policy"</em></h2>

@@ -37,7 +37,7 @@ if ($special === 'search') {
         $results = array_slice($results, 0, 100);
     }
     ?>
-    <article class="content search-page">
+    <article class="content search-page" data-search-page data-index="/data/search-<?php echo e(CURRENT_LANG); ?>.json" data-empty="<?php echo e(t('no_results')); ?>" data-results-for="<?php echo e(t('results_for')); ?>">
       <form action="<?php echo e(url('search')); ?>" method="get" role="search">
         <label class="visually-hidden" for="q2"><?php echo e(t('search')); ?></label>
         <input id="q2" type="search" name="q" maxlength="80" value="<?php echo e($q); ?>" placeholder="<?php echo e(t('search_placeholder')); ?>">

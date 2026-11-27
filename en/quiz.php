@@ -68,9 +68,9 @@ require SITE_ROOT . '/includes/header.php';
 </p></div><div class="block"><p class="short"><strong>ANSWERS FOR THE QUIZ WILL BE POSTED HERE IN JUNE 2025</strong>
 </p><p class="short"><strong>(CHECK AT THE END OF THE PAGE)</strong>
 </p><h2>ANSWERS SHEET (PLEASE SEND IT TO US BY E-MAIL):</h2><h2>(* : ARE COMPULSORY)
- </h2><h2><strong>CONTACT DETAILS </strong></h2><dl class="specs"><dt>NAME * </dt><dd> ______________________ SURNAME * :_______________________</dd><dt>ADDRESS</dt><dd> _______________________________________________________</dd><dt>COUNTRY * </dt><dd> ___________________ POST CODE: _______________________</dd><dt>E-MAIL * </dt><dd> _______________________________________________________</dd><dt>MOBILE PHONE No (for future SMS)</dt><dd> __________________ AGE : ____________</dd><dt>INTERESTS / HOBBIES </dt><dd> _____________________________________________</dd><dt>OTHER</dt><dd> _________________________________________________________</dd></dl></div></div></div>
+ </h2><h2><strong>CONTACT DETAILS </strong></h2><ul class="fields"><li>NAME *</li><li>SURNAME *</li><li>ADDRESS</li><li>COUNTRY *</li><li>POST CODE</li><li>E-MAIL *</li><li>MOBILE PHONE No (for future SMS)</li><li>AGE</li><li>INTERESTS / HOBBIES</li><li>OTHER</li></ul></div></div></div>
 <h2><strong>ANSWERS</strong>: </h2>
-<dl class="specs"><dt>ANSWER 1</dt><dd> ______________________________________________________</dd><dt>ANSWER 2</dt><dd> ______________________________________________________</dd><dt>ANSWER 3</dt><dd> ______________________________________________________</dd><dt>ANSWER 4</dt><dd> ______________________________________________________</dd><dt>ANSWER 5</dt><dd> ______________________________________________________</dd></dl>
+<ul class="fields"><li>ANSWER 1</li><li>ANSWER 2</li><li>ANSWER 3</li><li>ANSWER 4</li><li>ANSWER 5</li></ul>
 </div>
 <h2><strong>ANSWERS FOR PREVIOUS QUIZ JUN 2024 - DEC 2024:</strong></h2>
 <dl class="specs"><dt><strong> PRIZE</strong></dt><dd> Scholarship for Educational Course for beginners, "READ THE SKY"</dd><dt> <strong>WINNER</strong></dt><dd> Stavroulla Vassileiou</dd></dl>

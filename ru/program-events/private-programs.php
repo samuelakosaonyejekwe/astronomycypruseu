@@ -22,7 +22,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><strong>Наша команда подготовила индивидуальные программы высочайшего уровня, чтобы Вы получили уникальные впечатления от небес.</strong></h3>
 <h3><strong>Радушный приём и специалисты-учёные готовы этим летом совершить космическую прогулку вместе с Вами, Вашими друзьями и семьёй.</strong></h3>
 <h3><strong>Наша обсерватория отправит Вас в путешествие по Вселенной с помощью больших профессиональных телескопов.</strong></h3>
-<ul class="link-list"><li><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank"><strong>Скачать предлагаемую программу на АНГЛИЙСКОМ (PDF)</strong></a></li><li><strong><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></strong></li></ul>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/private-programs/English/Private-Events-En.pdf" rel="noopener" target="_blank">Скачать предлагаемую программу на АНГЛИЙСКОМ (PDF)</a></li><li><a class="doc-link" href="/docs/private-programs/Russian/Private-Events-Ru.pdf" rel="noopener" target="_blank">Скачайте предлагаемую программу на РУССКОМ (PDF)</a></li></ul>
 
 <h2><em>Приватные программы (до 10 человек на сеанс)</em></h2>
 <h2><em>Политика «Только по предварительной записи»</em></h2>

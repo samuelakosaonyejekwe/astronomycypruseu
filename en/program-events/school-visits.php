@@ -37,7 +37,7 @@ Departure - Special Thanks - Gift from the KITION PLANETARIUM &amp; OBSERVATORY
 </p><div class="table-wrap"><table><tr><th scope="col">VENUE</th><th scope="col">ACTIVITY</th><th scope="col">COMMENTS</th></tr><tr><td>OBSERVATORY DOME</td><td>Observtions of the Sun's Chromosphere in H-α</td><td>Outside</td></tr><tr><td>FOSSILS EXHIBITION</td><td>Dinosaurs Fossils, Cyprus Geology and Fossils</td><td>Downstairs</td></tr><tr><td>SPACE EXHIBITION</td><td>Meteorites, Astronauts' Food, Missions memorabilia, Antikthera Mechanism</td><td>Upstairs</td></tr></table></div>
 <p><strong>Topics can be chosen and customized according to the curriculum or can be selected from any of the available topics.</strong></p>
 
-<div class="link-row"><p class="short"><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-en.pdf" rel="noopener" target="_blank">ENGLISH - DOWNLOAD THE PROPOSED PROGRAM HERE</a></p><p class="short"><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-gr.pdf" rel="noopener" target="_blank">GREEK - DOWNLOAD THE PROPOSED PROGRAM HERE</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-en.pdf" rel="noopener" target="_blank">ENGLISH - DOWNLOAD THE PROPOSED PROGRAM HERE</a></li><li><a class="doc-link" href="/docs/school-visits/program-educational-entertainment-visit-gr.pdf" rel="noopener" target="_blank">GREEK - DOWNLOAD THE PROPOSED PROGRAM HERE</a></li></ul>
 
 <h2><strong>VISIT TO THE SCHOOL PREMISES</strong></h2>
 <p class="lead short">An example of typical proposed program consists of:</p>

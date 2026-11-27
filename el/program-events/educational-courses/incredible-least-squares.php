@@ -38,7 +38,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3><em>Γιώργος Τρούλλιας </em></h3>
 <p class="short">Διευθυντής, ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</p>
 
-<ul class="link-list"><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares.pdf" rel="noopener" target="_blank">Κατεβάστε το προτεινόμενο πρόγραμμα στα ΑΓΓΛΙΚΑ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank">Κατεβάστε το προτεινόμενο πρόγραμμα στα ΡΩΣΙΚΑ (PDF)</a></li></ul>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares.pdf" rel="noopener" target="_blank">Κατεβάστε το προτεινόμενο πρόγραμμα στα ΑΓΓΛΙΚΑ (PDF)</a></li><li><a class="doc-link" href="/docs/educational-courses/incredible-least-squares/incredible-least-squares-ru.pdf" rel="noopener" target="_blank">Κατεβάστε το προτεινόμενο πρόγραμμα στα ΡΩΣΙΚΑ (PDF)</a></li></ul>
 
 <p class="lead short">ΣΗΜΑΝΤΙΚΗ ΣΗΜΕΙΩΣΗ:</p>
 <p>Εφαρμόζεται η «Πολιτική Μόνο με Κράτηση».</p>

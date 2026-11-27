@@ -26,7 +26,7 @@ require SITE_ROOT . '/includes/header.php';
 <p>The moon will be a 1st quarter and 50% illuminated during 2024’s peak of the Perseid meteor shower.</p>
 <p>So the best time to watch for Perseids will be starting around midnight until dawn.</p>
 <p><a href="/en/program-events/astronomical-phenomena/perseid-meteor-shower-2024.php"><img alt="" data-nw="1440" decoding="async" height="382" loading="lazy" src="/images/perseids/perseids-meteor-showers-2024.jpg" width="800"/></a></p>
-<div class="link-row"><p class="short"><a class="doc-link" href="/images/perseids/Perseids-Meteor-Shower-2024-lecture-English.pdf" rel="noopener" target="_blank">EVENT PROGRAM - pdf DOWNLOAD</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/images/perseids/Perseids-Meteor-Shower-2024-lecture-English.pdf" rel="noopener" target="_blank">EVENT PROGRAM - pdf DOWNLOAD</a></li></ul>
 <h2>INSTRUCTIONS FOR OBSERVATIONS</h2>
 <p>If possible, visit the place, where you want to make observations a day or two in advance. </p>
 <p>It is good to be there at daytime since possibly it will be a remote site,  so keep in mind local landscape to avoid any dangers and have in mind insects like cockroaches and mosquitoes. </p>

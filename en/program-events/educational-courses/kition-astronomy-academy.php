@@ -21,7 +21,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>It uses the unique opportunity of Cyprus with clear skies almost the whole year around and the excellent position of </h3>
 <h3>the KITION PLANETARIUM &amp; OBSERVATORY, which is situated in a dark site. The site is easily accessible from all parts of the island. </h3>
 <h3>The curriculum was developed by enthusiastic scientists, who do research, make discoveries and scientific publications.</h3>
-<div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy.pdf" rel="noopener" target="_blank" title="KITION ASTRONOMY ACADEMY">KITION ASTRONOMY ACADEMY (EN) PDF</a> </p><p class="short"><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy-rus.pdf" rel="noopener" target="_blank">KITION ASTRONOMY ACADEMY (RUS) PDF</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy.pdf" rel="noopener" target="_blank" title="KITION ASTRONOMY ACADEMY">KITION ASTRONOMY ACADEMY (EN) PDF</a></li><li><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy-rus.pdf" rel="noopener" target="_blank">KITION ASTRONOMY ACADEMY (RUS) PDF</a></li></ul>
 
 <p class="short">The KITION ASTRONOMY ACADEMY is specially designed for students of different levels.</p>
 <p class="short">The lessons take place annualy from October till June.</p>

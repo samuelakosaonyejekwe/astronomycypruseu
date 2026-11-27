@@ -21,7 +21,7 @@ require SITE_ROOT . '/includes/header.php';
 <h3>Она использует уникальную возможность Кипра с ясным небом почти круглый год и превосходное расположение</h3>
 <h3>ПЛАНЕТАРИЯ И ОБСЕРВАТОРИИ «КИТИОН», находящейся в тёмном месте. Место легко доступно из всех частей острова.</h3>
 <h3>Учебная программа разработана увлечёнными учёными, которые ведут исследования, делают открытия и публикуют научные работы.</h3>
-<div class="link-row"><p class="short"><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy.pdf" rel="noopener" target="_blank" title="KITION ASTRONOMY ACADEMY">АСТРОНОМИЧЕСКАЯ АКАДЕМИЯ «КИТИОН» (EN) PDF</a></p><p class="short"> <a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy-rus.pdf" rel="noopener" target="_blank">АСТРОНОМИЧЕСКАЯ АКАДЕМИЯ КИТИОНА (РУС) PDF</a></p></div>
+<ul class="doc-grid"><li><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy.pdf" rel="noopener" target="_blank" title="KITION ASTRONOMY ACADEMY">АСТРОНОМИЧЕСКАЯ АКАДЕМИЯ «КИТИОН» (EN) PDF</a></li><li><a class="doc-link" href="/docs/educational-courses/kition-astronomy-academy/kition-astronomy-academy-rus.pdf" rel="noopener" target="_blank">АСТРОНОМИЧЕСКАЯ АКАДЕМИЯ КИТИОНА (РУС) PDF</a></li></ul>
 
 <p class="short">АСТРОНОМИЧЕСКАЯ АКАДЕМИЯ «КИТИОН» специально разработана для учеников разных уровней.</p>
 <p class="short">Занятия проходят ежегодно с октября по июнь.</p>
