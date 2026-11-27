@@ -8,6 +8,9 @@
   var $ = function (s, c) { return (c || document).querySelector(s); };
   var $$ = function (s, c) { return Array.prototype.slice.call((c || document).querySelectorAll(s)); };
 
+  /* ---------- Remember the visitor's language (used by the static entrance page) ---------- */
+  try { localStorage.setItem('kpo-lang', document.body.getAttribute('data-lang') || 'en'); } catch (e) {}
+
   /* ---------- Theme toggle ---------- */
   $$('[data-theme-toggle]').forEach(function (b) {
     b.addEventListener('click', function () {
