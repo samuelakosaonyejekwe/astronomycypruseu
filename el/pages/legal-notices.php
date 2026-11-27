@@ -106,11 +106,7 @@ require SITE_ROOT . '/includes/header.php';
 <h2><strong>Πώς να Επικοινωνήσετε μαζί μας</strong></h2>
 <p>Εάν έχετε άλλες ερωτήσεις ή ανησυχίες σχετικά με αυτές τις πολιτικές απορρήτου, παρακαλούμε στείλτε μας e-mail στο <strong><a href="mailto:planetarium@cytanet.com.cy" title="Contact Us">planetarium@cytanet.com.cy</a></strong></p>
 <p class="lead">Η αλληλογραφία μπορεί να σταλεί στη διεύθυνση:</p>
-<p class="short"><strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong></p>
-<p class="short"><strong>Αμμοχώστου 9</strong></p>
-<p class="short"><strong>Κίτι</strong></p>
-<p class="short"><strong>7550</strong></p>
-<p class="short"><strong>Λάρνακα, Κύπρος</strong></p>
+<address><strong>ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ</strong><br/><strong>Αμμοχώστου 9</strong><br/><strong>Κίτι</strong><br/><strong>7550</strong><br/><strong>Λάρνακα, Κύπρος</strong></address>
 <h3><strong>Περαιτέρω πληροφορίες και αιτήματα</strong></h3>
 <p>Σύμφωνα με τον Γενικό Κανονισμό για την Προστασία Δεδομένων (ΓΚΠΔ) της Ευρωπαϊκής Ένωσης (ΕΕ), ο Υπεύθυνος Επεξεργασίας Δεδομένων είναι το ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ.</p>
 <p>Οι πολίτες της ΕΕ μπορούν να επικοινωνούν με τον Υπεύθυνο Προστασίας Δεδομένων του ΚΙΤΙΟΝ ΠΛΑΝΗΤΑΡΙΟ &amp; ΑΣΤΕΡΟΣΚΟΠΕΙΟ (<a href="mailto:planetarium@cytanet.com.cy">planetarium@cytanet.com.cy</a>)</p>

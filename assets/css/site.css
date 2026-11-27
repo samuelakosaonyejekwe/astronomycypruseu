@@ -500,3 +500,6 @@ dialog::backdrop { background: rgba(2, 4, 14, .7); backdrop-filter: blur(3px); }
 /* a run of short headings with no content under them -> one row of labels */
 .content ul.label-row { list-style: none; padding: 0; margin: 1rem auto 1.4rem; max-width: none; display: flex; flex-wrap: wrap; justify-content: center; gap: .45rem; }
 .content ul.label-row > li { max-width: none; margin: 0; padding: .35rem .8rem; border-radius: 999px; border: 1px solid var(--border); background: color-mix(in srgb, var(--surface-2) 70%, transparent); color: var(--accent); font-weight: 700; font-size: .9rem; letter-spacing: .03em; }
+/* postal address: one compact block */
+.content address { font-style: normal; display: block; width: fit-content; max-width: 100%; margin: 1rem auto 1.4rem; padding: .9rem 1.3rem; line-height: 1.55; text-align: center; border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: 12px; background: color-mix(in srgb, var(--surface-2) 65%, transparent); }
+.content address strong { font-weight: 700; }
