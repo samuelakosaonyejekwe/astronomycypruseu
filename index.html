@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><base href="/astronomycypruseu/">
+<meta name="robots" content="noindex, nofollow"><title>Kition Planetarium &amp; Observatory</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+(function () {
+  var allowed = ['en', 'el', 'ru'], lang = 'en';
+  try { var s = localStorage.getItem('kpo-lang'); if (allowed.indexOf(s) > -1) lang = s; else {
+    var l = (navigator.languages || [navigator.language || 'en']).join(',').toLowerCase();
+    var best = 99; [['el','el'],['gr','el'],['ru','ru'],['en','en']].forEach(function (p) { var i = l.indexOf(p[0]); if (i > -1 && i < best) { best = i; lang = p[1]; } });
+  } } catch (e) {}
+  location.replace('/astronomycypruseu/' + lang + '/');
+})();
+</script></head>
+<body><p><a href="en/">English</a> · <a href="el/">Ελληνικά</a> · <a href="ru/">Русский</a></p></body></html>
